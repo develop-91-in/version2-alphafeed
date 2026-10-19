@@ -1,0 +1,20 @@
+name: ALPHA FEED — Snapshot Check (30 min)
+
+# v2 is a single-file snapshot build. This workflow validates the snapshot
+# every 30 minutes; it does NOT fetch new RSS. A fresh edition is produced
+# by re-exporting the approved preview and pushing the new index.html.
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Validate snapshot
+        run: node scripts/fetch-edition.mjs
