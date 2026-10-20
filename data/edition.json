@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-20T18:29:21.152Z",
+  "generatedAt": "2026-10-20T18:59:16.938Z",
   "articles": [
+    {
+      "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
+      "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-drought-hit-maize-crunch-pits-poultry-ethanol-makers-in-me-first-fight/articleshow/135075614.cms",
+      "pubDate": "Wed, 21 Oct 2026 00:12:23 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "CBDT mandates new disclosures for tax-free gains on govt securities",
       "desc": "The Central Board of Direct Taxes has introduced new disclosure requirements for taxpayers claiming exemptions. Taxpayers will need to provide detailed information on government securities to qualify for these exemptions. Newly inserted Form 173A will require specific data, including securities value and interest earned. Taxpayers are asked to confirm the accuracy of the information they submit. This change aims to enhance transparency and compliance under the Income-Tax Act.",
@@ -8,6 +18,16 @@
       "pubDate": "Tue, 20 Oct 2026 23:45:22 +0530",
       "image": "",
       "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "pubDate": "2026-10-20T14:07:34-04:00",
+      "image": "",
+      "source": "The Verge",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,24 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "The Gospel according to Peter (Thiel)",
-      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-      "pubDate": "2026-10-20T11:45:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
-      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
-      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
+      "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
+      "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/indias-drought-hit-maize-crunch-pits-poultry-ethanol-makers-in-me-first-fight/articleshow/135075614.cms",
+      "pubDate": "Wed, 21 Oct 2026 00:12:23 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "CBDT mandates new disclosures for tax-free gains on govt securities",
@@ -92,6 +102,16 @@
       "sectionLabel": "Indian Economy"
     },
     {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "desc": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "pubDate": "2026-10-20T14:07:34-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
       "title": "Google resolves cloud outage affecting UK banks and websites",
       "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
@@ -100,6 +120,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The $20,000 Voxel bot will help you find misplaced things around your home",
+      "desc": "Tuesday Labs, a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics' Issac 1 that are designed for household chores beyond mopping or vacuuming floors, Voxel features a pair [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation",
+      "pubDate": "2026-10-20T13:49:55-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "UK government to make Jackdaw gas field announcement",
@@ -163,7 +193,7 @@
     },
     {
       "title": "The Gospel according to Peter (Thiel)",
-      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism (EA), a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA [&#8230;]",
       "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
       "pubDate": "2026-10-20T11:45:00-04:00",
       "image": "",
@@ -200,16 +230,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Aerospace and military contractors raise 2026 profit forecasts",
-      "desc": "Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. The companies reported record backlogs of $109.6 billion and $340 billion respectively. Sustained commercial aerospace services demand has also contributed to their growth. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
-      "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
@@ -252,26 +272,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Indonesians protest over land-clearing fires",
-      "desc": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 13:23:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "desc": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 13:20:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Hilton to move stock listing to Nasdaq",
       "desc": "Hilton Worldwide plans to shift its stock listing from the NYSE to Nasdaq, with shares set to begin trading under the HLT ticker on November 5. The hotel operator says Nasdaq's focus on technology and innovation aligns with its growth strategy as it strengthens its technology and innovation efforts.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
@@ -290,16 +290,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "desc": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
-      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-      "pubDate": "2026-10-20T09:06:44-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
@@ -930,30 +920,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Uneven rains may keep price of spices elevated",
-      "desc": "Southern India is currently grappling with challenges in spice production, primarily due to uneven monsoon patterns and parched soil, which are adversely affecting harvest yields. Despite expanding cultivation areas, turmeric yields are predicted to plummet owing to unfavorable weather. Additionally, delays in red chilli sowing in Andhra Pradesh and Telangana could lead to surging market prices.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/uneven-rains-may-keep-price-of-spices-elevated/articleshow/135055145.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:11:55 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India-New Zealand FTA comes into effect today",
-      "desc": "The FTA will provide Indian exporters with 100% duty-free access to the New Zealand market, opening opportunities for MSMEs, women entrepreneurs, farmers and artisans. This is expected to facilitate $20 billion in investments into India in 15 years that would create opportunities across manufacturing, infrastructure, agriculture, and innovation.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-comes-into-effect-today/articleshow/135054951.cms",
-      "pubDate": "Tue, 20 Oct 2026 00:02:31 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T18:29:21.152Z",
+    "generatedAt": "2026-10-20T18:59:16.938Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -966,7 +936,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:15.690Z",
+        "timestamp": "2026-10-20T18:59:11.774Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -978,7 +948,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:16.372Z",
+        "timestamp": "2026-10-20T18:59:12.289Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -990,55 +960,55 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:16.568Z",
+        "timestamp": "2026-10-20T18:59:12.557Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 94.915,
-        "change": 0,
-        "changePct": 0,
+        "price": 94.7,
+        "change": -0.215,
+        "changePct": -0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:16.854Z",
+        "timestamp": "2026-10-20T18:59:12.814Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7718.35,
-        "change": 27.62,
-        "changePct": 0.36,
+        "price": 7713.99,
+        "change": 23.26,
+        "changePct": 0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:17.064Z",
+        "timestamp": "2026-10-20T18:59:13.108Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26469.283,
-        "change": 38.396,
-        "changePct": 0.14,
+        "price": 26450.938,
+        "change": 20.051,
+        "changePct": 0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:17.316Z",
+        "timestamp": "2026-10-20T18:59:13.342Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52471.63,
-        "change": 505.598,
-        "changePct": 0.97,
+        "price": 52435.71,
+        "change": 469.68,
+        "changePct": 0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:17.627Z",
+        "timestamp": "2026-10-20T18:59:13.667Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1050,7 +1020,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:17.877Z",
+        "timestamp": "2026-10-20T18:59:13.915Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1062,7 +1032,7 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:18.196Z",
+        "timestamp": "2026-10-20T18:59:14.182Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1074,7 +1044,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:18.450Z",
+        "timestamp": "2026-10-20T18:59:14.407Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1086,7 +1056,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:18.679Z",
+        "timestamp": "2026-10-20T18:59:14.669Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1068,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:19.022Z",
+        "timestamp": "2026-10-20T18:59:14.917Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,55 +1080,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T18:29:19.261Z",
+        "timestamp": "2026-10-20T18:59:15.197Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 108.55,
-        "change": -1,
-        "changePct": -0.91,
+        "price": 108.95,
+        "change": -0.6,
+        "changePct": -0.55,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T18:29:19.517Z",
+        "timestamp": "2026-10-20T18:59:15.428Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 97.65,
-        "change": -0.89,
-        "changePct": -0.9,
+        "price": 97.88,
+        "change": -0.66,
+        "changePct": -0.67,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T18:29:19.713Z",
+        "timestamp": "2026-10-20T18:59:15.762Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4143.7,
-        "change": -16.4,
-        "changePct": -0.39,
+        "price": 4142,
+        "change": -18.1,
+        "changePct": -0.43,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T18:29:20.086Z",
+        "timestamp": "2026-10-20T18:59:16.017Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 58.035,
-        "change": 0.762,
-        "changePct": 1.33,
+        "price": 57.955,
+        "change": 0.682,
+        "changePct": 1.19,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T18:29:20.535Z",
+        "timestamp": "2026-10-20T18:59:16.290Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,43 +1140,43 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T18:29:20.830Z",
+        "timestamp": "2026-10-20T18:59:16.555Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126449,
-        "change": -500,
-        "changePct": -0.39,
+        "price": 126110,
+        "change": -551,
+        "changePct": -0.43,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T18:29:20.929Z",
+        "timestamp": "2026-10-20T18:59:16.674Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 177099,
-        "change": 2325,
-        "changePct": 1.33,
+        "price": 176454,
+        "change": 2076,
+        "changePct": 1.19,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T18:29:21.085Z",
+        "timestamp": "2026-10-20T18:59:16.820Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9268,
-        "change": -84,
-        "changePct": -0.9,
+        "price": 9269,
+        "change": -63,
+        "changePct": -0.67,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T18:29:21.152Z",
+        "timestamp": "2026-10-20T18:59:16.938Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
