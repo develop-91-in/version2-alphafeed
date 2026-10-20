@@ -1,16 +1,6 @@
 {
-  "generatedAt": "2026-10-20T19:28:45.397Z",
+  "generatedAt": "2026-10-20T19:29:22.021Z",
   "articles": [
-    {
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "desc": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon, Best Buy, and B&#38;H Photo. [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T15:09:35-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
     {
       "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
       "desc": "Drought conditions have caused a significant decrease in maize supply, leading to competition among industries for access. Poultry producers, starch manufacturers, and ethanol plants are all vying for limited maize resources, exacerbating the situation. As maize prices continue to rise, the poultry industry has expressed concerns about potential feed shortages. Industry bodies have urged the government to prioritize maize for food production over fuel use.",
@@ -82,14 +72,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "desc": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon, Best Buy, and B&#38;H Photo. [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T15:09:35-04:00",
+      "title": "Qatar says only negotiations can resolve regional tensions",
+      "desc": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 16:21:01 +0000",
       "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
     },
     {
       "title": "India’s drought-hit maize crunch pits poultry, ethanol makers in ‘me first’ fight",
@@ -212,6 +202,16 @@
       "sectionLabel": "Global News"
     },
     {
+      "title": "The Gospel according to Peter (Thiel)",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism (EA), a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "pubDate": "2026-10-20T11:45:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
       "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
       "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
@@ -310,6 +310,16 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "desc": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
+      "pubDate": "2026-10-20T09:06:44-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
@@ -923,7 +933,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T19:28:45.396Z",
+    "generatedAt": "2026-10-20T19:29:22.021Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -936,7 +946,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.360Z",
+        "timestamp": "2026-10-20T19:29:16.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -948,7 +958,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.415Z",
+        "timestamp": "2026-10-20T19:29:16.963Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -960,7 +970,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.463Z",
+        "timestamp": "2026-10-20T19:29:17.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -972,43 +982,43 @@
         "changePct": -0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.579Z",
+        "timestamp": "2026-10-20T19:29:17.632Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7707.98,
-        "change": 17.25,
+        "price": 7707.37,
+        "change": 16.64,
         "changePct": 0.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.661Z",
+        "timestamp": "2026-10-20T19:29:17.914Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26414.027,
-        "change": -16.859,
-        "changePct": -0.06,
+        "price": 26410.855,
+        "change": -20.031,
+        "changePct": -0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.739Z",
+        "timestamp": "2026-10-20T19:29:18.184Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52436.96,
-        "change": 470.93,
+        "price": 52438.15,
+        "change": 472.117,
         "changePct": 0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.782Z",
+        "timestamp": "2026-10-20T19:29:18.463Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1030,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.876Z",
+        "timestamp": "2026-10-20T19:29:18.715Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1042,7 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.881Z",
+        "timestamp": "2026-10-20T19:29:19.000Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1054,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:44.967Z",
+        "timestamp": "2026-10-20T19:29:19.224Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1066,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:45.018Z",
+        "timestamp": "2026-10-20T19:29:19.501Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1078,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:45.064Z",
+        "timestamp": "2026-10-20T19:29:19.756Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1090,7 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:28:45.110Z",
+        "timestamp": "2026-10-20T19:29:20.136Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1102,7 @@
         "changePct": -0.31,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T19:28:45.186Z",
+        "timestamp": "2026-10-20T19:29:20.416Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,31 +1114,31 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T19:28:45.192Z",
+        "timestamp": "2026-10-20T19:29:20.684Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4139.8,
-        "change": -20.3,
-        "changePct": -0.49,
+        "price": 4138.8,
+        "change": -21.3,
+        "changePct": -0.51,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T19:28:45.274Z",
+        "timestamp": "2026-10-20T19:29:20.979Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.895,
-        "change": 0.622,
-        "changePct": 1.09,
+        "price": 57.875,
+        "change": 0.602,
+        "changePct": 1.05,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T19:28:45.325Z",
+        "timestamp": "2026-10-20T19:29:21.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,31 +1150,31 @@
         "changePct": -0.37,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T19:28:45.384Z",
+        "timestamp": "2026-10-20T19:29:21.525Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126043,
-        "change": -618,
-        "changePct": -0.49,
+        "price": 126013,
+        "change": -649,
+        "changePct": -0.51,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T19:28:45.388Z",
+        "timestamp": "2026-10-20T19:29:21.701Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 176271,
-        "change": 1894,
-        "changePct": 1.09,
+        "price": 176210,
+        "change": 1833,
+        "changePct": 1.05,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T19:28:45.392Z",
+        "timestamp": "2026-10-20T19:29:21.863Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1176,7 +1186,7 @@
         "changePct": -0.35,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T19:28:45.396Z",
+        "timestamp": "2026-10-20T19:29:22.021Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
