@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-20T09:29:18.253Z",
+  "generatedAt": "2026-10-20T09:59:22.261Z",
   "articles": [
+    {
+      "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
+      "desc": "US Secretary of State Marco Rubio is in India to enhance cooperation in energy, trade, and defense matters. His visit focuses on advancing the India-US Comprehensive Global Strategic Partnership and includes discussions on economic engagement. Rubio's earlier trip in May involved meetings with Prime Minister Narendra Modi and External Affairs Minister S Jaishankar. The anticipated bilateral trade deal aims to address tariff issues and boost market access.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
+      "pubDate": "Tue, 20 Oct 2026 14:56:48 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "IPO bound Paras Healthcare raises Rs 652.50 crore from anchor investors as issue set to open on October 21",
       "desc": "The investors included Abu Dhabi Investment Authority, BlackRock Global Funds, Eastspring Investments, Government Pension Fund Global, Natixis International Funds, Integrated Core Strategies (Asia) and Citigroup Global.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "WhatsApp stock tips: Nithin Kamath warns of more pump-and-dump schemes as ED freezes accounts worth Rs 200 crore",
-      "desc": "In a post on X, formerly Twitter, Kamath said such schemes remain a concern even in 2026, calling them one of the silliest ways for investors to lose money. He also warned that these cases could become more frequent as the market cycle advances, pointing to a rise in alleged pump-and-dump schemes operating through WhatsApp groups and influencers promoting stocks and initial public offerings (IPOs).",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/whatsapp-stock-tips-nithin-kamath-warns-of-more-pump-and-dump-schemes-as-ed-freezes-accounts-worth-rs-200-crore/articleshow/135064120.cms",
-      "pubDate": "Tue, 20 Oct 2026 13:03:41 +0530",
+      "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
+      "desc": "US Secretary of State Marco Rubio is in India to enhance cooperation in energy, trade, and defense matters. His visit focuses on advancing the India-US Comprehensive Global Strategic Partnership and includes discussions on economic engagement. Rubio's earlier trip in May involved meetings with Prime Minister Narendra Modi and External Affairs Minister S Jaishankar. The anticipated bilateral trade deal aims to address tariff issues and boost market access.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
+      "pubDate": "Tue, 20 Oct 2026 14:56:48 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
@@ -990,30 +1000,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "What are the new faces coming to UK bank notes?",
-      "desc": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
-      "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 09:48:35 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "desc": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 09:38:25 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T09:29:18.253Z",
+    "generatedAt": "2026-10-20T09:59:22.261Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1026,7 +1016,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:12.460Z",
+        "timestamp": "2026-10-20T09:59:16.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1038,7 +1028,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:13.248Z",
+        "timestamp": "2026-10-20T09:59:17.275Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1050,7 +1040,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:13.573Z",
+        "timestamp": "2026-10-20T09:59:17.540Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1062,7 +1052,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:13.864Z",
+        "timestamp": "2026-10-20T09:59:17.849Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1074,7 +1064,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:14.217Z",
+        "timestamp": "2026-10-20T09:59:18.123Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1086,7 +1076,7 @@
         "changePct": 1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:14.452Z",
+        "timestamp": "2026-10-20T09:59:18.395Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,31 +1088,31 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:14.736Z",
+        "timestamp": "2026-10-20T09:59:18.691Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10699.9,
-        "change": -64.79,
-        "changePct": -0.6,
+        "price": 10691.84,
+        "change": -72.851,
+        "changePct": -0.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:15.012Z",
+        "timestamp": "2026-10-20T09:59:18.989Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25056.32,
-        "change": -263.449,
-        "changePct": -1.04,
+        "price": 25081.85,
+        "change": -237.92,
+        "changePct": -0.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:15.294Z",
+        "timestamp": "2026-10-20T09:59:19.300Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1134,7 +1124,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:15.528Z",
+        "timestamp": "2026-10-20T09:59:19.569Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1146,7 +1136,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:15.811Z",
+        "timestamp": "2026-10-20T09:59:19.844Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1158,7 +1148,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:16.144Z",
+        "timestamp": "2026-10-20T09:59:20.303Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,55 +1160,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:29:16.442Z",
+        "timestamp": "2026-10-20T09:59:20.581Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 111.23,
-        "change": 1.68,
-        "changePct": 1.53,
+        "price": 111.6,
+        "change": 2.05,
+        "changePct": 1.87,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T09:29:16.698Z",
+        "timestamp": "2026-10-20T09:59:20.806Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 100.38,
-        "change": 1.84,
-        "changePct": 1.87,
+        "price": 100.8,
+        "change": 2.26,
+        "changePct": 2.29,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T09:29:16.977Z",
+        "timestamp": "2026-10-20T09:59:21.073Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4143.5,
-        "change": -16.6,
-        "changePct": -0.4,
+        "price": 4133.1,
+        "change": -27,
+        "changePct": -0.65,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T09:29:17.271Z",
+        "timestamp": "2026-10-20T09:59:21.339Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.38,
-        "change": 0.107,
-        "changePct": 0.19,
+        "price": 57.19,
+        "change": -0.083,
+        "changePct": -0.14,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T09:29:17.557Z",
+        "timestamp": "2026-10-20T09:59:21.602Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,43 +1220,43 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T09:29:17.815Z",
+        "timestamp": "2026-10-20T09:59:21.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126462,
-        "change": -507,
-        "changePct": -0.4,
+        "price": 126145,
+        "change": -824,
+        "changePct": -0.65,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T09:29:17.988Z",
+        "timestamp": "2026-10-20T09:59:22.017Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 175128,
-        "change": 327,
-        "changePct": 0.19,
+        "price": 174548,
+        "change": -253,
+        "changePct": -0.14,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T09:29:18.117Z",
+        "timestamp": "2026-10-20T09:59:22.166Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9529,
-        "change": 175,
-        "changePct": 1.87,
+        "price": 9569,
+        "change": 215,
+        "changePct": 2.29,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T09:29:18.253Z",
+        "timestamp": "2026-10-20T09:59:22.261Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
