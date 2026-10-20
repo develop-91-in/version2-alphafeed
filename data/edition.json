@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T09:59:22.261Z",
+  "generatedAt": "2026-10-20T10:17:04.575Z",
   "articles": [
     {
       "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
@@ -82,6 +82,26 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+      "desc": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last week, may be caused by the speakers failing to correctly download and install a firmware update, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+      "pubDate": "2026-10-20T06:16:47-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 10:06:34 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "Marco Rubio lands in Mumbai as New Delhi, Washington push to close trade deal",
       "desc": "US Secretary of State Marco Rubio is in India to enhance cooperation in energy, trade, and defense matters. His visit focuses on advancing the India-US Comprehensive Global Strategic Partnership and includes discussions on economic engagement. Rubio's earlier trip in May involved meetings with Prime Minister Narendra Modi and External Affairs Minister S Jaishankar. The anticipated bilateral trade deal aims to address tariff issues and boost market access.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/marco-rubio-lands-in-mumbai-as-new-delhi-washington-push-to-close-trade-deal/articleshow/135066599.cms",
@@ -90,16 +110,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 08:44:56 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "IPO bound Paras Healthcare raises Rs 652.50 crore from anchor investors as issue set to open on October 21",
@@ -872,16 +882,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "desc": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "pubDate": "2026-10-19T10:30:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "India sets import quotas for New Zealand apples, kiwifruit under FTA",
       "desc": "India will implement a quota system for importing apples, kiwifruit, Manuka honey, and albumins from New Zealand. The quotas will gradually increase over five years, allowing for proper regulation of imports. Apple imports will be capped initially, with no allowances in the first year. The duty rates will vary depending on the product and its CIF value, affecting import dynamics.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-sets-import-quotas-for-new-zealand-apples-kiwifruit-under-fta/articleshow/135050667.cms",
@@ -990,20 +990,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Textiles Ministry identifies 4,000 startups for export growth support",
-      "desc": "The textiles ministry has identified over 4,000 textile-based startups for support to scale up and become export-ready over the next three to four years. Consultations with registered startups and small businesses are expected to begin in late November or early December, followed by a national startup conclave in December to assess their needs.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/textiles-ministry-identifies-4000-startups-for-export-growth-support/articleshow/135045740.cms",
-      "pubDate": "Mon, 19 Oct 2026 15:39:27 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T09:59:22.261Z",
+    "generatedAt": "2026-10-20T10:17:04.575Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1016,7 +1006,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:16.613Z",
+        "timestamp": "2026-10-20T10:17:03.883Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1028,7 +1018,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:17.275Z",
+        "timestamp": "2026-10-20T10:17:03.936Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1040,7 +1030,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:17.540Z",
+        "timestamp": "2026-10-20T10:17:03.977Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1052,7 +1042,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:17.849Z",
+        "timestamp": "2026-10-20T10:17:04.017Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1064,7 +1054,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:18.123Z",
+        "timestamp": "2026-10-20T10:17:04.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1076,7 +1066,7 @@
         "changePct": 1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:18.395Z",
+        "timestamp": "2026-10-20T10:17:04.085Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1088,31 +1078,31 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:18.691Z",
+        "timestamp": "2026-10-20T10:17:04.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10691.84,
-        "change": -72.851,
-        "changePct": -0.68,
+        "price": 10683.13,
+        "change": -81.561,
+        "changePct": -0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:18.989Z",
+        "timestamp": "2026-10-20T10:17:04.165Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25081.85,
-        "change": -237.92,
-        "changePct": -0.94,
+        "price": 25099.44,
+        "change": -220.33,
+        "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:19.300Z",
+        "timestamp": "2026-10-20T10:17:04.199Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1124,7 +1114,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:19.569Z",
+        "timestamp": "2026-10-20T10:17:04.233Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1136,7 +1126,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:19.844Z",
+        "timestamp": "2026-10-20T10:17:04.271Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1148,7 +1138,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:20.303Z",
+        "timestamp": "2026-10-20T10:17:04.309Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1160,55 +1150,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T09:59:20.581Z",
+        "timestamp": "2026-10-20T10:17:04.343Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 111.6,
-        "change": 2.05,
-        "changePct": 1.87,
+        "price": 111.33,
+        "change": 1.78,
+        "changePct": 1.63,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T09:59:20.806Z",
+        "timestamp": "2026-10-20T10:17:04.378Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 100.8,
-        "change": 2.26,
-        "changePct": 2.29,
+        "price": 100.73,
+        "change": 2.19,
+        "changePct": 2.22,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T09:59:21.073Z",
+        "timestamp": "2026-10-20T10:17:04.411Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4133.1,
-        "change": -27,
-        "changePct": -0.65,
+        "price": 4130.5,
+        "change": -29.6,
+        "changePct": -0.71,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T09:59:21.339Z",
+        "timestamp": "2026-10-20T10:17:04.444Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.19,
-        "change": -0.083,
-        "changePct": -0.14,
+        "price": 57.18,
+        "change": -0.093,
+        "changePct": -0.16,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T09:59:21.602Z",
+        "timestamp": "2026-10-20T10:17:04.461Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1220,43 +1210,43 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T09:59:21.878Z",
+        "timestamp": "2026-10-20T10:17:04.497Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126145,
-        "change": -824,
-        "changePct": -0.65,
+        "price": 126066,
+        "change": -903,
+        "changePct": -0.71,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T09:59:22.017Z",
+        "timestamp": "2026-10-20T10:17:04.531Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 174548,
-        "change": -253,
+        "price": 174563,
+        "change": -238,
         "changePct": -0.14,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T09:59:22.166Z",
+        "timestamp": "2026-10-20T10:17:04.568Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9569,
-        "change": 215,
-        "changePct": 2.29,
+        "price": 9562,
+        "change": 208,
+        "changePct": 2.22,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T09:59:22.261Z",
+        "timestamp": "2026-10-20T10:17:04.575Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
