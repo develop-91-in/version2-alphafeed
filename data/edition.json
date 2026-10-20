@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-20T23:29:28.532Z",
+  "generatedAt": "2026-10-20T23:59:31.733Z",
   "articles": [
+    {
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "desc": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:19:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
       "desc": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also [&#8230;]",
@@ -62,26 +82,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
-      "desc": "Elon Musk's SpaceX on Tuesday reported a 161% rise in revenue for the third quarter, beating estimates, buoyed by a surge in its AI business and steady growth at its Starlink",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
-      "pubDate": "Wed, 21 Oct 2026 01:50:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
-      "desc": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 20:17:53 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Elon Musk says Tesla-SpaceX merger being considered",
       "desc": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
@@ -92,14 +92,34 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "desc": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 23:19:52 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-      "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the last year, Ann had failed to appear for an independent medical examination or [&#8230;]",
+      "desc": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or [&#8230;]",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "pubDate": "2026-10-20T19:04:19-04:00",
       "image": "",
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "desc": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 22:22:17 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Google’s more personalized Gemini AI is heading to your car",
@@ -182,7 +202,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
       "desc": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
       "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
       "pubDate": "Tue, 20 Oct 2026 20:17:53 +0000",
@@ -278,16 +298,6 @@
       "pubDate": "Tue, 20 Oct 2026 17:30:15 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
-      "desc": "President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 17:22:05 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -903,7 +913,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T23:29:28.532Z",
+    "generatedAt": "2026-10-20T23:59:31.733Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -916,7 +926,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:22.398Z",
+        "timestamp": "2026-10-20T23:59:23.948Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -928,7 +938,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:23.094Z",
+        "timestamp": "2026-10-20T23:59:24.616Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -940,7 +950,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:23.408Z",
+        "timestamp": "2026-10-20T23:59:25.061Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -952,7 +962,7 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:23.679Z",
+        "timestamp": "2026-10-20T23:59:25.357Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -964,7 +974,7 @@
         "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:23.876Z",
+        "timestamp": "2026-10-20T23:59:26.758Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -976,7 +986,7 @@
         "changePct": -0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:24.195Z",
+        "timestamp": "2026-10-20T23:59:27.135Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -988,7 +998,7 @@
         "changePct": 1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:24.408Z",
+        "timestamp": "2026-10-20T23:59:27.356Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1000,7 +1010,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:24.691Z",
+        "timestamp": "2026-10-20T23:59:27.687Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1012,7 +1022,7 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:24.885Z",
+        "timestamp": "2026-10-20T23:59:27.954Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1024,7 +1034,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:25.141Z",
+        "timestamp": "2026-10-20T23:59:28.243Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1036,7 +1046,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:25.338Z",
+        "timestamp": "2026-10-20T23:59:28.572Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1048,7 +1058,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:25.594Z",
+        "timestamp": "2026-10-20T23:59:28.980Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1060,55 +1070,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T23:29:25.799Z",
+        "timestamp": "2026-10-20T23:59:29.251Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.3,
-        "change": 0.51,
-        "changePct": 0.47,
+        "price": 109.32,
+        "change": 0.53,
+        "changePct": 0.49,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T23:29:26.082Z",
+        "timestamp": "2026-10-20T23:59:29.559Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.33,
-        "change": 0.51,
-        "changePct": 0.52,
+        "price": 98.36,
+        "change": 0.54,
+        "changePct": 0.55,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T23:29:26.484Z",
+        "timestamp": "2026-10-20T23:59:29.798Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4134.4,
-        "change": -8.2,
-        "changePct": -0.2,
+        "price": 4134.6,
+        "change": -8,
+        "changePct": -0.19,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T23:29:26.765Z",
+        "timestamp": "2026-10-20T23:59:30.083Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.965,
-        "change": -0.035,
-        "changePct": -0.06,
+        "price": 57.95,
+        "change": -0.05,
+        "changePct": -0.09,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T23:29:27.822Z",
+        "timestamp": "2026-10-20T23:59:30.879Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1120,43 +1130,43 @@
         "changePct": -0.37,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T23:29:28.166Z",
+        "timestamp": "2026-10-20T23:59:31.286Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125978,
-        "change": -244,
-        "changePct": -0.19,
+        "price": 125975,
+        "change": -247,
+        "changePct": -0.2,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T23:29:28.278Z",
+        "timestamp": "2026-10-20T23:59:31.459Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 176615,
-        "change": -107,
-        "changePct": -0.06,
+        "price": 176554,
+        "change": -168,
+        "changePct": -0.1,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T23:29:28.460Z",
+        "timestamp": "2026-10-20T23:59:31.654Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9319,
-        "change": 48,
-        "changePct": 0.52,
+        "price": 9322,
+        "change": 51,
+        "changePct": 0.55,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T23:29:28.532Z",
+        "timestamp": "2026-10-20T23:59:31.733Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
