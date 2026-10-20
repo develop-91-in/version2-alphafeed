@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:59:23.234Z",
+  "generatedAt": "2026-10-20T20:29:22.826Z",
   "articles": [
     {
       "title": "Trump sued over Canadian tariffs in latest legal challenge",
@@ -84,7 +84,7 @@
     {
       "title": "Tech Life",
       "desc": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 19:45:00 GMT",
       "image": "",
       "source": "BBC Technology",
@@ -282,16 +282,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-      "desc": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
       "desc": "Emerging markets are displaying surprising economic resilience in light of the Federal Reserve's tightening measures. Stronger fiscal fundamentals and high bond yields provide emerging market central banks with greater flexibility. Some countries are even considering rate cuts, which may not have been possible in the past. Investor sentiment is shifting towards emerging markets as they are viewed more favorably compared to developed economies.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
@@ -342,7 +332,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500 Healthcare hits record high, Dow soars over 500 points",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Highlights: Dow leads Wall Street higher, investors focus on healthcare stocks",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
       "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530",
@@ -552,7 +542,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Jio IPO opens tomorrow: How can investors maximise allotment chances under Rs 2,500 crore RIL shareholders quota",
+      "title": "Jio IPO all set to open: How can investors maximise allotment chances under Rs 2,500 crore RIL shareholders quota",
       "desc": "The much-anticipated Reliance Jio Platforms IPO is launching for public subscription starting October 21, 2023. Shareholders of Reliance Industries can benefit from a Rs 2,500 crore reservation aimed at maximizing their investment opportunities. Those eligible are encouraged to apply in both the shareholder and retail categories. Shares are priced between Rs 1,065 and Rs 1,119, with allotments set for October 26 and listings on October 28.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-opens-tomorrow-how-can-investors-maximise-allotment-chances-under-rs-2500-crore-ril-shareholders-quota/articleshow/135064168.cms",
       "pubDate": "Tue, 20 Oct 2026 13:05:56 +0530",
@@ -900,20 +890,10 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "desc": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
-      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 20:00:43 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T19:59:23.234Z",
+    "generatedAt": "2026-10-20T20:29:22.826Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -926,7 +906,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:16.285Z",
+        "timestamp": "2026-10-20T20:29:14.966Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -938,7 +918,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:16.901Z",
+        "timestamp": "2026-10-20T20:29:15.664Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -950,55 +930,55 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:17.169Z",
+        "timestamp": "2026-10-20T20:29:17.373Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 94.79,
-        "change": -0.125,
-        "changePct": -0.13,
+        "price": 94.77,
+        "change": -0.145,
+        "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:17.420Z",
+        "timestamp": "2026-10-20T20:29:17.639Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7710.48,
-        "change": 19.75,
-        "changePct": 0.26,
+        "price": 7712.57,
+        "change": 21.84,
+        "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:17.687Z",
+        "timestamp": "2026-10-20T20:29:17.892Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26413.756,
-        "change": -17.131,
-        "changePct": -0.07,
+        "price": 26424.816,
+        "change": -6.07,
+        "changePct": -0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:18.087Z",
+        "timestamp": "2026-10-20T20:29:18.290Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52486.61,
-        "change": 520.578,
-        "changePct": 1,
+        "price": 52495.88,
+        "change": 529.848,
+        "changePct": 1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:18.324Z",
+        "timestamp": "2026-10-20T20:29:18.510Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1010,7 +990,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:18.600Z",
+        "timestamp": "2026-10-20T20:29:18.784Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1022,7 +1002,7 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:18.985Z",
+        "timestamp": "2026-10-20T20:29:19.002Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1034,7 +1014,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:19.251Z",
+        "timestamp": "2026-10-20T20:29:19.316Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1046,7 +1026,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:19.533Z",
+        "timestamp": "2026-10-20T20:29:19.566Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1058,7 +1038,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:19.823Z",
+        "timestamp": "2026-10-20T20:29:19.941Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1070,55 +1050,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T19:59:20.116Z",
+        "timestamp": "2026-10-20T20:29:21.018Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.06,
-        "change": -0.49,
-        "changePct": -0.45,
+        "price": 108.96,
+        "change": -0.59,
+        "changePct": -0.54,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T19:59:20.386Z",
+        "timestamp": "2026-10-20T20:29:21.301Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.19,
-        "change": -0.35,
-        "changePct": -0.35,
+        "price": 98.03,
+        "change": -0.51,
+        "changePct": -0.52,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T19:59:20.642Z",
+        "timestamp": "2026-10-20T20:29:21.548Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4140.9,
-        "change": -19.2,
-        "changePct": -0.46,
+        "price": 4141.5,
+        "change": -18.6,
+        "changePct": -0.45,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T19:59:21.081Z",
+        "timestamp": "2026-10-20T20:29:21.830Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.93,
-        "change": 0.657,
-        "changePct": 1.15,
+        "price": 57.99,
+        "change": 0.717,
+        "changePct": 1.25,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T19:59:21.348Z",
+        "timestamp": "2026-10-20T20:29:22.181Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1130,43 +1110,43 @@
         "changePct": -0.37,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T19:59:22.786Z",
+        "timestamp": "2026-10-20T20:29:22.443Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126197,
-        "change": -585,
-        "changePct": -0.46,
+        "price": 126185,
+        "change": -570,
+        "changePct": -0.45,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T19:59:22.959Z",
+        "timestamp": "2026-10-20T20:29:22.596Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 176546,
-        "change": 2002,
-        "changePct": 1.15,
+        "price": 176691,
+        "change": 2185,
+        "changePct": 1.25,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T19:59:23.115Z",
+        "timestamp": "2026-10-20T20:29:22.757Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9307,
-        "change": -33,
-        "changePct": -0.35,
+        "price": 9290,
+        "change": -48,
+        "changePct": -0.52,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T19:59:23.234Z",
+        "timestamp": "2026-10-20T20:29:22.826Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
