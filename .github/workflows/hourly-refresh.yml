@@ -1,20 +1,40 @@
-name: ALPHA FEED — Snapshot Check (30 min)
+name: ALPHA FEED — Auto Edition Refresh
 
-# v2 is a single-file snapshot build. This workflow validates the snapshot
-# every 30 minutes; it does NOT fetch new RSS. A fresh edition is produced
-# by re-exporting the approved preview and pushing the new index.html.
+# BACKGROUND REFRESH (runs even when the browser is closed):
+# - Every 30 minutes on GitHub Actions: runs node scripts/fetch-edition.mjs,
+#   which fetches fresh RSS for every news section + fresh market data
+#   (Indian + global indices, commodities, FX), then writes data/edition.json
+#   and data/market.json and commits them.
+# - The page (index.html) loads data/edition.json + data/market.json on open and
+#   on every 30-minute / manual Refresh, so every section updates itself. The
+#   compiled snapshot stays as the instant offline fallback.
+# - If this repo is PUBLIC: GitHub Actions minutes are unlimited/free on public
+#   repos (verify on github.com/pricing). If PRIVATE: Free plan includes
+#   2,000 min/month (verify on github.com/pricing before relying).
+#   This job takes ~30-60 sec/run. 48 runs/day * ~1 min = ~1,440 min/month.
+# - Muse does NOT run this. Muse cannot run background jobs by itself.
+# - No API keys, no AI tokens. Never commit a key to this repo. Server-side keys
+#   (if ever added) go in GitHub Secrets only.
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
-
+    - cron: "*/30 * * * *" # every 30 minutes, UTC
+  workflow_dispatch: # manual Run workflow button
+permissions:
+  contents: write
 jobs:
-  check:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Validate snapshot
+      - name: Fetch fresh edition
         run: node scripts/fetch-edition.mjs
+      - name: Commit if changed
+        run: |
+          git config user.name "alpha-feed-bot"
+          git config user.email "alpha-feed-bot@users.noreply.github.com"
+          git add data/edition.json data/market.json
+          git diff --cached --quiet || git commit -m "Auto edition: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
