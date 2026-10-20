@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:59:17.771Z",
+  "generatedAt": "2026-10-20T08:29:18.023Z",
   "articles": [
     {
       "title": "EAAA India Alternatives to float Rs 1,200-cr IPO on Oct 26",
@@ -82,6 +82,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 08:06:17 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "EAAA India Alternatives to float Rs 1,200-cr IPO on Oct 26",
       "desc": "EAAA India Alternatives Ltd will open its initial public offering worth Rs 1,200 crore on October 26. The IPO will close for subscription on October 28, following anchor investor bidding on October 23. This offering is entirely an offer for sale from the Edelweiss Group with no fresh issue component. Additionally, SEC Environmental Technologies Ltd plans to launch its IPO on October 27.",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-to-float-rs-1200-cr-ipo-on-oct-26/articleshow/135064394.cms",
@@ -90,6 +100,16 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Tomato prices crash 65% in a week as drought-hit Nashik farmers face a double blow",
+      "desc": "Tomato farmers in Nashik are facing a double blow as drought conditions and a supply glut drive down prices at Pimpalgaon APMC. Wholesale rates have fallen nearly 65% in a week to Rs 111 per 20-kg crate, while retail prices have dropped 50% to Rs 20 per kg.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/tomato-prices-crash-65-in-a-week-as-drought-hit-nashik-farmers-face-a-double-blow/articleshow/135063460.cms",
+      "pubDate": "Tue, 20 Oct 2026 13:06:36 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Jio IPO opens tomorrow: How can investors maximise allotment chances under Rs 2,500 crore RIL shareholders quota",
@@ -130,16 +150,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "desc": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 06:50:52 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Yen jumps after JGB auction draws big demand, euro finds relief",
@@ -702,8 +712,8 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "desc": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "desc": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
       "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 19 Oct 2026 18:21:54 GMT",
       "image": "",
@@ -1043,7 +1053,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T07:59:17.771Z",
+    "generatedAt": "2026-10-20T08:29:18.023Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1056,7 +1066,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:12.492Z",
+        "timestamp": "2026-10-20T08:29:12.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1078,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:13.038Z",
+        "timestamp": "2026-10-20T08:29:13.058Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1090,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:13.295Z",
+        "timestamp": "2026-10-20T08:29:13.617Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1102,7 @@
         "changePct": 0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:13.547Z",
+        "timestamp": "2026-10-20T08:29:13.916Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,7 +1114,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:13.813Z",
+        "timestamp": "2026-10-20T08:29:14.155Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,43 +1126,43 @@
         "changePct": 1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:14.123Z",
+        "timestamp": "2026-10-20T08:29:14.421Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51966,
-        "change": -36.398,
+        "price": 51966.03,
+        "change": -36.379,
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:14.401Z",
+        "timestamp": "2026-10-20T08:29:14.791Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10723.91,
-        "change": -40.78,
-        "changePct": -0.38,
+        "price": 10709.2,
+        "change": -55.49,
+        "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:14.642Z",
+        "timestamp": "2026-10-20T08:29:15.044Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25101.48,
-        "change": -218.289,
-        "changePct": -0.86,
+        "price": 25090.98,
+        "change": -228.789,
+        "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:14.902Z",
+        "timestamp": "2026-10-20T08:29:15.390Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,19 +1174,19 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:15.149Z",
+        "timestamp": "2026-10-20T08:29:15.623Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "HANG SENG",
         "label": "HANG SENG",
         "region": "Hong Kong",
-        "price": 23887.11,
-        "change": -299.721,
-        "changePct": -1.24,
+        "price": 23867.74,
+        "change": -319.09,
+        "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:15.429Z",
+        "timestamp": "2026-10-20T08:29:15.855Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1188,7 +1198,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:15.687Z",
+        "timestamp": "2026-10-20T08:29:16.111Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1200,55 +1210,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T07:59:16.113Z",
+        "timestamp": "2026-10-20T08:29:16.343Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 110.45,
-        "change": 0.9,
-        "changePct": 0.82,
+        "price": 110.55,
+        "change": 1,
+        "changePct": 0.91,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T07:59:16.372Z",
+        "timestamp": "2026-10-20T08:29:16.609Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 99.25,
-        "change": 0.71,
-        "changePct": 0.72,
+        "price": 99.42,
+        "change": 0.88,
+        "changePct": 0.89,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T07:59:16.624Z",
+        "timestamp": "2026-10-20T08:29:16.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4145.2,
-        "change": -14.9,
-        "changePct": -0.36,
+        "price": 4140,
+        "change": -20.1,
+        "changePct": -0.48,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T07:59:16.962Z",
+        "timestamp": "2026-10-20T08:29:17.101Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.475,
-        "change": 0.202,
-        "changePct": 0.35,
+        "price": 57.455,
+        "change": 0.182,
+        "changePct": 0.32,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T07:59:17.216Z",
+        "timestamp": "2026-10-20T08:29:17.416Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,43 +1270,43 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T07:59:17.415Z",
+        "timestamp": "2026-10-20T08:29:17.672Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126507,
-        "change": -449,
-        "changePct": -0.35,
+        "price": 126342,
+        "change": -613,
+        "changePct": -0.48,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T07:59:17.553Z",
+        "timestamp": "2026-10-20T08:29:17.793Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 175399,
-        "change": 616,
-        "changePct": 0.35,
+        "price": 175338,
+        "change": 555,
+        "changePct": 0.32,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T07:59:17.679Z",
+        "timestamp": "2026-10-20T08:29:17.943Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9421,
-        "change": 67,
-        "changePct": 0.72,
+        "price": 9437,
+        "change": 84,
+        "changePct": 0.89,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T07:59:17.771Z",
+        "timestamp": "2026-10-20T08:29:18.023Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
