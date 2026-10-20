@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-20T20:59:34.815Z",
+  "generatedAt": "2026-10-20T21:29:34.091Z",
   "articles": [
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "desc": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 21:19:12 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
       "desc": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to [&#8230;]",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400",
-      "desc": "If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon, Best Buy, and B&#38;H Photo. [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale",
-      "pubDate": "2026-10-20T15:09:35-04:00",
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "desc": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 21:19:12 +0000",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Netflix is telling investors not to worry, even though you&#8217;re watching less and less",
@@ -246,16 +256,6 @@
       "desc": "President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
       "link": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
       "pubDate": "Tue, 20 Oct 2026 17:22:05 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "desc": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 16:21:01 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -880,20 +880,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 19 Oct 2026 21:12:30 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T20:59:34.815Z",
+    "generatedAt": "2026-10-20T21:29:34.091Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -906,7 +896,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:27.894Z",
+        "timestamp": "2026-10-20T21:29:28.235Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -918,7 +908,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:28.461Z",
+        "timestamp": "2026-10-20T21:29:28.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -930,7 +920,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:28.703Z",
+        "timestamp": "2026-10-20T21:29:29.251Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -942,7 +932,7 @@
         "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:29.000Z",
+        "timestamp": "2026-10-20T21:29:29.905Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -954,7 +944,7 @@
         "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:29.236Z",
+        "timestamp": "2026-10-20T21:29:30.170Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -966,7 +956,7 @@
         "changePct": -0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:29.550Z",
+        "timestamp": "2026-10-20T21:29:30.412Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -978,7 +968,7 @@
         "changePct": 1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:29.816Z",
+        "timestamp": "2026-10-20T21:29:30.684Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -990,7 +980,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:30.237Z",
+        "timestamp": "2026-10-20T21:29:30.958Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1002,7 +992,7 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:30.619Z",
+        "timestamp": "2026-10-20T21:29:31.273Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1014,7 +1004,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:30.890Z",
+        "timestamp": "2026-10-20T21:29:31.505Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1026,7 +1016,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:31.148Z",
+        "timestamp": "2026-10-20T21:29:31.772Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1038,7 +1028,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:31.509Z",
+        "timestamp": "2026-10-20T21:29:32.048Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1050,55 +1040,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T20:59:31.747Z",
+        "timestamp": "2026-10-20T21:29:32.339Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.16,
-        "change": -0.39,
-        "changePct": -0.36,
+        "price": 109.12,
+        "change": -0.43,
+        "changePct": -0.39,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T20:59:32.051Z",
+        "timestamp": "2026-10-20T21:29:32.562Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.27,
-        "change": -0.27,
-        "changePct": -0.27,
+        "price": 98.18,
+        "change": -0.36,
+        "changePct": -0.36,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T20:59:32.279Z",
+        "timestamp": "2026-10-20T21:29:32.819Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4141.9,
-        "change": -18.2,
-        "changePct": -0.44,
+        "price": 4142.5,
+        "change": -17.6,
+        "changePct": -0.42,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T20:59:32.544Z",
+        "timestamp": "2026-10-20T21:29:33.232Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 58.06,
-        "change": 0.787,
-        "changePct": 1.37,
+        "price": 58.14,
+        "change": 0.867,
+        "changePct": 1.51,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T20:59:34.163Z",
+        "timestamp": "2026-10-20T21:29:33.469Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,43 +1100,43 @@
         "changePct": -0.37,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T20:59:34.418Z",
+        "timestamp": "2026-10-20T21:29:33.713Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126201,
-        "change": -555,
-        "changePct": -0.44,
+        "price": 126219,
+        "change": -536,
+        "changePct": -0.42,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T20:59:34.551Z",
+        "timestamp": "2026-10-20T21:29:33.858Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 176904,
-        "change": 2398,
-        "changePct": 1.37,
+        "price": 177148,
+        "change": 2642,
+        "changePct": 1.51,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T20:59:34.715Z",
+        "timestamp": "2026-10-20T21:29:34.001Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9313,
-        "change": -26,
-        "changePct": -0.27,
+        "price": 9305,
+        "change": -34,
+        "changePct": -0.36,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T20:59:34.815Z",
+        "timestamp": "2026-10-20T21:29:34.091Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
