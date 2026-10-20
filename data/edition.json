@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T13:59:31.106Z",
+  "generatedAt": "2026-10-20T14:29:24.108Z",
   "articles": [
     {
       "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
@@ -872,16 +872,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "The fossil fuel comeback is here",
-      "desc": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the [&#8230;]",
-      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-      "pubDate": "2026-10-19T17:48:01-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
       "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -1050,30 +1040,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India sets import quotas for New Zealand apples, kiwifruit under FTA",
-      "desc": "India will implement a quota system for importing apples, kiwifruit, Manuka honey, and albumins from New Zealand. The quotas will gradually increase over five years, allowing for proper regulation of imports. Apple imports will be capped initially, with no allowances in the first year. The duty rates will vary depending on the product and its CIF value, affecting import dynamics.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-sets-import-quotas-for-new-zealand-apples-kiwifruit-under-fta/articleshow/135050667.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:45:13 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "India-New Zealand FTA to kick in October 20, opening market opportunities for exporters",
-      "desc": "The India-New Zealand Free Trade Agreement will come into effect on October 20, enhancing trade for both nations. New Zealand expects increased demand for its agricultural products, particularly kiwifruit, honey, and apples, in India. The agreement includes provisions to ensure tariff-free access for Indian goods in New Zealand's market. Both countries aim to strengthen economic ties and improve productivity in agricultural sectors.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-unlocking-new-market-opportunities-for-exporters-starting-october-20/articleshow/135050685.cms",
-      "pubDate": "Mon, 19 Oct 2026 19:40:57 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T13:59:31.106Z",
+    "generatedAt": "2026-10-20T14:29:24.108Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1086,7 +1056,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:22.085Z",
+        "timestamp": "2026-10-20T14:29:16.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1068,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:23.567Z",
+        "timestamp": "2026-10-20T14:29:16.967Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,7 +1080,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:24.245Z",
+        "timestamp": "2026-10-20T14:29:17.173Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1122,67 +1092,67 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:24.772Z",
+        "timestamp": "2026-10-20T14:29:17.444Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7703.23,
-        "change": 12.5,
-        "changePct": 0.16,
+        "price": 7740.85,
+        "change": 50.12,
+        "changePct": 0.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:25.208Z",
+        "timestamp": "2026-10-20T14:29:17.647Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26362.848,
-        "change": -68.039,
-        "changePct": -0.26,
+        "price": 26576.797,
+        "change": 145.91,
+        "changePct": 0.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:25.751Z",
+        "timestamp": "2026-10-20T14:29:17.945Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52388.67,
-        "change": 422.641,
-        "changePct": 0.81,
+        "price": 52535.62,
+        "change": 569.59,
+        "changePct": 1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:26.120Z",
+        "timestamp": "2026-10-20T14:29:18.247Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10708.01,
-        "change": -56.681,
-        "changePct": -0.53,
+        "price": 10713.15,
+        "change": -51.54,
+        "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:26.467Z",
+        "timestamp": "2026-10-20T14:29:18.681Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25165.11,
-        "change": -154.66,
-        "changePct": -0.61,
+        "price": 25256.54,
+        "change": -63.23,
+        "changePct": -0.25,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:26.762Z",
+        "timestamp": "2026-10-20T14:29:18.918Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1194,7 +1164,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:27.195Z",
+        "timestamp": "2026-10-20T14:29:20.343Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1206,7 +1176,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:27.733Z",
+        "timestamp": "2026-10-20T14:29:20.986Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1188,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:28.066Z",
+        "timestamp": "2026-10-20T14:29:21.252Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,103 +1200,103 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T13:59:28.365Z",
+        "timestamp": "2026-10-20T14:29:21.500Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.47,
-        "change": -0.08,
-        "changePct": -0.07,
+        "price": 108.21,
+        "change": -1.34,
+        "changePct": -1.22,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T13:59:29.058Z",
+        "timestamp": "2026-10-20T14:29:21.795Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.62,
-        "change": 0.08,
-        "changePct": 0.08,
+        "price": 97.52,
+        "change": -1.02,
+        "changePct": -1.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T13:59:29.515Z",
+        "timestamp": "2026-10-20T14:29:21.995Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4148.5,
-        "change": -11.6,
-        "changePct": -0.28,
+        "price": 4159,
+        "change": -1.1,
+        "changePct": -0.03,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T13:59:29.956Z",
+        "timestamp": "2026-10-20T14:29:22.256Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.705,
-        "change": 0.432,
-        "changePct": 0.75,
+        "price": 58.045,
+        "change": 0.772,
+        "changePct": 1.35,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T13:59:30.257Z",
+        "timestamp": "2026-10-20T14:29:22.468Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.098,
-        "change": -0.038,
-        "changePct": -0.74,
+        "price": 5.1,
+        "change": -0.036,
+        "changePct": -0.7,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T13:59:30.583Z",
+        "timestamp": "2026-10-20T14:29:23.740Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126595,
-        "change": -354,
-        "changePct": -0.28,
+        "price": 126934,
+        "change": -15,
+        "changePct": -0.01,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T13:59:30.766Z",
+        "timestamp": "2026-10-20T14:29:23.857Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 176092,
-        "change": 1318,
-        "changePct": 0.75,
+        "price": 177129,
+        "change": 2356,
+        "changePct": 1.35,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T13:59:30.970Z",
+        "timestamp": "2026-10-20T14:29:24.029Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9361,
-        "change": 8,
-        "changePct": 0.08,
+        "price": 9256,
+        "change": -97,
+        "changePct": -1.03,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T13:59:31.106Z",
+        "timestamp": "2026-10-20T14:29:24.108Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
