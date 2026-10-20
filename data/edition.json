@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-20T05:29:31.160Z",
+  "generatedAt": "2026-10-20T05:59:25.129Z",
   "articles": [
+    {
+      "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets",
+      "desc": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
+      "pubDate": "Tue, 20 Oct 2026 10:52:35 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "New Zealand firm Valocity secures biggest-ever deal on day one of India FTA: PM Luxon",
       "desc": "Auckland-based property technology company Valocity has secured the biggest deal in its history on the first day of the India-New Zealand Free Trade Agreement (FTA), New Zealand Prime Minister Christopher Luxon said. Highlighting the agreement's potential to boost business opportunities, Luxon said the trade pact would help New Zealand companies expand overseas while creating jobs and raising incomes at home.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
-      "desc": "Elice, which raised 201.1 billion won ($150 million) in its IPO, provides AI cloud services as well as AI-based education and business software and plans to spend most of its IPO proceeds on launching portable modular data centres and related infrastructure.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-elice-shares-plunge-28-in-market-debut-as-data-centre-stocks-shunned/articleshow/135060541.cms",
-      "pubDate": "Tue, 20 Oct 2026 08:53:42 +0530",
+      "title": "Global Market: China and Hong Kong shares weaken as stable growth eases stimulus bets",
+      "desc": "China and Hong Kong stocks weakened on Tuesday, joining a broader retreat in the region, after Beijing kept key lending rates unchanged and stronger GDP data dampened",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-and-hong-kong-shares-weaken-as-stable-growth-eases-stimulus-bets/articleshow/135061983.cms",
+      "pubDate": "Tue, 20 Oct 2026 10:52:35 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "New Zealand firm Valocity secures biggest-ever deal on day one of India FTA: PM Luxon",
@@ -480,16 +490,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Could your halal pension be funding Israel’s military?",
-      "desc": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-      "pubDate": "Mon, 19 Oct 2026 21:28:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -972,16 +972,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Highlights: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-us-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-inflation-treasury-yields-earnings-forecast-coreweave-broadcom-micron-stock-price-news-19th-october-2026/liveblog/135048592.cms",
-      "pubDate": "Mon, 19 Oct 2026 17:37:25 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "NABVENTURES plans Rs 30-70 crore bets on growth-stage firms in Fund II",
       "desc": "NABVENTURES aims to invest ₹30-70 crore per company in agriculture, rural financial services, and climate solutions. The venture capital arm plans to focus on technology-driven businesses and growth-stage companies with established traction. Larger initial checks will be adapted for follow-on funding in high-performing portfolio companies. The emphasis will be on sustainable scaling in large markets, improving productivity, and raising farmers' incomes.",
       "link": "https://economictimes.indiatimes.com/news/economy/agriculture/nabards-venture-capital-arm-nabventures-to-invest-30-70-crore-in-growth-stage-agri-tech-and-climate-solutions-startups/articleshow/135048277.cms",
@@ -1070,20 +1060,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "America very close to finalising trade deal with India: Marco Rubio",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/america-very-close-to-finalising-trade-deal-with-india-marco-rubio/videoshow/135041177.cms",
-      "pubDate": "Mon, 19 Oct 2026 11:23:51 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T05:29:31.160Z",
+    "generatedAt": "2026-10-20T05:59:25.129Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1096,7 +1076,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:25.309Z",
+        "timestamp": "2026-10-20T05:59:19.787Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1108,7 +1088,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:25.864Z",
+        "timestamp": "2026-10-20T05:59:20.397Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1120,7 +1100,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:26.181Z",
+        "timestamp": "2026-10-20T05:59:20.630Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1132,7 +1112,7 @@
         "changePct": 0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:26.451Z",
+        "timestamp": "2026-10-20T05:59:20.865Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1144,7 +1124,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:26.805Z",
+        "timestamp": "2026-10-20T05:59:21.252Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1156,7 +1136,7 @@
         "changePct": 1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:27.068Z",
+        "timestamp": "2026-10-20T05:59:21.508Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1168,7 +1148,7 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:27.380Z",
+        "timestamp": "2026-10-20T05:59:21.742Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1180,7 +1160,7 @@
         "changePct": -1.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:27.625Z",
+        "timestamp": "2026-10-20T05:59:22.020Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1192,91 +1172,91 @@
         "changePct": -1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:28.128Z",
+        "timestamp": "2026-10-20T05:59:22.275Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIKKEI 225",
         "label": "NIKKEI 225",
         "region": "Japan",
-        "price": 64036.03,
-        "change": -880.668,
-        "changePct": -1.36,
+        "price": 63979.45,
+        "change": -937.25,
+        "changePct": -1.44,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:28.416Z",
+        "timestamp": "2026-10-20T05:59:22.538Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "HANG SENG",
         "label": "HANG SENG",
         "region": "Hong Kong",
-        "price": 23899.74,
-        "change": -287.09,
-        "changePct": -1.19,
+        "price": 23901.28,
+        "change": -285.551,
+        "changePct": -1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:28.783Z",
+        "timestamp": "2026-10-20T05:59:22.764Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "KOSPI",
         "label": "KOSPI",
         "region": "South Korea",
-        "price": 5509.53,
-        "change": -258.48,
-        "changePct": -4.48,
+        "price": 5530.48,
+        "change": -237.53,
+        "changePct": -4.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:29.035Z",
+        "timestamp": "2026-10-20T05:59:22.994Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SHANGHAI COMP",
         "label": "SHANGHAI COMP",
         "region": "China",
-        "price": 3717.638,
-        "change": -13.282,
-        "changePct": -0.36,
+        "price": 3713.244,
+        "change": -17.676,
+        "changePct": -0.47,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T05:29:29.365Z",
+        "timestamp": "2026-10-20T05:59:23.222Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.98,
-        "change": 0.43,
-        "changePct": 0.39,
+        "price": 110.12,
+        "change": 0.57,
+        "changePct": 0.52,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T05:29:29.604Z",
+        "timestamp": "2026-10-20T05:59:23.454Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.82,
-        "change": 0.28,
-        "changePct": 0.28,
+        "price": 98.93,
+        "change": 0.39,
+        "changePct": 0.4,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T05:29:29.922Z",
+        "timestamp": "2026-10-20T05:59:23.758Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4154.6,
-        "change": -5.5,
-        "changePct": -0.13,
+        "price": 4146.2,
+        "change": -13.9,
+        "changePct": -0.33,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T05:29:30.164Z",
+        "timestamp": "2026-10-20T05:59:24.246Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1288,7 +1268,7 @@
         "changePct": 0.22,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T05:29:30.483Z",
+        "timestamp": "2026-10-20T05:59:24.628Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1300,19 +1280,19 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T05:29:30.678Z",
+        "timestamp": "2026-10-20T05:59:24.816Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126788,
-        "change": -168,
-        "changePct": -0.13,
+        "price": 126532,
+        "change": -424,
+        "changePct": -0.33,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T05:29:30.875Z",
+        "timestamp": "2026-10-20T05:59:24.946Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1324,19 +1304,19 @@
         "changePct": 0.22,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T05:29:31.006Z",
+        "timestamp": "2026-10-20T05:59:25.047Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9380,
-        "change": 27,
-        "changePct": 0.28,
+        "price": 9390,
+        "change": 37,
+        "changePct": 0.4,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T05:29:31.160Z",
+        "timestamp": "2026-10-20T05:59:25.129Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
