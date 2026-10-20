@@ -362,13 +362,13 @@
       <!-- GLOBAL MARKETS -->
       <section class="paper-section" id="global-markets" data-nav="Global Markets">
         <div class="section-head"><h2>Global Markets</h2><div class="sec-note">What the world’s markets did — and why India should care</div><div class="sec-tools"><span class="count-pill" data-count-for="global-markets"></span></div></div>
-        <div class="bell" aria-label="Global indices snapshot, 19 October 2026">
+        <div class="bell" id="gm-indices" aria-label="Global indices snapshot, 19 October 2026">
           <div><div class="k">NIKKEI 225 · Japan</div><div class="v">64,774</div><div class="s down">▼ 0.84% · 19 Oct</div></div>
           <div><div class="k">HANG SENG · Hong Kong</div><div class="v">24,186</div><div class="s up">▲ 0.52% · 19 Oct</div></div>
           <div><div class="k">KOSPI · South Korea</div><div class="v">5,725</div><div class="s up">▲ 1.00% · 19 Oct</div></div>
           <div><div class="k">SHANGHAI COMPOSITE · China</div><div class="v up">▲ 0.16%</div><div class="s">China Q3 GDP grew 4.5%</div></div>
         </div>
-        <div class="bell" aria-label="Global commodities and yields snapshot, 19 October 2026" style="margin-top:10px">
+        <div class="bell" id="gm-commod" aria-label="Global commodities and yields snapshot, 19 October 2026" style="margin-top:10px">
           <div><div class="k">BRENT CRUDE · Dec Futures</div><div class="v">$108.72<span style="font-size:13px;color:var(--muted)"> /bbl</span></div><div class="s down">▼ 1.0% · 19 Oct</div></div>
           <div><div class="k">WTI CRUDE · Dec Futures</div><div class="v">$98.40<span style="font-size:13px;color:var(--muted)"> /bbl</span></div><div class="s down">▼ 0.6% · 19 Oct</div></div>
           <div><div class="k">GOLD · Spot</div><div class="v">$4,170+<span style="font-size:13px;color:var(--muted)"> /oz</span></div><div class="s up">Rose above $4,170 · 19 Oct</div></div>
@@ -736,9 +736,21 @@
     }
     function fmtDay(d){ return d.toLocaleDateString("en-IN",{day:"numeric", month:"long"}); }
     function renderEarnings(){
-      var labels = [{off:0, name:"Today", src:EARN_SRC_TODAY, note:"Results day — around 35 companies declared Q2 FY27 numbers on Monday."},
-                    {off:1, name:"Tomorrow", src:EARN_SRC_TOMORROW, note:"", holiday:true},
-                    {off:2, name:"Day After Tomorrow", src:EARN_SRC_DAY2, note:""}];
+      var labels = (function(){
+        /* Day-shift fix: the calendar was compiled on EDITION_COMPILED_ISO, so its
+           day offsets are relative to that date. Shift them by the days elapsed so
+           "Today" really is today; drop days that have already passed. */
+        var c = new Date(EDITION_COMPILED_ISO);
+        var cd = Date.UTC(c.getUTCFullYear(), c.getUTCMonth(), c.getUTCDate());
+        var t0 = istDatePlus(0);
+        var shift = Math.round((Date.UTC(t0.getFullYear(), t0.getMonth(), t0.getDate()) - cd) / 86400000);
+        EARNINGS.forEach(function(e){ e.off -= shift; });
+        EARNINGS = EARNINGS.filter(function(e){ return e.off >= 0 && e.off <= 2; });
+        var isHoliday = function(off){ return fmtDay(istDatePlus(off)) === "20 October"; };
+        return [{off:0, name:"Today", src:EARN_SRC_TODAY, note:"", holiday:isHoliday(0)},
+                {off:1, name:"Tomorrow", src:EARN_SRC_TOMORROW, note:"", holiday:isHoliday(1)},
+                {off:2, name:"Day After Tomorrow", src:EARN_SRC_DAY2, note:"", holiday:isHoliday(2)}];
+      })();
       $("#earn-grid").innerHTML = labels.map(function(L){
         var items = EARNINGS.filter(function(e){return e.off===L.off;});
         var timed = items.filter(function(e){return e.time;});
@@ -877,6 +889,163 @@
         });
       });
     });
+    </script>
+  <script>
+    /* =============== AUTO-UPDATE — fresh server data ===============
+       This page ships with a compiled snapshot as an instant fallback. A refresh
+       job on the server rewrites data/edition.json and data/market.json every
+       30 minutes; this block loads them on open and on every edition check, so
+       every section — including Earnings Calls and Global Markets — shows the
+       newest stories and prices, even on days when the Indian market is shut. */
+    (function(){
+      "use strict";
+      var AF_DAY = 24*60*60*1000;
+      var AF_SEC = {"top-stories":"top","indian-markets":"indian-markets","indian-economy":"indian-economy","global-markets":"global-markets","global-news":"global-news","technology":"technology","business":"business","ipo-centre":"ipo-centre","earnings-calls":"earnings-calls"};
+      var afEarnNews = [], afIpoNews = [];
+      function afNorm(t){ return String(t || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim(); }
+      function afWhen(iso){
+        var d = new Date(iso); if (isNaN(d)) return "";
+        var day = d.toLocaleDateString("en-IN", {day:"numeric", month:"short", timeZone:"Asia/Kolkata"});
+        var tm = d.toLocaleTimeString("en-IN", {hour:"numeric", minute:"2-digit", hour12:true, timeZone:"Asia/Kolkata"});
+        return day + " · " + tm.toUpperCase() + " IST";
+      }
+      function afMap(a){
+        return { sec: AF_SEC[a.section] || a.section, cat: a.sectionLabel || "",
+                 title: a.title || "", summary: a.desc || "", url: a.link || "",
+                 source: a.source || "", pub: a.pubDate, when: afWhen(a.pubDate) };
+      }
+      function afMerge(list){
+        var seen = {};
+        window.liveArticles.forEach(function(a){ seen[afNorm(a.title) + "|" + a.sec] = 1; if (a.alsoSec) seen[afNorm(a.title) + "|" + a.alsoSec] = 1; });
+        var maxRank = 0;
+        window.liveArticles.forEach(function(a){ if (a.topRank && a.topRank > maxRank) maxRank = a.topRank; });
+        var earnSeen = {}, ipoSeen = {};
+        afEarnNews.forEach(function(a){ earnSeen[afNorm(a.title)] = 1; });
+        afIpoNews.forEach(function(a){ ipoSeen[afNorm(a.title)] = 1; });
+        var now = Date.now();
+        list.forEach(function(raw){
+          var m = afMap(raw);
+          if (!m.title || !m.url) return;
+          var age = now - new Date(m.pub).getTime();
+          if (isNaN(age) || age > AF_DAY) return;
+          if (m.sec === "earnings-calls"){
+            if (!earnSeen[afNorm(m.title)]){ earnSeen[afNorm(m.title)] = 1; afEarnNews.unshift(m); }
+            return;
+          }
+          if (m.sec === "ipo-centre"){
+            if (!ipoSeen[afNorm(m.title)]){ ipoSeen[afNorm(m.title)] = 1; afIpoNews.unshift(m); }
+            return;
+          }
+          var key = afNorm(m.title) + "|" + m.sec;
+          if (seen[key]) return;
+          seen[key] = 1;
+          if (m.sec === "top"){ maxRank += 1; m.topRank = maxRank; }
+          window.liveArticles.unshift(m);
+        });
+      }
+      function afNum(n, dec){ return Number(n).toLocaleString("en-IN", {minimumFractionDigits:dec, maximumFractionDigits:dec}); }
+      function afPrice(it){
+        var dec = (it.dec == null ? 2 : it.dec), v = afNum(it.price, dec);
+        if (it.unit && it.unit.charAt(0) === "₹") return "₹" + v + " " + it.unit.slice(1);
+        if (it.unit && it.unit.charAt(0) === "$") return "$" + v + " " + it.unit.slice(1);
+        if (it.unit === "%") return v + "%";
+        return v;
+      }
+      function afSigned(n, dec){
+        var s = n > 0 ? "+" : (n < 0 ? "−" : "");
+        return s + afNum(Math.abs(n), dec);
+      }
+      function afChg(it){ return afSigned(it.change, it.dec == null ? 2 : it.dec); }
+      function afPct(it){
+        var s = it.changePct > 0 ? "+" : (it.changePct < 0 ? "−" : "");
+        return s + Math.abs(it.changePct).toFixed(2) + "%";
+      }
+      function afDir(it){ return it.change > 0 ? "up" : (it.change < 0 ? "down" : "flat"); }
+      function afStamp(iso){ return "Updated " + afWhen(iso); }
+      var AF_TICK = ["NIFTY 50","SENSEX","NIFTY BANK","USD/INR","MCX GOLD","MCX SILVER","MCX CRUDE","S&P 500","NASDAQ","NIKKEI 225"];
+      function afTicker(market){
+        var by = {}; market.items.forEach(function(i){ by[i.symbol] = i; });
+        var out = [];
+        AF_TICK.forEach(function(sym){
+          var it = by[sym]; if (!it) return;
+          out.push({ name: it.label || it.symbol, price: afPrice(it), chg: afChg(it),
+                     pct: afPct(it), dir: afDir(it), when: afStamp(market.generatedAt) });
+        });
+        if (out.length >= 4 && typeof renderTicker === "function"){
+          window.TICKER = out;
+          renderTicker();
+        }
+      }
+      function afBoardCard(it, region){
+        if (!it) return "";
+        var d = it.change > 0 ? "up" : (it.change < 0 ? "down" : "");
+        var arrow = it.change > 0 ? "▲ " : (it.change < 0 ? "▼ " : "");
+        return '<div><div class="k">' + esc(it.label || it.symbol) + " · " + esc(region) + "</div>" +
+               '<div class="v">' + esc(afPrice(it)) + "</div>" +
+               '<div class="s ' + d + '">' + arrow + esc(afPct(it)) + "</div></div>";
+      }
+      function afBoard(market){
+        var by = {}; market.items.forEach(function(i){ by[i.symbol] = i; });
+        var gi = document.getElementById("gm-indices");
+        if (gi){
+          var defs = [["S&P 500","United States"],["NASDAQ","United States"],["DOW JONES","United States"],["FTSE 100","United Kingdom"],["DAX","Germany"],["NIKKEI 225","Japan"],["HANG SENG","Hong Kong"],["KOSPI","South Korea"],["SHANGHAI COMP","China"]];
+          var html = defs.map(function(d){ return afBoardCard(by[d[0]], d[1]); }).join("");
+          if (html){ gi.innerHTML = html; gi.setAttribute("aria-label", "Global indices — " + afStamp(market.generatedAt)); }
+        }
+        var gc = document.getElementById("gm-commod");
+        if (gc){
+          var defs2 = [["BRENT","Global"],["WTI","Global"],["GOLD SPOT","Global"],["SILVER SPOT","Global"],["US 10Y YIELD","United States"]];
+          var html2 = defs2.map(function(d){ return afBoardCard(by[d[0]], d[1]); }).join("");
+          if (html2){ gc.innerHTML = html2; gc.setAttribute("aria-label", "Global commodities and yields — " + afStamp(market.generatedAt)); }
+        }
+      }
+      function afEnsureContainers(){
+        var eg = document.getElementById("earn-grid");
+        if (eg && !document.getElementById("earn-news-wrap")){
+          var w = document.createElement("div");
+          w.id = "earn-news-wrap"; w.style.marginTop = "20px";
+          w.innerHTML = '<h3 style="margin:0 0 4px">Latest earnings news</h3><p class="sec-note" style="margin:0 0 10px">Fresh results and earnings stories from the wires — updates with every edition.</p><div class="grid two" id="earn-news"></div>';
+          eg.parentNode.insertBefore(w, eg.nextSibling);
+        }
+        var il = document.getElementById("ipo-list");
+        if (il && !document.getElementById("ipo-news-wrap")){
+          var w2 = document.createElement("div");
+          w2.id = "ipo-news-wrap"; w2.style.marginTop = "20px";
+          w2.innerHTML = '<h3 style="margin:0 0 4px">Latest IPO news</h3><p class="sec-note" style="margin:0 0 10px">Fresh IPO stories from the wires — updates with every edition.</p><div class="grid two" id="ipo-news"></div>';
+          il.parentNode.insertBefore(w2, il.nextSibling);
+        }
+      }
+      function afRenderNews(){
+        if (typeof storyCard !== "function") return;
+        var en = document.getElementById("earn-news");
+        if (en) en.innerHTML = afEarnNews.slice(0, 8).map(storyCard).join("");
+        var ip = document.getElementById("ipo-news");
+        if (ip) ip.innerHTML = afIpoNews.slice(0, 8).map(storyCard).join("");
+      }
+      function afRefresh(){
+        if (typeof fetch !== "function") return;
+        var bust = "?v=" + Date.now();
+        Promise.all([
+          fetch("data/edition.json" + bust, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; }),
+          fetch("data/market.json" + bust, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; })
+        ]).then(function(res){
+          var ed = res[0], mk = res[1] || (ed && ed.market) || null;
+          if (ed && ed.articles){
+            afEnsureContainers();
+            afMerge(ed.articles);
+            if (typeof renderStories === "function") renderStories();
+            afRenderNews();
+          }
+          if (mk && mk.items){ afTicker(mk); afBoard(mk); }
+          if (ed || mk){ window.lastSuccessfulUpdate = new Date(); window.nextCheckAt = Date.now() + 30*60*1000; }
+        });
+      }
+      var afOrigCheck = window.runEditionCheck;
+      if (typeof afOrigCheck === "function"){
+        window.runEditionCheck = function(manual){ afOrigCheck(manual); afRefresh(); };
+      }
+      afRefresh();
+    })();
     </script>
   </body>
 </html>
