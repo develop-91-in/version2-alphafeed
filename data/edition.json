@@ -1,13 +1,63 @@
 {
-  "generatedAt": "2026-10-20T15:29:23.775Z",
+  "generatedAt": "2026-10-20T15:59:21.966Z",
   "articles": [
+    {
+      "title": "The Gospel according to Peter (Thiel)",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "pubDate": "2026-10-20T11:45:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Google says services recovering after cloud outage hits UK banks and websites",
       "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 15:03:30 GMT",
+      "pubDate": "Tue, 20 Oct 2026 15:37:26 GMT",
       "image": "",
       "source": "BBC Technology",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
+      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "desc": "Indian markets plunged on Monday as the Sensex fell nearly 900 points and the Nifty dropped below 22,900, wiping out nearly Rs 5 lakh crore in market value. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Aerospace and military contractors raise 2026 profit forecasts",
+      "desc": "Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. The companies reported record backlogs of $109.6 billion and $340 billion respectively. Sustained commercial aerospace services demand has also contributed to their growth. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "desc": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -32,57 +82,37 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
-      "desc": "Emerging markets are displaying surprising economic resilience in light of the Federal Reserve's tightening measures. Stronger fiscal fundamentals and high bond yields provide emerging market central banks with greater flexibility. Some countries are even considering rate cuts, which may not have been possible in the past. Investor sentiment is shifting towards emerging markets as they are viewed more favorably compared to developed economies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
-      "pubDate": "Tue, 20 Oct 2026 19:17:37 +0530",
+      "title": "The Gospel according to Peter (Thiel)",
+      "desc": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded across the AI industry, from Anthropic to newly appointed AI safety watchdog METR. EA is [&#8230;]",
+      "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
+      "pubDate": "2026-10-20T11:45:00-04:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "US stocks today: US stocks open lower as AI stocks decline, oil prices rise",
-      "desc": "Wall Street opens lower as renewed weakness in AI-linked stocks and higher oil prices weigh on the major indexes. The Dow Jones slips 0.01%, while the S&amp;P 500 falls 0.15% and the Nasdaq drops 0.37%. Investors remain cautious ahead of major corporate earnings reports due this week.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
-      "pubDate": "Tue, 20 Oct 2026 19:09:30 +0530",
+      "title": "Google says services recovering after cloud outage hits UK banks and websites",
+      "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:37:26 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Indonesians protest over land-clearing fires",
-      "desc": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 13:23:44 +0000",
+      "title": "In second visit within  months, Rubio calls on India to scale up US energy and defence buys",
+      "desc": "India and the US are actively working to expand energy and defence cooperation amidst existing tensions. US Secretary of State Marco Rubio emphasized India's potential as a crude oil refining superpower. Discussions included increasing energy trade and promoting the purchase of American technologies for mutual benefit. Rubio also plans to visit Reliance Industries Ltd's Jamnagar Refinery to discuss energy security.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-second-visit-in-months-rubio-calls-on-india-to-scale-up-us-energy-and-defence-buys/articleshow/135072581.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:54:15 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "desc": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 13:20:33 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Hilton to move stock listing to Nasdaq",
-      "desc": "Hilton Worldwide plans to shift its stock listing from the NYSE to Nasdaq, with shares set to begin trading under the HLT ticker on November 5. The hotel operator says Nasdaq's focus on technology and innovation aligns with its growth strategy as it strengthens its technology and innovation efforts.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
-      "pubDate": "Tue, 20 Oct 2026 18:43:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "BBC closures make business sense, but far more savings are needed, says Katie Razzall",
+      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
       "desc": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
       "link": "https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 20 Oct 2026 15:14:58 GMT",
@@ -92,14 +122,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google says services recovering after cloud outage hits UK banks and websites",
-      "desc": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 15:03:30 GMT",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "desc": "Indian markets plunged on Monday as the Sensex fell nearly 900 points and the Nifty dropped below 22,900, wiping out nearly Rs 5 lakh crore in market value. Private bank selling, weak global cues and earnings uncertainty weighed on sentiment.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530",
       "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Aerospace and military contractors raise 2026 profit forecasts",
+      "desc": "Northrop Grumman and RTX have raised their annual profit forecasts due to strong military demand. The companies reported record backlogs of $109.6 billion and $340 billion respectively. Sustained commercial aerospace services demand has also contributed to their growth. GE Aerospace, while performing well, has warned about potential declines in demand due to high fuel prices.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+      "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+      "desc": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+      "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+      "pubDate": "Tue, 20 Oct 2026 15:02:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
@@ -132,8 +182,8 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US stocks today: US stocks open lower as AI stocks decline, oil prices rise",
-      "desc": "Wall Street opens lower as renewed weakness in AI-linked stocks and higher oil prices weigh on the major indexes. The Dow Jones slips 0.01%, while the S&amp;P 500 falls 0.15% and the Nasdaq drops 0.37%. Investors remain cautious ahead of major corporate earnings reports due this week.",
+      "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
+      "desc": "Wall Street's main indexes saw increases driven by a rally in healthcare stocks that reached record highs. Easing oil prices contributed to a recovery from the previous week's technology led selloff. Major companies like General Motors and Steel Dynamics reported disappointing earnings forecasts, while 3M and Equifax exceeded expectations. Investors are closely monitoring upcoming corporate earnings reports from several high-profile companies.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
       "pubDate": "Tue, 20 Oct 2026 19:09:30 +0530",
       "image": "",
@@ -232,7 +282,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: US stocks trade lower as AI stocks decline, oil prices rise",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Dow Jones soars over 400 points as healthcare stocks surge amid AI weakness",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
       "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530",
@@ -386,16 +436,6 @@
       "desc": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
       "link": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
       "pubDate": "Tue, 20 Oct 2026 10:36:57 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
-      "desc": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
-      "link": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
-      "pubDate": "Tue, 20 Oct 2026 10:24:28 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -682,16 +722,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
-      "desc": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across [&#8230;]",
-      "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
-      "pubDate": "2026-10-20T00:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "India eyes a  $20 billion pot of gold in New Zealand as its trade pact goes live",
       "desc": "The free trade agreement between India and New Zealand promises to promote trade and enhance professional movement. While some goods may enjoy duty-free status, a significant rise in merchandise exports might take time. However, New Zealand's engagement in several service sectors holds potential benefits for Indian companies. The agreement also opens up new job opportunities for Indian students and creates pathways for skilled professionals.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-zero-tariffs-work-visas-20-billion-investment-trade-deal/articleshow/135060766.cms",
@@ -872,26 +902,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-      "desc": "Brokerages remain optimistic about ICICI Bank's strong earnings and asset quality after the recent quarter. However, HDFC Bank's profit growth was modest, and margins are under pressure, leading to a more cautious outlook. Despite this, both banks have attractive valuations and positive earnings recovery prospects. On Monday, both stocks experienced declines, along with broader market indices. Analysts highlight potential upsides for both banks based on target prices.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
-      "pubDate": "Tue, 20 Oct 2026 06:04:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio Platforms' IPO draws Rs 2.5 lakh crore in anchor bids",
-      "desc": "Global investors included BlackRock Global Funds, Capital Group, Fidelity, New World Fund and American Funds Developing World Growth and Income Fund. Other overseas participants included Abu Dhabi Investment Authority (ADIA), Janus Henderson, Societe Generale, Morgan Stanley Investment Funds, Norway's Government Pension Fund Global, Citadel Securities Singapore, Eastspring Investments, T. Rowe Price, Prudential Hong Kong and Integrated Core Strategies (Asia).",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
-      "pubDate": "Tue, 20 Oct 2026 05:56:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
       "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
       "desc": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
@@ -1040,20 +1050,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Nvidia wins fast-growing AI startup Modal for new central processors",
-      "desc": "Modal, a cloud-computing startup that rents out computing power to AI developers, said it plans to start using Nvidia's new Vera central processor for the first time for hosting agents, the AI systems that can carry out long-running tasks for human users. Modal until now has run such work only on Intel and AMD chips.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-wins-fast-growing-ai-startup-modal-for-new-central-processors/articleshow/135051728.cms",
-      "pubDate": "Mon, 19 Oct 2026 21:07:24 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-20T15:29:23.775Z",
+    "generatedAt": "2026-10-20T15:59:21.966Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1066,7 +1066,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:17.345Z",
+        "timestamp": "2026-10-20T15:59:15.503Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1078,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:17.933Z",
+        "timestamp": "2026-10-20T15:59:16.120Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1090,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:18.179Z",
+        "timestamp": "2026-10-20T15:59:16.413Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,67 +1102,67 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:18.478Z",
+        "timestamp": "2026-10-20T15:59:16.740Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7718.38,
-        "change": 27.65,
-        "changePct": 0.36,
+        "price": 7726.19,
+        "change": 35.46,
+        "changePct": 0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:18.736Z",
+        "timestamp": "2026-10-20T15:59:17.017Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26476.445,
-        "change": 45.559,
-        "changePct": 0.17,
+        "price": 26504.312,
+        "change": 73.426,
+        "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:19.081Z",
+        "timestamp": "2026-10-20T15:59:18.337Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52455.29,
-        "change": 489.258,
-        "changePct": 0.94,
+        "price": 52477.21,
+        "change": 511.18,
+        "changePct": 0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:19.880Z",
+        "timestamp": "2026-10-20T15:59:18.618Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10729.76,
-        "change": -34.931,
-        "changePct": -0.32,
+        "price": 10733,
+        "change": -31.69,
+        "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:20.525Z",
+        "timestamp": "2026-10-20T15:59:18.881Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25296.4,
-        "change": -23.369,
-        "changePct": -0.09,
+        "price": 25304.42,
+        "change": -15.35,
+        "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:20.798Z",
+        "timestamp": "2026-10-20T15:59:19.143Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1174,7 @@
         "changePct": -1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:21.189Z",
+        "timestamp": "2026-10-20T15:59:19.412Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1186,7 @@
         "changePct": -1.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:21.485Z",
+        "timestamp": "2026-10-20T15:59:19.648Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1198,7 @@
         "changePct": -3.73,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:21.764Z",
+        "timestamp": "2026-10-20T15:59:19.949Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,55 +1210,55 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-20T15:29:22.019Z",
+        "timestamp": "2026-10-20T15:59:20.183Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 107.78,
-        "change": -1.77,
-        "changePct": -1.62,
+        "price": 108.29,
+        "change": -1.26,
+        "changePct": -1.15,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T15:29:22.323Z",
+        "timestamp": "2026-10-20T15:59:20.528Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 96.94,
-        "change": -1.6,
-        "changePct": -1.62,
+        "price": 97.44,
+        "change": -1.1,
+        "changePct": -1.12,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-20T15:29:22.573Z",
+        "timestamp": "2026-10-20T15:59:20.763Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4158.9,
-        "change": -1.2,
-        "changePct": -0.03,
+        "price": 4152.2,
+        "change": -7.9,
+        "changePct": -0.19,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T15:29:22.871Z",
+        "timestamp": "2026-10-20T15:59:20.998Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 58.08,
-        "change": 0.807,
-        "changePct": 1.41,
+        "price": 58.015,
+        "change": 0.742,
+        "changePct": 1.3,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-20T15:29:23.104Z",
+        "timestamp": "2026-10-20T15:59:21.243Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,43 +1270,43 @@
         "changePct": -0.58,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-20T15:29:23.409Z",
+        "timestamp": "2026-10-20T15:59:21.514Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126894,
-        "change": -55,
-        "changePct": -0.04,
+        "price": 126714,
+        "change": -235,
+        "changePct": -0.18,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-20T15:29:23.553Z",
+        "timestamp": "2026-10-20T15:59:21.706Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 177236,
-        "change": 2463,
-        "changePct": 1.41,
+        "price": 177038,
+        "change": 2264,
+        "changePct": 1.3,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-20T15:29:23.673Z",
+        "timestamp": "2026-10-20T15:59:21.874Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9201,
-        "change": -152,
-        "changePct": -1.62,
+        "price": 9249,
+        "change": -104,
+        "changePct": -1.12,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-20T15:29:23.775Z",
+        "timestamp": "2026-10-20T15:59:21.966Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
