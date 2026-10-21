@@ -1,8 +1,9 @@
 // ALPHA FEED — Automatic edition fetcher (GitHub Actions, every 30 min) — v2.1
 // Runs with Node 20/24, no API key, no AI tokens. Parses RSS XML directly.
 // This is the REAL refresh job: it fetches fresh RSS for every news section and
-// fresh market data (Indian + global indices), then writes data/edition.json and
-// data/market.json. The page loads those files on open and on every refresh.
+// fresh market data (Indian + global indices), then writes data/edition.json,
+// data/market.json, data/ipos.json, data/earnings.json and data/macro.json.
+// The page loads those files on open and on every refresh.
 //
 // Rules: finance only (sports / Bollywood / entertainment filtered out), keep only
 // ORIGINAL pubDate within last 24h, dedup by normalised title, preserve source + link.
@@ -141,6 +142,18 @@ async function fetchMarket(){
   await push("SENSEX", "%5EBSESN", "India", 2);
   await push("NIFTY BANK", "%5ENSEBANK", "India", 2);
   await push("USD/INR", "INR=X", "India", 2);
+  // Sector indices — used by the page to compose a live Sector Watch line
+  await push("NIFTY IT", "%5ECNXIT", "Sector", 2);
+  await push("NIFTY AUTO", "%5ECNXAUTO", "Sector", 2);
+  await push("NIFTY PHARMA", "%5ECNXPHARMA", "Sector", 2);
+  await push("NIFTY FMCG", "%5ECNXFMCG", "Sector", 2);
+  await push("NIFTY METAL", "%5ECNXMETAL", "Sector", 2);
+  await push("NIFTY ENERGY", "%5ECNXENERGY", "Sector", 2);
+  await push("NIFTY REALTY", "%5ECNXREALTY", "Sector", 2);
+  await push("NIFTY PSU BANK", "%5ECNXPSUBANK", "Sector", 2);
+  await push("NIFTY MIDCAP 50", "%5ENSEMDCP50", "Sector", 2);
+  await push("NIFTY INFRA", "%5ECNXINFRA", "Sector", 2);
+  await push("NIFTY MEDIA", "%5ECNXMEDIA", "Sector", 2);
   // Global indices (move while India sleeps — the point of the global board)
   await push("S&P 500", "%5EGSPC", "United States", 2);
   await push("NASDAQ", "%5EIXIC", "United States", 2);
@@ -187,6 +200,174 @@ async function fetchMarket(){
   };
 }
 
+// ---- Shared helpers for the calendar / macro builders ----
+const BROWSER_UA = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", "Accept":"text/html,application/json"};
+function stripTags(s){ return String(s || "").replace(/<[^>]+>/g, " ").replace(/&nbsp;/gi, " ").replace(/&amp;/gi, "&").replace(/&#8377;/g, "₹").replace(/\s+/g, " ").trim(); }
+function istTodayISO(){ return new Date(Date.now() + 5.5 * 3600000).toISOString().slice(0, 10); }
+function isoPlusDays(iso, n){ const d = new Date(iso + "T00:00:00Z"); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+function fmtD(iso){ const d = new Date(iso + "T00:00:00Z"); return isNaN(d) ? "" : d.toLocaleDateString("en-IN", {day:"numeric", month:"short", year:"numeric", timeZone:"UTC"}); }
+function fmtDRange(openISO, closeISO){
+  const o = new Date(openISO + "T00:00:00Z"), c = new Date(closeISO + "T00:00:00Z");
+  if (isNaN(o) || isNaN(c)) return "";
+  if (o.getUTCFullYear() === c.getUTCFullYear() && o.getUTCMonth() === c.getUTCMonth())
+    return o.getUTCDate() + " " + o.toLocaleDateString("en-IN", {month:"short", timeZone:"UTC"}) + " – " + c.getUTCDate() + " " + c.toLocaleDateString("en-IN", {month:"short", year:"numeric", timeZone:"UTC"});
+  return fmtD(openISO) + " – " + fmtD(closeISO);
+}
+const MONTHS = {january:0, february:1, march:2, april:3, may:4, june:5, july:6, august:7, september:8, october:9, november:10, december:11, jan:0, feb:1, mar:2, apr:3, jun:5, jul:6, aug:7, sep:8, sept:8, oct:9, nov:10, dec:11};
+function parseDateText(txt){
+  const m = String(txt || "").match(/([A-Za-z]+)\s+(\d{1,2}),\s*(\d{4})/);
+  if (!m) return "";
+  const mo = MONTHS[m[1].toLowerCase()];
+  if (mo == null) return "";
+  return m[3] + "-" + String(mo + 1).padStart(2, "0") + "-" + String(+m[2]).padStart(2, "0");
+}
+
+// ---- IPO calendar (Chittorgarh dashboard + detail pages, scraped, no key) ----
+// If the scrape fails or parses too little, the previous data/ipos.json is kept
+// untouched — good data is never overwritten by an empty parse. The page also
+// computes each IPO's status from its dates at render time.
+function parseCtgDetail(html){
+  const fields = {};
+  for (const m of html.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi)){
+    const cells = [...m[1].matchAll(/<td[^>]*>([\s\S]*?)<\/td>/gi)].map(c => stripTags(c[1]));
+    if (cells.length >= 2 && cells[0] && cells[1]){ const k = cells[0].toLowerCase(); if (!(k in fields)) fields[k] = cells[1]; }
+  }
+  const get = (...names) => { for (const n of names){ for (const k of Object.keys(fields)){ if (k.includes(n)) return fields[k]; } } return ""; };
+  const ipoDateTxt = get("ipo date");
+  let openISO = "", closeISO = "";
+  const pad = (n) => String(n).padStart(2, "0");
+  const rng = ipoDateTxt.match(/(\d{1,2})\s*(?:to|-|–)\s*(\d{1,2})\s+([A-Za-z]+),?\s*(\d{4})/);
+  const rng2 = ipoDateTxt.match(/(\d{1,2})\s+([A-Za-z]+)\s*(?:to|-|–)\s*(\d{1,2})\s+([A-Za-z]+),?\s*(\d{4})/);
+  if (rng && MONTHS[rng[3].toLowerCase()] != null){
+    const mo = MONTHS[rng[3].toLowerCase()];
+    openISO = rng[4] + "-" + pad(mo + 1) + "-" + pad(rng[1]);
+    closeISO = rng[4] + "-" + pad(mo + 1) + "-" + pad(rng[2]);
+  } else if (rng2 && MONTHS[rng2[2].toLowerCase()] != null && MONTHS[rng2[4].toLowerCase()] != null){
+    openISO = rng2[5] + "-" + pad(MONTHS[rng2[2].toLowerCase()] + 1) + "-" + pad(rng2[1]);
+    closeISO = rng2[5] + "-" + pad(MONTHS[rng2[4].toLowerCase()] + 1) + "-" + pad(rng2[3]);
+  } else {
+    const dm = ipoDateTxt.match(/([A-Za-z]+ \d{1,2}, \d{4})[\s\S]*?([A-Za-z]+ \d{1,2}, \d{4})/);
+    if (dm){ openISO = parseDateText(dm[1]); closeISO = parseDateText(dm[2]); }
+  }
+  const listingISO = parseDateText(get("listing date"));
+  let size = get("total issue size", "issue size");
+  const crM = size.match(/₹\s*([\d,]+(?:\.\d+)?)\s*Cr/i) || size.match(/([\d,]+(?:\.\d+)?)\s*(?:Crores?|Cr)\b/i);
+  if (crM) size = "₹" + Number(crM[1].replace(/,/g, "")).toLocaleString("en-IN") + " cr";
+  else { const n = size.replace(/,/g, "").match(/([\d.]+)/); size = n ? "₹" + Number(n[1]).toLocaleString("en-IN") + " cr" : "—"; }
+  let band = get("price band");
+  const bnums = (band.replace(/,/g, "").match(/\d+(?:\.\d+)?/g) || []).map(Number);
+  if (bnums.length >= 2) band = "₹" + bnums[0].toLocaleString("en-IN") + " – ₹" + bnums[1].toLocaleString("en-IN");
+  else if (bnums.length === 1) band = "₹" + bnums[0].toLocaleString("en-IN") + " (issue price)";
+  else band = "—";
+  return { openISO, closeISO, listingISO, size, band, listingAt: get("listing at"), issueType: get("issue type") };
+}
+async function fetchCtgLinks(url){
+  const r = await fetch(url, { headers: BROWSER_UA, signal: AbortSignal.timeout(20000) });
+  if (!r.ok) return [];
+  const t = await r.text();
+  const out = [], seen = new Set();
+  for (const m of t.matchAll(/<a[^>]+href="(\/ipo\/[a-z0-9\-]+\/\d+\/)"[^>]*>([\s\S]*?)<\/a>/gi)){
+    if (seen.has(m[1])) continue; seen.add(m[1]);
+    out.push({ href: m[1], name: stripTags(m[2]) });
+  }
+  return out;
+}
+async function fetchIpos(){
+  try{
+    let links = [];
+    for (const u of ["https://www.chittorgarh.com/ipo/ipo_dashboard.asp", "https://www.chittorgarh.com/ipo/ipo_dashboard.asp?a=sme"]){
+      try{ links.push(...await fetchCtgLinks(u)); }catch(e){ console.warn("IPO dashboard failed", u, e.message); }
+    }
+    const byHref = new Map(); for (const l of links) if (!byHref.has(l.href)) byHref.set(l.href, l);
+    links = [...byHref.values()].slice(0, 26);
+    if (!links.length) throw new Error("no IPO links found on dashboards");
+    const today = istTodayISO();
+    const keepFrom = isoPlusDays(today, -12);
+    const entries = [];
+    for (let i = 0; i < links.length; i += 5){
+      const got = await Promise.all(links.slice(i, i + 5).map(async (l) => {
+        try{
+          const r = await fetch("https://www.chittorgarh.com" + l.href, { headers: BROWSER_UA, signal: AbortSignal.timeout(20000) });
+          if (!r.ok) return null;
+          const f = parseCtgDetail(await r.text());
+          if (!f.openISO || !f.closeISO || f.closeISO < keepFrom) return null;
+          let co = l.name || "";
+          if (!co || co.length < 3) return null;
+          const sme = /SME/i.test(f.listingAt) || /SME/i.test(f.issueType);
+          const note = (f.listingAt || "BSE · NSE").replace(/,/g, " ·").replace(/\s+/g, " ").trim();
+          return { co, note, size: f.size, band: f.band, dates: fmtDRange(f.openISO, f.closeISO),
+                   listing: f.listingISO ? fmtD(f.listingISO) : "To be announced",
+                   openISO: f.openISO, closeISO: f.closeISO, listingISO: f.listingISO, _sme: sme };
+        }catch(e){ return null; }
+      }));
+      entries.push(...got.filter(Boolean));
+    }
+    if (entries.length < 3) throw new Error("too few IPOs parsed: " + entries.length);
+    const rank = (e) => (e.openISO <= today && today <= e.closeISO) ? 0 : (e.openISO > today ? 1 : 2);
+    const sortFn = (a, b) => (rank(a) - rank(b)) || (rank(a) === 2 ? (a.closeISO < b.closeISO ? 1 : -1) : (a.openISO < b.openISO ? -1 : 1));
+    const clean = (e) => { const { _sme, ...rest } = e; return rest; };
+    const mainboard = entries.filter(e => !e._sme).sort(sortFn).slice(0, 14).map(clean);
+    const sme = entries.filter(e => e._sme).sort(sortFn).slice(0, 10).map(clean);
+    fs.writeFileSync("data/ipos.json", JSON.stringify({ generatedAt: new Date().toISOString(), source: "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying", mainboard, sme }, null, 2));
+    console.log(`IPOs: ${mainboard.length} mainboard + ${sme.length} SME -> data/ipos.json`);
+    return true;
+  }catch(e){ console.warn("IPO fetch failed (keeping previous data/ipos.json):", e.message); return false; }
+}
+
+// ---- Earnings calendar (NSE event calendar, unofficial API) ----
+async function fetchEarningsCalendar(){
+  try{
+    const warm = await fetch("https://www.nseindia.com/", { headers: BROWSER_UA, signal: AbortSignal.timeout(20000) });
+    const cookie = (warm.headers.getSetCookie?.() || []).map(c => c.split(";")[0]).join("; ");
+    const r = await fetch("https://www.nseindia.com/api/event-calendar", { headers: { ...BROWSER_UA, "Accept": "application/json", ...(cookie ? { Cookie: cookie } : {}) }, signal: AbortSignal.timeout(20000) });
+    if (!r.ok) throw new Error("NSE calendar HTTP " + r.status);
+    const j = await r.json();
+    const MON = {Jan:"01", Feb:"02", Mar:"03", Apr:"04", May:"05", Jun:"06", Jul:"07", Aug:"08", Sep:"09", Oct:"10", Nov:"11", Dec:"12"};
+    const today = istTodayISO(), until = isoPlusDays(today, 8);
+    const quarterOf = (desc) => /September 30/i.test(desc) ? "Q2 FY27 results announcement"
+      : /June 30/i.test(desc) ? "Q1 FY27 results announcement"
+      : /December 31/i.test(desc) ? "Q3 FY27 results announcement"
+      : /March 31/i.test(desc) ? "Q4 FY26 results announcement" : "Financial results announcement";
+    const entries = [];
+    for (const e of j){
+      if (!/financial results/i.test(e.purpose || "")) continue;
+      const m = String(e.date || "").match(/(\d{2})-([A-Za-z]{3})-(\d{4})/);
+      if (!m || !MON[m[2]]) continue;
+      const iso = m[3] + "-" + MON[m[2]] + "-" + m[1];
+      if (iso < today || iso > until) continue;
+      entries.push({ dateISO: iso, co: e.company || e.symbol || "", tk: e.symbol || "", type: quarterOf(e.bm_desc || "") });
+    }
+    entries.sort((a, b) => (a.dateISO < b.dateISO ? -1 : a.dateISO > b.dateISO ? 1 : (a.co < b.co ? -1 : 1)));
+    if (entries.length < 5) throw new Error("too few earnings entries: " + entries.length);
+    fs.writeFileSync("data/earnings.json", JSON.stringify({ generatedAt: new Date().toISOString(), source: "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here", entries: entries.slice(0, 220) }, null, 2));
+    console.log(`Earnings calendar: ${entries.length} result events (${today} to ${until}) -> data/earnings.json`);
+    return true;
+  }catch(e){ console.warn("Earnings calendar failed (keeping previous data/earnings.json):", e.message); return false; }
+}
+
+// ---- Macro & Stats (monthly official prints are curated; USD/INR is live) ----
+// CPI / WPI / CFPI / repo change only on official release days, so those rows are
+// curated values with their release labels. USD/INR is rewritten from the live
+// market fetch on every run. The India 10Y G-Sec row has no reliable free live
+// source, so it stays a clearly-dated manual snapshot instead of a fake live row.
+function buildMacroJson(market){
+  const inr = market.items.find(i => i.symbol === "USD/INR");
+  const todayTxt = fmtD(istTodayISO());
+  const inrRow = inr
+    ? { ind:"USD / INR", val: inr.price.toFixed(2), prev: (inr.price - inr.change).toFixed(2), rel: todayTxt + " · Auto-updated from live market data", next:"—", pub:true, src:"Yahoo Finance (unofficial)", url:"https://finance.yahoo.com/quote/INR=X" }
+    : { ind:"USD / INR", val:"94.75", prev:"94.97", rel:"19 Oct 2026 · Rupee +22 paise", next:"—", pub:true, src:"IANS via New Kerala", url:"" };
+  const rows = [
+    { ind:"Retail Inflation (CPI)", val:"5.54%", prev:"4.83%", rel:"Sep 2026 · Released 12 Oct 2026", next:"To be announced", pub:true, src:"NSO (MoSPI)", url:"" },
+    { ind:"Wholesale Inflation (WPI)", val:"11.39%", prev:"9.92%", rel:"Sep 2026", next:"To be announced", pub:true, src:"Office of the Economic Adviser", url:"" },
+    { ind:"Food Inflation (CFPI)", val:"7.74%", prev:"5.97%", rel:"Sep 2026 · Released 12 Oct 2026", next:"To be announced", pub:true, src:"NSO (MoSPI)", url:"" },
+    { ind:"RBI Repo Rate", val:"5.50%", prev:"5.25%", rel:"MPC decision · 7 Oct 2026 (+25 bps)", next:"Next MPC: Dec 2026 (RBI calendar)", pub:true, src:"RBI", url:"" },
+    { ind:"India 10-Year G-Sec Yield", val:"7.3551%", prev:"7.3789%", rel:"19 Oct 2026 · Manual snapshot — no free live source", next:"—", pub:true, src:"The Hindu BusinessLine (Reuters)", url:"" },
+    inrRow
+  ];
+  fs.writeFileSync("data/macro.json", JSON.stringify({ generatedAt: new Date().toISOString(), source: "Official monthly prints (curated) + live USD/INR from market data", rows }, null, 2));
+  console.log("Macro: data/macro.json written (USD/INR " + (inr ? "live @ " + inr.price : "fallback") + ")");
+}
+
 const all = [];
 for(const f of FEEDS){ const it = await fetchFeed(f); all.push(...it); }
 const cutoff = Date.now()-RETENTION;
@@ -216,3 +397,6 @@ console.log(`Kept ${kept.length} unique articles (24h, finance-only) + ${topCopi
 const bySec = {}; for (const a of finalArticles) bySec[a.section] = (bySec[a.section]||0)+1;
 console.log("By section (incl. Top Stories copies):", JSON.stringify(bySec));
 console.log("Market symbols:", market.items.map(i=>i.symbol).join(", "));
+await fetchIpos();
+await fetchEarningsCalendar();
+buildMacroJson(market);
