@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T13:29:46.310Z",
+  "generatedAt": "2026-10-21T13:59:55.595Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -760,6 +760,12 @@
     },
     {
       "dateISO": "2026-10-26",
+      "co": "Bank of Maharashtra",
+      "tk": "MAHABANK",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
       "co": "Brigade Hotel Ventures Limited",
       "tk": "BRIGHOTEL",
       "type": "Q2 FY27 results announcement"
@@ -906,6 +912,12 @@
       "dateISO": "2026-10-26",
       "co": "Paramount Communications Limited",
       "tk": "PARACABLES",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
+      "co": "REC Limited",
+      "tk": "RECLTD",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1308,18 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Raymond Realty Limited",
       "tk": "RAYMONDREL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "SBI Life Insurance Company Limited",
-      "tk": "SBILIFE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "SG Mart Limited",
-      "tk": "SGMART",
       "type": "Q2 FY27 results announcement"
     }
   ]
