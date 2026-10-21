@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-10-21T09:11:40.180Z",
+  "source": "Official monthly prints (curated) + live USD/INR from market data",
+  "rows": [
+    {
+      "ind": "Retail Inflation (CPI)",
+      "val": "5.54%",
+      "prev": "4.83%",
+      "rel": "Sep 2026 · Released 12 Oct 2026",
+      "next": "To be announced",
+      "pub": true,
+      "src": "NSO (MoSPI)",
+      "url": ""
+    },
+    {
+      "ind": "Wholesale Inflation (WPI)",
+      "val": "11.39%",
+      "prev": "9.92%",
+      "rel": "Sep 2026",
+      "next": "To be announced",
+      "pub": true,
+      "src": "Office of the Economic Adviser",
+      "url": ""
+    },
+    {
+      "ind": "Food Inflation (CFPI)",
+      "val": "7.74%",
+      "prev": "5.97%",
+      "rel": "Sep 2026 · Released 12 Oct 2026",
+      "next": "To be announced",
+      "pub": true,
+      "src": "NSO (MoSPI)",
+      "url": ""
+    },
+    {
+      "ind": "RBI Repo Rate",
+      "val": "5.50%",
+      "prev": "5.25%",
+      "rel": "MPC decision · 7 Oct 2026 (+25 bps)",
+      "next": "Next MPC: Dec 2026 (RBI calendar)",
+      "pub": true,
+      "src": "RBI",
+      "url": ""
+    },
+    {
+      "ind": "India 10-Year G-Sec Yield",
+      "val": "7.3551%",
+      "prev": "7.3789%",
+      "rel": "19 Oct 2026 · Manual snapshot — no free live source",
+      "next": "—",
+      "pub": true,
+      "src": "The Hindu BusinessLine (Reuters)",
+      "url": ""
+    },
+    {
+      "ind": "USD / INR",
+      "val": "94.62",
+      "prev": "94.77",
+      "rel": "21 Oct 2026 · Auto-updated from live market data",
+      "next": "—",
+      "pub": true,
+      "src": "Yahoo Finance (unofficial)",
+      "url": "https://finance.yahoo.com/quote/INR=X"
+    }
+  ]
+}
