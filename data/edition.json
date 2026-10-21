@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-21T19:29:24.382Z",
+  "generatedAt": "2026-10-21T19:59:21.389Z",
   "articles": [
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "desc": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "pubDate": "2026-10-21T15:53:20-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Piyush Goyal to explore trade, investment avenues in Germany &amp; Netherlands",
+      "desc": "Commerce and industry minister Piyush Goyal is set to visit Germany and the Netherlands for trade engagements. He will participate in the Berlin Global Dialogue and meet various government officials in Germany. The focus will be on technological cooperation, clean technology, and the India-EU FTA negotiations. In the Netherlands, Goyal will hold ministerial meetings to explore expanded trade channels and green transition initiatives.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-to-explore-trade-investment-avenues-in-germany-netherlands/articleshow/135100125.cms",
+      "pubDate": "Thu, 22 Oct 2026 01:05:25 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "desc": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of &#039;plotting&#039; and &#039;inciting&#039; military to disobey orders.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 19:14:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Europe's financial regulators query Google over cloud outage that hit banks",
       "desc": "The European Banking Authority said that it has been in contact with Google Cloud to obtain further information on the incident, understand its implications and assess its potential impact on financial entities in the EU, a spokesperson for the watchdog told Reuters.",
@@ -52,44 +82,74 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-      "desc": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
-      "pubDate": "2026-10-21T14:00:00-04:00",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 21 Oct 2026 19:54:57 GMT",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-      "desc": "US Treasury yields slipped as investors weighed the impact of higher borrowing costs on AI stocks, with the 10 year yield heading for a second straight daily decline. The move came ahead of a $13 billion 20 year Treasury auction, while markets continued to price in a muted chance of a Fed rate hike.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
-      "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "desc": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 17:42:34 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Meta fined $25bn for 'lies' over user data privacy",
       "desc": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
       "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 19:11:53 GMT",
+      "pubDate": "Wed, 21 Oct 2026 19:54:16 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "desc": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "pubDate": "2026-10-21T15:53:20-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Core output grows at series high of 7.9% in Sept",
+      "desc": "India's core sector output growth for September recorded a remarkable 7.9%, driven largely by expansion in coal and electricity. Notably, refinery products and iron ore also contributed to this growth, supported by a favorable base effect. Coal production saw a sharp rebound with a growth rate of 10.7% following previous negative trends. Electricity generation growth declined slightly, impacted by heatwave conditions in the country.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/core-output-grows-at-series-high-of-7-9-in-sept/articleshow/135100149.cms",
+      "pubDate": "Thu, 22 Oct 2026 01:09:39 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Piyush Goyal to explore trade, investment avenues in Germany &amp; Netherlands",
+      "desc": "Commerce and industry minister Piyush Goyal is set to visit Germany and the Netherlands for trade engagements. He will participate in the Berlin Global Dialogue and meet various government officials in Germany. The focus will be on technological cooperation, clean technology, and the India-EU FTA negotiations. In the Netherlands, Goyal will hold ministerial meetings to explore expanded trade channels and green transition initiatives.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/piyush-goyal-to-explore-trade-investment-avenues-in-germany-netherlands/articleshow/135100125.cms",
+      "pubDate": "Thu, 22 Oct 2026 01:05:25 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Walmart is inviting AI agents to shop for you",
+      "desc": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "pubDate": "2026-10-21T15:30:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Tunisia jails opposition politician for four years over social media posts",
+      "desc": "Olfa ⁠Hamdi, a US-Tunisian national, was convicted of &#039;plotting&#039; and &#039;inciting&#039; military to disobey orders.",
+      "link": "https://www.aljazeera.com/news/2026/10/21/tunisia-jails-opposition-politician-for-four-years-over-social-media-posts?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 19:14:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "OpenAI president urges AI safeguards as group he funds opposes regulation",
@@ -163,7 +223,7 @@
     },
     {
       "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
-      "desc": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil [&#8230;]",
+      "desc": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Forward event to unveil [&#8230;]",
       "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
       "pubDate": "2026-10-21T14:00:00-04:00",
       "image": "",
@@ -302,16 +362,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Websites taken down worldwide as critical cyber-security update issued",
-      "desc": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 21 Oct 2026 16:07:19 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
       "desc": "Bitcoin delivered nearly 234% returns over three years, outperforming silver, gold and equities. However, precious metals led over one year as cryptocurrencies declined. CoinDCX data also shows Bitcoin topping hypothetical one-year SIP values, highlighting the importance of investment horizons and risk management.",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
@@ -420,16 +470,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
-      "desc": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
-      "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
-      "pubDate": "Wed, 21 Oct 2026 13:58:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
@@ -1160,40 +1200,10 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Tech Life",
-      "desc": "The next generation of chip is thinner and flexible when compared to traditional silicon.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 19:45:00 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "desc": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 19:42:32 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Trump sued over Canadian tariffs in latest legal challenge",
-      "desc": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-      "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 20 Oct 2026 19:30:05 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-21T19:29:24.382Z",
+    "generatedAt": "2026-10-21T19:59:21.389Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1206,7 +1216,7 @@
         "changePct": -0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:16.502Z",
+        "timestamp": "2026-10-21T19:59:14.991Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1228,7 @@
         "changePct": -0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:16.929Z",
+        "timestamp": "2026-10-21T19:59:15.417Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,7 +1240,7 @@
         "changePct": -0.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:17.217Z",
+        "timestamp": "2026-10-21T19:59:15.663Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1242,7 +1252,7 @@
         "changePct": -0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:17.459Z",
+        "timestamp": "2026-10-21T19:59:15.871Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1254,7 +1264,7 @@
         "changePct": 2.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:17.787Z",
+        "timestamp": "2026-10-21T19:59:16.063Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1266,7 +1276,7 @@
         "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:18.008Z",
+        "timestamp": "2026-10-21T19:59:16.279Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1278,7 +1288,7 @@
         "changePct": -0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:18.309Z",
+        "timestamp": "2026-10-21T19:59:16.510Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1290,7 +1300,7 @@
         "changePct": -0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:18.552Z",
+        "timestamp": "2026-10-21T19:59:16.886Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1302,7 +1312,7 @@
         "changePct": -1.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:18.916Z",
+        "timestamp": "2026-10-21T19:59:17.085Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1314,7 +1324,7 @@
         "changePct": -1.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:19.140Z",
+        "timestamp": "2026-10-21T19:59:17.295Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1326,7 +1336,7 @@
         "changePct": -1.25,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:19.445Z",
+        "timestamp": "2026-10-21T19:59:17.490Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1338,7 +1348,7 @@
         "changePct": -0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:19.688Z",
+        "timestamp": "2026-10-21T19:59:17.677Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1350,7 +1360,7 @@
         "changePct": -1.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:19.979Z",
+        "timestamp": "2026-10-21T19:59:17.873Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1362,7 +1372,7 @@
         "changePct": -0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:20.200Z",
+        "timestamp": "2026-10-21T19:59:18.058Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1374,43 +1384,43 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:20.480Z",
+        "timestamp": "2026-10-21T19:59:18.246Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7754.78,
-        "change": 42.21,
-        "changePct": 0.55,
+        "price": 7759.12,
+        "change": 46.55,
+        "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:20.698Z",
+        "timestamp": "2026-10-21T19:59:18.402Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26695.451,
-        "change": 270.635,
-        "changePct": 1.02,
+        "price": 26712.7,
+        "change": 287.883,
+        "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:20.934Z",
+        "timestamp": "2026-10-21T19:59:18.593Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52760.29,
-        "change": 264.41,
-        "changePct": 0.5,
+        "price": 52842.09,
+        "change": 346.211,
+        "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:21.143Z",
+        "timestamp": "2026-10-21T19:59:18.793Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1422,7 +1432,7 @@
         "changePct": 0.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:21.423Z",
+        "timestamp": "2026-10-21T19:59:19.003Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1434,7 +1444,7 @@
         "changePct": 1.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:21.628Z",
+        "timestamp": "2026-10-21T19:59:19.191Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1446,7 +1456,7 @@
         "changePct": 0.85,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:21.898Z",
+        "timestamp": "2026-10-21T19:59:19.391Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1458,7 +1468,7 @@
         "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:22.107Z",
+        "timestamp": "2026-10-21T19:59:19.615Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1470,7 +1480,7 @@
         "changePct": 3.29,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:22.370Z",
+        "timestamp": "2026-10-21T19:59:19.801Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1482,55 +1492,55 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T19:29:22.809Z",
+        "timestamp": "2026-10-21T19:59:19.988Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.93,
-        "change": 1.14,
-        "changePct": 1.05,
+        "price": 109.56,
+        "change": 0.77,
+        "changePct": 0.71,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-21T19:29:23.085Z",
+        "timestamp": "2026-10-21T19:59:20.294Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 97.97,
-        "change": 0.15,
-        "changePct": 0.15,
+        "price": 97.62,
+        "change": -0.2,
+        "changePct": -0.2,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-21T19:29:23.302Z",
+        "timestamp": "2026-10-21T19:59:20.514Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4136.7,
-        "change": -5.9,
-        "changePct": -0.14,
+        "price": 4150.4,
+        "change": 7.8,
+        "changePct": 0.19,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-21T19:29:23.563Z",
+        "timestamp": "2026-10-21T19:59:20.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.475,
-        "change": -0.525,
-        "changePct": -0.91,
+        "price": 57.995,
+        "change": -0.005,
+        "changePct": -0.01,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-21T19:29:23.797Z",
+        "timestamp": "2026-10-21T19:59:20.922Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1542,43 +1552,43 @@
         "changePct": 0.57,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-21T19:29:24.055Z",
+        "timestamp": "2026-10-21T19:59:21.124Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125617,
-        "change": -179,
-        "changePct": -0.14,
+        "price": 126033,
+        "change": 237,
+        "changePct": 0.19,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-21T19:29:24.153Z",
+        "timestamp": "2026-10-21T19:59:21.222Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 174531,
-        "change": -1594,
-        "changePct": -0.91,
+        "price": 176110,
+        "change": -15,
+        "changePct": -0.01,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-21T19:29:24.306Z",
+        "timestamp": "2026-10-21T19:59:21.319Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9253,
-        "change": 14,
-        "changePct": 0.15,
+        "price": 9220,
+        "change": -19,
+        "changePct": -0.2,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-21T19:29:24.382Z",
+        "timestamp": "2026-10-21T19:59:21.389Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
