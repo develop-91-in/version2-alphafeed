@@ -1,43 +1,50 @@
-# ALPHA FEED
+# ALPHA FEED — The World of Money, Decoded
 
-A premium, editorial-style financial newspaper for Indian readers — by **Jatin Singh**.
-Single-file edition (`index.html`) with per-section pages, a global indices board,
-30-minute refresh and 24-hour news retention.
+A premium editorial financial newspaper for Indian readers, by Jatin Singh.
+Static site (single `index.html`) + a server-side refresh job that rewrites the
+data files every 30 minutes. The page ships with a compiled snapshot as an
+instant fallback and replaces it with fresh data on load and on every refresh.
 
-## How it stays fresh (automatic — no AI tokens, no API keys)
+## What auto-updates (every ~30 minutes)
 
-1. **Scheduled refresh job** — `.github/workflows/hourly-refresh.yml` runs
-   `node scripts/fetch-edition.mjs` every 30 minutes on GitHub Actions. It:
-   - pulls RSS feeds (BBC, Economic Times, Moneycontrol, RBI, Al Jazeera, The Verge;
-     Reuters is kept but returned HTTP 401 on 19 Oct 2026 — check before relying),
-   - keeps finance news only (sports / Bollywood / entertainment filtered out),
-   - keeps only stories published in the last 24 hours, deduped by title,
-   - fetches market data from Yahoo Finance's unofficial endpoint
-     (NIFTY 50, SENSEX, NIFTY BANK, USD/INR, global indices S&P 500 / NASDAQ /
-     Dow / FTSE 100 / DAX / Nikkei 225 / Hang Seng / KOSPI / Shanghai, Brent, WTI,
-     gold & silver spot, US 10Y yield, and COMEX-derived MCX Gold/Silver/Crude —
-     **derived, not an official MCX feed**),
-   - writes `data/edition.json` and `data/market.json`, then commits them.
-2. **The page picks the new data up itself** — on open and on every Refresh /
-   30-minute check, `index.html` fetches `data/edition.json` + `data/market.json`
-   (served with `Cache-Control: no-store`, see `vercel.json`) and re-renders every
-   section, the ticker, the Global Markets indices board, and the earnings/IPO
-   news lists. The compiled snapshot stays as the instant offline fallback.
-3. **Manual run** — Actions → "ALPHA FEED — Auto Edition Refresh" → Run workflow.
+`scripts/fetch-edition.mjs` (plain Node, no API key) writes five files under
+`data/`, and `index.html` ingests all five:
 
-## Costs (estimates — verify on each vendor's current pricing before relying)
+| File | Contents | Source |
+| --- | --- | --- |
+| `data/edition.json` | News for all 9 sections (24h, finance-only, deduped) + Top Stories view | RSS: ET, Moneycontrol, RBI, BBC, Al Jazeera, The Verge, Reuters (feeds that respond) |
+| `data/market.json` | NIFTY / SENSEX / NIFTY BANK / USD-INR, 11 NIFTY sector indices, global indices, Brent/WTI, gold/silver spot, US 10Y, COMEX-derived MCX trio | Yahoo Finance unofficial chart endpoint |
+| `data/ipos.json` | IPO table (mainboard + SME): size, price band, open–close dates, listing date | Chittorgarh IPO dashboard + detail pages (scraped) |
+| `data/earnings.json` | Results calendar, today → +8 days | NSE event calendar (unofficial API), "Financial Results" board meetings only |
+| `data/macro.json` | Macro & Stats table: CPI / WPI / CFPI / repo (curated official prints), USD/INR (live from market data), India 10Y G-Sec (dated manual snapshot) | NSO / OEA / RBI releases + Yahoo |
 
-- GitHub Actions on this public repo: unlimited free minutes for public repos
-  (per github.com/pricing). The job takes ~30–60 s per run.
-- Muse tokens after go-live: 0 — the refresh is plain code, not AI.
-- No API keys in this repo. If a licensed feed is ever added, its key goes in
-  GitHub Secrets, never committed.
+On the page, the refresh also rebuilds: the ticker, the Indian Markets board
+(indices, sector watch, MCX cards), the Global Markets boards, the IPO table
+(statuses — Upcoming / Open now / Closed / Listed — are computed from the issue
+dates at render time, so they stay correct between scrapes), the earnings
+calendar, and the Macro table.
+
+Refresh drivers (both run the same fetcher):
+- A Muse cron every 30 min (IST) that pushes only `data/*.json`.
+- GitHub Actions (`.github/workflows/hourly-refresh.yml`, cron `*/30`) as backup.
+
+If a scrape fails or parses too little, the previous data file is kept —
+good data is never overwritten by an empty parse, and prices are never invented.
 
 ## Data honesty
 
-- Yahoo Finance endpoint is unofficial: no SLA, may change or rate-limit. If it
-  fails, market cells show "Not connected" — prices are never invented.
-- MCX Gold/Silver/Crude are derived from COMEX futures × USD/INR and labelled
-  as such. For official MCX quotes, add a licensed feed.
-- Indian indices freeze on exchange holidays (e.g. Dussehra) and weekends — that
-  is normal; global indices keep moving and are shown on the Global Markets board.
+- Yahoo Finance endpoint is **unofficial** — no SLA; Indian indices freeze on
+  exchange holidays/weekends (normal).
+- MCX Gold/Silver/Crude are **COMEX-derived estimates** (futures × USD/INR,
+  ex-duty), not official MCX quotes.
+- Chittorgarh and NSE calendar are unofficial scrapes; IPO details should be
+  verified in the RHP before applying.
+- Market breadth (BSE advances/declines) has no connected live feed — the board
+  labels it as a dated snapshot.
+- Reuters RSS returned HTTP 401 in checks on 19 Oct 2026; feeds are kept in the
+  list but BBC / ET / Al Jazeera carry the edition meanwhile.
+
+## Costs
+
+₹0 in API keys. Muse cron runs use a small amount of tokens every 30 minutes;
+the GitHub Actions route is free within GitHub's limits.
