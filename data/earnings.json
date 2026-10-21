@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T14:59:36.960Z",
+  "generatedAt": "2026-10-21T15:29:37.989Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1006,6 +1006,12 @@
     },
     {
       "dateISO": "2026-10-26",
+      "co": "Vineet Laboratories Limited",
+      "tk": "VINEETLAB",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
       "co": "Vinyl Chemicals (India) Limited",
       "tk": "VINYLINDIA",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Raymond Limited",
       "tk": "RAYMOND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "Raymond Realty Limited",
-      "tk": "RAYMONDREL",
       "type": "Q2 FY27 results announcement"
     }
   ]
