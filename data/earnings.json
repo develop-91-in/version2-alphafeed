@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:10:21.377Z",
+  "generatedAt": "2026-10-21T12:29:49.095Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -898,6 +898,12 @@
     },
     {
       "dateISO": "2026-10-26",
+      "co": "RIR Power Electronics Limited",
+      "tk": "RIR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
       "co": "SRIT India Limited",
       "tk": "SRIT",
       "type": "Q1 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Sterling Tools Limited",
       "tk": "STERTOOLS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "Syngene International Limited",
-      "tk": "SYNGENE",
       "type": "Q2 FY27 results announcement"
     }
   ]
