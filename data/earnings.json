@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:17:17.414Z",
+  "generatedAt": "2026-10-21T09:29:27.128Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -988,6 +988,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Bharat Seats Limited",
+      "tk": "BHARATSE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "Capri Global Capital Limited",
       "tk": "CGCL",
       "type": "Q2 FY27 results announcement"
@@ -1210,6 +1216,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Raymond Realty Limited",
+      "tk": "RAYMONDREL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "SBI Life Insurance Company Limited",
       "tk": "SBILIFE",
       "type": "Q2 FY27 results announcement"
@@ -1308,18 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Anant Raj Limited",
       "tk": "ANANTRAJ",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Arvind Limited",
-      "tk": "ARVIND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Atlas Cycles (Haryana) Limited",
-      "tk": "ATLASCYCLE",
       "type": "Q2 FY27 results announcement"
     }
   ]
