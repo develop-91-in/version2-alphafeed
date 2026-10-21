@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:29:49.095Z",
+  "generatedAt": "2026-10-21T12:59:40.697Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -940,6 +940,12 @@
     },
     {
       "dateISO": "2026-10-26",
+      "co": "Surana Solar Limited",
+      "tk": "SURANASOL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
       "co": "TATA CONSUMER PRODUCTS LIMITED",
       "tk": "TATACONSUM",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Steel Authority of India Limited",
       "tk": "SAIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "Sterling Tools Limited",
-      "tk": "STERTOOLS",
       "type": "Q2 FY27 results announcement"
     }
   ]
