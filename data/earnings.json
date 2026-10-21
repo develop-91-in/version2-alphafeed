@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:59:29.667Z",
+  "generatedAt": "2026-10-21T10:29:31.726Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -604,6 +604,12 @@
     },
     {
       "dateISO": "2026-10-24",
+      "co": "Damodar Industries Limited",
+      "tk": "DAMODARIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-24",
       "co": "German Green Steel and Power Limited",
       "tk": "GERMAN",
       "type": "Financial results announcement"
@@ -1012,6 +1018,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Cinevista Limited",
+      "tk": "CINEVISTA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "Cipla Limited",
       "tk": "CIPLA",
       "type": "Financial results announcement"
@@ -1264,6 +1276,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Steel Authority of India Limited",
+      "tk": "SAIL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "Sterling Tools Limited",
       "tk": "STERTOOLS",
       "type": "Q2 FY27 results announcement"
@@ -1302,24 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "United Breweries Limited",
       "tk": "UBL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "Vardhman Special Steels Limited",
-      "tk": "VSSL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Aarti Pharmalabs Limited",
-      "tk": "AARTIPHARM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Adani Enterprises Limited",
-      "tk": "ADANIENT",
       "type": "Q2 FY27 results announcement"
     }
   ]
