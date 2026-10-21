@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:59:31.863Z",
+  "generatedAt": "2026-10-21T11:29:31.845Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -700,6 +700,12 @@
     },
     {
       "dateISO": "2026-10-26",
+      "co": "AceVector Limited",
+      "tk": "ACEVECTOR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-26",
       "co": "Aditya Birla Real Estate Limited",
       "tk": "ABREL",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Tribhovandas Bhimji Zaveri Limited",
       "tk": "TBZ",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "United Breweries Limited",
-      "tk": "UBL",
       "type": "Q2 FY27 results announcement"
     }
   ]
