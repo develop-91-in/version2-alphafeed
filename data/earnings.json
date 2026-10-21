@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T11:59:35.664Z",
+  "generatedAt": "2026-10-21T12:10:21.377Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1246,6 +1246,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Quick Heal Technologies Limited",
+      "tk": "QUICKHEAL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "ROUTE MOBILE LIMITED",
       "tk": "ROUTE",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-27",
       "co": "Syngene International Limited",
       "tk": "SYNGENE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-27",
-      "co": "Tanla Platforms Limited",
-      "tk": "TANLA",
       "type": "Q2 FY27 results announcement"
     }
   ]
