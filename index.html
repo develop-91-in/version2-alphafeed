@@ -317,20 +317,20 @@
 
       <!-- INDIAN MARKETS -->
       <section class="paper-section" id="indian-markets" data-nav="Indian Markets">
-        <div class="section-head"><h2>Indian Markets</h2><div class="sec-note">Closing bell · Monday, 19 October 2026 · Markets closed Tuesday for Dussehra</div><div class="sec-tools"><span class="count-pill" data-count-for="indian-markets"></span></div></div>
+        <div class="section-head"><h2>Indian Markets</h2><div class="sec-note" id="im-dateline">Closing bell · Monday, 19 October 2026 · Markets closed Tuesday for Dussehra</div><div class="sec-tools"><span class="count-pill" data-count-for="indian-markets"></span></div></div>
         <div class="bell" aria-label="Closing bell data">
-          <div><div class="k">NIFTY 50 · Close</div><div class="v">22,888.95</div><div class="s down">▼ 257.20 pts · −1.11%</div></div>
-          <div><div class="k">SENSEX · Close</div><div class="v">73,852.90</div><div class="s down">▼ 876.37 pts · −1.17%</div></div>
-          <div><div class="k">Market Breadth · BSE</div><div class="v">1,163 / 2,925</div><div class="s">Advances / Declines · 181 unchanged</div></div>
-          <div><div class="k">Sector Watch</div><div class="v" style="font-size:17px;padding-top:5px">Pvt Banks −1.9% · IT −1.3%</div><div class="s">Nifty Midcap −1.1% · Smallcap −1.0% · PSU Banks gained intraday</div></div>
+          <div><div class="k">NIFTY 50 · Close</div><div class="v" id="im-nifty-v">22,888.95</div><div class="s down" id="im-nifty-s">▼ 257.20 pts · −1.11%</div></div>
+          <div><div class="k">SENSEX · Close</div><div class="v" id="im-sensex-v">73,852.90</div><div class="s down" id="im-sensex-s">▼ 876.37 pts · −1.17%</div></div>
+          <div><div class="k">Market Breadth · BSE</div><div class="v">1,163 / 2,925</div><div class="s" id="im-breadth-s">Advances / Declines · 181 unchanged</div></div>
+          <div><div class="k">Sector Watch</div><div class="v" id="im-sector-v" style="font-size:17px;padding-top:5px">Pvt Banks −1.9% · IT −1.3%</div><div class="s" id="im-sector-s">Nifty Midcap −1.1% · Smallcap −1.0% · PSU Banks gained intraday</div></div>
         </div>
         <div class="bell" aria-label="Bank Nifty and MCX commodities snapshot, 19 October 2026" style="margin-top:10px">
-          <div><div class="k">NIFTY BANK · Close</div><div class="v">55,488.10</div><div class="s down">▼ 355.90 pts · −0.64% · Prev 55,844.00 · NSE</div></div>
-          <div><div class="k">MCX GOLD · Dec Futures</div><div class="v" style="font-size:21px;padding-top:2px">₹1,47,428<span style="font-size:13px;color:var(--muted)"> /10g</span></div><div class="s down">▼ ₹490 · −0.33% · 19 Oct, 7:33 PM IST</div></div>
-          <div><div class="k">MCX SILVER · Dec Futures</div><div class="v" style="font-size:21px;padding-top:2px">₹2,11,054<span style="font-size:13px;color:var(--muted)"> /kg</span></div><div class="s down">▼ ₹133 · −0.06% · 19 Oct, 6:02 PM IST</div></div>
-          <div><div class="k">MCX CRUDE · Nov Futures</div><div class="v">₹9,496<span style="font-size:13px;color:var(--muted)"> /bbl</span></div><div class="s down">▼ ₹77 · −0.80% · 19 Oct, 6:02 PM IST</div></div>
+          <div><div class="k">NIFTY BANK · Close</div><div class="v" id="im-bank-v">55,488.10</div><div class="s down" id="im-bank-s">▼ 355.90 pts · −0.64% · Prev 55,844.00 · NSE</div></div>
+          <div><div class="k" id="im-gold-k">MCX GOLD · Dec Futures</div><div class="v" id="im-gold-v" style="font-size:21px;padding-top:2px">₹1,47,428<span style="font-size:13px;color:var(--muted)"> /10g</span></div><div class="s down" id="im-gold-s">▼ ₹490 · −0.33% · 19 Oct, 7:33 PM IST</div></div>
+          <div><div class="k" id="im-silver-k">MCX SILVER · Dec Futures</div><div class="v" id="im-silver-v" style="font-size:21px;padding-top:2px">₹2,11,054<span style="font-size:13px;color:var(--muted)"> /kg</span></div><div class="s down" id="im-silver-s">▼ ₹133 · −0.06% · 19 Oct, 6:02 PM IST</div></div>
+          <div><div class="k" id="im-crude-k">MCX CRUDE · Nov Futures</div><div class="v" id="im-crude-v">₹9,496<span style="font-size:13px;color:var(--muted)"> /bbl</span></div><div class="s down" id="im-crude-s">▼ ₹77 · −0.80% · 19 Oct, 6:02 PM IST</div></div>
         </div>
-        <p style="font-size:12.5px;color:var(--muted);margin:8px 0 14px">Sources: Nifty Bank close — NSE via MarketPing / Shunya (19 Oct); MCX Gold, Silver &amp; Crude — MCX futures via 5paisa (19 Oct evening snapshot, prev. closes: Gold ₹1,47,918, Silver ₹2,11,187, Crude ₹9,573). MCX trades into the evening, so commodity figures are the verified evening snapshot for 19 Oct.</p>
+        <p id="im-sources" style="font-size:12.5px;color:var(--muted);margin:8px 0 14px">Sources: Nifty Bank close — NSE via MarketPing / Shunya (19 Oct); MCX Gold, Silver &amp; Crude — MCX futures via 5paisa (19 Oct evening snapshot, prev. closes: Gold ₹1,47,918, Silver ₹2,11,187, Crude ₹9,573). MCX trades into the evening, so commodity figures are the verified evening snapshot for 19 Oct.</p>
         <div class="grid two" data-story-grid="indian-markets"></div>
         <div class="empty" data-empty-for="indian-markets">No market stories within the last 24 hours.</div>
       </section>
@@ -712,22 +712,61 @@
           '<td data-k="Previous">'+esc(m.prev)+'</td>' +
           '<td data-k="Release">'+esc(m.rel)+'</td>' +
           '<td data-k="Next">'+esc(m.next)+'</td>' +
-          '<td data-k="Source"><a href="'+esc(m.url)+'" target="_blank" rel="noopener">'+esc(m.src)+' ↗</a></td></tr>';
+          '<td data-k="Source">'+(m.url ? '<a href="'+esc(m.url)+'" target="_blank" rel="noopener">'+esc(m.src)+' ↗</a>' : esc(m.src))+'</td></tr>';
       }).join("");
+    }
+
+    /* IPO status is computed from the issue dates at render time, so a table
+       scraped in the morning still reads correctly in the evening: an issue
+       whose window opens today is "Open now", not forever "Upcoming". */
+    function ipoTxtDate(s, yr){
+      var M = {jan:0, feb:1, mar:2, apr:3, may:4, jun:5, jul:6, aug:7, sep:8, oct:9, nov:10, dec:11};
+      var m = String(s || "").match(/(\d{1,2})\s+([A-Za-z]+)/);
+      if (!m) return null;
+      var mo = M[m[2].slice(0, 3).toLowerCase()];
+      return mo == null ? null : Date.UTC(yr, mo, +m[1]);
+    }
+    function ipoDatesOf(i){
+      if (i.openISO && i.closeISO){
+        return { o: Date.parse(i.openISO + "T00:00:00Z"), c: Date.parse(i.closeISO + "T00:00:00Z"),
+                 l: i.listingISO ? Date.parse(i.listingISO + "T00:00:00Z") : null };
+      }
+      var yrM = String(i.dates || "").match(/(\d{4})/), yr = yrM ? +yrM[1] : istNow().getFullYear();
+      var parts = String(i.dates || "").split("–");
+      var o = ipoTxtDate(parts[0], yr), c = parts.length > 1 ? ipoTxtDate(parts[1], yr) : o;
+      var lyM = String(i.listing || "").match(/(\d{4})/);
+      var l = ipoTxtDate(i.listing, lyM ? +lyM[1] : yr);
+      return { o: o, c: c, l: l };
+    }
+    function ipoTodayMs(){ var n = istNow(); return Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()); }
+    function ipoStatusOf(i){
+      var d = ipoDatesOf(i), t = ipoTodayMs();
+      if (d.o == null || d.c == null || isNaN(d.o) || isNaN(d.c)) return { txt: i.status || "", cls: i.cls || "" };
+      if (d.l != null && !isNaN(d.l) && t >= d.l) return { txt: "Listed", cls: "" };
+      if (t < d.o) return { txt: "Upcoming", cls: "upcoming" };
+      if (t <= d.c) return { txt: "Open now", cls: "open" };
+      return { txt: "Closed", cls: "closed" };
+    }
+    function ipoLongListed(i){
+      var d = ipoDatesOf(i);
+      if (d.l == null || isNaN(d.l)) return false;
+      return (ipoTodayMs() - d.l) > 10 * 86400000;
     }
 
     /* =============== IPO =============== */
     function renderIPO(kind){
-      var rows = IPOS[kind].map(function(i){
+      window.AF_IPO_KIND = kind;
+      var rows = IPOS[kind].filter(function(i){ return !ipoLongListed(i); }).map(function(i){
+        var st = ipoStatusOf(i);
         return '<div class="ipo-row"><div class="co">'+esc(i.co)+'<small>'+esc(i.note)+' · Allotment date: not announced in sources checked</small></div>' +
           '<div class="cell"><b>Issue Size</b><span>'+esc(i.size)+'</span></div>' +
           '<div class="cell"><b>Price Band</b><span>'+esc(i.band)+'</span></div>' +
           '<div class="cell"><b>Open – Close</b><span>'+esc(i.dates)+'</span></div>' +
           '<div class="cell"><b>Listing</b><span>'+esc(i.listing)+'</span></div>' +
-          '<div><span class="st '+i.cls+'">'+esc(i.status)+'</span></div></div>';
+          '<div><span class="st '+st.cls+'">'+esc(st.txt)+'</span></div></div>';
       }).join("");
-      $("#ipo-list").innerHTML = rows +
-        '<p style="font-size:12.5px;color:var(--muted);margin-top:12px">Sources: <a href="'+IPO_SOURCE_URL+'" target="_blank" rel="noopener" style="color:var(--accent);font-weight:700">Angel One — IPOs this week (19–23 Oct 2026) ↗</a> · <a href="'+IPO_SOURCE2_URL+'" target="_blank" rel="noopener" style="color:var(--accent);font-weight:700">IPO Watch — October 2026 calendar ↗</a>. No SME IPOs are scheduled to open during 19–23 October; the SME list above shows the most recent issues and their listing dates. Subscription figures are not printed unless officially reported.</p>';
+      $("#ipo-list").innerHTML = rows + (window.AF_IPO_FOOTER_HTML || (
+        '<p style="font-size:12.5px;color:var(--muted);margin-top:12px">Sources: <a href="'+IPO_SOURCE_URL+'" target="_blank" rel="noopener" style="color:var(--accent);font-weight:700">Angel One — IPOs this week (19–23 Oct 2026) ↗</a> · <a href="'+IPO_SOURCE2_URL+'" target="_blank" rel="noopener" style="color:var(--accent);font-weight:700">IPO Watch — October 2026 calendar ↗</a>. No SME IPOs are scheduled to open during 19–23 October; the SME list above shows the most recent issues and their listing dates. Subscription figures are not printed unless officially reported.</p>'));
     }
 
     /* =============== EARNINGS =============== */
@@ -893,8 +932,9 @@
   <script>
     /* =============== AUTO-UPDATE — fresh server data ===============
        This page ships with a compiled snapshot as an instant fallback. A refresh
-       job on the server rewrites data/edition.json and data/market.json every
-       30 minutes; this block loads them on open and on every edition check, so
+       job on the server rewrites data/edition.json, data/market.json,
+       data/ipos.json, data/earnings.json and data/macro.json every 30 minutes;
+       this block loads them on open and on every edition check, so
        every section — including Earnings Calls and Global Markets — shows the
        newest stories and prices, even on days when the Indian market is shut. */
     (function(){
@@ -1022,12 +1062,109 @@
         var ip = document.getElementById("ipo-news");
         if (ip) ip.innerHTML = afIpoNews.slice(0, 8).map(storyCard).join("");
       }
+      function afFetchJson(name, bust){
+        function go(url){ return fetch(url + bust, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; }); }
+        return go("data/" + name).then(function(j){
+          if (j) return j;
+          return go("https://version2-alphafeed.vercel.app/data/" + name);
+        });
+      }
+      function afSetText(id, txt){ var el = document.getElementById(id); if (el) el.textContent = txt; }
+      function afDelta(it, suffix){
+        var arrow = it.change > 0 ? "▲ " : (it.change < 0 ? "▼ " : "");
+        return arrow + afNum(Math.abs(it.change), it.dec == null ? 2 : it.dec) + (suffix || "") + " · " + afPct(it);
+      }
+      function afCard(vId, sId, it, valTxt, sTxt){
+        if (!it) return;
+        afSetText(vId, valTxt);
+        var s = document.getElementById(sId);
+        if (s){ s.innerHTML = sTxt; s.className = "s " + afDir(it); }
+      }
+      function afIndianBoard(market){
+        var by = {}; market.items.forEach(function(i){ by[i.symbol] = i; });
+        var nif = by["NIFTY 50"];
+        if (nif) afSetText("im-dateline", "Market data · " + afWhen(nif.timestamp || market.generatedAt) + " · Auto-updated every 30 minutes");
+        afCard("im-nifty-v", "im-nifty-s", nif, nif ? afNum(nif.price, 2) : "", nif ? afDelta(nif, " pts") : "");
+        var sen = by["SENSEX"];
+        afCard("im-sensex-v", "im-sensex-s", sen, sen ? afNum(sen.price, 2) : "", sen ? afDelta(sen, " pts") : "");
+        var bank = by["NIFTY BANK"];
+        afCard("im-bank-v", "im-bank-s", bank, bank ? afNum(bank.price, 2) : "", bank ? afDelta(bank, " pts") + " · Prev " + afNum(bank.price - bank.change, 2) + " · NSE" : "");
+        [["MCX GOLD", "im-gold", " /10g"], ["MCX SILVER", "im-silver", " /kg"], ["MCX CRUDE", "im-crude", " /bbl"]].forEach(function(cfg){
+          var it = by[cfg[0]]; if (!it) return;
+          afSetText(cfg[1] + "-k", cfg[0] + " · COMEX-derived");
+          var v = document.getElementById(cfg[1] + "-v");
+          if (v) v.innerHTML = "₹" + afNum(it.price, 0) + '<span style="font-size:13px;color:var(--muted)">' + cfg[2] + "</span>";
+          var s = document.getElementById(cfg[1] + "-s");
+          if (s){ var arrow = it.change > 0 ? "▲ " : (it.change < 0 ? "▼ " : ""); s.innerHTML = arrow + "₹" + afNum(Math.abs(it.change), 0) + " · " + afPct(it) + " · " + afWhen(it.timestamp || market.generatedAt); s.className = "s " + afDir(it); }
+        });
+        var secs = market.items.filter(function(i){ return i.region === "Sector"; });
+        if (secs.length >= 3){
+          var short = {"NIFTY IT":"IT", "NIFTY AUTO":"Auto", "NIFTY PHARMA":"Pharma", "NIFTY FMCG":"FMCG", "NIFTY METAL":"Metal", "NIFTY ENERGY":"Energy", "NIFTY REALTY":"Realty", "NIFTY PSU BANK":"PSU Bank", "NIFTY MIDCAP 50":"Midcap 50", "NIFTY INFRA":"Infra", "NIFTY MEDIA":"Media"};
+          var top = secs.slice().sort(function(a, b){ return b.changePct - a.changePct; }).slice(0, 5);
+          afSetText("im-sector-v", top.map(function(i){ return (short[i.symbol] || i.symbol) + " " + afPct(i); }).join(" · "));
+          afSetText("im-sector-s", "Sector indices · " + afStamp(market.generatedAt));
+        }
+        afSetText("im-breadth-s", "Advances / Declines · Snapshot 19 Oct 2026 — live breadth feed not connected");
+        afSetText("im-sources", "Sources: NSE indices via Yahoo Finance (unofficial), auto-updated every 30 minutes · MCX Gold, Silver & Crude are COMEX-derived estimates (ex-duty), not official MCX quotes · Market breadth is a dated snapshot (19 Oct 2026).");
+      }
+      function afIpos(j){
+        if (!j || typeof IPOS === "undefined" || typeof renderIPO !== "function") return;
+        var changed = false;
+        if (Array.isArray(j.mainboard) && j.mainboard.length){ IPOS.mainboard = j.mainboard; changed = true; }
+        if (Array.isArray(j.sme)){ IPOS.sme = j.sme; changed = true; }
+        if (!changed) return;
+        window.AF_IPO_FOOTER_HTML = '<p style="font-size:12.5px;color:var(--muted);margin-top:12px">Source: Chittorgarh IPO calendar (scraped, unofficial) · ' + afStamp(j.generatedAt) + '. Issue details as reported — verify in the RHP before applying. Subscription figures are not printed unless officially reported.</p>';
+        renderIPO(window.AF_IPO_KIND || "mainboard");
+      }
+      function afMacro(j){
+        if (!j || !Array.isArray(j.rows) || !j.rows.length || typeof MACRO === "undefined" || typeof renderMacro !== "function") return;
+        MACRO.length = 0;
+        j.rows.forEach(function(r){ MACRO.push(r); });
+        renderMacro();
+      }
+      function afIstISO(offset){
+        var d = istNow(); d.setHours(0, 0, 0, 0); d.setDate(d.getDate() + (offset || 0));
+        return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
+      }
+      function afEarnings(j){
+        var eg = document.getElementById("earn-grid");
+        if (!eg || !j || !Array.isArray(j.entries) || !j.entries.length) return;
+        var seenE = {}, byDate = {};
+        j.entries.forEach(function(e){
+          var k = e.dateISO + "|" + (e.tk || e.co);
+          if (seenE[k]) return; seenE[k] = 1;
+          (byDate[e.dateISO] = byDate[e.dateISO] || []).push(e);
+        });
+        var dates = Object.keys(byDate).sort().filter(function(d){ return d >= afIstISO(0); }).slice(0, 3);
+        if (!dates.length) return;
+        function dayLabel(iso){
+          if (iso === afIstISO(0)) return "Today";
+          if (iso === afIstISO(1)) return "Tomorrow";
+          if (iso === afIstISO(2)) return "Day After Tomorrow";
+          return new Date(iso + "T12:00:00").toLocaleDateString("en-IN", {weekday:"long"});
+        }
+        var cols = dates.map(function(iso){
+          var items = byDate[iso].slice().sort(function(a, b){ return a.co < b.co ? -1 : 1; });
+          var shown = items.slice(0, 15);
+          var body = shown.map(function(e){
+            return '<div class="earn-item"><div class="co">' + esc(e.co) + ' <span class="tk">' + esc(e.tk) + '</span></div>' +
+              '<div class="dt"><b>' + esc(e.type) + '</b><br />Call time: <b>Call time not announced</b></div></div>';
+          }).join("");
+          if (items.length > shown.length) body += '<div class="earn-item"><div class="dt">+ ' + (items.length - shown.length) + ' more results scheduled this day (see the NSE calendar).</div></div>';
+          if (!items.length) body = '<div class="earn-item"><div class="dt">No verified events found for this date in the sources checked.</div></div>';
+          return '<div class="earn-day"><h3>' + dayLabel(iso) + ', <span>' + fmtDay(new Date(iso + "T12:00:00")) + '</span></h3>' + body + '</div>';
+        }).join("");
+        eg.innerHTML = cols + '<p class="earn-note" style="grid-column:1/-1;margin-top:8px">Results calendar: NSE event calendar (board meetings for financial results) · ' + afStamp(j.generatedAt) + '. A results announcement, a board meeting and an earnings call are different events — confirm timings on the company\'s investor-relations page or the NSE/BSE announcement before joining a call.</p>';
+      }
       function afRefresh(){
         if (typeof fetch !== "function") return;
         var bust = "?v=" + Date.now();
         Promise.all([
-          fetch("data/edition.json" + bust, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; }),
-          fetch("data/market.json" + bust, {cache:"no-store"}).then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; })
+          afFetchJson("edition.json", bust),
+          afFetchJson("market.json", bust),
+          afFetchJson("ipos.json", bust),
+          afFetchJson("earnings.json", bust),
+          afFetchJson("macro.json", bust)
         ]).then(function(res){
           var ed = res[0], mk = res[1] || (ed && ed.market) || null;
           if (ed && ed.articles){
@@ -1036,8 +1173,11 @@
             if (typeof renderStories === "function") renderStories();
             afRenderNews();
           }
-          if (mk && mk.items){ afTicker(mk); afBoard(mk); }
-          if (ed || mk){ window.lastSuccessfulUpdate = new Date(); window.nextCheckAt = Date.now() + 30*60*1000; }
+          if (mk && mk.items){ afTicker(mk); afBoard(mk); afIndianBoard(mk); }
+          if (res[2]) afIpos(res[2]);
+          if (res[3]) afEarnings(res[3]);
+          if (res[4]) afMacro(res[4]);
+          if (ed || mk || res[2] || res[3] || res[4]){ window.lastSuccessfulUpdate = new Date(); window.nextCheckAt = Date.now() + 30*60*1000; }
         });
       }
       var afOrigCheck = window.runEditionCheck;
