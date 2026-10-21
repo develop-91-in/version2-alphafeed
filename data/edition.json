@@ -1,85 +1,185 @@
 {
-  "generatedAt": "2026-10-21T01:59:17.840Z",
+  "generatedAt": "2026-10-21T02:29:25.671Z",
   "articles": [
     {
-      "title": "AI debutant’s flameout stokes fears boom is ending",
-      "desc": "Elice, a data center and AI developer, faced a significant decline in its stock price during its debut. This situation exemplifies a broader trend where investors are increasingly skeptical about AI valuations and prospects. Several companies, including CoreWeave and Firmus Grid, have also encountered investor pushback regarding their financial outlooks. Rising borrowing costs are contributing to these concerns, impacting the performance of tech stocks, including semiconductors.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-debutants-flameout-stokes-fears-boom-is-ending/articleshow/135079415.cms",
-      "pubDate": "Wed, 21 Oct 2026 07:08:41 +0530",
+      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth",
+      "desc": "On Sunday, Anthropic said it would commit 5% of its shares to the Anthropic Public Benefit Fund, a new entity within the company, pending approval from stockholders. The stake could increase \"as the company grows\" in the future. The maker of AI assistant Claude said the fund \"might explore\" larger donations to traditional nonprofits or potentially distribute money to \"specific populations.\"",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ahead-of-massive-ipos-ai-companies-are-sketching-plans-to-share-their-wealth/articleshow/135080049.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:50:00 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "desc": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 02:18:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Negative Breakout: These 8 large-cap stocks cross below their 200 DMAs",
+      "desc": "The 200 DMA is a widely used technical indicator that helps traders assess the overall trend of a stock.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:44:41 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US targets $500bn bilateral trade with India in three years: Ambassador Sergio Gor at Freedom 250",
+      "title": "Oil Price Today (October 21): Crude oil crosses $110 amid Middle East supply concerns. What lies ahead?",
+      "desc": "Brent crude futures jumped more than $1 to trade at around $110 per barrel. WTI Crude futures also gained more than a dollar to trade at around $99 per barrel",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-21-crude-oil-crosses-110-amid-middle-east-supply-concerns-what-lies-ahead/articleshow/135079942.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:42:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic recorded net loss of over $80 billion in first half of this year",
+      "desc": "AI startup Anthropic recorded a net loss of more than $80 billion in the first half of this year, the Wall Street Journal reported on Tuesday.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports/articleshow/135079928.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:41:42 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Gold slips as investors await Fed rate signals",
+      "desc": "Gold prices fell slightly as investors monitored the Federal Reserve's major interest rate decision. The anticipated meeting will provide key insights into future economic policies. Economists expect the Fed to hold rates steady, emphasizing inflation concerns. The Bank of Japan is also projected to raise interest rates in December. Other precious metals, including silver and platinum, experienced minimal changes during this period.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-await-fed-rate-signals/articleshow/135079883.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:39:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA",
+      "desc": "The US dollar is facing downward pressure with both Treasury yields and crude oil prices on the decline. Meanwhile, the Australian dollar is nearing a three-week high, buoyed by supportive remarks from Reserve Bank of Australia Deputy Governor Andrew Hauser. Wall Street had a robust session as technology earnings began with results from SpaceX.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-on-back-foot-as-us-yields-crude-prices-dip-aussie-buoyed-by-hawkish-rba/articleshow/135079865.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:36:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Oil rises on Middle East supply worries",
+      "desc": "Oil prices are climbing amid increasing supply worries in the Middle East. Ongoing attacks on maritime vessels beyond the Strait of Hormuz have heightened shipping risks. The Houthis have taken responsibility for various assaults on Saudi installations, which has further inflamed regional tensions. Concurrently, US officials are collaborating with refiners to mitigate the impact of surging diesel prices linked to shortages.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-middle-east-supply-worries/articleshow/135079848.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:35:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Ahead of massive IPOs, AI companies are sketching plans to share their wealth",
+      "desc": "On Sunday, Anthropic said it would commit 5% of its shares to the Anthropic Public Benefit Fund, a new entity within the company, pending approval from stockholders. The stake could increase \"as the company grows\" in the future. The maker of AI assistant Claude said the fund \"might explore\" larger donations to traditional nonprofits or potentially distribute money to \"specific populations.\"",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ahead-of-massive-ipos-ai-companies-are-sketching-plans-to-share-their-wealth/articleshow/135080049.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:50:00 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "desc": "Drone strike on Abyei market near Sudan-South Sudan border kills 150",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss",
+      "pubDate": "Wed, 21 Oct 2026 02:18:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Negative Breakout: These 8 large-cap stocks cross below their 200 DMAs",
+      "desc": "The 200 DMA is a widely used technical indicator that helps traders assess the overall trend of a stock.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-large-cap-stocks-cross-below-their-200-dmas/slideshow/135080058.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:44:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Oil Price Today (October 21): Crude oil crosses $110 amid Middle East supply concerns. What lies ahead?",
+      "desc": "Brent crude futures jumped more than $1 to trade at around $110 per barrel. WTI Crude futures also gained more than a dollar to trade at around $99 per barrel",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-21-crude-oil-crosses-110-amid-middle-east-supply-concerns-what-lies-ahead/articleshow/135079942.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:42:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Anthropic recorded net loss of over $80 billion in first half of this year",
+      "desc": "AI startup Anthropic recorded a net loss of more than $80 billion in the first half of this year, the Wall Street Journal reported on Tuesday.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-recorded-net-loss-of-over-80-billion-in-first-half-of-this-year-wsj-reports/articleshow/135079928.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:41:42 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Gold slips as investors await Fed rate signals",
+      "desc": "Gold prices fell slightly as investors monitored the Federal Reserve's major interest rate decision. The anticipated meeting will provide key insights into future economic policies. Economists expect the Fed to hold rates steady, emphasizing inflation concerns. The Bank of Japan is also projected to raise interest rates in December. Other precious metals, including silver and platinum, experienced minimal changes during this period.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-investors-await-fed-rate-signals/articleshow/135079883.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:39:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA",
+      "desc": "The US dollar is facing downward pressure with both Treasury yields and crude oil prices on the decline. Meanwhile, the Australian dollar is nearing a three-week high, buoyed by supportive remarks from Reserve Bank of Australia Deputy Governor Andrew Hauser. Wall Street had a robust session as technology earnings began with results from SpaceX.",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-on-back-foot-as-us-yields-crude-prices-dip-aussie-buoyed-by-hawkish-rba/articleshow/135079865.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:36:37 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Oil rises on Middle East supply worries",
+      "desc": "Oil prices are climbing amid increasing supply worries in the Middle East. Ongoing attacks on maritime vessels beyond the Strait of Hormuz have heightened shipping risks. The Houthis have taken responsibility for various assaults on Saudi installations, which has further inflamed regional tensions. Concurrently, US officials are collaborating with refiners to mitigate the impact of surging diesel prices linked to shortages.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-on-middle-east-supply-worries/articleshow/135079848.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:35:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Netflix issues weak fourth-quarter forecast, shares drop",
+      "desc": "Third-quarter revenue rose 11.8% to $12.87 billion, in line with Wall Street forecasts, but the lowest rate of increase in nearly three years. The company forecast fourth-quarter net income of $2.79 billion and EPS of 67 cents, below the average analyst forecast of $3.07 billion and 73 cents.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/netflix-issues-weak-fourth-quarter-forecast-shares-drop/articleshow/135079840.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:35:18 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade higher",
       "desc": "",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-500bn-bilateral-trade-with-india-in-three-years-ambassador-sergio-gor-at-freedom-250/videoshow/135079313.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:47:25 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Sun Pharma to raise Rs 10,000 crore to part-finance Organon deal",
-      "desc": "Sun Pharmaceutical Industries plans to raise ₹10,000 crore through two tranches of rupee-denominated bonds. The funds will help refinance bridge loans taken for the Organon acquisition valued at $11.75 billion. The first tranche will amount to ₹7,000 crore with a coupon rate of 8.20%. Institutional investors are expected to participate, including notable companies like SBI Pension Fund and ICICI Prudential Mutual Fund.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-to-raise-rs-10k-crore-to-part-finance-organon-deal/articleshow/135079260.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:46:56 +0530",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-eternal-share-price-21-october-2026/liveblog/135079653.cms",
+      "pubDate": "Wed, 21 Oct 2026 07:19:39 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Bessent sees no spillover from France bond market’s turmoil",
-      "desc": "Scott Bessent, the US Treasury secretary, expressed that the French bond market will not affect other markets. He acknowledged the economic challenges faced by France amidst ongoing protests and unrest. President Macron's economic team is recognized by Bessent as being highly capable and knowledgeable. Recent protests in France have intensified, leading to increased pressure on the country's debt situation.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-no-spillover-from-france-bond-markets-turmoil/articleshow/135079201.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:37:59 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Why the rupee remains under pressure despite lower CAD?",
-      "desc": "The Indian rupee has depreciated significantly this year and is expected to weaken further due to global conditions. Despite improvements in the current account deficit, ongoing foreign portfolio outflows create pressure on the currency. High crude oil prices continue to inflate the import bill, exacerbating the rupee's depreciation. Recent interventions by the Reserve Bank of India aim to stabilize the currency amidst these pressures.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-to-weaken-further-despite-narrower-current-account-deficit/articleshow/135079049.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:31:37 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US targets $500 bn bilateral trade with India in three years, says Ambassador Sergio Gor",
-      "desc": "The United States plans to increase bilateral trade with India to over USD 500 billion in three years. This trade target comes after reaching a record USD 240 billion, highlighting growing economic ties. Collaboration will focus on sectors like semiconductors, energy, and defense to foster mutual interests. Recent diplomatic engagements have already begun shaping a strategic alignment for both nations.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-targets-500-bn-bilateral-trade-with-india-in-three-years-says-ambassador-sergio-gor/articleshow/135079166.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:31:24 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Global Market Today: Asian shares, US futures rise on AI-trade revival",
-      "desc": "The MSCI Asia Pacific Index climbed 0.6% with shares gaining in South Korea and Japan. The Kospi Index rose 1.9%, rebounding after one of the country’s worst IPO debuts on record.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-us-futures-rise-on-ai-trade-revival/articleshow/135079128.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:30:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "JPMorgan Asset Management sees Bitcoin beating stocks, but with a big catch",
-      "desc": "JPMorgan Asset Management has introduced Bitcoin into its long-term capital market assumptions for the first time. The firm forecasts annualized returns of 10% over the next decade, alongside significant volatility of 55%. This volatility may undermine Bitcoin's attractiveness on a risk-adjusted basis compared to traditional investments. Despite the potential returns, JPMorgan has not incorporated Bitcoin into its main portfolio models due to instability.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-asset-management-sees-bitcoin-beating-stocks-but-with-a-big-catch/articleshow/135078990.cms",
-      "pubDate": "Wed, 21 Oct 2026 06:11:46 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "AI debutant’s flameout stokes fears boom is ending",
@@ -882,66 +982,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
-      "desc": "The IPO is priced at Rs 1,065-1,119 per share and will open on October 21, closing on October 23. At the upper end of the price band, the grey market premium points to an indicative listing price of Rs 1,364 per share.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:52:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
-      "desc": "Chip heavyweight SK Hynix Inc. headed for its lowest close since April. Data-center infrastructure company Elice Inc. plunged as much as 32% in its trading debut in Seoul. Both AI bellwethers SK Hynix and Samsung have plunged 35% and 22%, respectively.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:38:50 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
-      "desc": "The company is now asking investors to value it not merely as a telecom operator, but as a broader technology platform spanning 5G, fixed broadband, cloud, entertainment, enterprise services and artificial intelligence.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?",
-      "desc": "The Rs 30,213-crore public offering comprises an entirely fresh issue of 27 crore shares. If completed as planned, it will become India’s largest-ever initial public offering (IPO), surpassing Hyundai Motor India’s record set in 2024.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Warren Buffett warned about stock valuations but Berkshire Hathaway is aggressively purchasing stocks",
-      "desc": "While Buffett criticised the current market scenario, his firm Berkshire Hathaway has been pumping up its investments. The company under CEO Greg Abel has been increasing its stake in Google-parent Alphabet, making it one of Berkshire's five largest common stock holdings, led by iPhone maker Apple. Berkshire more than tripled its stake in Alphabet and purchased over $2.6 billion worth of shares in Delta Air Lines after Abel formally took over as chief executive from Warren Buffett at the start of the year.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-warned-about-stock-valuations-but-berkshire-hathaway-is-aggressively-purchasing-stocks/articleshow/135051738.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "How Peter Lynch turned Fidelity Magellan Fund’s $18 million into $14 billion in 13 years",
-      "desc": "Peter Lynch is known for his invaluable stock market lessons. The market expert who built one of the best track records in mutual fund history during his stint as Fidelity Magellan fund manager, wrote the popular book ‘One Up on Wall Street’.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-peter-lynch-turned-fidelity-magellan-funds-18-million-into-14-billion-in-13-years/articleshow/135051656.cms",
-      "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India eyes a  $20 billion pot of gold in New Zealand as its trade pact goes live",
       "desc": "The free trade agreement between India and New Zealand promises to promote trade and enhance professional movement. While some goods may enjoy duty-free status, a significant rise in merchandise exports might take time. However, New Zealand's engagement in several service sectors holds potential benefits for Indian companies. The agreement also opens up new job opportunities for Indian students and creates pathways for skilled professionals.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-fta-zero-tariffs-work-visas-20-billion-investment-trade-deal/articleshow/135060766.cms",
@@ -953,7 +993,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-21T01:59:17.840Z",
+    "generatedAt": "2026-10-21T02:29:25.671Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -966,7 +1006,7 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:12.354Z",
+        "timestamp": "2026-10-21T02:29:19.239Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -978,7 +1018,7 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:12.915Z",
+        "timestamp": "2026-10-21T02:29:20.111Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -990,7 +1030,7 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:13.209Z",
+        "timestamp": "2026-10-21T02:29:20.349Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1002,7 +1042,7 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:13.554Z",
+        "timestamp": "2026-10-21T02:29:20.698Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1014,7 +1054,7 @@
         "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:13.791Z",
+        "timestamp": "2026-10-21T02:29:20.888Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1026,7 +1066,7 @@
         "changePct": -0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:14.036Z",
+        "timestamp": "2026-10-21T02:29:21.357Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1038,7 +1078,7 @@
         "changePct": 1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:14.347Z",
+        "timestamp": "2026-10-21T02:29:21.567Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1050,7 +1090,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:14.612Z",
+        "timestamp": "2026-10-21T02:29:21.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1062,103 +1102,103 @@
         "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:14.904Z",
+        "timestamp": "2026-10-21T02:29:22.065Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIKKEI 225",
         "label": "NIKKEI 225",
         "region": "Japan",
-        "price": 64951.41,
-        "change": 875.988,
-        "changePct": 1.37,
+        "price": 64844.41,
+        "change": 768.988,
+        "changePct": 1.2,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:15.121Z",
+        "timestamp": "2026-10-21T02:29:22.378Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "HANG SENG",
         "label": "HANG SENG",
         "region": "Hong Kong",
-        "price": 23983.41,
-        "change": 115.67,
-        "changePct": 0.48,
+        "price": 23931.72,
+        "change": 63.98,
+        "changePct": 0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:15.424Z",
+        "timestamp": "2026-10-21T02:29:22.581Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "KOSPI",
         "label": "KOSPI",
         "region": "South Korea",
-        "price": 5743.59,
-        "change": 190.85,
-        "changePct": 3.44,
+        "price": 5791.8,
+        "change": 239.06,
+        "changePct": 4.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:15.711Z",
+        "timestamp": "2026-10-21T02:29:22.924Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SHANGHAI COMP",
         "label": "SHANGHAI COMP",
         "region": "China",
-        "price": 3732.761,
-        "change": -2.6094,
-        "changePct": -0.07,
+        "price": 3735.95,
+        "change": 0.5796,
+        "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-21T01:59:15.945Z",
+        "timestamp": "2026-10-21T02:29:23.902Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 110.1,
-        "change": 1.31,
-        "changePct": 1.2,
+        "price": 110.35,
+        "change": 1.56,
+        "changePct": 1.43,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-21T01:59:16.258Z",
+        "timestamp": "2026-10-21T02:29:24.220Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 98.96,
-        "change": 1.14,
-        "changePct": 1.17,
+        "price": 99.18,
+        "change": 1.36,
+        "changePct": 1.39,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-21T01:59:16.530Z",
+        "timestamp": "2026-10-21T02:29:24.453Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4136.9,
-        "change": -5.7,
-        "changePct": -0.14,
+        "price": 4136.2,
+        "change": -6.4,
+        "changePct": -0.15,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-21T01:59:16.807Z",
+        "timestamp": "2026-10-21T02:29:24.766Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 57.755,
-        "change": -0.245,
-        "changePct": -0.42,
+        "price": 57.71,
+        "change": -0.29,
+        "changePct": -0.5,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-21T01:59:17.075Z",
+        "timestamp": "2026-10-21T02:29:24.955Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,43 +1210,43 @@
         "changePct": -0.37,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-21T01:59:17.372Z",
+        "timestamp": "2026-10-21T02:29:25.298Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 126051,
-        "change": -171,
-        "changePct": -0.14,
+        "price": 126027,
+        "change": -195,
+        "changePct": -0.15,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-21T01:59:17.553Z",
+        "timestamp": "2026-10-21T02:29:25.401Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 175975,
-        "change": -746,
-        "changePct": -0.42,
+        "price": 175838,
+        "change": -884,
+        "changePct": -0.5,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-21T01:59:17.711Z",
+        "timestamp": "2026-10-21T02:29:25.622Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9378,
-        "change": 108,
-        "changePct": 1.17,
+        "price": 9399,
+        "change": 129,
+        "changePct": 1.39,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-21T01:59:17.840Z",
+        "timestamp": "2026-10-21T02:29:25.671Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
