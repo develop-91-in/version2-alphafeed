@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:10:52.713Z",
+  "generatedAt": "2026-10-22T05:29:29.890Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1221,6 +1221,12 @@
       "type": "Q2 FY27 results announcement"
     },
     {
+      "dateISO": "2026-10-27",
+      "co": "Waaree Energies Limited",
+      "tk": "WAAREEENER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
       "dateISO": "2026-10-28",
       "co": "AGI Greenpac Limited",
       "tk": "AGI",
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Borosil Scientific Limited",
       "tk": "BOROSCI",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Chemfab Alkalis Limited",
-      "tk": "CHEMFAB",
       "type": "Q2 FY27 results announcement"
     }
   ]
