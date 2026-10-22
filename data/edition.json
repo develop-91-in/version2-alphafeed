@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-22T12:59:27.994Z",
+  "generatedAt": "2026-10-22T13:29:33.724Z",
   "articles": [
+    {
+      "title": "IBM falls as analysts question staying power of software rebound",
+      "desc": "IBM shares fell 6.5% in premarket trading on Thursday, as analysts said part of the company's third-quarter software rebound was driven by deals delayed from the previous quarter, raising questions about how sustainable the boost would be.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/ibm-falls-as-analysts-question-staying-power-of-software-rebound/articleshow/135120130.cms",
+      "pubDate": "Thu, 22 Oct 2026 18:52:57 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "desc": "Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an announcement posted to the Atari [&#8230;]",
+      "link": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "pubDate": "2026-10-22T09:17:59-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready",
       "desc": "On Tesla's earnings call Wednesday, CEO Elon Musk announced that the company had begun early production of its humanoid robot on its high-volume line in Fremont, California. Then he laid out what still needs work: the robot's hands, its safety, reliability, and durability, and the artificial intelligence needed to make it a productive tool. \"There's [&#8230;]",
@@ -62,24 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Union Pacific's third-quarter profit rises on pricing strength",
-      "desc": "Union Pacific showcased impressive third-quarter adjusted profit, primarily fueled by increased fuel surcharge revenue and solid core pricing strategies. The boost in operating revenue reflects their commitment to maintaining pricing discipline and enhancing operational efficiencies. Despite the hurdles posed by geopolitical-driven energy price hikes, US railroads have effectively sustained profitability, benefiting from improved service reliability that attracted new freight volumes while keeping existing customers engaged.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/union-pacifics-third-quarter-profit-rises-on-pricing-strength/articleshow/135119313.cms",
-      "pubDate": "Thu, 22 Oct 2026 18:06:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "eMudhra to exit global SSL/TLS certificate business after controversy",
-      "desc": "Digital trust services provider eMudhra on Thursday said that it would voluntarily withdraw from the global SSL/TLS certificate business, following an incident where its certificates were found to have vulnerabilities.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/emudhra-to-exit-global-ssl/tls-certificate-business-after-controversy/articleshow/135119151.cms",
-      "pubDate": "Thu, 22 Oct 2026 18:02:20 +0530",
+      "title": "Swiggy to transition to Indian-owned entity starting Q3FY27, eyes 80 bps Instamart margin boost",
+      "desc": "The transition is likely to improve its quick commerce arm Instamart’s contribution margin by around 80 basis points once fully implemented. It will also give the Bengaluru-based company better control over assortment, pricing, product availability, and day-to-day operations.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/swiggy-to-transition-to-indian-owned-entity-starting-q3fy27-eyes-80-bps-instamart-margin-boost/articleshow/135120230.cms",
+      "pubDate": "Thu, 22 Oct 2026 18:57:42 +0530",
       "image": "",
       "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "IBM falls as analysts question staying power of software rebound",
+      "desc": "IBM shares fell 6.5% in premarket trading on Thursday, as analysts said part of the company's third-quarter software rebound was driven by deals delayed from the previous quarter, raising questions about how sustainable the boost would be.",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/ibm-falls-as-analysts-question-staying-power-of-software-rebound/articleshow/135120130.cms",
+      "pubDate": "Thu, 22 Oct 2026 18:52:57 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "desc": "Following a decade long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an announcement posted to the Atari [&#8230;]",
+      "link": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "pubDate": "2026-10-22T09:17:59-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Googlebooks just aren’t ready",
+      "desc": "EEvery Googlebook laptop we've tested so far has great hardware. The problem is the software. While Googlebook OS has exciting ideas for how a laptop and phone can work together, right now it's mostly a frustrating experience filled with annoying bugs and lackluster app support. It often feels like using an Android tablet with a [&#8230;]",
+      "link": "https://www.theverge.com/tech/1015749/googlebook-hp-acer-lenovo-dell-asus-collective-laptop-review",
+      "pubDate": "2026-10-22T09:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "desc": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "pubDate": "2026-10-22T09:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
@@ -318,16 +368,6 @@
       "pubDate": "Thu, 22 Oct 2026 11:15:58 GMT",
       "image": "",
       "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Eiliko maker says it&#8217;s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-      "desc": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security [&#8230;]",
-      "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "pubDate": "2026-10-22T07:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
     },
@@ -892,8 +932,8 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Deepseek raises $15 billion in challenge to leading US labs",
-      "desc": "Chinese AI startup DeepSeek has raised about 100 billion yuan ($14.98 billion) in its latest fundraising round, Bloomberg News reported on Thursday citing people familiar with the",
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+      "desc": "Battery maker Contemporary Amperex Technology (CATL) and WeChat operator Tencent Holdings were among the biggest investors in the round, said one of the people, who both declined to be named as the information was confidential.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/deepseek-raises-15-billion-in-challenge-to-leading-us-labs/articleshow/135105489.cms",
       "pubDate": "Thu, 22 Oct 2026 08:26:44 +0530",
       "image": "",
@@ -972,16 +1012,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "desc": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "pubDate": "2026-10-21T19:36:31-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "The 'trillion pound' oil fund the government believes Britain could have built",
       "desc": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
       "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&amp;at_campaign=rss",
@@ -1000,26 +1030,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "desc": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "pubDate": "2026-10-21T18:33:44-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "desc": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. \"The scale of investment required to compete, sustain growth, expand infrastructure, [&#8230;]",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "pubDate": "2026-10-21T17:30:02-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -1260,20 +1270,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Glance to be integrated by default on Android TVs in US, India, Japan in partnership with Google",
-      "desc": "Under the collaboration, Glance will transform idle TV screens into interactive shoppable storefronts across fashion, travel, food, wellness, and other lifestyle categories.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/glance-to-be-integrated-by-default-on-android-tvs-in-us-india-japan-in-partnership-with-google/articleshow/135093538.cms",
-      "pubDate": "Wed, 21 Oct 2026 18:55:24 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-22T12:59:27.994Z",
+    "generatedAt": "2026-10-22T13:29:33.724Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1286,7 +1286,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:17.165Z",
+        "timestamp": "2026-10-22T13:29:23.421Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1298,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:17.631Z",
+        "timestamp": "2026-10-22T13:29:24.187Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1310,7 @@
         "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:17.929Z",
+        "timestamp": "2026-10-22T13:29:24.543Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1322,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:18.190Z",
+        "timestamp": "2026-10-22T13:29:24.821Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1334,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:18.477Z",
+        "timestamp": "2026-10-22T13:29:25.122Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,7 +1346,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:18.825Z",
+        "timestamp": "2026-10-22T13:29:25.454Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1358,7 +1358,7 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:20.200Z",
+        "timestamp": "2026-10-22T13:29:25.732Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1370,7 @@
         "changePct": -1.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:20.435Z",
+        "timestamp": "2026-10-22T13:29:26.040Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1382,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:20.823Z",
+        "timestamp": "2026-10-22T13:29:26.353Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,7 +1394,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:21.123Z",
+        "timestamp": "2026-10-22T13:29:26.674Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1406,7 +1406,7 @@
         "changePct": -0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:21.479Z",
+        "timestamp": "2026-10-22T13:29:27.108Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1418,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:21.713Z",
+        "timestamp": "2026-10-22T13:29:27.588Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1430,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:21.982Z",
+        "timestamp": "2026-10-22T13:29:27.896Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,7 +1442,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:22.213Z",
+        "timestamp": "2026-10-22T13:29:28.226Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1454,7 +1454,7 @@
         "changePct": -2.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:22.836Z",
+        "timestamp": "2026-10-22T13:29:28.499Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1466,7 +1466,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:23.069Z",
+        "timestamp": "2026-10-22T13:29:28.737Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1478,7 +1478,7 @@
         "changePct": 1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:23.321Z",
+        "timestamp": "2026-10-22T13:29:29.030Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1490,31 +1490,31 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:23.554Z",
+        "timestamp": "2026-10-22T13:29:29.329Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10738.41,
-        "change": -14.47,
+        "price": 10738.28,
+        "change": -14.6,
         "changePct": -0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:23.889Z",
+        "timestamp": "2026-10-22T13:29:29.606Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25499.53,
-        "change": -145.51,
-        "changePct": -0.57,
+        "price": 25521.52,
+        "change": -123.52,
+        "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:24.185Z",
+        "timestamp": "2026-10-22T13:29:29.964Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1526,7 +1526,7 @@
         "changePct": -2.65,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:24.945Z",
+        "timestamp": "2026-10-22T13:29:30.313Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1538,7 +1538,7 @@
         "changePct": -3.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:25.211Z",
+        "timestamp": "2026-10-22T13:29:30.612Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1550,7 +1550,7 @@
         "changePct": -3.52,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:25.472Z",
+        "timestamp": "2026-10-22T13:29:31.144Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1562,103 +1562,103 @@
         "changePct": -1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T12:59:26.066Z",
+        "timestamp": "2026-10-22T13:29:31.665Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 111.85,
-        "change": 3.03,
-        "changePct": 2.78,
+        "price": 112.25,
+        "change": 3.43,
+        "changePct": 3.15,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T12:59:26.510Z",
+        "timestamp": "2026-10-22T13:29:32.017Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 99.37,
-        "change": 2.22,
-        "changePct": 2.29,
+        "price": 99.73,
+        "change": 2.58,
+        "changePct": 2.66,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T12:59:26.764Z",
+        "timestamp": "2026-10-22T13:29:32.301Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4102.4,
-        "change": -47.6,
-        "changePct": -1.15,
+        "price": 4094.1,
+        "change": -55.9,
+        "changePct": -1.35,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T12:59:27.102Z",
+        "timestamp": "2026-10-22T13:29:32.644Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 56,
-        "change": -1.71,
-        "changePct": -2.96,
+        "price": 55.74,
+        "change": -1.97,
+        "changePct": -3.41,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T12:59:27.399Z",
+        "timestamp": "2026-10-22T13:29:32.937Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.04,
-        "change": -0.106,
-        "changePct": -2.06,
+        "price": 5.036,
+        "change": -0.11,
+        "changePct": -2.14,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-22T12:59:27.644Z",
+        "timestamp": "2026-10-22T13:29:33.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125047,
-        "change": -1451,
-        "changePct": -1.15,
+        "price": 124819,
+        "change": -1680,
+        "changePct": -1.33,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-22T12:59:27.767Z",
+        "timestamp": "2026-10-22T13:29:33.400Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 170696,
-        "change": -5212,
-        "changePct": -2.96,
+        "price": 169888,
+        "change": -6020,
+        "changePct": -3.42,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-22T12:59:27.915Z",
+        "timestamp": "2026-10-22T13:29:33.584Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9421,
-        "change": 210,
-        "changePct": 2.29,
+        "price": 9455,
+        "change": 245,
+        "changePct": 2.66,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-22T12:59:27.994Z",
+        "timestamp": "2026-10-22T13:29:33.724Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
