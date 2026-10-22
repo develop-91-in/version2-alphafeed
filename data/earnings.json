@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:59:41.976Z",
+  "generatedAt": "2026-10-22T12:59:39.887Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1066,6 +1066,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Mazagon Dock Shipbuilders Limited",
+      "tk": "MAZDOCK",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "Medplus Health Services Limited",
       "tk": "MEDPLUS",
       "type": "Q2 FY27 results announcement"
@@ -1153,6 +1159,12 @@
       "co": "SG Mart Limited",
       "tk": "SGMART",
       "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
+      "co": "SKY GOLD AND DIAMONDS LIMITED",
+      "tk": "SKYGOLD",
+      "type": "Financial results announcement"
     },
     {
       "dateISO": "2026-10-27",
@@ -1308,18 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Anant Raj Limited",
       "tk": "ANANTRAJ",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Apcotex Industries Limited",
-      "tk": "APCOTEXIND",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Arvind Limited",
-      "tk": "ARVIND",
       "type": "Q2 FY27 results announcement"
     }
   ]
