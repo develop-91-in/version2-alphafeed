@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-22T21:29:27.438Z",
+  "generatedAt": "2026-10-22T21:59:27.901Z",
   "articles": [
+    {
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Fall 2026 earnings watch",
       "desc": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.",
@@ -72,14 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
-      "desc": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:56:43 +0530",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "desc": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "pubDate": "2026-10-22T17:51:25-04:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Trump says Musk has restored Ukraine's internet access",
+      "desc": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 22 Oct 2026 21:42:39 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Fall 2026 earnings watch",
@@ -242,16 +262,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Discord now formats Markdown previews right",
-      "desc": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects [&#8230;]",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "pubDate": "2026-10-22T14:58:19-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
       "desc": "He said Swiggy’s priority is a stable business with “the clearest line of sight to Ebitda zero,” and that it would not use its cash reserves to open new fronts simply because the money is available. “I think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,” he said on the call following the announcement of the company's September quarter results.",
       "link": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
@@ -260,16 +270,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "The new Fire TV Stick 4K is already half off",
-      "desc": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-      "pubDate": "2026-10-22T14:43:57-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Chana sowing holds key to pulses inflation",
@@ -370,16 +370,6 @@
       "source": "Economic Times Industry",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Israeli attacks kill four as famine risk looms in Gaza",
-      "desc": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 16:06:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
@@ -1112,16 +1102,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "desc": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 03:05:28 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe",
       "desc": "Tesla is aiming to start selling its Cybercab robotaxis to the public by the end of this year, its engineering chief said on Wednesday, even as the US auto safety agency probes the vehicles that come without manual controls which federal regulations",
       "link": "https://economictimes.indiatimes.com/tech/technology/tesla-aims-to-sell-cybercab-robotaxis-by-end-of-year-despite-federal-probe/articleshow/135105576.cms",
@@ -1233,7 +1213,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-22T21:29:27.438Z",
+    "generatedAt": "2026-10-22T21:59:27.900Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1246,7 +1226,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:18.283Z",
+        "timestamp": "2026-10-22T21:59:19.265Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,7 +1238,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:18.968Z",
+        "timestamp": "2026-10-22T21:59:19.942Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,7 +1250,7 @@
         "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:19.230Z",
+        "timestamp": "2026-10-22T21:59:20.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1262,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:19.547Z",
+        "timestamp": "2026-10-22T21:59:20.520Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1274,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:19.833Z",
+        "timestamp": "2026-10-22T21:59:20.818Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1286,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:20.173Z",
+        "timestamp": "2026-10-22T21:59:21.072Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1298,7 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:20.554Z",
+        "timestamp": "2026-10-22T21:59:21.308Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1310,7 @@
         "changePct": -1.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:20.846Z",
+        "timestamp": "2026-10-22T21:59:21.614Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,7 +1322,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:21.140Z",
+        "timestamp": "2026-10-22T21:59:21.894Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1354,7 +1334,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:21.492Z",
+        "timestamp": "2026-10-22T21:59:22.182Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1366,7 +1346,7 @@
         "changePct": -0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:21.760Z",
+        "timestamp": "2026-10-22T21:59:22.423Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1378,7 +1358,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:22.052Z",
+        "timestamp": "2026-10-22T21:59:22.659Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1390,7 +1370,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:22.329Z",
+        "timestamp": "2026-10-22T21:59:22.935Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1402,7 +1382,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:22.637Z",
+        "timestamp": "2026-10-22T21:59:23.177Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1414,7 +1394,7 @@
         "changePct": -2.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:22.936Z",
+        "timestamp": "2026-10-22T21:59:23.424Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1426,7 +1406,7 @@
         "changePct": -1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:23.219Z",
+        "timestamp": "2026-10-22T21:59:23.798Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1438,7 +1418,7 @@
         "changePct": -2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:23.489Z",
+        "timestamp": "2026-10-22T21:59:23.987Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1450,7 +1430,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:23.771Z",
+        "timestamp": "2026-10-22T21:59:24.256Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1462,7 +1442,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:24.043Z",
+        "timestamp": "2026-10-22T21:59:24.542Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1474,7 +1454,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:24.315Z",
+        "timestamp": "2026-10-22T21:59:24.782Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1486,7 +1466,7 @@
         "changePct": -2.65,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:24.607Z",
+        "timestamp": "2026-10-22T21:59:25.109Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1498,7 +1478,7 @@
         "changePct": -3.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:24.873Z",
+        "timestamp": "2026-10-22T21:59:25.475Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1510,7 +1490,7 @@
         "changePct": -3.52,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:25.137Z",
+        "timestamp": "2026-10-22T21:59:25.714Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1522,7 +1502,7 @@
         "changePct": -1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T21:29:25.422Z",
+        "timestamp": "2026-10-22T21:59:26.020Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1530,11 +1510,11 @@
         "label": "BRENT CRUDE",
         "region": "Global",
         "price": 112.87,
-        "change": 4.05,
-        "changePct": 3.72,
+        "change": -0.3,
+        "changePct": -0.27,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T21:29:25.720Z",
+        "timestamp": "2026-10-22T21:59:26.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1542,11 +1522,11 @@
         "label": "WTI CRUDE",
         "region": "Global",
         "price": 99.1,
-        "change": 1.95,
-        "changePct": 2.01,
+        "change": -0.37,
+        "changePct": -0.37,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T21:29:25.987Z",
+        "timestamp": "2026-10-22T21:59:26.536Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1558,7 +1538,7 @@
         "changePct": -2.65,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T21:29:26.307Z",
+        "timestamp": "2026-10-22T21:59:26.768Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1570,7 +1550,7 @@
         "changePct": -5.34,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T21:29:26.653Z",
+        "timestamp": "2026-10-22T21:59:27.218Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1582,7 +1562,7 @@
         "changePct": -3.75,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-22T21:29:26.950Z",
+        "timestamp": "2026-10-22T21:59:27.473Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1594,7 +1574,7 @@
         "changePct": -2.65,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-22T21:29:27.121Z",
+        "timestamp": "2026-10-22T21:59:27.627Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1606,7 +1586,7 @@
         "changePct": -5.34,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-22T21:29:27.298Z",
+        "timestamp": "2026-10-22T21:59:27.797Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1614,11 +1594,11 @@
         "label": "MCX CRUDE",
         "region": "India",
         "price": 9395,
-        "change": 185,
-        "changePct": 2.01,
+        "change": -35,
+        "changePct": -0.37,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-22T21:29:27.438Z",
+        "timestamp": "2026-10-22T21:59:27.900Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
