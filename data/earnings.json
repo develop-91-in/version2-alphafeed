@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T06:00:20.681Z",
+  "generatedAt": "2026-10-22T06:59:39.680Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -886,6 +886,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Dynamic Cables Limited",
+      "tk": "DYCL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "FDC Limited",
       "tk": "FDC",
       "type": "Q2 FY27 results announcement"
@@ -1210,6 +1216,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Unimech Aerospace and Manufacturing Limited",
+      "tk": "UNIMECH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "United Breweries Limited",
       "tk": "UBL",
       "type": "Q2 FY27 results announcement"
@@ -1308,18 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Bandhan Bank Limited",
       "tk": "BANDHANBNK",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Bhageria Industries Limited",
-      "tk": "BHAGERIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Borosil Scientific Limited",
-      "tk": "BOROSCI",
       "type": "Q2 FY27 results announcement"
     }
   ]
