@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-22T19:59:31.725Z",
+  "generatedAt": "2026-10-22T20:29:37.467Z",
   "articles": [
+    {
+      "title": "Meta turns Muse sharing back on",
+      "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "pubDate": "2026-10-22T16:24:04-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
+      "desc": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&amp;P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:45:19 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Moderna stock crashes 25%, loses about $24 billion after cancer vaccine data leak",
+      "desc": "Moderna’s stock price dropped over 25% after trial results for its personalized melanoma vaccine with Merck were disclosed. The decline erased approximately $24 billion from Moderna’s market value, ending a significant rally this year. Analysts noted that this reaction was expected as investors often sell after news becomes public. Despite the drop, the trial results showed promising reductions in cancer recurrence when paired with Merck's Keytruda.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-plummet-25-loses-about-24-billion-after-cancer-vaccine-data-leak/articleshow/135127206.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:41:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
       "desc": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which [&#8230;]",
@@ -52,34 +82,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
-      "desc": "The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege basis. The measures include auditing source code, repositories, configuration files, client applications and cloud storage for exposed credentials, and immediately rotating and purging compromised credentials.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:37:54 +0530",
+      "title": "Meta turns Muse sharing back on",
+      "desc": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web [&#8230;]",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "pubDate": "2026-10-22T16:24:04-04:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Treasuries see best day in over a year as AI selloff revives haven demand",
-      "desc": "US Treasury bonds surged as a sharp selloff in AI-linked stocks revived demand for safe-haven assets. Treasury yields posted their biggest declines in more than a year, despite Brent crude rising above $112 a barrel. Investors also scaled back expectations for a December Fed rate hike amid growing concerns over AI spending and US growth.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/treasuries-eye-best-day-in-over-a-year-as-ai-selloff-revives-haven-demand/articleshow/135126406.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:33:07 +0530",
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "desc": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surveillance chips,\" the FCC claims. [&#8230;]",
+      "link": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "pubDate": "2026-10-22T16:23:48-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US stocks today: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
+      "desc": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&amp;P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:45:19 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
-      "desc": "He said Swiggy’s priority is a stable business with “the clearest line of sight to Ebitda zero,” and that it would not use its cash reserves to open new fronts simply because the money is available. “I think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,” he said on the call following the announcement of the company's September quarter results.",
-      "link": "https://economictimes.indiatimes.com/tech/startups/swiggy-ceo-sriharsha-majety-says-rival-blinkit-has-strong-flywheel-aims-to-fix-basics-before-expanding/articleshow/135126074.cms",
-      "pubDate": "Fri, 23 Oct 2026 00:17:28 +0530",
+      "title": "Moderna stock crashes 25%, loses about $24 billion after cancer vaccine data leak",
+      "desc": "Moderna’s stock price dropped over 25% after trial results for its personalized melanoma vaccine with Merck were disclosed. The decline erased approximately $24 billion from Moderna’s market value, ending a significant rally this year. Analysts noted that this reaction was expected as investors often sell after news becomes public. Despite the drop, the trial results showed promising reductions in cancer recurrence when paired with Merck's Keytruda.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/moderna-shares-plummet-25-loses-about-24-billion-after-cancer-vaccine-data-leak/articleshow/135127206.cms",
+      "pubDate": "Fri, 23 Oct 2026 01:41:53 +0530",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
@@ -252,16 +292,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "desc": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? [&#8230;]",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "pubDate": "2026-10-22T14:15:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
       "desc": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
       "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
@@ -380,16 +410,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-      "desc": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 15:00:37 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "NSDC raises Rs 4 crore through Social Stock Exchange for global skilling initiative",
@@ -652,7 +672,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq crashes 3% as AI, oil risks drive flight to bonds",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Highlights: Nasdaq slumps 2.5%, S&amp;P 1% as revived AI doubts ignite tech selloff",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-ai-stocks-nvidia-tesla-meta-stock-price-news-22nd-october-2026/liveblog/135118971.cms",
       "pubDate": "Thu, 22 Oct 2026 17:45:35 +0530",
@@ -972,26 +992,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "NCDEX launches NDEX and FINNDEX indices to foray into equity and derivatives markets",
-      "desc": "NCDEX has launched NDEX and FINNDEX, two rule-based indices covering large and liquid Indian equities and financial sector stocks. The benchmarks use a multi-factor methodology incorporating market capitalisation, liquidity, beta and volatility, with semi-annual rebalancing.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-indices-to-foray-into-equity-and-derivatives-markets/articleshow/135112040.cms",
-      "pubDate": "Thu, 22 Oct 2026 13:23:22 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Ashish Kacholia portfolio: Ace investor adds 3 new stocks, trims stake in 13 companies in Q2",
-      "desc": "Ace investor Ashish Kacholia reshuffled his Rs 3,000 crore portfolio in Q2FY27, adding three stocks, increasing stakes in two companies and trimming holdings in 13 others. The changes include new bets on ESDS Software Solutions, Ardee Industries and Credent Connect N Care, while Fineotex Chemicals and Brand Concepts may have been exited.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-portfolio-ace-investor-adds-3-new-stocks-trims-stake-in-13-companies-in-q2/articleshow/135111945.cms",
-      "pubDate": "Thu, 22 Oct 2026 13:19:31 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Domestic cos need strategic approach to tap India-Europe FTA gains: FICCI",
       "desc": "Indian companies must adopt a strategic approach to fully leverage the European free trade agreement benefits, as tariff concessions alone may not suffice. The focus should be on product quality, market penetration, and building significant relationships with European buyers. Compliance with European standards will be crucial for export success, particularly for small enterprises.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/domestic-cos-need-strategic-approach-to-tap-india-europe-fta-gains-ficci/articleshow/135110995.cms",
@@ -1213,7 +1213,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-22T19:59:31.724Z",
+    "generatedAt": "2026-10-22T20:29:37.467Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1226,7 +1226,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:22.877Z",
+        "timestamp": "2026-10-22T20:29:29.712Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1238,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:23.561Z",
+        "timestamp": "2026-10-22T20:29:30.228Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1250,7 @@
         "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:23.777Z",
+        "timestamp": "2026-10-22T20:29:30.457Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1262,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:24.117Z",
+        "timestamp": "2026-10-22T20:29:30.841Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1274,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:24.315Z",
+        "timestamp": "2026-10-22T20:29:31.277Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1286,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:24.737Z",
+        "timestamp": "2026-10-22T20:29:31.460Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1298,7 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:24.932Z",
+        "timestamp": "2026-10-22T20:29:31.931Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1310,7 @@
         "changePct": -1.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:25.232Z",
+        "timestamp": "2026-10-22T20:29:32.117Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1322,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:25.431Z",
+        "timestamp": "2026-10-22T20:29:32.333Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1334,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:25.735Z",
+        "timestamp": "2026-10-22T20:29:32.516Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,7 +1346,7 @@
         "changePct": -0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:25.930Z",
+        "timestamp": "2026-10-22T20:29:32.745Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1358,7 +1358,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:26.387Z",
+        "timestamp": "2026-10-22T20:29:32.932Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1370,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:26.589Z",
+        "timestamp": "2026-10-22T20:29:33.232Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1382,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:26.901Z",
+        "timestamp": "2026-10-22T20:29:33.491Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,43 +1394,43 @@
         "changePct": -2.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:27.111Z",
+        "timestamp": "2026-10-22T20:29:33.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7662.55,
-        "change": -94.62,
-        "changePct": -1.22,
+        "price": 7663.43,
+        "change": -93.74,
+        "changePct": -1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:27.433Z",
+        "timestamp": "2026-10-22T20:29:33.894Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26004.258,
-        "change": -698.6,
-        "changePct": -2.62,
+        "price": 26008.86,
+        "change": -693.998,
+        "changePct": -2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:27.689Z",
+        "timestamp": "2026-10-22T20:29:34.181Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52861.51,
-        "change": 5.422,
-        "changePct": 0.01,
+        "price": 52867.98,
+        "change": 11.891,
+        "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:27.994Z",
+        "timestamp": "2026-10-22T20:29:34.357Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,7 +1442,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:28.295Z",
+        "timestamp": "2026-10-22T20:29:34.589Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1454,7 +1454,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:28.655Z",
+        "timestamp": "2026-10-22T20:29:34.787Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1466,7 +1466,7 @@
         "changePct": -2.65,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:28.873Z",
+        "timestamp": "2026-10-22T20:29:35.005Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1478,7 +1478,7 @@
         "changePct": -3.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:29.184Z",
+        "timestamp": "2026-10-22T20:29:35.323Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1490,7 +1490,7 @@
         "changePct": -3.52,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:29.379Z",
+        "timestamp": "2026-10-22T20:29:35.618Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1502,55 +1502,55 @@
         "changePct": -1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:59:29.830Z",
+        "timestamp": "2026-10-22T20:29:35.809Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 113.11,
-        "change": 4.29,
-        "changePct": 3.94,
+        "price": 112.93,
+        "change": 4.11,
+        "changePct": 3.78,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T19:59:30.084Z",
+        "timestamp": "2026-10-22T20:29:36.040Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 99.3,
-        "change": 2.15,
-        "changePct": 2.21,
+        "price": 99.22,
+        "change": 2.07,
+        "changePct": 2.13,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T19:59:30.388Z",
+        "timestamp": "2026-10-22T20:29:36.429Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4039.9,
-        "change": -110.1,
+        "price": 4039.8,
+        "change": -110.2,
         "changePct": -2.65,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T19:59:30.671Z",
+        "timestamp": "2026-10-22T20:29:36.661Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 54.65,
-        "change": -3.06,
-        "changePct": -5.3,
+        "price": 54.63,
+        "change": -3.08,
+        "changePct": -5.34,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T19:59:31.017Z",
+        "timestamp": "2026-10-22T20:29:36.856Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1562,43 +1562,43 @@
         "changePct": -3.75,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-22T19:59:31.256Z",
+        "timestamp": "2026-10-22T20:29:37.178Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123142,
-        "change": -3356,
+        "price": 123139,
+        "change": -3359,
         "changePct": -2.65,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-22T19:59:31.467Z",
+        "timestamp": "2026-10-22T20:29:37.256Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 166581,
-        "change": -9327,
-        "changePct": -5.3,
+        "price": 166520,
+        "change": -9388,
+        "changePct": -5.34,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-22T19:59:31.570Z",
+        "timestamp": "2026-10-22T20:29:37.395Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9414,
-        "change": 204,
-        "changePct": 2.21,
+        "price": 9407,
+        "change": 196,
+        "changePct": 2.13,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-22T19:59:31.724Z",
+        "timestamp": "2026-10-22T20:29:37.467Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
