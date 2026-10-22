@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-22T19:22:43.493Z",
+  "generatedAt": "2026-10-22T19:29:46.584Z",
   "articles": [
+    {
+      "title": "Centre flags land, green tape hurdles in infra projects",
+      "desc": "Delays in land acquisition and obtaining various environmental clearances have significantly impacted the progress of infrastructure projects. Although central agencies are improving approval times, states are still facing lengthy procedures for necessary permits. Utility shifting is also causing major disruptions, often taking longer than projected. The recent analysis reveals a considerable increase in costs due to pre-construction delays.",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/centre-flags-land-green-tape-hurdles-in-infra-projects/articleshow/135126737.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:51:12 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "desc": "Investors sold shares of Meta Platforms and a wealth of companies central to the AI trade, a day after Meta -- one of the so-called hyperscalers spending billions to build data centers and other infrastructure supporting the AI boom -- said it would issue a new class of shares that will help it raise funds.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:47:43 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "desc": "The suit, filed by Rhode Island Attorney General Peter Neronha in Providence Superior Court, accuses Meta of unlawfully profiting from and participating in the creation of billions of dollars in scam advertising - even as it assured its billions of users that it was working diligently to protect them.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:45:39 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
+      "desc": "The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege basis. The measures include auditing source code, repositories, configuration files, client applications and cloud storage for exposed credentials, and immediately rotating and purging compromised credentials.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:37:54 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Swiggy CEO Sriharsha Majety says rival Blinkit has the stronger flywheel, aims to fix basics before expanding",
       "desc": "He said Swiggy’s priority is a stable business with “the clearest line of sight to Ebitda zero,” and that it would not use its cash reserves to open new fronts simply because the money is available. “I think our first job is to build a stable, resilient business that has the clearest line of sight to EBITDA zero. The optionalities come after that,” he said on the call following the announcement of the company's September quarter results.",
@@ -42,44 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-      "desc": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 22 Oct 2026 18:26:56 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Berlin Global Dialogue: EU inviting disaster through carbon tax, says Piyush Goyal",
-      "desc": "Piyush Goyal expressed concerns over the EU's carbon tax and numerous regulations impacting their steel industry. He warned that these measures could lead to increased costs and decreased competitiveness for EU businesses. Goyal highlighted that the high import duties and standards could harm the economy and raise the cost of living. He mentioned the reciprocal nature of trade regulations in response to the EU's actions.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/berlin-global-dialogue-eu-inviting-disaster-through-carbon-tax-says-piyush-goyal/articleshow/135125548.cms",
-      "pubDate": "Thu, 22 Oct 2026 23:55:21 +0530",
+      "title": "Centre flags land, green tape hurdles in infra projects",
+      "desc": "Delays in land acquisition and obtaining various environmental clearances have significantly impacted the progress of infrastructure projects. Although central agencies are improving approval times, states are still facing lengthy procedures for necessary permits. Utility shifting is also causing major disruptions, often taking longer than projected. The recent analysis reveals a considerable increase in costs due to pre-construction delays.",
+      "link": "https://economictimes.indiatimes.com/news/economy/infrastructure/centre-flags-land-green-tape-hurdles-in-infra-projects/articleshow/135126737.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:51:12 +0530",
       "image": "",
       "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
-      "desc": "The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
-      "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
-      "pubDate": "Thu, 22 Oct 2026 17:58:04 +0000",
+      "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+      "desc": "Investors sold shares of Meta Platforms and a wealth of companies central to the AI trade, a day after Meta -- one of the so-called hyperscalers spending billions to build data centers and other infrastructure supporting the AI boom -- said it would issue a new class of shares that will help it raise funds.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:47:43 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "desc": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "pubDate": "2026-10-22T13:42:52-04:00",
+      "title": "Rhode Island sues Meta over alleged tolerance for scam advertising",
+      "desc": "The suit, filed by Rhode Island Attorney General Peter Neronha in Providence Superior Court, accuses Meta of unlawfully profiting from and participating in the creation of billions of dollars in scam advertising - even as it assured its billions of users that it was working diligently to protect them.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/rhode-island-sues-meta-over-alleged-tolerance-for-scam-advertising/articleshow/135126716.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:45:39 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+      "desc": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this [&#8230;]",
+      "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+      "pubDate": "2026-10-22T15:13:42-04:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "RBI asks banks, payment firms to forensically clear tech environments in case of a data breach",
+      "desc": "The RBI has asked financial entities to remove management and administrative interfaces from public internet access, enforce multi-factor authentication for administrative access, and restrict access to cloud and backend systems on a least-privilege basis. The measures include auditing source code, repositories, configuration files, client applications and cloud storage for exposed credentials, and immediately rotating and purging compromised credentials.",
+      "link": "https://economictimes.indiatimes.com/news/economy/policy/rbi-asks-banks-payment-firms-to-forensically-clear-tech-environments-in-case-of-a-data-breach/articleshow/135126425.cms",
+      "pubDate": "Fri, 23 Oct 2026 00:37:54 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Discord now formats Markdown previews right",
@@ -190,26 +240,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
-      "desc": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands [&#8230;]",
-      "link": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
-      "pubDate": "2026-10-22T13:46:40-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise",
-      "desc": "On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. \"We were aiming for 5 million vehicles a year by approximately 2030,\" he said. \"And I think we've got a good shot of achieving that goal.\" [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "pubDate": "2026-10-22T13:42:52-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Neocloud short sellers rack up $6 billion as AI debt fears deepen",
@@ -1233,7 +1263,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-22T19:22:43.493Z",
+    "generatedAt": "2026-10-22T19:29:46.584Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1246,7 +1276,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:41.747Z",
+        "timestamp": "2026-10-22T19:29:37.773Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,7 +1288,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:41.803Z",
+        "timestamp": "2026-10-22T19:29:38.371Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,7 +1300,7 @@
         "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:41.856Z",
+        "timestamp": "2026-10-22T19:29:38.872Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1312,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:41.909Z",
+        "timestamp": "2026-10-22T19:29:39.208Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1324,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.008Z",
+        "timestamp": "2026-10-22T19:29:39.452Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1336,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.118Z",
+        "timestamp": "2026-10-22T19:29:39.716Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1348,7 @@
         "changePct": 0.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.168Z",
+        "timestamp": "2026-10-22T19:29:39.936Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1360,7 @@
         "changePct": -1.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.215Z",
+        "timestamp": "2026-10-22T19:29:40.183Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,7 +1372,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.265Z",
+        "timestamp": "2026-10-22T19:29:40.429Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1354,7 +1384,7 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.309Z",
+        "timestamp": "2026-10-22T19:29:40.675Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1366,7 +1396,7 @@
         "changePct": -0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.361Z",
+        "timestamp": "2026-10-22T19:29:41.002Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1378,7 +1408,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.417Z",
+        "timestamp": "2026-10-22T19:29:41.261Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1390,7 +1420,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.477Z",
+        "timestamp": "2026-10-22T19:29:41.609Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1402,7 +1432,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.558Z",
+        "timestamp": "2026-10-22T19:29:41.849Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1414,43 +1444,43 @@
         "changePct": -2.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.614Z",
+        "timestamp": "2026-10-22T19:29:42.123Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7650.34,
-        "change": -106.83,
-        "changePct": -1.38,
+        "price": 7656.32,
+        "change": -100.85,
+        "changePct": -1.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.661Z",
+        "timestamp": "2026-10-22T19:29:42.443Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25970.023,
-        "change": -732.834,
-        "changePct": -2.74,
+        "price": 25999.754,
+        "change": -703.104,
+        "changePct": -2.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.714Z",
+        "timestamp": "2026-10-22T19:29:42.733Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52780.1,
-        "change": -75.988,
-        "changePct": -0.14,
+        "price": 52817.53,
+        "change": -38.559,
+        "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.737Z",
+        "timestamp": "2026-10-22T19:29:42.992Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1462,7 +1492,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.786Z",
+        "timestamp": "2026-10-22T19:29:43.222Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1474,7 +1504,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.845Z",
+        "timestamp": "2026-10-22T19:29:43.493Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1486,7 +1516,7 @@
         "changePct": -2.65,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.893Z",
+        "timestamp": "2026-10-22T19:29:43.870Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1498,7 +1528,7 @@
         "changePct": -3.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.939Z",
+        "timestamp": "2026-10-22T19:29:44.125Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1510,7 +1540,7 @@
         "changePct": -3.52,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:42.993Z",
+        "timestamp": "2026-10-22T19:29:44.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1522,55 +1552,55 @@
         "changePct": -1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-22T19:22:43.045Z",
+        "timestamp": "2026-10-22T19:29:44.659Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 113.4,
-        "change": 4.58,
-        "changePct": 4.21,
+        "price": 113.42,
+        "change": 4.6,
+        "changePct": 4.23,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T19:22:43.103Z",
+        "timestamp": "2026-10-22T19:29:44.888Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 99.51,
-        "change": 2.36,
-        "changePct": 2.43,
+        "price": 99.48,
+        "change": 2.33,
+        "changePct": 2.4,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-22T19:22:43.162Z",
+        "timestamp": "2026-10-22T19:29:45.128Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4043.5,
-        "change": -106.5,
-        "changePct": -2.57,
+        "price": 4043.6,
+        "change": -106.4,
+        "changePct": -2.56,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T19:22:43.213Z",
+        "timestamp": "2026-10-22T19:29:45.503Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 54.635,
-        "change": -3.075,
-        "changePct": -5.33,
+        "price": 54.685,
+        "change": -3.025,
+        "changePct": -5.24,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-22T19:22:43.264Z",
+        "timestamp": "2026-10-22T19:29:45.877Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1582,43 +1612,43 @@
         "changePct": -3.75,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-22T19:22:43.352Z",
+        "timestamp": "2026-10-22T19:29:46.140Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123252,
-        "change": -3246,
-        "changePct": -2.57,
+        "price": 123255,
+        "change": -3243,
+        "changePct": -2.56,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-22T19:22:43.403Z",
+        "timestamp": "2026-10-22T19:29:46.338Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 166535,
-        "change": -9373,
-        "changePct": -5.33,
+        "price": 166688,
+        "change": -9221,
+        "changePct": -5.24,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-22T19:22:43.489Z",
+        "timestamp": "2026-10-22T19:29:46.477Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9434,
-        "change": 224,
-        "changePct": 2.43,
+        "price": 9431,
+        "change": 221,
+        "changePct": 2.4,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-22T19:22:43.493Z",
+        "timestamp": "2026-10-22T19:29:46.584Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
