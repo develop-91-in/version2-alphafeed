@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T03:59:34.628Z",
+  "generatedAt": "2026-10-22T04:29:30.591Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -880,6 +880,12 @@
     },
     {
       "dateISO": "2026-10-27",
+      "co": "Concord Biotech Limited",
+      "tk": "CONCORDBIO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-27",
       "co": "FDC Limited",
       "tk": "FDC",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Chemfab Alkalis Limited",
       "tk": "CHEMFAB",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Cholamandalam Investment and Finance Company Limited",
-      "tk": "CHOLAFIN",
       "type": "Q2 FY27 results announcement"
     }
   ]
