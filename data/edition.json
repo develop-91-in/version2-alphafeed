@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-24T02:30:10.129Z",
+  "generatedAt": "2026-10-24T02:59:33.300Z",
   "articles": [
+    {
+      "title": "Small and midcap indices post worst weekly decline in two years",
+      "desc": "Mid-cap and small-cap stocks in India have faced major declines, indicating a shift in market sentiment. The Nifty MidCap 150 and Small-cap 250 indices reported their worst weekly falls in two years. Domestic retail investors initially supported these segments by increasing mutual fund contributions. However, concerns over rising oil prices and fiscal deficits are adding to market uncertainties.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
+      "pubDate": "Sat, 24 Oct 2026 08:06:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
       "desc": "The Reserve Bank of India recorded a net purchase of $43.26 billion in August's foreign exchange market. This was done to manage significant dollar inflows from the FCNR(B) scheme and overseas borrowings. Despite the net purchase, foreign exchange reserves did not increase due to large forex sell/buy swaps. By August 31, measures attracted over $127 billion, aiding the RBI's operations.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
-      "desc": "Tata Motors Ltd achieved a standalone net profit of ₹2,138 crore for the September quarter, reversing last year's loss. Revenue from operations rose significantly to ₹23,930 crore, up 42% from the previous year. Improved demand was driven by higher fleet utilization and industrial activity, according to managing director Girish Wagh. Consolidated profit also increased to ₹1,257 crore, aided by a drop in mark-to-market losses.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
-      "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530",
+      "title": "Small and midcap indices post worst weekly decline in two years",
+      "desc": "Mid-cap and small-cap stocks in India have faced major declines, indicating a shift in market sentiment. The Nifty MidCap 150 and Small-cap 250 indices reported their worst weekly falls in two years. Domestic retail investors initially supported these segments by increasing mutual fund contributions. However, concerns over rising oil prices and fiscal deficits are adding to market uncertainties.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
+      "pubDate": "Sat, 24 Oct 2026 08:06:47 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "RBI net forex buys hit a record $43 billion in August, balances it with swaps",
@@ -1082,16 +1092,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Nippon Silver ETF, other silver ETFs slide up to 4% as silver prices tumble. Here’s why",
-      "desc": "Silver ETFs tumble up to 4% as India permits 6,500 metric tonnes of silver imports over six months, raising expectations of easing domestic supply tightness and premiums. Higher interest rates, bond yields and a firm dollar add to pressure on bullion prices.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-silver-etf-other-silver-etfs-slide-up-to-4-as-silver-prices-tumble-heres-why/articleshow/135137769.cms",
-      "pubDate": "Fri, 23 Oct 2026 12:11:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Tech Mahindra, SpaceXSI partner to accelerate AI-powered software engineering",
       "desc": "The company said it will combine its global engineering, enterprise transformation and AI consulting capabilities with SpaceXSI's AI-powered development platform to help enterprises expand application modernisation, streamline software development and improve code quality.",
       "link": "https://economictimes.indiatimes.com/tech/technology/tech-mahindra-spacexsi-partner-to-accelerate-ai-powered-software-engineering/articleshow/135136980.cms",
@@ -1200,30 +1200,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "iPhone Duo's entire first week stock pre-booked in India",
-      "desc": "Apple Store in BKC (Bandra Kurla Complex), Mumbai, and Saket, New Delhi, have clocked maximum number of pre-bookings for the ultra premium first foldable iPhone from the company's stable.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/iphone-duos-entire-first-week-stock-pre-booked-in-india/articleshow/135132280.cms",
-      "pubDate": "Fri, 23 Oct 2026 08:16:02 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Rush is on to patch a software vulnerability that could impact 70% of websites worldwide",
-      "desc": "Many government sites appeared to be functioning normally Thursday, but outages or limited service continued while security work was under way.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/rush-is-on-to-patch-a-software-vulnerability-that-could-impact-70-of-websites-worldwide/articleshow/135132230.cms",
-      "pubDate": "Fri, 23 Oct 2026 08:13:31 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T02:30:10.128Z",
+    "generatedAt": "2026-10-24T02:59:33.300Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1236,7 +1216,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:57.691Z",
+        "timestamp": "2026-10-24T02:59:25.097Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1228,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:58.372Z",
+        "timestamp": "2026-10-24T02:59:26.135Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1240,7 @@
         "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:58.783Z",
+        "timestamp": "2026-10-24T02:59:26.389Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1252,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:59.132Z",
+        "timestamp": "2026-10-24T02:59:26.680Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1264,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:59.585Z",
+        "timestamp": "2026-10-24T02:59:26.924Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1276,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:29:59.931Z",
+        "timestamp": "2026-10-24T02:59:27.157Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1288,7 @@
         "changePct": -1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:00.451Z",
+        "timestamp": "2026-10-24T02:59:27.406Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,7 +1300,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:00.810Z",
+        "timestamp": "2026-10-24T02:59:27.624Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,7 +1312,7 @@
         "changePct": -2.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:01.220Z",
+        "timestamp": "2026-10-24T02:59:27.877Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1344,7 +1324,7 @@
         "changePct": -1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:01.663Z",
+        "timestamp": "2026-10-24T02:59:28.104Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1336,7 @@
         "changePct": -2.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:02.099Z",
+        "timestamp": "2026-10-24T02:59:28.361Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1348,7 @@
         "changePct": -2.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:02.476Z",
+        "timestamp": "2026-10-24T02:59:28.595Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1360,7 @@
         "changePct": -2.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:03.092Z",
+        "timestamp": "2026-10-24T02:59:28.841Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,7 +1372,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:03.437Z",
+        "timestamp": "2026-10-24T02:59:29.099Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1404,7 +1384,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:03.842Z",
+        "timestamp": "2026-10-24T02:59:29.363Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1416,7 +1396,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:04.189Z",
+        "timestamp": "2026-10-24T02:59:29.628Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1428,7 +1408,7 @@
         "changePct": -0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:04.490Z",
+        "timestamp": "2026-10-24T02:59:29.869Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1440,7 +1420,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:04.731Z",
+        "timestamp": "2026-10-24T02:59:30.102Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1452,7 +1432,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:05.235Z",
+        "timestamp": "2026-10-24T02:59:30.347Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1464,7 +1444,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:05.588Z",
+        "timestamp": "2026-10-24T02:59:30.624Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1476,7 +1456,7 @@
         "changePct": -0.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:06.428Z",
+        "timestamp": "2026-10-24T02:59:30.872Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1488,7 +1468,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:06.786Z",
+        "timestamp": "2026-10-24T02:59:31.127Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1500,7 +1480,7 @@
         "changePct": 0.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:07.188Z",
+        "timestamp": "2026-10-24T02:59:31.421Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1512,7 +1492,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T02:30:07.547Z",
+        "timestamp": "2026-10-24T02:59:31.645Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1524,7 +1504,7 @@
         "changePct": 2.76,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T02:30:08.083Z",
+        "timestamp": "2026-10-24T02:59:31.893Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1536,7 +1516,7 @@
         "changePct": 3.99,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T02:30:08.529Z",
+        "timestamp": "2026-10-24T02:59:32.124Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1548,7 +1528,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T02:30:08.818Z",
+        "timestamp": "2026-10-24T02:59:32.399Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1560,7 +1540,7 @@
         "changePct": -1.9,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T02:30:09.273Z",
+        "timestamp": "2026-10-24T02:59:32.702Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1572,7 +1552,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-24T02:30:09.688Z",
+        "timestamp": "2026-10-24T02:59:32.972Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1584,7 +1564,7 @@
         "changePct": -1.24,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-24T02:30:09.810Z",
+        "timestamp": "2026-10-24T02:59:33.084Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1596,7 +1576,7 @@
         "changePct": -1.9,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-24T02:30:09.996Z",
+        "timestamp": "2026-10-24T02:59:33.215Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1608,7 +1588,7 @@
         "changePct": 3.99,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-24T02:30:10.128Z",
+        "timestamp": "2026-10-24T02:59:33.300Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
