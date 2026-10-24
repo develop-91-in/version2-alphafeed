@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:29:31.146Z",
+  "generatedAt": "2026-10-24T16:00:52.511Z",
   "articles": [
     {
       "title": "Full lockdown of occupied West Bank begins",
@@ -78,6 +78,16 @@
       "pubDate": "Sat, 24 Oct 2026 15:18:12 +0530",
       "image": "",
       "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 15:45:46 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -166,16 +176,6 @@
       "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
       "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 11:03:57 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 24 Oct 2026 11:00:48 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
@@ -667,9 +667,9 @@
       "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 00:09:12 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -910,60 +910,10 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
-      "desc": "Jana Small Finance Bank reported a 127% year-on-year rise in Q2 profit to Rs 170 crore, supported by business growth, higher margins and improved gross asset quality. The bank raised its annual profit growth guidance to 100%, while loans and deposits expanded.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:30:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "RBI flags rising inflation risks from West Asia conflict, El Nino despite resilient Indian economy",
-      "desc": "India's external sector shows resilience due to a narrowing trade gap and comfortable foreign exchange reserves. Inflationary pressures have intensified due to geopolitical tensions and supply-side bottlenecks. The RBI reported an increase in both industry and services indicators, showcasing economic strength. The IMF has revised India's growth projection for 2026-27 to 7% based on resilient domestic demand. Global financial volatility has increased amid global challenges and rising inflation risks.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-flags-rising-inflation-risks-from-west-asia-conflict-el-nino-despite-resilient-indian-economy/articleshow/135160910.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:24:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The little-known investment Martin Lewis wants you to understand...",
-      "desc": "The little-known investment Martin Lewis wants you to understand",
-      "link": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:41:28 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
-      "desc": "Jindal Steel’s Q2 FY26 profit rose 21% year-on-year to Rs 771 crore, while revenue surged 44% to a record Rs 19,448 crore. Higher steel production and sales boosted earnings, while adjusted EBITDA grew 33% and net debt declined sequentially.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:03:11 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "desc": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 15:30:47 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T15:29:31.146Z",
+    "generatedAt": "2026-10-24T16:00:52.511Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -976,7 +926,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:22.110Z",
+        "timestamp": "2026-10-24T16:00:42.167Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -988,7 +938,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:22.696Z",
+        "timestamp": "2026-10-24T16:00:42.780Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1000,7 +950,7 @@
         "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:22.943Z",
+        "timestamp": "2026-10-24T16:00:43.233Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1012,7 +962,7 @@
         "changePct": 0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:23.221Z",
+        "timestamp": "2026-10-24T16:00:43.482Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1024,7 +974,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:23.817Z",
+        "timestamp": "2026-10-24T16:00:43.898Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1036,7 +986,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:24.069Z",
+        "timestamp": "2026-10-24T16:00:44.214Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1048,7 +998,7 @@
         "changePct": -1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:24.409Z",
+        "timestamp": "2026-10-24T16:00:44.488Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1060,7 +1010,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:24.661Z",
+        "timestamp": "2026-10-24T16:00:44.737Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1072,7 +1022,7 @@
         "changePct": -2.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:24.913Z",
+        "timestamp": "2026-10-24T16:00:44.979Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1084,7 +1034,7 @@
         "changePct": -1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:25.292Z",
+        "timestamp": "2026-10-24T16:00:45.230Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1096,7 +1046,7 @@
         "changePct": -2.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:25.546Z",
+        "timestamp": "2026-10-24T16:00:45.509Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1108,7 +1058,7 @@
         "changePct": -2.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:25.812Z",
+        "timestamp": "2026-10-24T16:00:45.792Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1120,7 +1070,7 @@
         "changePct": -2.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:26.068Z",
+        "timestamp": "2026-10-24T16:00:46.075Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1132,7 +1082,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:26.327Z",
+        "timestamp": "2026-10-24T16:00:46.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1144,7 +1094,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:26.600Z",
+        "timestamp": "2026-10-24T16:00:46.599Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1156,7 +1106,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:27.012Z",
+        "timestamp": "2026-10-24T16:00:46.922Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1168,7 +1118,7 @@
         "changePct": -0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:27.281Z",
+        "timestamp": "2026-10-24T16:00:47.321Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1180,7 +1130,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:27.536Z",
+        "timestamp": "2026-10-24T16:00:48.284Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1192,7 +1142,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:27.810Z",
+        "timestamp": "2026-10-24T16:00:49.291Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1204,7 +1154,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:28.072Z",
+        "timestamp": "2026-10-24T16:00:49.519Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1216,7 +1166,7 @@
         "changePct": -0.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:28.523Z",
+        "timestamp": "2026-10-24T16:00:49.839Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1228,7 +1178,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:28.839Z",
+        "timestamp": "2026-10-24T16:00:50.095Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1240,7 +1190,7 @@
         "changePct": 0.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:29.111Z",
+        "timestamp": "2026-10-24T16:00:50.416Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1252,7 +1202,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T15:29:29.406Z",
+        "timestamp": "2026-10-24T16:00:50.710Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1264,7 +1214,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T15:29:29.702Z",
+        "timestamp": "2026-10-24T16:00:50.977Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1276,7 +1226,7 @@
         "changePct": 3.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T15:29:29.955Z",
+        "timestamp": "2026-10-24T16:00:51.197Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1288,7 +1238,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T15:29:30.256Z",
+        "timestamp": "2026-10-24T16:00:51.548Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1300,7 +1250,7 @@
         "changePct": -1.92,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T15:29:30.511Z",
+        "timestamp": "2026-10-24T16:00:51.820Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1312,7 +1262,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-24T15:29:30.764Z",
+        "timestamp": "2026-10-24T16:00:52.097Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1324,7 +1274,7 @@
         "changePct": -1.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-24T15:29:30.913Z",
+        "timestamp": "2026-10-24T16:00:52.236Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1336,7 +1286,7 @@
         "changePct": -1.92,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-24T15:29:31.049Z",
+        "timestamp": "2026-10-24T16:00:52.418Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1348,7 +1298,7 @@
         "changePct": 3.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-24T15:29:31.146Z",
+        "timestamp": "2026-10-24T16:00:52.511Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
