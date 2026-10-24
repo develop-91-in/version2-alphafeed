@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T02:30:19.106Z",
+  "generatedAt": "2026-10-24T02:59:42.365Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -181,6 +181,17 @@
       "listingISO": "2026-11-04"
     },
     {
+      "co": "Ajwa Projects",
+      "note": "BSE SME",
+      "size": "₹38 cr",
+      "band": "—",
+      "dates": "28 Oct – 30 Oct 2026",
+      "listing": "4 Nov 2026",
+      "openISO": "2026-10-28",
+      "closeISO": "2026-10-30",
+      "listingISO": "2026-11-04"
+    },
+    {
       "co": "Shellz India",
       "note": "BSE SME",
       "size": "₹60 cr",
@@ -200,17 +211,6 @@
       "listing": "To be announced",
       "openISO": "2026-10-14",
       "closeISO": "2026-10-16",
-      "listingISO": ""
-    },
-    {
-      "co": "Vaibhav Vyapaar",
-      "note": "NSE SME",
-      "size": "₹42 cr",
-      "band": "₹51 – ₹54",
-      "dates": "13 Oct – 15 Oct 2026",
-      "listing": "To be announced",
-      "openISO": "2026-10-13",
-      "closeISO": "2026-10-15",
       "listingISO": ""
     }
   ]
