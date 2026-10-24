@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:29:39.551Z",
+  "generatedAt": "2026-10-24T08:59:37.729Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1168,6 +1168,12 @@
     },
     {
       "dateISO": "2026-10-28",
+      "co": "OnEMI Technology Solutions Limited",
+      "tk": "KISSHT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-28",
       "co": "OnMobile Global Limited",
       "tk": "ONMOBILE",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Sundram Fasteners Limited",
       "tk": "SUNDRMFAST",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Sustainable Energy Infra Trust",
-      "tk": "SEITINVIT",
       "type": "Q2 FY27 results announcement"
     }
   ]
