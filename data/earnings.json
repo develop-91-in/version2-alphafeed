@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-24T18:29:52.013Z",
+  "generatedAt": "2026-10-24T18:59:50.381Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
-    {
-      "dateISO": "2026-10-25",
-      "co": "Bharat Coking Coal Limited",
-      "tk": "BHARATCOAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-25",
-      "co": "Railtel Corporation Of India Limited",
-      "tk": "RAILTEL",
-      "type": "Q2 FY27 results announcement"
-    },
     {
       "dateISO": "2026-10-26",
       "co": "APL Apollo Tubes Limited",
@@ -1320,6 +1308,18 @@
       "dateISO": "2026-10-28",
       "co": "Sudeep Pharma Limited",
       "tk": "SUDEEPPHRM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-28",
+      "co": "Sundram Fasteners Limited",
+      "tk": "SUNDRMFAST",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-28",
+      "co": "Sustainable Energy Infra Trust",
+      "tk": "SEITINVIT",
       "type": "Q2 FY27 results announcement"
     }
   ]
