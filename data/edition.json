@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-24T10:59:29.841Z",
+  "generatedAt": "2026-10-24T11:29:22.427Z",
   "articles": [
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:17:35 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Honasa Consumer elevates Vipul Maheshwari to chief product &amp; technology officer",
       "desc": "In his new role, Maheshwari will lead the company’s product, technology, engineering and analytics functions. His main task will be to advance Honasa’s plans to use artificial intelligence (AI) in its business, including agentic AI, which refers to AI systems that can carry out multi-step tasks with human oversight.",
@@ -72,12 +82,32 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "The Tender247 Story: Turning tender intelligence into a competitive advantage with Anupam Kher",
-      "desc": "Harnessing the power of AI, Tender247 is transforming the landscape for businesses seeking tender opportunities on government platforms. Appointing Anupam Kher as its brand ambassador, the company focuses on simplifying the tender process for smaller businesses. The initiative promises to enhance decision-making capabilities and facilitate greater access to public procurement contracts, resulting in a more inclusive bidding environment.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/the-tender247-story-turning-tender-intelligence-into-a-competitive-advantage-with-anupam-kher/articleshow/135165216.cms",
-      "pubDate": "Sat, 24 Oct 2026 13:26:54 +0530",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "desc": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:17:35 GMT",
       "image": "",
-      "source": "Economic Times Industry",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Between quick wins and big dreams lies Burnham's biggest test",
+      "desc": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:03:57 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+      "desc": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+      "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 11:00:48 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -340,16 +370,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
-      "desc": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
-      "pubDate": "Sat, 24 Oct 2026 04:48:40 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "What to know about the AI-detected security bug impacting wide swaths of the internet",
@@ -617,9 +637,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Sat, 24 Oct 2026 00:05:45 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Are California voters about to impose 'world's first' tax on billionaires?",
@@ -1153,7 +1173,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T10:59:29.841Z",
+    "generatedAt": "2026-10-24T11:29:22.427Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1166,7 +1186,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:20.498Z",
+        "timestamp": "2026-10-24T11:29:14.560Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1178,7 +1198,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:21.152Z",
+        "timestamp": "2026-10-24T11:29:15.020Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1190,7 +1210,7 @@
         "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:21.612Z",
+        "timestamp": "2026-10-24T11:29:15.267Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1202,7 +1222,7 @@
         "changePct": 0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:21.853Z",
+        "timestamp": "2026-10-24T11:29:15.525Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1214,7 +1234,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:22.126Z",
+        "timestamp": "2026-10-24T11:29:15.767Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1226,7 +1246,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:22.368Z",
+        "timestamp": "2026-10-24T11:29:16.081Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1258,7 @@
         "changePct": -1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:22.643Z",
+        "timestamp": "2026-10-24T11:29:16.329Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1270,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:22.915Z",
+        "timestamp": "2026-10-24T11:29:16.571Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1282,7 @@
         "changePct": -2.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:23.521Z",
+        "timestamp": "2026-10-24T11:29:16.822Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1294,7 @@
         "changePct": -1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:23.797Z",
+        "timestamp": "2026-10-24T11:29:17.108Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1306,7 @@
         "changePct": -2.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:24.071Z",
+        "timestamp": "2026-10-24T11:29:17.349Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1318,7 @@
         "changePct": -2.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:24.319Z",
+        "timestamp": "2026-10-24T11:29:17.594Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1330,7 @@
         "changePct": -2.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:24.591Z",
+        "timestamp": "2026-10-24T11:29:17.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1342,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:24.867Z",
+        "timestamp": "2026-10-24T11:29:18.079Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1354,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:25.342Z",
+        "timestamp": "2026-10-24T11:29:18.328Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,7 +1366,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:25.605Z",
+        "timestamp": "2026-10-24T11:29:18.605Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1358,7 +1378,7 @@
         "changePct": -0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:25.888Z",
+        "timestamp": "2026-10-24T11:29:18.979Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1390,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:26.195Z",
+        "timestamp": "2026-10-24T11:29:19.217Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1402,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:26.544Z",
+        "timestamp": "2026-10-24T11:29:19.458Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,7 +1414,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:26.813Z",
+        "timestamp": "2026-10-24T11:29:19.702Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1406,7 +1426,7 @@
         "changePct": -0.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:27.118Z",
+        "timestamp": "2026-10-24T11:29:19.990Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1438,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:27.357Z",
+        "timestamp": "2026-10-24T11:29:20.251Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1450,7 @@
         "changePct": 0.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:27.650Z",
+        "timestamp": "2026-10-24T11:29:20.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,7 +1462,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T10:59:27.890Z",
+        "timestamp": "2026-10-24T11:29:20.743Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1454,7 +1474,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T10:59:28.187Z",
+        "timestamp": "2026-10-24T11:29:20.966Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1466,7 +1486,7 @@
         "changePct": 3.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T10:59:28.482Z",
+        "timestamp": "2026-10-24T11:29:21.254Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1478,7 +1498,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T10:59:28.752Z",
+        "timestamp": "2026-10-24T11:29:21.536Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1490,7 +1510,7 @@
         "changePct": -1.92,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T10:59:29.098Z",
+        "timestamp": "2026-10-24T11:29:21.824Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1502,7 +1522,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-24T10:59:29.452Z",
+        "timestamp": "2026-10-24T11:29:22.095Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1514,7 +1534,7 @@
         "changePct": -1.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-24T10:59:29.588Z",
+        "timestamp": "2026-10-24T11:29:22.220Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1526,7 +1546,7 @@
         "changePct": -1.92,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-24T10:59:29.756Z",
+        "timestamp": "2026-10-24T11:29:22.350Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1538,7 +1558,7 @@
         "changePct": 3.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-24T10:59:29.841Z",
+        "timestamp": "2026-10-24T11:29:22.427Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
