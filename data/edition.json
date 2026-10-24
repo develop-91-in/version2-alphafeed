@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-24T22:29:43.911Z",
+  "generatedAt": "2026-10-24T22:59:23.098Z",
   "articles": [
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "desc": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Could Israel’s military crackdown influence Tuesday’s election?",
       "desc": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
@@ -72,14 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "FICCI seeks Dutch investment in mfg, tech; calls for project-level follow-up",
-      "desc": "FICCI has called for enhanced Dutch investments in India’s manufacturing and technology sectors during Piyush Goyal's visit. The discussions may lead to manufacturing partnerships and technology collaborations which would strengthen bilateral trade. Greater emphasis is placed on supply chain integration to meet Dutch quality and sustainability standards. The upcoming India-EU free trade agreement is expected to facilitate deeper commercial ties.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/ficci-urges-dutch-investment-surge-in-indian-manufacturing-and-tech-amid-growing-trade-relations/articleshow/135169159.cms",
-      "pubDate": "Sat, 24 Oct 2026 16:53:50 +0530",
+      "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
+      "desc": "The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.",
+      "link": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:31:41 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "desc": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+      "pubDate": "Sat, 24 Oct 2026 22:28:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -722,16 +742,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "California considers imposing 'world's first' tax on billionaires",
-      "desc": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 23 Oct 2026 23:11:31 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "The artist dropping her debut album after a billion streams",
       "desc": "Irish DJ Jazzy came up on the Dublin club scene and has worked with industry heavyweights like Calvin Harris.",
       "link": "https://www.bbc.co.uk/news/articles/cwj0leg7ng67o?at_medium=RSS&amp;at_campaign=rss",
@@ -743,7 +753,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-24T22:29:43.911Z",
+    "generatedAt": "2026-10-24T22:59:23.098Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -756,7 +766,19 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:23.842Z",
+        "timestamp": "2026-10-24T22:59:13.801Z",
+        "source": "Yahoo Finance (unofficial)"
+      },
+      {
+        "symbol": "SENSEX",
+        "label": "SENSEX",
+        "region": "India",
+        "price": 73123.83,
+        "change": -125.562,
+        "changePct": -0.17,
+        "dec": 2,
+        "unit": "",
+        "timestamp": "2026-10-24T22:59:14.322Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -768,7 +790,7 @@
         "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:34.593Z",
+        "timestamp": "2026-10-24T22:59:14.649Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -780,7 +802,7 @@
         "changePct": 0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:35.101Z",
+        "timestamp": "2026-10-24T22:59:14.891Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -792,7 +814,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:35.526Z",
+        "timestamp": "2026-10-24T22:59:15.223Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -804,7 +826,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:35.802Z",
+        "timestamp": "2026-10-24T22:59:15.480Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -816,7 +838,7 @@
         "changePct": -1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:36.348Z",
+        "timestamp": "2026-10-24T22:59:15.896Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -828,7 +850,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:36.603Z",
+        "timestamp": "2026-10-24T22:59:16.155Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -840,7 +862,7 @@
         "changePct": -2.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:36.874Z",
+        "timestamp": "2026-10-24T22:59:16.419Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -852,7 +874,7 @@
         "changePct": -1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:37.117Z",
+        "timestamp": "2026-10-24T22:59:16.677Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -864,7 +886,7 @@
         "changePct": -2.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:37.406Z",
+        "timestamp": "2026-10-24T22:59:16.962Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -876,7 +898,7 @@
         "changePct": -2.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:37.682Z",
+        "timestamp": "2026-10-24T22:59:17.241Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -888,7 +910,7 @@
         "changePct": -2.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:37.939Z",
+        "timestamp": "2026-10-24T22:59:17.510Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -900,7 +922,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:38.198Z",
+        "timestamp": "2026-10-24T22:59:17.749Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -912,7 +934,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:38.464Z",
+        "timestamp": "2026-10-24T22:59:18.093Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -924,7 +946,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:38.744Z",
+        "timestamp": "2026-10-24T22:59:18.406Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -936,7 +958,7 @@
         "changePct": -0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:39.171Z",
+        "timestamp": "2026-10-24T22:59:18.680Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -948,7 +970,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:39.830Z",
+        "timestamp": "2026-10-24T22:59:18.949Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -960,7 +982,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:40.112Z",
+        "timestamp": "2026-10-24T22:59:19.462Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -972,7 +994,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:40.353Z",
+        "timestamp": "2026-10-24T22:59:19.802Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -984,7 +1006,7 @@
         "changePct": -0.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:40.562Z",
+        "timestamp": "2026-10-24T22:59:20.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -996,7 +1018,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:40.815Z",
+        "timestamp": "2026-10-24T22:59:20.369Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1008,7 +1030,7 @@
         "changePct": 0.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:41.226Z",
+        "timestamp": "2026-10-24T22:59:20.694Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1042,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-24T22:29:42.036Z",
+        "timestamp": "2026-10-24T22:59:21.012Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1054,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T22:29:42.501Z",
+        "timestamp": "2026-10-24T22:59:21.400Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1066,7 @@
         "changePct": 3.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-24T22:29:42.832Z",
+        "timestamp": "2026-10-24T22:59:21.744Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1078,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T22:29:43.105Z",
+        "timestamp": "2026-10-24T22:59:22.123Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1090,7 @@
         "changePct": -1.92,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-24T22:29:43.347Z",
+        "timestamp": "2026-10-24T22:59:22.316Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1102,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-24T22:29:43.612Z",
+        "timestamp": "2026-10-24T22:59:22.680Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1114,7 @@
         "changePct": -1.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-24T22:29:43.694Z",
+        "timestamp": "2026-10-24T22:59:22.815Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1104,7 +1126,7 @@
         "changePct": -1.92,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-24T22:29:43.828Z",
+        "timestamp": "2026-10-24T22:59:23.006Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1116,7 +1138,7 @@
         "changePct": 3.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-24T22:29:43.911Z",
+        "timestamp": "2026-10-24T22:59:23.098Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
