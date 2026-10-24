@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:29:35.138Z",
+  "generatedAt": "2026-10-24T12:59:44.994Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1126,6 +1126,12 @@
     },
     {
       "dateISO": "2026-10-28",
+      "co": "Kotyark Industries Limited",
+      "tk": "KOTYARK",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-28",
       "co": "Kuantum Papers Limited",
       "tk": "KUANTUM",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-28",
       "co": "Sudeep Pharma Limited",
       "tk": "SUDEEPPHRM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-28",
-      "co": "Sundram Fasteners Limited",
-      "tk": "SUNDRMFAST",
       "type": "Q2 FY27 results announcement"
     }
   ]
