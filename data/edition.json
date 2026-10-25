@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-25T19:59:25.420Z",
+  "generatedAt": "2026-10-25T20:29:25.630Z",
   "articles": [
+    {
+      "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
+      "desc": "India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system adjustments. Audit committees are discussing transition plans while awaiting final rules and guidance from regulatory bodies.",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-inc-braces-for-financial-reporting-overhaul-with-ind-as-118-key-changes-and-impacts/articleshow/135197446.cms",
+      "pubDate": "Mon, 26 Oct 2026 01:38:55 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
       "desc": "Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.",
@@ -26,16 +36,6 @@
       "desc": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
       "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
       "pubDate": "Sun, 25 Oct 2026 14:47:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "desc": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 14:46:38 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -82,6 +82,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Ind AS 118: India Inc gears up for big changes to financial reporting",
+      "desc": "India’s largest companies are preparing for the implementation of Ind AS 118, which may impact financial reporting. Changes include new classifications for income and expenses, and new operating profit reporting methods. Companies face challenges due to complex requirements and the need for system adjustments. Audit committees are discussing transition plans while awaiting final rules and guidance from regulatory bodies.",
+      "link": "https://economictimes.indiatimes.com/news/economy/finance/india-inc-braces-for-financial-reporting-overhaul-with-ind-as-118-key-changes-and-impacts/articleshow/135197446.cms",
+      "pubDate": "Mon, 26 Oct 2026 01:38:55 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
       "title": "Competition Commission of India to hire 41 across departments",
       "desc": "Individuals will be hired for positions at both CCI and its investigation arm, the director general (DG) office, according to public notices.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/competition-commission-of-india-to-hire-41-across-departments/articleshow/135197277.cms",
@@ -126,16 +136,6 @@
       "desc": "Rising energy costs and protests are sharpening European opposition to renewed US-Israeli attacks on Iran.",
       "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
       "pubDate": "Sun, 25 Oct 2026 14:47:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?",
-      "desc": "Prime Minister Netanyahu mulls cryptocurrency as answer to economic sanctions on Israel, but there are few buyers.",
-      "link": "https://www.aljazeera.com/news/2026/10/25/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions?traffic_source=rss",
-      "pubDate": "Sun, 25 Oct 2026 14:46:38 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -443,7 +443,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-25T19:59:25.420Z",
+    "generatedAt": "2026-10-25T20:29:25.630Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -456,7 +456,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:15.322Z",
+        "timestamp": "2026-10-25T20:29:16.393Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -468,7 +468,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:16.008Z",
+        "timestamp": "2026-10-25T20:29:17.028Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -480,7 +480,7 @@
         "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:16.444Z",
+        "timestamp": "2026-10-25T20:29:17.366Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -492,7 +492,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:16.759Z",
+        "timestamp": "2026-10-25T20:29:17.654Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -504,7 +504,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:17.090Z",
+        "timestamp": "2026-10-25T20:29:17.946Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -516,7 +516,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:17.404Z",
+        "timestamp": "2026-10-25T20:29:18.202Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -528,7 +528,7 @@
         "changePct": -1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:17.681Z",
+        "timestamp": "2026-10-25T20:29:18.496Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -540,7 +540,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:17.915Z",
+        "timestamp": "2026-10-25T20:29:18.761Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -552,7 +552,7 @@
         "changePct": -2.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:18.230Z",
+        "timestamp": "2026-10-25T20:29:19.037Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -564,7 +564,7 @@
         "changePct": -1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:18.792Z",
+        "timestamp": "2026-10-25T20:29:19.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -576,7 +576,7 @@
         "changePct": -2.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:19.070Z",
+        "timestamp": "2026-10-25T20:29:19.646Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -588,7 +588,7 @@
         "changePct": -2.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:19.467Z",
+        "timestamp": "2026-10-25T20:29:19.989Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -600,7 +600,7 @@
         "changePct": -2.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:19.731Z",
+        "timestamp": "2026-10-25T20:29:20.285Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -612,7 +612,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:20.022Z",
+        "timestamp": "2026-10-25T20:29:20.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -624,7 +624,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:20.347Z",
+        "timestamp": "2026-10-25T20:29:20.974Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -636,7 +636,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:20.726Z",
+        "timestamp": "2026-10-25T20:29:21.278Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -648,7 +648,7 @@
         "changePct": -0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:21.032Z",
+        "timestamp": "2026-10-25T20:29:21.560Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -660,7 +660,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:21.444Z",
+        "timestamp": "2026-10-25T20:29:21.847Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -672,7 +672,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:21.710Z",
+        "timestamp": "2026-10-25T20:29:22.316Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -684,7 +684,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:21.977Z",
+        "timestamp": "2026-10-25T20:29:22.577Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -696,7 +696,7 @@
         "changePct": -0.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:22.267Z",
+        "timestamp": "2026-10-25T20:29:22.863Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -708,7 +708,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:22.612Z",
+        "timestamp": "2026-10-25T20:29:23.135Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -720,7 +720,7 @@
         "changePct": 0.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:22.923Z",
+        "timestamp": "2026-10-25T20:29:23.409Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -732,7 +732,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-25T19:59:23.377Z",
+        "timestamp": "2026-10-25T20:29:23.727Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -744,7 +744,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-25T19:59:23.654Z",
+        "timestamp": "2026-10-25T20:29:24.063Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -756,7 +756,7 @@
         "changePct": 3.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-25T19:59:23.980Z",
+        "timestamp": "2026-10-25T20:29:24.326Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -768,7 +768,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-25T19:59:24.288Z",
+        "timestamp": "2026-10-25T20:29:24.677Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -780,7 +780,7 @@
         "changePct": -1.92,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-25T19:59:24.766Z",
+        "timestamp": "2026-10-25T20:29:25.031Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -792,7 +792,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-25T19:59:25.062Z",
+        "timestamp": "2026-10-25T20:29:25.302Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -804,7 +804,7 @@
         "changePct": -1.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-25T19:59:25.174Z",
+        "timestamp": "2026-10-25T20:29:25.406Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -816,7 +816,7 @@
         "changePct": -1.92,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-25T19:59:25.348Z",
+        "timestamp": "2026-10-25T20:29:25.524Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -828,7 +828,7 @@
         "changePct": 3.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-25T19:59:25.420Z",
+        "timestamp": "2026-10-25T20:29:25.630Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
