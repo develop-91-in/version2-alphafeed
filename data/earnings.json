@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T14:30:06.242Z",
+  "generatedAt": "2026-10-26T15:29:45.119Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1270,6 +1270,12 @@
     },
     {
       "dateISO": "2026-10-29",
+      "co": "DCW Limited",
+      "tk": "DCW",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-29",
       "co": "DPSC Limited",
       "tk": "DPSCLTD",
       "type": "Financial results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-29",
       "co": "Fiberweb (India) Limited",
       "tk": "FIBERWEB",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-29",
-      "co": "Fino Payments Bank Limited",
-      "tk": "FINOPB",
       "type": "Q2 FY27 results announcement"
     }
   ]
