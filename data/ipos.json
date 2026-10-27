@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T02:59:42.158Z",
+  "generatedAt": "2026-10-27T03:29:35.085Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -148,32 +148,10 @@
   ],
   "sme": [
     {
-      "co": "Wiscon Industries",
-      "note": "BSE SME",
-      "size": "₹110 cr",
-      "band": "₹194 – ₹204",
-      "dates": "27 Oct – 29 Oct 2026",
-      "listing": "3 Nov 2026",
-      "openISO": "2026-10-27",
-      "closeISO": "2026-10-29",
-      "listingISO": "2026-11-03"
-    },
-    {
       "co": "Carver Roboweld",
       "note": "BSE SME",
       "size": "₹28 cr",
       "band": "₹76 – ₹80",
-      "dates": "28 Oct – 30 Oct 2026",
-      "listing": "4 Nov 2026",
-      "openISO": "2026-10-28",
-      "closeISO": "2026-10-30",
-      "listingISO": "2026-11-04"
-    },
-    {
-      "co": "Ajwa Projects",
-      "note": "BSE SME",
-      "size": "₹38 cr",
-      "band": "—",
       "dates": "28 Oct – 30 Oct 2026",
       "listing": "4 Nov 2026",
       "openISO": "2026-10-28",
@@ -192,10 +170,43 @@
       "listingISO": "2026-11-05"
     },
     {
+      "co": "Johnsoncab Electricals",
+      "note": "BSE SME",
+      "size": "₹56 cr",
+      "band": "₹190 – ₹200",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "HGS (India)",
+      "note": "NSE SME",
+      "size": "₹35 cr",
+      "band": "₹114 – ₹120",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
       "co": "Vectras Enprocon",
       "note": "BSE SME",
       "size": "₹53 cr",
       "band": "₹99 – ₹105",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "Maxwell Engineering Solutions",
+      "note": "NSE SME",
+      "size": "₹58 cr",
+      "band": "₹150 – ₹158",
       "dates": "30 Oct 2026 – 3 Nov 2026",
       "listing": "6 Nov 2026",
       "openISO": "2026-10-30",
