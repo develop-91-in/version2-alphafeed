@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T08:59:36.626Z",
+  "generatedAt": "2026-10-27T09:29:33.788Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1216,6 +1216,12 @@
     },
     {
       "dateISO": "2026-10-29",
+      "co": "Sudarshan Pharma Industries Limited",
+      "tk": "SUDARSHAN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-29",
       "co": "Suraj Limited",
       "tk": "SURAJLTD",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-29",
       "co": "Wheels India Limited",
       "tk": "WHEELS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-30",
-      "co": "ANDHRA PAPER LIMITED",
-      "tk": "ANDHRAPAP",
       "type": "Q2 FY27 results announcement"
     }
   ]
