@@ -1,85 +1,175 @@
 {
-  "generatedAt": "2026-10-27T13:29:30.238Z",
+  "generatedAt": "2026-10-27T13:59:57.561Z",
   "articles": [
     {
-      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they&#8217;ll be American-made",
-      "desc": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US military, but the ultimate focus of the joint venture is to make laptops entirely in the US. Eventually. The global [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-      "pubDate": "2026-10-27T09:00:00-04:00",
+      "title": "India considers measures to boost local production of 100 critical inputs to cut import reliance, government official says",
+      "desc": "India is taking steps to encourage the local manufacturing of 100 key items that are currently imported. This initiative aims to decrease dependence on foreign suppliers, especially from China, to enhance domestic production capabilities. The government has identified these crucial items from a broader import list valued at $51 billion, which includes various sectors. By reducing reliance on imports, India hopes to strengthen its economy and mitigate supply chain risks.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-considers-measures-to-boost-local-production-of-100-critical-inputs-to-cut-import-reliance-government-official-says/articleshow/135236274.cms",
+      "pubDate": "Tue, 27 Oct 2026 19:09:34 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Anthropic IPO rocks Indian IT; Why Walmart is in no hurry to list Flipkart",
+      "desc": "Anthropic’s US IPO filing sent Indian IT stocks lower on Tuesday. This and more in today’s ETtech Top 5.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/anthropic-ipo-rocks-indian-it-walmart-in-no-hurry-to-list-flipkart/articleshow/135235874.cms",
+      "pubDate": "Tue, 27 Oct 2026 19:05:54 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+      "desc": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 13:34:07 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "PVR Inox among stocks that hit 52-week highs and rallied up to 20% in a month",
+      "desc": "Six BSE 500 stocks hit fresh 52-week highs despite the Sensex closing nearly flat. International Gemological Institute led monthly gains at 19%, followed by PVR Inox, Acutaas Chemicals, Indian Hotels, Laurus Labs and Sona BLW.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:58:57 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
+      "desc": "JSW Infrastructure reported an 11 percent drop in consolidated net profit for the September quarter, with earnings falling to Rs 328.23 crore from Rs 368.81 crore the previous year. The company achieved total income of Rs 1,669.47 crore, while expenses rose to Rs 1,238.34 crore. Notably, cargo volumes from India operations grew by 8 percent year-on-year, reaching 29.4 million tonnes.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:56:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+      "desc": "The pair discussed energy cooperation and ways to enhance bilateral relations, Iranian state media reported.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 13:26:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sebi extends deadline for debenture trustees to comply with norms till April 2027",
+      "desc": "Sebi has extended the deadline for debenture trustees to comply with regulatory requirements by six months. The new deadline for compliance is now set for April 27, 2027. This extension was granted after receiving industry feedback about operational challenges faced by debenture trustees. The regulator is currently reviewing the regulatory framework related to debenture trustees through an Expert Working Group.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-for-debenture-trustees-to-comply-with-norms-till-april-2027/articleshow/135235986.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:53:44 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Coca-Cola raises profit forecast as premium drinks, sodas hold strong",
+      "desc": "Coca-Cola has lifted its annual profit forecast, driven by robust demand for a range of beverages, particularly zero-sugar options. The company now anticipates earnings per share growth of at least 9% by 2026. Their third-quarter revenue soared to $13.38 billion, exceeding analysts' expectations, while Coca-Cola's strong showing stands in sharp contrast to PepsiCo's recent downgrades and cost-cutting plans. Following these promising results, Coca-Cola shares rose nearly 1% in premarket trading.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:51:14 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "desc": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "pubDate": "2026-10-27T09:50:51-04:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Sensex on Tuesday",
-      "desc": "Indian equity benchmarks ended nearly flat on Tuesday, with the Nifty 50 slipping 0.02% and the Sensex falling 8 points amid elevated crude prices and caution ahead of the US Fed decision. Tata Consumer and Bharti Airtel led gainers, while Asian Paints and Coal India topped the losers’ list.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bharti-airtel-tata-consumer-asian-paints-coal-india-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/135234189.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:58:53 +0530",
+      "title": "India considers measures to boost local production of 100 critical inputs to cut import reliance, government official says",
+      "desc": "India is taking steps to encourage the local manufacturing of 100 key items that are currently imported. This initiative aims to decrease dependence on foreign suppliers, especially from China, to enhance domestic production capabilities. The government has identified these crucial items from a broader import list valued at $51 billion, which includes various sectors. By reducing reliance on imports, India hopes to strengthen its economy and mitigate supply chain risks.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-considers-measures-to-boost-local-production-of-100-critical-inputs-to-cut-import-reliance-government-official-says/articleshow/135236274.cms",
+      "pubDate": "Tue, 27 Oct 2026 19:09:34 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Anthropic IPO rocks Indian IT; Why Walmart is in no hurry to list Flipkart",
+      "desc": "Anthropic’s US IPO filing sent Indian IT stocks lower on Tuesday. This and more in today’s ETtech Top 5.",
+      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/anthropic-ipo-rocks-indian-it-walmart-in-no-hurry-to-list-flipkart/articleshow/135235874.cms",
+      "pubDate": "Tue, 27 Oct 2026 19:05:54 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "Russia strikes Kyiv ahead of localised ceasefire in Oleshky",
+      "desc": "Russia struck Kyiv multiple times on Monday night, hours before a humanitarian ceasefire in Oleshky took effect.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/russia-strikes-kyiv-ahead-of-localised-ceasefire-in-oleshky?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 13:34:07 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "PVR Inox among stocks that hit 52-week highs and rallied up to 20% in a month",
+      "desc": "Six BSE 500 stocks hit fresh 52-week highs despite the Sensex closing nearly flat. International Gemological Institute led monthly gains at 19%, followed by PVR Inox, Acutaas Chemicals, Indian Hotels, Laurus Labs and Sona BLW.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:58:57 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Tata Capital Q2 Results: Profit jumps 51% to Rs 1,660 crore; NII up 23%",
-      "desc": "Tata Capital’s September-quarter net profit surged 51% year-on-year to Rs 1,660 crore, driven by loan growth, higher interest income and lower provisions. Its loan book crossed Rs 3 lakh crore, while improving margins and asset quality strengthened profitability.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-results-profit-jumps-51-to-rs-1660-crore-nii-up-23/articleshow/135234003.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:50:40 +0530",
+      "title": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
+      "desc": "JSW Infrastructure reported an 11 percent drop in consolidated net profit for the September quarter, with earnings falling to Rs 328.23 crore from Rs 368.81 crore the previous year. The company achieved total income of Rs 1,669.47 crore, while expenses rose to Rs 1,238.34 crore. Notably, cargo volumes from India operations grew by 8 percent year-on-year, reaching 29.4 million tonnes.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:56:43 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "India benchmark yield falls most in 3 months on value buying",
-      "desc": "Indian government bonds are witnessing a resurgence despite previous instability, as the benchmark 10-year yield has notably decreased. Brent crude prices varied between $114.40 and $117 a barrel during Asian trading. These fluctuations within the debt market have uplifted investor sentiments, and the Indian rupee appears to be stabilizing, contributing positively.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-benchmark-yield-falls-most-in-3-months-on-value-buying/articleshow/135233969.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:48:15 +0530",
+      "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
+      "desc": "The pair discussed energy cooperation and ways to enhance bilateral relations, Iranian state media reported.",
+      "link": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 13:26:32 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Sebi extends deadline for debenture trustees to comply with norms till April 2027",
+      "desc": "Sebi has extended the deadline for debenture trustees to comply with regulatory requirements by six months. The new deadline for compliance is now set for April 27, 2027. This extension was granted after receiving industry feedback about operational challenges faced by debenture trustees. The regulator is currently reviewing the regulatory framework related to debenture trustees through an Expert Working Group.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-for-debenture-trustees-to-comply-with-norms-till-april-2027/articleshow/135235986.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:53:44 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Vedanta Iron Q2 Results: Loss narrows to Rs 324 crore, revenue declines 2% YoY",
-      "desc": "Vedanta Iron and Steel narrowed its Q2 FY27 loss to Rs 324 crore from Rs 477 crore a year earlier, while revenue declined 1.7% to Rs 2,742 crore. EBITDA rose 56% to Rs 83 crore, supported by improved steel realisations and efficiency gains. The company also reported record half-yearly pig iron production.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-iron-q2-results-loss-narrows-to-rs-324-crore-revenue-declines-2-yoy/articleshow/135233849.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:46:33 +0530",
+      "title": "Coca-Cola raises profit forecast as premium drinks, sodas hold strong",
+      "desc": "Coca-Cola has lifted its annual profit forecast, driven by robust demand for a range of beverages, particularly zero-sugar options. The company now anticipates earnings per share growth of at least 9% by 2026. Their third-quarter revenue soared to $13.38 billion, exceeding analysts' expectations, while Coca-Cola's strong showing stands in sharp contrast to PepsiCo's recent downgrades and cost-cutting plans. Following these promising results, Coca-Cola shares rose nearly 1% in premarket trading.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coca-cola-raises-profit-forecast-as-premium-drinks-sodas-hold-strong/articleshow/135235940.cms",
+      "pubDate": "Tue, 27 Oct 2026 18:51:14 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "US Stock Market Live Updates: US stock futures rise as oil falls ahead of Fed decision",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-coca-cola-paypal-tesla-meta-earnings-federal-reserve-fed-rate-decision-us-stocks-oil-crude-oil-treasury-yields-ai-stocks-anthropic-ipo-27th-october-2026/liveblog/135233966.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:42:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Larsen &amp; Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
-      "desc": "L&amp;T Q2 Results: Larsen &amp; Toubro announced significant financial results for the quarter ended September 30, 2026. The company reported a 33% increase in consolidated profit after tax compared to the previous year. Consolidated revenue also grew by 16%, driven by strong performance across various sectors. Additionally, L&amp;T achieved its highest quarterly order inflow and saw substantial international participation in its orders.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-surges-33-yoy-to-rs-5202-crore-revenue-grows-16/articleshow/135233297.cms",
-      "pubDate": "Tue, 27 Oct 2026 17:39:00 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "First-time buyer wary of Budget housing loan scheme",
-      "desc": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
-      "link": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 12:05:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -100,6 +190,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
+      "desc": "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
+      "pubDate": "Tue, 27 Oct 2026 13:06:28 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Apple refreshes the iMac with M6 chips",
@@ -412,16 +512,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "MPs and MSP detained by Israel and barred from entering West Bank",
-      "desc": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces.",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 27 Oct 2026 10:11:46 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Cipla Q2 net profit falls 35% to Rs 878 crore, revenue dips 2%",
       "desc": "Cipla reported a 35% year-on-year decline in second-quarter net profit to Rs 878 crore, with revenue and EBITDA also falling amid weaker North American sales. India revenue grew 12%, while US regulatory approval and a biosimilar partnership supported its product pipeline.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-net-profit-falls-35-to-rs-878-crore-revenue-dips-2/articleshow/135230643.cms",
@@ -530,16 +620,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Drone strike in Sudan’s Nyala kills at least 21, injures 40",
-      "desc": "Drone hit a market in the city that serves as the de facto capital of the paramilitary RSF in Darfur, resident says.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/drone-strike-kills-at-least-21-and-injures-40-in-sudans-nyala?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 08:35:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Anthropic IPO: Firm uses ‘catastrophic’ word 10 times in document to highlight ‘humanitarian’ AI risks",
@@ -710,16 +790,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "South Korea’s GDP growth beats forecasts amid AI boom",
-      "desc": "Asia&#039;s fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
-      "link": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 06:50:53 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
@@ -912,26 +982,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "Ather Energy shares jump 5%, extend rally to 20% in two days after Q2 results. Can the run continue?",
-      "desc": "Ather Energy shares extended their rally on Tuesday after the electric two-wheeler maker reported its first quarterly profit of Rs 1.26 crore in Q2 FY27. Revenue surged 63% year-on-year to Rs 1,464 crore, while EBITDA turned positive. Nomura raised its target price to Rs 2,070 and retained its Buy rating.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-jump-5-extend-rally-to-20-in-two-days-after-q2-results-can-the-run-continue/articleshow/135225009.cms",
-      "pubDate": "Tue, 27 Oct 2026 10:39:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Jio IPO: Can India’s biggest-ever issue buck the trend of muted listing gains among mega IPOs?",
-      "desc": "Jio Platforms is gearing up for a groundbreaking debut on October 28, following a remarkable Rs 30,188 crore IPO. Historical insights indicate a varied trajectory for past mega IPOs in India. The overwhelming demand is evident from Jio's impressive 22.19 times oversubscription. Analysts are weighing Jio's market dynamics and valuation as they predict potential listing advantages, with investor strategies hinging on both immediate valuations and sustained business growth.",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-can-indias-biggest-ever-issue-buck-the-trend-of-muted-listing-gains-among-mega-ipos/articleshow/135224855.cms",
-      "pubDate": "Tue, 27 Oct 2026 10:34:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "ipo-centre",
-      "sectionLabel": "IPO Centre"
-    },
-    {
       "title": "Sugar season 2026–27 begins on schedule, nearly 107 mills commence operations across India: ISMA",
       "desc": "In Maharashtra, the country’s largest sugar-producing state, close to 87 mills have commenced operations. More mills are expected to start in the coming week as cane harvesting gathers pace.",
       "link": "https://economictimes.indiatimes.com/news/economy/agriculture/sugar-season-202627-begins-on-schedule-nearly-107-mills-commence-operations-across-india-isma/articleshow/135224862.cms",
@@ -950,26 +1000,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "In Investing portfolios, one size does not fit all: Jiraaf Founder, Saurav Ghosh.",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/in-investing-portfolios-one-size-does-not-fit-all-jiraaf-founder-saurav-ghosh-/videoshow/135224803.cms",
-      "pubDate": "Tue, 27 Oct 2026 10:23:41 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Sensex, Nifty close flat while small, midcaps rally. What analysts are saying?",
-      "desc": "During a day marked by volatility, Indian stock market indices Sensex and Nifty concluded with minor dips, primarily due to oil prices nearing $105 per barrel, instilling caution in the investment community. Conversely, the Nifty Smallcap and Midcap indices thrived, achieving noteworthy gains. Experts suggest that despite pullbacks in IT and private banking segments, the market holds attractive valuations.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-extend-gains-despite-oil-hovering-near-115/barrel-what-lies-ahead/articleshow/135224717.cms",
-      "pubDate": "Tue, 27 Oct 2026 10:19:37 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Wheat sowing lags at 11,000 hectare so far amid deficient monsoon; rabi acreage down",
@@ -1050,16 +1080,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "desc": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "pubDate": "2026-10-26T19:34:58-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Chris Mason: Burnham faces crunch decisions in his next 100 days",
@@ -1200,20 +1220,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Ather rides to profit; Pronto's US AI play",
-      "desc": "Ather Energy swung to profit in the July-September quarter. This and more in today’s ETtech Top 5.",
-      "link": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/ather-rides-to-profit-sahamati-defers-new-fee-model/articleshow/135212517.cms",
-      "pubDate": "Mon, 26 Oct 2026 19:04:53 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-27T13:29:30.237Z",
+    "generatedAt": "2026-10-27T13:59:57.560Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1226,7 +1236,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:17.306Z",
+        "timestamp": "2026-10-27T13:59:34.812Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1248,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:18.316Z",
+        "timestamp": "2026-10-27T13:59:38.223Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1260,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:18.811Z",
+        "timestamp": "2026-10-27T13:59:41.181Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1272,7 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:19.298Z",
+        "timestamp": "2026-10-27T13:59:42.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1284,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:19.567Z",
+        "timestamp": "2026-10-27T13:59:44.581Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1296,7 @@
         "changePct": 1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:20.029Z",
+        "timestamp": "2026-10-27T13:59:45.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1308,7 @@
         "changePct": 1.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:20.342Z",
+        "timestamp": "2026-10-27T13:59:47.317Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1320,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:20.846Z",
+        "timestamp": "2026-10-27T13:59:48.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1332,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:21.315Z",
+        "timestamp": "2026-10-27T13:59:48.646Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1344,7 @@
         "changePct": 0.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:21.997Z",
+        "timestamp": "2026-10-27T13:59:49.065Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,7 +1356,7 @@
         "changePct": 1.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:22.416Z",
+        "timestamp": "2026-10-27T13:59:49.353Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1358,7 +1368,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:22.721Z",
+        "timestamp": "2026-10-27T13:59:49.600Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1380,7 @@
         "changePct": 0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:23.299Z",
+        "timestamp": "2026-10-27T13:59:50.096Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1392,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:23.615Z",
+        "timestamp": "2026-10-27T13:59:50.381Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,67 +1404,67 @@
         "changePct": 3.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:23.871Z",
+        "timestamp": "2026-10-27T13:59:50.707Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7676.77,
-        "change": 53.09,
-        "changePct": 0.7,
+        "price": 7688.05,
+        "change": 11.28,
+        "changePct": 0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:24.171Z",
+        "timestamp": "2026-10-27T13:59:50.935Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26169.38,
-        "change": 214.039,
-        "changePct": 0.82,
+        "price": 26268.104,
+        "change": 98.723,
+        "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:24.915Z",
+        "timestamp": "2026-10-27T13:59:51.234Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52361.58,
-        "change": 146.418,
-        "changePct": 0.28,
+        "price": 52286.56,
+        "change": -75.02,
+        "changePct": -0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:25.234Z",
+        "timestamp": "2026-10-27T13:59:51.586Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10670.36,
-        "change": -96.97,
-        "changePct": -0.9,
+        "price": 10667.97,
+        "change": -99.36,
+        "changePct": -0.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:25.527Z",
+        "timestamp": "2026-10-27T13:59:51.884Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25489.6,
-        "change": 78.76,
-        "changePct": 0.31,
+        "price": 25454.18,
+        "change": 43.34,
+        "changePct": 0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:25.864Z",
+        "timestamp": "2026-10-27T13:59:52.109Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1466,7 +1476,7 @@
         "changePct": 1.74,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:26.117Z",
+        "timestamp": "2026-10-27T13:59:52.378Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1478,7 +1488,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:26.606Z",
+        "timestamp": "2026-10-27T13:59:53.016Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1490,7 +1500,7 @@
         "changePct": 3.09,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:27.083Z",
+        "timestamp": "2026-10-27T13:59:53.456Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1502,103 +1512,103 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T13:29:27.833Z",
+        "timestamp": "2026-10-27T13:59:54.291Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 110.15,
-        "change": -0.59,
-        "changePct": -0.53,
+        "price": 110.32,
+        "change": -0.42,
+        "changePct": -0.38,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T13:29:28.606Z",
+        "timestamp": "2026-10-27T13:59:55.111Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 101.09,
-        "change": -0.67,
-        "changePct": -0.66,
+        "price": 101.2,
+        "change": -0.56,
+        "changePct": -0.55,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T13:29:28.891Z",
+        "timestamp": "2026-10-27T13:59:55.445Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4039,
-        "change": 0.6,
-        "changePct": 0.01,
+        "price": 4039.1,
+        "change": 0.7,
+        "changePct": 0.02,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T13:29:29.194Z",
+        "timestamp": "2026-10-27T13:59:55.699Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 53.775,
-        "change": -0.566,
-        "changePct": -1.04,
+        "price": 53.94,
+        "change": -0.401,
+        "changePct": -0.74,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T13:29:29.483Z",
+        "timestamp": "2026-10-27T13:59:55.941Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.99,
-        "change": 0.004,
-        "changePct": 0.08,
+        "price": 4.999,
+        "change": 0.013,
+        "changePct": 0.26,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-27T13:29:29.801Z",
+        "timestamp": "2026-10-27T13:59:57.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123454,
-        "change": -28,
-        "changePct": -0.02,
+        "price": 123497,
+        "change": 15,
+        "changePct": 0.01,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-27T13:29:29.946Z",
+        "timestamp": "2026-10-27T13:59:57.329Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 164504,
-        "change": -1654,
-        "changePct": -1,
+        "price": 164947,
+        "change": -1211,
+        "changePct": -0.73,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-27T13:29:30.112Z",
+        "timestamp": "2026-10-27T13:59:57.487Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9614,
-        "change": -64,
-        "changePct": -0.66,
+        "price": 9625,
+        "change": -53,
+        "changePct": -0.55,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-27T13:29:30.237Z",
+        "timestamp": "2026-10-27T13:59:57.560Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
