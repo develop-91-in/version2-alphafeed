@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:29:30.894Z",
+  "generatedAt": "2026-10-27T20:59:23.926Z",
   "articles": [
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -8,6 +8,16 @@
       "pubDate": "Tue, 27 Oct 2026 20:19:53 GMT",
       "image": "",
       "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+      "desc": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve began its policy meeting, with expectations for interest rates to remain unchanged. Nearly half of S&amp;P 500 companies reported earnings, with many exceeding estimates while some major firms faced declines.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+      "pubDate": "Wed, 28 Oct 2026 01:46:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "GST registration gets easier as CBIC drops Udyam proof, sets seven-day limit for approvals",
-      "desc": "The Central Board of Indirect Taxes and Customs has issued clarifications regarding GST registration requirements for businesses. Companies will no longer need to provide Udyam certificates or face rejections due to unpaid bills. Registration applications must be processed within seven working days with Aadhaar authentication. Tax demands must include clear justifications and cannot be arbitrary. These changes aim to simplify compliance and reduce disputes in tax administration.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/gst-registration-gets-easier-as-cbic-drops-udyam-proof-sets-seven-day-limit-for-approvals/articleshow/135243010.cms",
-      "pubDate": "Tue, 27 Oct 2026 23:32:00 +0530",
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "desc": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics. It has been a turbulent few months between OpenAI [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "pubDate": "2026-10-27T16:48:58-04:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
@@ -90,6 +100,16 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+      "desc": "US stocks saw gains as renewed optimism about artificial intelligence lifted chipmakers while corporate earnings were evaluated. Although concerns about AI spending persist, news of Anthropic's IPO provided a relief rally for the sector. The Federal Reserve began its policy meeting, with expectations for interest rates to remain unchanged. Nearly half of S&amp;P 500 companies reported earnings, with many exceeding estimates while some major firms faced declines.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+      "pubDate": "Wed, 28 Oct 2026 01:46:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
@@ -430,26 +450,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Israeli military detains Egyptian national who crossed border",
-      "desc": "Egyptian man held after crossing into Israel near Nitzana, his motive for the crossing still unknown.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/israeli-military-detains-egyptian-national-who-crossed-border?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:10:27 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Hegseth heads to Manila to shore up US ties with Asia-Pacific partners",
-      "desc": "The Iran war and Trump&#039;s criticisms of allies have led Asia-Pacific countries to recalibrate their calculations.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/hegseth-heads-to-manila-to-shore-up-us-ties-with-asia-pacific-partners?traffic_source=rss",
-      "pubDate": "Tue, 27 Oct 2026 15:08:59 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
@@ -1012,16 +1012,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "D-Street in gloomy mood, but Kotak sees 3 triggers for rebounds and adds 5 midcap stocks to portfolio",
-      "desc": "Dalal Street faces significant market challenges, leading Kotak Institutional Equities to spotlight selective stock value. With large-cap stocks in view, the impact of geopolitical strife and fluctuating crude oil prices weighs heavily on investor sentiment. The brokerage sees potential recovery catalysts in peace talks regarding the Iran-US situation and favorable Q2 earnings.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-in-gloomy-mood-but-kotak-sees-3-triggers-for-rebounds-and-adds-5-midcap-stocks-to-portfolio/articleshow/135228137.cms",
-      "pubDate": "Tue, 27 Oct 2026 13:37:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "Tata Motors, Amazon partner to deploy 3,000 electric trucks for ecommerce logistics",
       "desc": "Heavy Industries Minister H D Kumaraswamy flagged off the initial fleet of trucks. \"I congratulate Tata Motors and Amazon on this significant collaboration to deploy 3,000 electric trucks across Amazon's transportation network in India,\" Kumaraswamy said.",
       "link": "https://economictimes.indiatimes.com/tech/startups/tata-motors-amazon-partner-to-deploy-3000-electric-trucks-for-ecommerce-logistics/articleshow/135228266.cms",
@@ -1223,7 +1213,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-27T20:29:30.894Z",
+    "generatedAt": "2026-10-27T20:59:23.926Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1236,7 +1226,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:21.144Z",
+        "timestamp": "2026-10-27T20:59:13.635Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1238,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:21.772Z",
+        "timestamp": "2026-10-27T20:59:14.526Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1250,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:22.045Z",
+        "timestamp": "2026-10-27T20:59:14.865Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1262,7 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:22.411Z",
+        "timestamp": "2026-10-27T20:59:15.234Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1274,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:22.675Z",
+        "timestamp": "2026-10-27T20:59:15.499Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1286,7 @@
         "changePct": 1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:23.019Z",
+        "timestamp": "2026-10-27T20:59:15.901Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1298,7 @@
         "changePct": 1.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:23.289Z",
+        "timestamp": "2026-10-27T20:59:16.296Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,7 +1310,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:23.553Z",
+        "timestamp": "2026-10-27T20:59:16.619Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,7 +1322,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:23.833Z",
+        "timestamp": "2026-10-27T20:59:16.953Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1344,7 +1334,7 @@
         "changePct": 0.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:24.417Z",
+        "timestamp": "2026-10-27T20:59:17.276Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1346,7 @@
         "changePct": 1.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:24.760Z",
+        "timestamp": "2026-10-27T20:59:17.525Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1358,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:25.070Z",
+        "timestamp": "2026-10-27T20:59:17.813Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1370,7 @@
         "changePct": 0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:25.409Z",
+        "timestamp": "2026-10-27T20:59:18.068Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,7 +1382,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:25.681Z",
+        "timestamp": "2026-10-27T20:59:18.362Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1404,7 +1394,7 @@
         "changePct": 3.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:25.955Z",
+        "timestamp": "2026-10-27T20:59:18.667Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1416,7 +1406,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:26.335Z",
+        "timestamp": "2026-10-27T20:59:19.145Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1428,7 +1418,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:26.632Z",
+        "timestamp": "2026-10-27T20:59:19.406Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1440,7 +1430,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:26.899Z",
+        "timestamp": "2026-10-27T20:59:19.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1452,7 +1442,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:27.182Z",
+        "timestamp": "2026-10-27T20:59:19.977Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1464,7 +1454,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:27.485Z",
+        "timestamp": "2026-10-27T20:59:20.567Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1476,7 +1466,7 @@
         "changePct": 1.74,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:28.151Z",
+        "timestamp": "2026-10-27T20:59:20.804Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1488,7 +1478,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:28.437Z",
+        "timestamp": "2026-10-27T20:59:21.089Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1500,7 +1490,7 @@
         "changePct": 3.09,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:28.719Z",
+        "timestamp": "2026-10-27T20:59:21.407Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1512,55 +1502,55 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T20:29:29.014Z",
+        "timestamp": "2026-10-27T20:59:21.729Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.62,
-        "change": -1.12,
-        "changePct": -1.01,
+        "price": 109.74,
+        "change": -1,
+        "changePct": -0.9,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T20:29:29.287Z",
+        "timestamp": "2026-10-27T20:59:22.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 100.02,
-        "change": -1.74,
-        "changePct": -1.71,
+        "price": 100.2,
+        "change": -1.56,
+        "changePct": -1.53,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T20:29:29.579Z",
+        "timestamp": "2026-10-27T20:59:22.440Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4073.5,
-        "change": 35.1,
-        "changePct": 0.87,
+        "price": 4073.9,
+        "change": 35.5,
+        "changePct": 0.88,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T20:29:29.928Z",
+        "timestamp": "2026-10-27T20:59:22.700Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 54.505,
-        "change": 0.164,
-        "changePct": 0.3,
+        "price": 54.52,
+        "change": 0.179,
+        "changePct": 0.33,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T20:29:30.234Z",
+        "timestamp": "2026-10-27T20:59:23.154Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1572,43 +1562,43 @@
         "changePct": 0.14,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-27T20:29:30.496Z",
+        "timestamp": "2026-10-27T20:59:23.491Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124555,
-        "change": 1073,
-        "changePct": 0.87,
+        "price": 124567,
+        "change": 1085,
+        "changePct": 0.88,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-27T20:29:30.650Z",
+        "timestamp": "2026-10-27T20:59:23.664Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 166660,
-        "change": 501,
-        "changePct": 0.3,
+        "price": 166706,
+        "change": 547,
+        "changePct": 0.33,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-27T20:29:30.783Z",
+        "timestamp": "2026-10-27T20:59:23.798Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9512,
-        "change": -165,
-        "changePct": -1.71,
+        "price": 9530,
+        "change": -148,
+        "changePct": -1.53,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-27T20:29:30.894Z",
+        "timestamp": "2026-10-27T20:59:23.926Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
