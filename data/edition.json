@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-27T16:29:27.970Z",
+  "generatedAt": "2026-10-27T16:59:31.927Z",
   "articles": [
+    {
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "desc": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "pubDate": "2026-10-27T12:51:22-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Russia’s farm exports to India rise 11% in nine months, led by sunflower oil",
+      "desc": "Russia's agricultural exports to India rose significantly in the first nine months of the year. Agroexport reported shipments reached 1.3 million tons, primarily driven by sunflower oil. This represents an 11% increase in volume compared to previous figures, amounting to $1.45 billion. Trade between India and Russia has expanded significantly, growing more than 20% overall this year. Both countries aim for $100 billion in bilateral trade by 2030.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russias-farm-exports-to-india-rise-11-in-nine-months-led-by-sunflower-oil/articleshow/135240632.cms",
+      "pubDate": "Tue, 27 Oct 2026 22:04:50 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
       "desc": "Lula’s fourth term may have spared BRICS an internal fracture at a time when Trump is trying to reassert US power.",
@@ -62,24 +82,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Waaree Energies Q2 Results: Profit falls 15% YoY to Rs 719 crore, revenue rises 24%",
-      "desc": "Waaree Energies reported a 14.7% year-on-year profit decline to Rs 718.68 crore in Q2FY27, despite 23.9% revenue growth. Margin pressure persisted as the company acquired data centre subsidiaries, exploring diversification into AI and digital infrastructure.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-energies-q2-results-profit-falls-15-yoy-to-rs-719-crore-revenue-rises-24/articleshow/135239084.cms",
-      "pubDate": "Tue, 27 Oct 2026 20:56:33 +0530",
+      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "desc": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "pubDate": "2026-10-27T12:51:22-04:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Swiss AI drug trial startup receives funding from Spotify-backer Creandum",
-      "desc": "An AI foundation model, trained on about two million human RNA readouts, would replace these and animal testing with 12-week simulations, the company said.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/swiss-ai-drug-trial-startup-receives-funding-from-spotify-backer-creandum/articleshow/135238709.cms",
-      "pubDate": "Tue, 27 Oct 2026 20:44:54 +0530",
+      "title": "Meta’s $25 billion legal loss just put blood in the water",
+      "desc": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion to resolve claims that Meta misled users around the 2018 [&#8230;]",
+      "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+      "pubDate": "2026-10-27T12:44:40-04:00",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Russia’s farm exports to India rise 11% in nine months, led by sunflower oil",
+      "desc": "Russia's agricultural exports to India rose significantly in the first nine months of the year. Agroexport reported shipments reached 1.3 million tons, primarily driven by sunflower oil. This represents an 11% increase in volume compared to previous figures, amounting to $1.45 billion. Trade between India and Russia has expanded significantly, growing more than 20% overall this year. Both countries aim for $100 billion in bilateral trade by 2030.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/russias-farm-exports-to-india-rise-11-in-nine-months-led-by-sunflower-oil/articleshow/135240632.cms",
+      "pubDate": "Tue, 27 Oct 2026 22:04:50 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "desc": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "pubDate": "2026-10-27T12:14:18-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Lula’s victory echoes across BRICS after fears of a Bolsonaro win",
@@ -90,6 +130,16 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "Google’s next Genie AI model generates more realistic experiences",
+      "desc": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [&#8230;]",
+      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "pubDate": "2026-10-27T12:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Iranian and Qatari leaders meet at Russian energy forum",
@@ -422,36 +472,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Apple updates the MacBook Pro with M6 chips",
-      "desc": "Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini. Last year's entry-level MacBook Pro update [&#8230;]",
-      "link": "https://www.theverge.com/tech/1017664/apple-macbook-pro-m6-processor-upgrade",
-      "pubDate": "2026-10-27T09:04:28-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Ford’s sub-$30K electric truck puts the home backup inverter right inside the vehicle",
-      "desc": "We're still a few months away from the official reveal of the Ford Fathom, the automaker's first next-generation electric vehicle. While we wait, Ford has been whetting our appetite with news about the sub-$30,000 pickup - including today's announcement about the Fathom's bidirectional charging capabilities. With an increasing number of EVs coming out with bidirectional [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1018784/ford-fathom-bidirectional-charging-inverter-power-station-cost",
-      "pubDate": "2026-10-27T09:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Palmer Luckey’s Anduril is getting into laptops — and claims they&#8217;ll be American-made",
-      "desc": "Anduril and Qualcomm are partnering on a new line of laptops called BlueChip, launching in early 2027. The first prototype is a ruggedized model using Arm-based Snapdragon X series chips and aimed at the US military, but the ultimate focus of the joint venture is to make laptops entirely in the US. Eventually. The global [&#8230;]",
-      "link": "https://www.theverge.com/gadgets/1019274/anduril-qualcomm-bluechip-laptops-american-made-military",
-      "pubDate": "2026-10-27T09:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Sensex on Tuesday",
       "desc": "Indian equity benchmarks ended nearly flat on Tuesday, with the Nifty 50 slipping 0.02% and the Sensex falling 8 points amid elevated crude prices and caution ahead of the US Fed decision. Tata Consumer and Bharti Airtel led gainers, while Asian Paints and Coal India topped the losers’ list.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bharti-airtel-tata-consumer-asian-paints-coal-india-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/135234189.cms",
@@ -640,16 +660,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-      "desc": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already knew the automaker was developing hands-free, eyes-off driving automation and had been prototyping new battery chemistries. [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-      "pubDate": "2026-10-27T07:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "10 microcap stocks rally up to 80% in just 3 months",
@@ -1260,20 +1270,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Israel and the US are both going to the polls - the consequences will be global",
-      "desc": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
-      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 26 Oct 2026 16:30:34 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-27T16:29:27.970Z",
+    "generatedAt": "2026-10-27T16:59:31.927Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1286,7 +1286,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:15.063Z",
+        "timestamp": "2026-10-27T16:59:17.905Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1298,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:15.688Z",
+        "timestamp": "2026-10-27T16:59:19.122Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1310,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:16.003Z",
+        "timestamp": "2026-10-27T16:59:19.942Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1322,7 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:16.390Z",
+        "timestamp": "2026-10-27T16:59:20.675Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1334,7 @@
         "changePct": -0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:16.740Z",
+        "timestamp": "2026-10-27T16:59:21.161Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,7 +1346,7 @@
         "changePct": 1.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:17.176Z",
+        "timestamp": "2026-10-27T16:59:21.766Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1358,7 +1358,7 @@
         "changePct": 1.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:17.460Z",
+        "timestamp": "2026-10-27T16:59:22.020Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1370,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:17.760Z",
+        "timestamp": "2026-10-27T16:59:22.548Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1382,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:18.301Z",
+        "timestamp": "2026-10-27T16:59:22.854Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,7 +1394,7 @@
         "changePct": 0.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:18.567Z",
+        "timestamp": "2026-10-27T16:59:23.516Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1406,7 +1406,7 @@
         "changePct": 1.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:18.938Z",
+        "timestamp": "2026-10-27T16:59:23.935Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1418,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:19.425Z",
+        "timestamp": "2026-10-27T16:59:24.273Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1430,7 @@
         "changePct": 0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:19.706Z",
+        "timestamp": "2026-10-27T16:59:24.596Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,7 +1442,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:20.929Z",
+        "timestamp": "2026-10-27T16:59:25.509Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1454,67 +1454,67 @@
         "changePct": 3.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:21.469Z",
+        "timestamp": "2026-10-27T16:59:25.902Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7726.69,
-        "change": 49.92,
-        "changePct": 0.65,
+        "price": 7718.82,
+        "change": 42.05,
+        "changePct": 0.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:22.124Z",
+        "timestamp": "2026-10-27T16:59:26.320Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26509.277,
-        "change": 339.896,
-        "changePct": 1.3,
+        "price": 26478.68,
+        "change": 309.299,
+        "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:22.405Z",
+        "timestamp": "2026-10-27T16:59:26.696Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52374.5,
-        "change": 12.922,
-        "changePct": 0.03,
+        "price": 52329.29,
+        "change": -32.289,
+        "changePct": -0.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:22.881Z",
+        "timestamp": "2026-10-27T16:59:27.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10686.03,
-        "change": -81.3,
-        "changePct": -0.76,
+        "price": 10686.54,
+        "change": -80.79,
+        "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:23.170Z",
+        "timestamp": "2026-10-27T16:59:27.263Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25607.79,
-        "change": 196.949,
-        "changePct": 0.78,
+        "price": 25590.77,
+        "change": 179.93,
+        "changePct": 0.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:23.602Z",
+        "timestamp": "2026-10-27T16:59:27.758Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1526,7 +1526,7 @@
         "changePct": 1.74,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:23.853Z",
+        "timestamp": "2026-10-27T16:59:28.103Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1538,7 +1538,7 @@
         "changePct": -0.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:24.163Z",
+        "timestamp": "2026-10-27T16:59:28.913Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1550,7 +1550,7 @@
         "changePct": 3.09,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:24.879Z",
+        "timestamp": "2026-10-27T16:59:29.240Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1562,103 +1562,103 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-27T16:29:25.390Z",
+        "timestamp": "2026-10-27T16:59:29.795Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.64,
-        "change": -1.1,
-        "changePct": -0.99,
+        "price": 109.46,
+        "change": -1.28,
+        "changePct": -1.16,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T16:29:25.655Z",
+        "timestamp": "2026-10-27T16:59:30.069Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 100.1,
-        "change": -1.66,
-        "changePct": -1.63,
+        "price": 100.03,
+        "change": -1.73,
+        "changePct": -1.7,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-27T16:29:25.967Z",
+        "timestamp": "2026-10-27T16:59:30.445Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4073,
-        "change": 34.6,
-        "changePct": 0.86,
+        "price": 4073.9,
+        "change": 35.5,
+        "changePct": 0.88,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T16:29:26.410Z",
+        "timestamp": "2026-10-27T16:59:30.766Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 54.46,
-        "change": 0.119,
-        "changePct": 0.22,
+        "price": 54.495,
+        "change": 0.154,
+        "changePct": 0.28,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-27T16:29:27.078Z",
+        "timestamp": "2026-10-27T16:59:31.082Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.993,
-        "change": 0.007,
-        "changePct": 0.14,
+        "price": 4.997,
+        "change": 0.011,
+        "changePct": 0.22,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-27T16:29:27.502Z",
+        "timestamp": "2026-10-27T16:59:31.482Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124534,
-        "change": 1052,
-        "changePct": 0.85,
+        "price": 124567,
+        "change": 1085,
+        "changePct": 0.88,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-27T16:29:27.678Z",
+        "timestamp": "2026-10-27T16:59:31.678Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 166522,
-        "change": 364,
-        "changePct": 0.22,
+        "price": 166629,
+        "change": 471,
+        "changePct": 0.28,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-27T16:29:27.876Z",
+        "timestamp": "2026-10-27T16:59:31.776Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9520,
-        "change": -158,
-        "changePct": -1.63,
+        "price": 9513,
+        "change": -165,
+        "changePct": -1.7,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-27T16:29:27.970Z",
+        "timestamp": "2026-10-27T16:59:31.927Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
