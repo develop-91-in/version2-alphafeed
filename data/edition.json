@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-10-28T13:00:49.632Z",
+  "generatedAt": "2026-10-28T13:29:43.214Z",
   "articles": [
+    {
+      "title": "Budget 2026: Key points at a glance",
+      "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 13:17:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
+      "desc": "SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on SEBI’s oversight, and reinforces financial stability.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
+      "pubDate": "Wed, 28 Oct 2026 18:45:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Inside Amazon’s Echo hardware event",
+      "desc": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+      "pubDate": "2026-10-28T08:46:42-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "India bonds end flat as oil woes come up against short covering",
       "desc": "Indian government bonds faced volatility as oil price hikes raised inflation concerns and affected market sentiment. The 6.94% 2036 bond yield fluctuated but ended slightly unchanged as traders reacted to market conditions. Elevated crude prices have increased worries about inflation, a wider fiscal deficit, and slower economic growth for India. The rupee weakened further against the dollar, prompting fears of aggressive policy tightening by the Reserve Bank of India.",
@@ -52,34 +82,84 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "India, Mexico begin talks for trade pact; aim to boost commerce, investments",
-      "desc": "India and Mexico have initiated negotiations for a preferential trade agreement to enhance bilateral trade and investment. The agreement aims to create new economic opportunities while addressing market access, customs procedures, and trade facilitation. Discussions included organising a Mexican business mission to India in early 2027 to improve commercial ties. India had a trade surplus with Mexico, largely due to exports in autos and pharmaceuticals.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-mexico-begin-talks-for-trade-pact-aim-to-boost-commerce-investments/articleshow/135264913.cms",
-      "pubDate": "Wed, 28 Oct 2026 17:47:26 +0530",
+      "title": "Key points at a glance",
+      "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 13:17:11 GMT",
       "image": "",
-      "source": "Economic Times Economy",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Hyundai Motor India Q2 profit falls 24% despite record sales",
-      "desc": "Hyundai Motor India’s Q2 FY27 net profit fell 24% to Rs 1,196.2 crore as commodity costs pressured margins. Revenue rose 19% to Rs 20,696.1 crore, supported by record sales, stronger exports and upcoming vehicle launches.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-profit-falls-24-despite-record-sales/articleshow/135264974.cms",
-      "pubDate": "Wed, 28 Oct 2026 17:41:52 +0530",
+      "title": "Budget 2026: Key points at a glance",
+      "desc": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 13:17:11 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Sebi signs MoU with Bank of England to strengthen oversight of clearing corporations",
+      "desc": "SEBI and the Bank of England signed an MoU to strengthen regulatory cooperation and information sharing on clearing corporations. The framework supports cross-border supervision, enables reliance on SEBI’s oversight, and reinforces financial stability.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-signs-mou-with-bank-of-england-to-strengthen-oversight-of-clearing-corporations/articleshow/135267165.cms",
+      "pubDate": "Wed, 28 Oct 2026 18:45:56 +0530",
       "image": "",
       "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Chancellor begins to deliver his first Budget",
+      "desc": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+      "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 13:13:17 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Israeli stocks fall, shekel weakens as Netanyahu bloc beats election forecasts",
-      "desc": "Israel's election results indicate Prime Minister Netanyahu's right-wing bloc is projected to win 54 seats. While the opposition bloc led by Gadi Eisenkot is expected to secure 47 seats, neither group achieved a parliamentary majority. The shekel weakened significantly, and the Tel Aviv stock index fell following the surprising election results. Analysts predict a challenging path ahead for forming a stable government in Israel.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/israeli-stocks-fall-shekel-weakens-as-netanyahu-bloc-beats-election-forecasts/articleshow/135264785.cms",
-      "pubDate": "Wed, 28 Oct 2026 17:35:05 +0530",
+      "title": "Cognite reports $1 billion in verified AI value, confirming impact of industrial AI solutions",
+      "desc": "Driving approximately 36% of value verified to date, customers are leveraging AI and automated workflows to prevent costly asset shutdowns across complex industrial operations, help them get back running when the unexpected happens, and lower the costs of running their operations.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/cognite-reports-1-billion-in-verified-ai-value-confirming-impact-of-industrial-ai-solutions/articleshow/135266756.cms",
+      "pubDate": "Wed, 28 Oct 2026 18:37:19 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+      "desc": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and [&#8230;]",
+      "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+      "pubDate": "2026-10-28T09:00:00-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Meesho expects stronger Q3 growth due to change in festive sale timeline",
+      "desc": "The first day of Meesho's annual flagship sale, the Mega Blockbuster Sale, saw orders growing about 75% YoY. Its transacting customers increased by about 60% YoY.",
+      "link": "https://economictimes.indiatimes.com/tech/startups/meesho-expects-stronger-q3-growth-due-to-change-in-festive-sale-timeline/articleshow/135266339.cms",
+      "pubDate": "Wed, 28 Oct 2026 18:22:13 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "Inside Amazon’s Echo hardware event",
+      "desc": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
+      "pubDate": "2026-10-28T08:46:42-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Sherpa and the future of AI-powered storytelling at Pocket FM",
@@ -255,36 +335,6 @@
       "title": "Amazon’s new Echo Studio speaker has a camera",
       "desc": "Amazon is giving its premium smart speaker a camera. The new Echo Studio with Home Camera, announced today as part of Amazon's big blast of announcements, has a built-in camera for monitoring a room while you're away, showing things to Alexa, and, soon, to use with video calls on Fire TV devices. It's an iteration [&#8230;]",
       "link": "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub",
-      "pubDate": "2026-10-28T08:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Our first look at Amazon’s big new Echo Show 16",
-      "desc": "Amazon's latest Echo Show smart display is big, gorgeous, and eye-wateringly expensive. Announced today, the Echo Show 16 costs $499.99 (wall mount included) and is available to preorder now. There's a Nanomatte display option for $569.99, plus a $100 preorder discount ahead of its release later this year. After spending time with the device at [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020286/amazon-echo-show-16-hands-on-price-screen-styles",
-      "pubDate": "2026-10-28T08:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Spending time with the Echo Time — a smart clock that senses you sleeping",
-      "desc": "Amazon just announced its newest smart alarm clock - the Echo Time. The baseball-sized smart speaker with a screen, the Time looks like an Echo Dot with Clock and an Echo Spot had a much bigger baby. It features a 3.2-inch touchscreen that prominently displays your choice of a huge selection of clockfaces and includes [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020352/amazon-echo-time-smart-alarm-clock-hands-on",
-      "pubDate": "2026-10-28T08:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Amazon’s Alexa Home Map is getting a smarter 3D redesign",
-      "desc": "Amazon's smart home map interface that shows you where all your connected devices are has been overhauled with new graphics, features, and dynamic effects. The new Alexa Home Map is now an interactive 3D view of not just everything that's inside your property, but outside of it too - using compatible Ring cameras to provide [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020392/amazon-alexa-home-view-3d-update-external-view",
       "pubDate": "2026-10-28T08:00:00-04:00",
       "image": "",
       "source": "The Verge",
@@ -532,16 +582,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-      "desc": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 09:25:19 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
-    },
-    {
       "title": "Hyundai Motor India Q2 Results: Standalone profit falls 24% YoY to Rs 1,189 crore, but revenue rises 18%",
       "desc": "Hyundai Motors India has reported a standalone net profit of Rs 1,189 crore for Q2 FY27, reflecting a notable decrease of 24% compared to Rs 1,570 crore during the same period last year. However, their operational revenue has grown to Rs 20,191 crore, representing an 18% increase from Rs 17,061 crore in the corresponding quarter of the previous fiscal year. This performance illustrates the company's resilience amidst shifting market conditions.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
@@ -580,26 +620,6 @@
       "source": "Economic Times Markets",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
-    },
-    {
-      "title": "Canada signs trade deal with UAE in push for non-US markets",
-      "desc": "The agreement aims to cut tariffs, reduce red tape and improve market access for businesses in both countries.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/canada-signs-trade-deal-with-uae-in-push-for-non-us-markets?traffic_source=rss",
-      "pubDate": "Wed, 28 Oct 2026 08:50:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Octopus Energy boss on standing charges",
-      "desc": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions.",
-      "link": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 08:36:45 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore,  profit at Rs 1,492 crore",
@@ -942,16 +962,6 @@
       "sectionLabel": "IPO Centre"
     },
     {
-      "title": "‘Jio Mere Laal’: Anant Ambani’s emotional words leave Mukesh Ambani teary-eyed",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/jio-mere-laal-anant-ambanis-emotional-words-leave-mukesh-ambani-teary-eyed/videoshow/135253598.cms",
-      "pubDate": "Wed, 28 Oct 2026 11:10:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India, Mexico sign terms of reference to kickstart trade pact negotiations",
       "desc": "India and Mexico have signed the Terms of Reference to initiate negotiations on a Preferential Trade Agreement. This agreement aims to enhance bilateral trade and investment opportunities between the two countries. Key negotiating areas include market access, customs procedures, and trade facilitation measures. Both delegations discussed organizing a Mexican business mission to India in early 2027.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-mexico-sign-terms-of-reference-to-kickstart-trade-pact-negotiations/articleshow/135253148.cms",
@@ -1223,7 +1233,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-28T13:00:49.632Z",
+    "generatedAt": "2026-10-28T13:29:43.214Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1236,7 +1246,7 @@
         "changePct": -0.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:30.111Z",
+        "timestamp": "2026-10-28T13:29:30.619Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1258,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:31.808Z",
+        "timestamp": "2026-10-28T13:29:31.792Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,19 +1270,19 @@
         "changePct": 0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:33.446Z",
+        "timestamp": "2026-10-28T13:29:32.184Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 95.22,
-        "change": 0.115,
-        "changePct": 0.12,
+        "price": 95.21,
+        "change": 0.105,
+        "changePct": 0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:34.443Z",
+        "timestamp": "2026-10-28T13:29:32.586Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1294,7 @@
         "changePct": -1.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:34.897Z",
+        "timestamp": "2026-10-28T13:29:33.133Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1306,7 @@
         "changePct": 1.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:35.785Z",
+        "timestamp": "2026-10-28T13:29:33.402Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1318,7 @@
         "changePct": 1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:36.284Z",
+        "timestamp": "2026-10-28T13:29:33.771Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,7 +1330,7 @@
         "changePct": -0.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:36.807Z",
+        "timestamp": "2026-10-28T13:29:34.148Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,7 +1342,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:37.413Z",
+        "timestamp": "2026-10-28T13:29:34.508Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1344,7 +1354,7 @@
         "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:37.758Z",
+        "timestamp": "2026-10-28T13:29:34.786Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1366,7 @@
         "changePct": -0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:38.051Z",
+        "timestamp": "2026-10-28T13:29:35.249Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1378,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:38.329Z",
+        "timestamp": "2026-10-28T13:29:35.900Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1390,7 @@
         "changePct": 0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:38.631Z",
+        "timestamp": "2026-10-28T13:29:36.256Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,7 +1402,7 @@
         "changePct": -0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:39.025Z",
+        "timestamp": "2026-10-28T13:29:36.630Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1404,7 +1414,7 @@
         "changePct": 1.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:39.334Z",
+        "timestamp": "2026-10-28T13:29:36.989Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1416,7 +1426,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:39.903Z",
+        "timestamp": "2026-10-28T13:29:37.416Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1428,7 +1438,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:40.572Z",
+        "timestamp": "2026-10-28T13:29:37.899Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1440,31 +1450,31 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:41.203Z",
+        "timestamp": "2026-10-28T13:29:38.651Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10682.04,
-        "change": -4.5,
-        "changePct": -0.04,
+        "price": 10707.43,
+        "change": 20.89,
+        "changePct": 0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:41.652Z",
+        "timestamp": "2026-10-28T13:29:39.037Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25661.32,
-        "change": 70.551,
-        "changePct": 0.28,
+        "price": 25705.61,
+        "change": 114.84,
+        "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:42.293Z",
+        "timestamp": "2026-10-28T13:29:39.537Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1476,7 +1486,7 @@
         "changePct": 1.08,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:42.716Z",
+        "timestamp": "2026-10-28T13:29:39.987Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1488,7 +1498,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:43.551Z",
+        "timestamp": "2026-10-28T13:29:40.337Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1500,7 +1510,7 @@
         "changePct": 6.63,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:44.780Z",
+        "timestamp": "2026-10-28T13:29:40.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1512,103 +1522,103 @@
         "changePct": 0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T13:00:46.383Z",
+        "timestamp": "2026-10-28T13:29:41.004Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 111.4,
-        "change": 1.99,
-        "changePct": 1.82,
+        "price": 111.37,
+        "change": 1.96,
+        "changePct": 1.79,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-28T13:00:47.439Z",
+        "timestamp": "2026-10-28T13:29:41.357Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 102.06,
-        "change": 2.16,
-        "changePct": 2.16,
+        "price": 101.8,
+        "change": 1.9,
+        "changePct": 1.9,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-28T13:00:48.003Z",
+        "timestamp": "2026-10-28T13:29:41.756Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4067.2,
-        "change": -7.4,
-        "changePct": -0.18,
+        "price": 4065.2,
+        "change": -9.4,
+        "changePct": -0.23,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-28T13:00:48.512Z",
+        "timestamp": "2026-10-28T13:29:42.088Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 54.24,
-        "change": -0.273,
-        "changePct": -0.5,
+        "price": 54.2,
+        "change": -0.313,
+        "changePct": -0.57,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-28T13:00:48.924Z",
+        "timestamp": "2026-10-28T13:29:42.354Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.995,
-        "change": 0.002,
-        "changePct": 0.04,
+        "price": 4.993,
+        "change": 0,
+        "changePct": 0,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-28T13:00:49.198Z",
+        "timestamp": "2026-10-28T13:29:42.693Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124513,
-        "change": -227,
-        "changePct": -0.18,
+        "price": 124439,
+        "change": -288,
+        "changePct": -0.23,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-28T13:00:49.365Z",
+        "timestamp": "2026-10-28T13:29:42.846Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 166050,
-        "change": -836,
-        "changePct": -0.5,
+        "price": 165910,
+        "change": -958,
+        "changePct": -0.57,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-28T13:00:49.517Z",
+        "timestamp": "2026-10-28T13:29:43.088Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9718,
-        "change": 206,
-        "changePct": 2.16,
+        "price": 9692,
+        "change": 181,
+        "changePct": 1.9,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-28T13:00:49.632Z",
+        "timestamp": "2026-10-28T13:29:43.214Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
