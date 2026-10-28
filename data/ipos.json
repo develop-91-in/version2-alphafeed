@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:32:24.980Z",
+  "generatedAt": "2026-10-28T02:59:35.717Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -137,17 +137,6 @@
   ],
   "sme": [
     {
-      "co": "Carver Roboweld",
-      "note": "BSE SME",
-      "size": "₹28 cr",
-      "band": "₹76 – ₹80",
-      "dates": "28 Oct – 30 Oct 2026",
-      "listing": "4 Nov 2026",
-      "openISO": "2026-10-28",
-      "closeISO": "2026-10-30",
-      "listingISO": "2026-11-04"
-    },
-    {
       "co": "Antala Industries",
       "note": "BSE SME",
       "size": "₹23 cr",
@@ -201,6 +190,17 @@
       "openISO": "2026-10-30",
       "closeISO": "2026-11-03",
       "listingISO": "2026-11-06"
+    },
+    {
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹57 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
     }
   ]
 }
