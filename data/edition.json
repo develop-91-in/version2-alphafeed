@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-28T16:12:12.390Z",
+  "generatedAt": "2026-10-28T16:29:27.208Z",
   "articles": [
+    {
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "pubDate": "2026-10-28T12:15:30-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Kremlin says European countries not included in next Ukraine talks",
+      "desc": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:12:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "desc": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:06:17 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
+      "desc": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international expansion strengthened growth prospects.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms",
+      "pubDate": "Wed, 28 Oct 2026 21:31:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "desc": "Indian markets closed lower on Wednesday as rising crude oil prices and Middle East tensions hurt sentiment. Sensex fell 353 points to 73,246, while Nifty slipped 51 points to 22,699 despite a late recovery.",
@@ -42,44 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "desc": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 15:32:58 GMT",
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "desc": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\" [&#8230;]",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "pubDate": "2026-10-28T12:15:30-04:00",
       "image": "",
-      "source": "BBC Business",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Watch: What are the main points from the Budget and how will they be funded?",
+      "desc": "The BBC's Joe Pike explains key things outlined by the Chancellor.",
+      "link": "https://www.bbc.co.uk/news/videos/ck0j06zl28wzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:12:57 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
-      "desc": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,861 crore, while revenue increased 23% to Rs 14,971 crore. Scooter sales, 100cc motorcycles and VIDA electric scooters boosted growth, alongside international expansion and investments.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
-      "pubDate": "Wed, 28 Oct 2026 20:38:33 +0530",
+      "title": "Kremlin says European countries not included in next Ukraine talks",
+      "desc": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:12:02 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Israeli soldier visiting UK faces war crimes complaint",
+      "desc": "New UK war crimes complaint against an Israeli soldier highlights a global legal campaign to end systemic impunity.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/israeli-soldier-visiting-uk-faces-war-crimes-complaint?traffic_source=rss",
+      "pubDate": "Wed, 28 Oct 2026 16:06:17 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Hero MotoCorp Q2 profit jumps 41% as scooter and EV sales surge",
+      "desc": "Hero MotoCorp’s Q2 FY27 consolidated profit rose 41% to Rs 1,860.55 crore, while revenue increased 23% to Rs 14,970.50 crore. Scooter sales surged 47%, VIDA retail sales grew 76%, and international expansion strengthened growth prospects.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-profit-jumps-41-as-scooter-and-ev-sales-surge/articleshow/135272243.cms",
+      "pubDate": "Wed, 28 Oct 2026 21:31:33 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India only major emerging economy set to reduce debt ratio by 2031: RBI Deputy Governor",
-      "desc": "India is projected to be the only emerging market economy among nine economies with gross domestic product (GDP) exceeding USD 1 trillion to reduce its government debt-to-GDP ratio between 2025 and 2031, Reserve Bank of India Deputy Governor Poonam Gupta said, highlighting the country's stronger fiscal position amid rising global debt and borrowing costs.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-only-major-emerging-economy-set-to-reduce-debt-ratio-by-2031-rbi-deputy-governor/articleshow/135270631.cms",
-      "pubDate": "Wed, 28 Oct 2026 20:29:48 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Union Cabinet approves Rs 7,395 crore for PM Viksit Gram Swaraj Yojana",
-      "desc": "Union Cabinet has allocated Rs 7,395 crore for the Pradhan Mantri Viksit Gram Swaraj Yojana. This scheme will promote local-level capacity building and resource management for panchayats across India. Elected representatives will receive training to enhance their governance capabilities and local planning efforts. The initiative aims to financially empower panchayats through better utilization of available resources. Implementation will occur from 2026-27 to 2030-31, aligning with the Sixteenth Finance Commission period.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/union-cabinet-approves-rs-7395-crore-for-pm-viksit-gram-swaraj-yojana/articleshow/135269401.cms",
-      "pubDate": "Wed, 28 Oct 2026 19:58:56 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
@@ -160,16 +210,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Chris Mason on the standout points from the Budget",
-      "desc": "Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements.",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 15:00:45 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "India only major emerging economy set to reduce debt ratio by 2031: RBI Deputy Governor",
@@ -272,16 +312,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Chancellor takes to the despatch box",
-      "desc": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
-      "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 13:13:17 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Chancellor begins to deliver his first Budget",
       "desc": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
       "link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&amp;at_campaign=rss",
@@ -320,16 +350,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Inside Amazon’s Echo hardware event",
-      "desc": "Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it [&#8230;]",
-      "link": "https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event",
-      "pubDate": "2026-10-28T08:46:42-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Sherpa and the future of AI-powered storytelling at Pocket FM",
@@ -892,16 +912,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Maruti Suzuki shares see target price cuts by Jefferies, Nomura, other brokerages after Q2 net profit drops 26% YoY. What’s ahead?",
-      "desc": "Maruti Suzuki shares post marginal gains despite a 26% YoY decline in Q2 FY27 net profit. Jefferies, Nomura and Elara Capital lower their target prices, citing weaker margins and financial income, even as record sales volumes and strong revenue growth offer support.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-shares-see-target-price-cuts-by-jefferies-nomura-other-brokerages-after-q2-net-profit-drops-26-yoy-whats-ahead/articleshow/135254335.cms",
-      "pubDate": "Wed, 28 Oct 2026 11:47:12 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "GST clarification on foreign investor brokerage offers sentiment boost, analysts say",
       "desc": "The Indian government has clarified that brokerage paid by overseas clients may qualify as an export service. This could help foreign investors avoid the 18% goods and services tax on brokerage fees. Analysts suggest this clarification is sentimentally positive amid significant foreign outflows from Indian stocks. There is ongoing speculation regarding potential cuts in capital gains tax ahead of the federal budget.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/gst-clarification-on-foreign-investor-brokerage-offers-sentiment-boost-analysts-say/articleshow/135254003.cms",
@@ -1153,7 +1163,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-28T16:12:12.390Z",
+    "generatedAt": "2026-10-28T16:29:27.208Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1166,7 +1176,7 @@
         "changePct": -0.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.498Z",
+        "timestamp": "2026-10-28T16:29:17.873Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1178,7 +1188,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.598Z",
+        "timestamp": "2026-10-28T16:29:18.478Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1190,7 +1200,7 @@
         "changePct": 0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.681Z",
+        "timestamp": "2026-10-28T16:29:18.684Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1202,7 +1212,7 @@
         "changePct": 0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.799Z",
+        "timestamp": "2026-10-28T16:29:19.043Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1214,7 +1224,7 @@
         "changePct": -1.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.853Z",
+        "timestamp": "2026-10-28T16:29:19.251Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1226,7 +1236,7 @@
         "changePct": 1.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.913Z",
+        "timestamp": "2026-10-28T16:29:19.664Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1248,7 @@
         "changePct": 1.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:10.987Z",
+        "timestamp": "2026-10-28T16:29:19.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1260,7 @@
         "changePct": -0.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.069Z",
+        "timestamp": "2026-10-28T16:29:20.185Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1272,7 @@
         "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.153Z",
+        "timestamp": "2026-10-28T16:29:20.460Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1284,7 @@
         "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.209Z",
+        "timestamp": "2026-10-28T16:29:20.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1296,7 @@
         "changePct": -0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.259Z",
+        "timestamp": "2026-10-28T16:29:21.037Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1308,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.338Z",
+        "timestamp": "2026-10-28T16:29:21.420Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1320,7 @@
         "changePct": 0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.415Z",
+        "timestamp": "2026-10-28T16:29:21.733Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1332,7 @@
         "changePct": -0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.471Z",
+        "timestamp": "2026-10-28T16:29:21.970Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,67 +1344,67 @@
         "changePct": 1.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.524Z",
+        "timestamp": "2026-10-28T16:29:22.384Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7739.03,
-        "change": 16.43,
-        "changePct": 0.21,
+        "price": 7736.81,
+        "change": 14.21,
+        "changePct": 0.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.577Z",
+        "timestamp": "2026-10-28T16:29:22.646Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26468.496,
-        "change": -9.314,
+        "price": 26465.984,
+        "change": -11.826,
         "changePct": -0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.588Z",
+        "timestamp": "2026-10-28T16:29:23.029Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52541.82,
-        "change": 164.25,
-        "changePct": 0.31,
+        "price": 52502.91,
+        "change": 125.34,
+        "changePct": 0.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.633Z",
+        "timestamp": "2026-10-28T16:29:23.333Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10689.26,
-        "change": 2.72,
-        "changePct": 0.03,
+        "price": 10689.11,
+        "change": 2.57,
+        "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.723Z",
+        "timestamp": "2026-10-28T16:29:23.593Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25683.58,
-        "change": 92.811,
-        "changePct": 0.36,
+        "price": 25691.12,
+        "change": 100.35,
+        "changePct": 0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.768Z",
+        "timestamp": "2026-10-28T16:29:23.939Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1406,7 +1416,7 @@
         "changePct": 1.08,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.849Z",
+        "timestamp": "2026-10-28T16:29:24.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1428,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.896Z",
+        "timestamp": "2026-10-28T16:29:24.824Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1440,7 @@
         "changePct": 6.63,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.948Z",
+        "timestamp": "2026-10-28T16:29:25.080Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,103 +1452,103 @@
         "changePct": 0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-28T16:12:11.998Z",
+        "timestamp": "2026-10-28T16:29:25.316Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 112.54,
-        "change": 3.13,
-        "changePct": 2.86,
+        "price": 112.43,
+        "change": 3.02,
+        "changePct": 2.76,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-28T16:12:12.078Z",
+        "timestamp": "2026-10-28T16:29:25.759Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 103.41,
-        "change": 3.51,
-        "changePct": 3.51,
+        "price": 103.4,
+        "change": 3.5,
+        "changePct": 3.5,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-28T16:12:12.130Z",
+        "timestamp": "2026-10-28T16:29:26.113Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4053.6,
-        "change": -21,
-        "changePct": -0.52,
+        "price": 4052.4,
+        "change": -22.2,
+        "changePct": -0.55,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-28T16:12:12.135Z",
+        "timestamp": "2026-10-28T16:29:26.344Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 53.605,
-        "change": -0.908,
-        "changePct": -1.67,
+        "price": 53.58,
+        "change": -0.933,
+        "changePct": -1.71,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-28T16:12:12.182Z",
+        "timestamp": "2026-10-28T16:29:26.677Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.036,
-        "change": 0.043,
-        "changePct": 0.86,
+        "price": 5.038,
+        "change": 0.045,
+        "changePct": 0.9,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-28T16:12:12.274Z",
+        "timestamp": "2026-10-28T16:29:26.890Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124093,
-        "change": -634,
-        "changePct": -0.51,
+        "price": 124047,
+        "change": -680,
+        "changePct": -0.55,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-28T16:12:12.328Z",
+        "timestamp": "2026-10-28T16:29:27.021Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 164089,
-        "change": -2779,
-        "changePct": -1.67,
+        "price": 164012,
+        "change": -2856,
+        "changePct": -1.71,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-28T16:12:12.386Z",
+        "timestamp": "2026-10-28T16:29:27.121Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9846,
-        "change": 334,
-        "changePct": 3.51,
+        "price": 9845,
+        "change": 333,
+        "changePct": 3.5,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-28T16:12:12.390Z",
+        "timestamp": "2026-10-28T16:29:27.208Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
