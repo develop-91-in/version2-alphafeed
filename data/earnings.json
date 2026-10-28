@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:30:08.353Z",
+  "generatedAt": "2026-10-28T10:59:46.480Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1018,6 +1018,12 @@
     },
     {
       "dateISO": "2026-10-30",
+      "co": "Jio Platforms Limited",
+      "tk": "JPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-30",
       "co": "Juniper Green Energy Limited",
       "tk": "JNPR",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-10-30",
       "co": "The New India Assurance Company Limited",
       "tk": "NIACL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-10-30",
-      "co": "The Phoenix Mills Limited",
-      "tk": "PHOENIXLTD",
       "type": "Q2 FY27 results announcement"
     }
   ]
