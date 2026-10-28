@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-10-28T18:29:44.738Z",
+  "generatedAt": "2026-10-28T18:59:38.787Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
-    {
-      "co": "EAAA India Alternatives",
-      "note": "BSE · NSE",
-      "size": "₹1,200 cr",
-      "band": "₹1,585 – ₹1,665",
-      "dates": "26 Oct – 28 Oct 2026",
-      "listing": "2 Nov 2026",
-      "openISO": "2026-10-26",
-      "closeISO": "2026-10-28",
-      "listingISO": "2026-11-02"
-    },
     {
       "co": "BLS Polymers",
       "note": "BSE · NSE",
@@ -56,6 +45,17 @@
       "openISO": "2026-10-29",
       "closeISO": "2026-11-02",
       "listingISO": "2026-11-05"
+    },
+    {
+      "co": "EAAA India Alternatives",
+      "note": "BSE · NSE",
+      "size": "₹1,200 cr",
+      "band": "₹1,585 – ₹1,665",
+      "dates": "26 Oct – 28 Oct 2026",
+      "listing": "2 Nov 2026",
+      "openISO": "2026-10-26",
+      "closeISO": "2026-10-28",
+      "listingISO": "2026-11-02"
     },
     {
       "co": "Paras Healthcare",
@@ -121,17 +121,6 @@
       "listing": "To be announced",
       "openISO": "2026-10-15",
       "closeISO": "2026-10-19",
-      "listingISO": ""
-    },
-    {
-      "co": "Fusion CX",
-      "note": "BSE · NSE",
-      "size": "₹702 cr",
-      "band": "₹275 – ₹289",
-      "dates": "14 Oct – 16 Oct 2026",
-      "listing": "To be announced",
-      "openISO": "2026-10-14",
-      "closeISO": "2026-10-16",
       "listingISO": ""
     }
   ],
