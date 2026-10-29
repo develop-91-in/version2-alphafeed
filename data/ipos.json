@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-10-29T18:29:36.070Z",
+  "generatedAt": "2026-10-29T18:59:35.746Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
-    {
-      "co": "BLS Polymers",
-      "note": "BSE · NSE",
-      "size": "₹255 cr",
-      "band": "₹142 – ₹150",
-      "dates": "27 Oct – 29 Oct 2026",
-      "listing": "3 Nov 2026",
-      "openISO": "2026-10-27",
-      "closeISO": "2026-10-29",
-      "listingISO": "2026-11-03"
-    },
-    {
-      "co": "SFC Environmental Technologies",
-      "note": "BSE · NSE",
-      "size": "₹668 cr",
-      "band": "₹313 – ₹330",
-      "dates": "27 Oct – 29 Oct 2026",
-      "listing": "3 Nov 2026",
-      "openISO": "2026-10-27",
-      "closeISO": "2026-10-29",
-      "listingISO": "2026-11-03"
-    },
     {
       "co": "M.K.Sons Fine Jewels",
       "note": "BSE · NSE",
@@ -45,6 +23,28 @@
       "openISO": "2026-10-29",
       "closeISO": "2026-11-02",
       "listingISO": "2026-11-05"
+    },
+    {
+      "co": "SFC Environmental Technologies",
+      "note": "BSE · NSE",
+      "size": "₹668 cr",
+      "band": "₹313 – ₹330",
+      "dates": "27 Oct – 29 Oct 2026",
+      "listing": "3 Nov 2026",
+      "openISO": "2026-10-27",
+      "closeISO": "2026-10-29",
+      "listingISO": "2026-11-03"
+    },
+    {
+      "co": "BLS Polymers",
+      "note": "BSE · NSE",
+      "size": "₹255 cr",
+      "band": "₹142 – ₹150",
+      "dates": "27 Oct – 29 Oct 2026",
+      "listing": "3 Nov 2026",
+      "openISO": "2026-10-27",
+      "closeISO": "2026-10-29",
+      "listingISO": "2026-11-03"
     },
     {
       "co": "EAAA India Alternatives",
