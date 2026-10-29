@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-10-29T15:59:31.728Z",
+  "generatedAt": "2026-10-29T16:29:24.671Z",
   "articles": [
+    {
+      "title": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
+      "desc": "Sagility promoter Sagility B.V. is reportedly planning a 12% stake sale worth ₹2,377 crore through a block deal. The healthcare IT services firm posted 22.5% revenue growth and 8.1% adjusted profit growth in Q2 FY27.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms",
+      "pubDate": "Thu, 29 Oct 2026 21:26:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "India can achieve $1 trillion exports target this fiscal despite global headwinds: Piyush Goyal",
+      "desc": "Commerce Minister Piyush Goyal expressed confidence that India would achieve its $1 trillion exports target in 2026-27 despite global uncertainties. He said nine FTAs could open preferential market access to economies with a combined GDP of $60 trillion. Goods and services exports were estimated at $476.2 billion in April-September.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-achieve-1-trillion-exports-target-this-fiscal-despite-global-headwinds-piyush-goyal/articleshow/135322112.cms",
+      "pubDate": "Thu, 29 Oct 2026 21:24:18 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
       "desc": "Indian equities rallied over 1% on Thursday as the Federal Reserve held interest rates steady, crude prices eased and institutional buying strengthened sentiment. Sensex gained 905 points, while Nifty rose 238 points, adding nearly ₹5 lakh crore in market value.",
@@ -62,24 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Ambuja Cements’ profit slumps 90% on higher costs, high previous-year base",
-      "desc": "Ambuja Cements reported a 90% year-on-year profit decline to ₹236 crore in Q2 FY27 as rising fuel, logistics and operating costs squeezed margins. Revenue remained flat at ₹9,197 crore, while EBITDA fell 28%, prompting renewed cost-control efforts.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-profit-slumps-90-on-higher-costs-high-previous-year-base/articleshow/135320851.cms",
-      "pubDate": "Thu, 29 Oct 2026 20:24:27 +0530",
+      "title": "Microsoft’s AI future has fewer jobs",
+      "desc": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [&#8230;]",
+      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "pubDate": "2026-10-29T12:00:00-04:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "The South West reacts to Budget announcements",
-      "desc": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 14:52:12 GMT",
+      "title": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
+      "desc": "Sagility promoter Sagility B.V. is reportedly planning a 12% stake sale worth ₹2,377 crore through a block deal. The healthcare IT services firm posted 22.5% revenue growth and 8.1% adjusted profit growth in Q2 FY27.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms",
+      "pubDate": "Thu, 29 Oct 2026 21:26:22 +0530",
       "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "India can achieve $1 trillion exports target this fiscal despite global headwinds: Piyush Goyal",
+      "desc": "Commerce Minister Piyush Goyal expressed confidence that India would achieve its $1 trillion exports target in 2026-27 despite global uncertainties. He said nine FTAs could open preferential market access to economies with a combined GDP of $60 trillion. Goods and services exports were estimated at $476.2 billion in April-September.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-can-achieve-1-trillion-exports-target-this-fiscal-despite-global-headwinds-piyush-goyal/articleshow/135322112.cms",
+      "pubDate": "Thu, 29 Oct 2026 21:24:18 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Faisal Islam: This Budget was micro and that was deliberate",
@@ -93,7 +123,7 @@
     },
     {
       "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-      "desc": "The prime minister did not outline a timetable, while opponents questioned the Budget's lack of detail on welfare reform.",
+      "desc": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
       "link": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Oct 2026 15:42:56 GMT",
       "image": "",
@@ -197,9 +227,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 29 Oct 2026 15:05:15 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Ambuja Cements’ profit slumps 90% on higher costs, high previous-year base",
@@ -522,16 +552,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "DoorDash is acquiring Instacart for $17 billion",
-      "desc": "DoorDash has announced that it's buying Instacart in a deal valued at approximately $17 billion. The acquisition will give DoorDash a bigger presence in online grocery delivery thanks to Instacart's established grocery marketplace and retailer partnerships, with Instacart CEO Chris Rogers saying the deal will make \"online grocery more seamless and affordable\" for millions of [&#8230;]",
-      "link": "https://www.theverge.com/business/1021981/doordash-instacart-acquisition-announcement",
-      "pubDate": "2026-10-29T07:56:35-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
       "desc": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
       "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&amp;at_campaign=rss",
@@ -590,16 +610,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-      "desc": "With five days to go before the US midterms, analysts say the war could affect how people vote.",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss",
-      "pubDate": "Thu, 29 Oct 2026 11:12:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Trent Q2 Results: Cons profit jumps 25% YoY to Rs 468 crore; revenue climbs 22%",
@@ -670,16 +680,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "AI has come for Arizona’s water",
-      "desc": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one [&#8230;]",
-      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
-      "pubDate": "2026-10-29T06:00:04-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Microsoft, Oracle outshine Alphabet as investors demand AI returns",
@@ -996,16 +996,6 @@
       "desc": "Brokerages see potential upside in 10 stocks, including DLF, Apollo Hospitals, GE Vernova T&amp;D India and Jindal Steel, citing bullish chart patterns, improving momentum and signs of recovery. Technical indicators suggest further gains, though investors should assess risks and verify stop-loss levels.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/technical-picks-for-diwali-10-stocks-pl-capital-is-bullish-on-this-festive-season-see-full-list/slideshow/135295606.cms",
       "pubDate": "Thu, 29 Oct 2026 12:34:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: ECB rate decision in focus as Lagarde exit speculation grows",
-      "desc": "The European Central Bank is expected to hold interest rates steady as oil-driven inflation risks, rising French borrowing costs and uncertainty over President Christine Lagarde's future complicate the central bank's monetary policy outlook.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-rate-decision-in-focus-as-lagarde-exit-speculation-grows/articleshow/135294625.cms",
-      "pubDate": "Thu, 29 Oct 2026 12:33:47 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -1370,30 +1360,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Karnataka, DGFT to host state-level workshop to help exporters leverage FTAs",
-      "desc": "On October 30, a workshop will be organized by the DGFT, Karnataka government, and FIEO in Bengaluru. The event aims to enhance Karnataka's export competitiveness and awareness of Free Trade Agreements. Nearly 200 participants, including exporters and industry officials, are expected to attend. Technical sessions will cover opportunities in various sectors and policy interventions under new FTAs. Senior officials and the state minister will address attendees at this important event.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/karnataka-dgft-to-host-state-level-workshop-to-help-exporters-leverage-ftas/articleshow/135273039.cms",
-      "pubDate": "Wed, 28 Oct 2026 21:58:50 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "PM Modi to release Rs 18,680 crore under PM-Kisan scheme on October 30",
-      "desc": "On October 30, Prime Minister Narendra Modi is set to launch the 24th installment of the PM-Kisan scheme in Gujarat, aiming to support over 9.34 crore farmer families across the country with more than Rs 18,680 crore. In Gujarat alone, financial assistance surpassing Rs 1,051 crore will be granted to over 52.33 lakh farmer families.",
-      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/pm-modi-to-release-rs-18680-crore-under-pm-kisan-scheme-on-october-30/articleshow/135272539.cms",
-      "pubDate": "Wed, 28 Oct 2026 21:55:23 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-29T15:59:31.727Z",
+    "generatedAt": "2026-10-29T16:29:24.671Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1406,7 +1376,7 @@
         "changePct": 1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:19.321Z",
+        "timestamp": "2026-10-29T16:29:15.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1388,7 @@
         "changePct": 1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:19.896Z",
+        "timestamp": "2026-10-29T16:29:15.977Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1400,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:20.558Z",
+        "timestamp": "2026-10-29T16:29:16.496Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,7 +1412,7 @@
         "changePct": 0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:20.949Z",
+        "timestamp": "2026-10-29T16:29:16.826Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1454,7 +1424,7 @@
         "changePct": 0.99,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:21.410Z",
+        "timestamp": "2026-10-29T16:29:17.109Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1466,7 +1436,7 @@
         "changePct": -0.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:22.014Z",
+        "timestamp": "2026-10-29T16:29:17.397Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1478,7 +1448,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:22.300Z",
+        "timestamp": "2026-10-29T16:29:17.605Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1490,7 +1460,7 @@
         "changePct": 2.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:22.582Z",
+        "timestamp": "2026-10-29T16:29:17.877Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1502,7 +1472,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:22.864Z",
+        "timestamp": "2026-10-29T16:29:18.112Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1514,7 +1484,7 @@
         "changePct": 1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:23.216Z",
+        "timestamp": "2026-10-29T16:29:18.473Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1526,7 +1496,7 @@
         "changePct": 2.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:23.561Z",
+        "timestamp": "2026-10-29T16:29:18.796Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1538,7 +1508,7 @@
         "changePct": 2.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:24.154Z",
+        "timestamp": "2026-10-29T16:29:19.082Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1550,7 +1520,7 @@
         "changePct": 0.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:24.437Z",
+        "timestamp": "2026-10-29T16:29:19.309Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1562,7 +1532,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:24.991Z",
+        "timestamp": "2026-10-29T16:29:19.625Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1574,67 +1544,67 @@
         "changePct": 1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:25.388Z",
+        "timestamp": "2026-10-29T16:29:19.876Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7726.23,
-        "change": -17.75,
-        "changePct": -0.23,
+        "price": 7719.29,
+        "change": -24.69,
+        "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:25.746Z",
+        "timestamp": "2026-10-29T16:29:20.172Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 26259.031,
-        "change": -290.82,
-        "changePct": -1.09,
+        "price": 26211.451,
+        "change": -338.4,
+        "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:26.008Z",
+        "timestamp": "2026-10-29T16:29:20.453Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52316.47,
-        "change": -158.633,
-        "changePct": -0.3,
+        "price": 52305.48,
+        "change": -169.621,
+        "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:26.292Z",
+        "timestamp": "2026-10-29T16:29:21.247Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10738.53,
-        "change": 44.03,
-        "changePct": 0.41,
+        "price": 10732.01,
+        "change": 37.51,
+        "changePct": 0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:27.019Z",
+        "timestamp": "2026-10-29T16:29:21.514Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26084.5,
-        "change": 380.48,
-        "changePct": 1.48,
+        "price": 26082.68,
+        "change": 378.66,
+        "changePct": 1.47,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:27.350Z",
+        "timestamp": "2026-10-29T16:29:21.779Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1646,7 +1616,7 @@
         "changePct": 1.1,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:27.615Z",
+        "timestamp": "2026-10-29T16:29:22.108Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1658,7 +1628,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:28.196Z",
+        "timestamp": "2026-10-29T16:29:22.395Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1670,7 +1640,7 @@
         "changePct": -1.24,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:28.642Z",
+        "timestamp": "2026-10-29T16:29:22.612Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1682,103 +1652,103 @@
         "changePct": -0.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T15:59:29.227Z",
+        "timestamp": "2026-10-29T16:29:22.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 109.66,
-        "change": -1.98,
-        "changePct": -1.77,
+        "price": 109.94,
+        "change": -1.7,
+        "changePct": -1.52,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-29T15:59:29.749Z",
+        "timestamp": "2026-10-29T16:29:23.088Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 100.52,
-        "change": -2.26,
-        "changePct": -2.2,
+        "price": 100.96,
+        "change": -1.82,
+        "changePct": -1.77,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-29T15:59:30.063Z",
+        "timestamp": "2026-10-29T16:29:23.355Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4032.1,
-        "change": -19.5,
-        "changePct": -0.48,
+        "price": 4027,
+        "change": -24.6,
+        "changePct": -0.61,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-29T15:59:30.425Z",
+        "timestamp": "2026-10-29T16:29:23.658Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.43,
-        "change": -1.236,
-        "changePct": -2.3,
+        "price": 52.48,
+        "change": -1.186,
+        "changePct": -2.21,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-29T15:59:30.861Z",
+        "timestamp": "2026-10-29T16:29:23.957Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.982,
-        "change": -0.063,
-        "changePct": -1.25,
+        "price": 4.997,
+        "change": -0.048,
+        "changePct": -0.95,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-29T15:59:31.303Z",
+        "timestamp": "2026-10-29T16:29:24.278Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123477,
-        "change": -597,
-        "changePct": -0.48,
+        "price": 123321,
+        "change": -753,
+        "changePct": -0.61,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-29T15:59:31.444Z",
+        "timestamp": "2026-10-29T16:29:24.440Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 160559,
-        "change": -3785,
-        "changePct": -2.3,
+        "price": 160712,
+        "change": -3632,
+        "changePct": -2.21,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-29T15:59:31.610Z",
+        "timestamp": "2026-10-29T16:29:24.554Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9575,
-        "change": -215,
-        "changePct": -2.2,
+        "price": 9616,
+        "change": -173,
+        "changePct": -1.77,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-29T15:59:31.727Z",
+        "timestamp": "2026-10-29T16:29:24.671Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
