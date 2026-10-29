@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:01:03.214Z",
+  "generatedAt": "2026-10-29T09:29:41.737Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -34,6 +34,17 @@
       "openISO": "2026-10-28",
       "closeISO": "2026-10-30",
       "listingISO": "2026-11-04"
+    },
+    {
+      "co": "Bombay Coated & Special Steels",
+      "note": "BSE · NSE",
+      "size": "₹183 cr",
+      "band": "₹78 – ₹82",
+      "dates": "29 Oct 2026 – 2 Nov 2026",
+      "listing": "5 Nov 2026",
+      "openISO": "2026-10-29",
+      "closeISO": "2026-11-02",
+      "listingISO": "2026-11-05"
     },
     {
       "co": "EAAA India Alternatives",
@@ -100,7 +111,85 @@
       "openISO": "2026-10-15",
       "closeISO": "2026-10-19",
       "listingISO": ""
+    },
+    {
+      "co": "Tonbo Imaging India",
+      "note": "BSE · NSE",
+      "size": "₹852 cr",
+      "band": "₹665 – ₹700",
+      "dates": "15 Oct – 19 Oct 2026",
+      "listing": "To be announced",
+      "openISO": "2026-10-15",
+      "closeISO": "2026-10-19",
+      "listingISO": ""
     }
   ],
-  "sme": []
+  "sme": [
+    {
+      "co": "Antala Industries",
+      "note": "BSE SME",
+      "size": "₹23 cr",
+      "band": "₹63 – ₹67",
+      "dates": "29 Oct 2026 – 2 Nov 2026",
+      "listing": "5 Nov 2026",
+      "openISO": "2026-10-29",
+      "closeISO": "2026-11-02",
+      "listingISO": "2026-11-05"
+    },
+    {
+      "co": "Johnsoncab Electricals",
+      "note": "BSE SME",
+      "size": "₹56 cr",
+      "band": "₹190 – ₹200",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "HGS (India)",
+      "note": "NSE SME",
+      "size": "₹35 cr",
+      "band": "₹114 – ₹120",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "Vectras Enprocon",
+      "note": "BSE SME",
+      "size": "₹53 cr",
+      "band": "₹99 – ₹105",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "Maxwell Engineering Solutions",
+      "note": "NSE SME",
+      "size": "₹58 cr",
+      "band": "₹150 – ₹158",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
+    },
+    {
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹57 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
+    }
+  ]
 }
