@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-29T20:03:20.612Z",
+  "generatedAt": "2026-10-29T20:29:26.933Z",
   "articles": [
+    {
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "desc": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Rivian’s R2 is officially its best-selling vehicle",
       "desc": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other EVs. Rivian said it brought in $2.155 billion in revenue, a 38 percent [&#8230;]",
@@ -8,6 +18,16 @@
       "pubDate": "2026-10-29T16:02:00-04:00",
       "image": "",
       "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Cash takes centre stage as investors rethink AI spending boom",
+      "desc": "Investors are increasingly focused on technology companies' cash generation capabilities to fund artificial intelligence investments. Microsoft and Oracle are gaining positive attention from investors, while Alphabet faces challenges due to rising AI costs. Alphabet's spending has surpassed its operating cash flow, raising concerns about its financial sustainability. In contrast, Microsoft's strong cash flow and forecasted growth indicate effective AI investment returns.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
+      "pubDate": "Fri, 30 Oct 2026 00:27:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,24 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "desc": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 17:15:05 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-      "desc": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 17:02:59 GMT",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "desc": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Rivian’s R2 is officially its best-selling vehicle",
@@ -100,6 +110,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Cash takes centre stage as investors rethink AI spending boom",
+      "desc": "Investors are increasingly focused on technology companies' cash generation capabilities to fund artificial intelligence investments. Microsoft and Oracle are gaining positive attention from investors, while Alphabet faces challenges due to rising AI costs. Alphabet's spending has surpassed its operating cash flow, raising concerns about its financial sustainability. In contrast, Microsoft's strong cash flow and forecasted growth indicate effective AI investment returns.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
+      "pubDate": "Fri, 30 Oct 2026 00:27:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "You can generate and edit Google Docs files directly in Gemini chats now",
@@ -190,16 +210,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Microsoft’s AI future has fewer jobs",
-      "desc": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and [&#8230;]",
-      "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "pubDate": "2026-10-29T12:00:00-04:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
@@ -532,7 +542,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: US stocks slide as Alphabet's AI spending fears hit tech shares",
+      "title": "US Stock Market Live Updates: US stocks end lower as Alphabet revenue miss revives AI capex jitters",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-alphabet-microsoft-nvidia-intel-amazon-fortinet-servicenow-earnings-alphabet-google-ai-spending-fears-fed-rate-decision-pce-inflation-gdp-data-treasury-yield-news-29th-october-2026/liveblog/135310262.cms",
       "pubDate": "Thu, 29 Oct 2026 17:40:42 +0530",
@@ -1002,16 +1012,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Indian bonds track US Treasuries higher amid oil-price relief",
-      "desc": "Indian government bonds increased on Thursday due to support from a rally in Treasuries and lower oil prices. However, the upcoming large bond sale and a weak rupee limited the extent of the gains observed. The benchmark 6.94% 2036 bond yield fell slightly below the significant 7.40% level during early trading hours. Meanwhile, the Reserve Bank of India previously raised the repo rate amid ongoing inflation concerns.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-track-us-treasuries-higher-amid-oil-price-relief/articleshow/135294873.cms",
-      "pubDate": "Thu, 29 Oct 2026 12:37:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Zomato to roll out price-masking ‘Mehmaan Mode’ for group orders after LinkedIn user’s suggestion",
       "desc": "LinkedIn member Ayushmaan Agarwalla, a marketing manager, posted on the networking platform proposing a ‘Mehmaan Mode’ toggle that would remove prices from the app so a host could hand the phone around and let guests order without awkwardness.",
       "link": "https://economictimes.indiatimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms",
@@ -1220,20 +1220,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "What we now know about the UK economy in four charts",
-      "desc": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-      "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 28 Oct 2026 20:08:45 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-29T20:03:20.612Z",
+    "generatedAt": "2026-10-29T20:29:26.933Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1246,7 +1236,7 @@
         "changePct": 1.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.588Z",
+        "timestamp": "2026-10-29T20:29:16.588Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,7 +1248,7 @@
         "changePct": 1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.644Z",
+        "timestamp": "2026-10-29T20:29:17.220Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,7 +1260,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.695Z",
+        "timestamp": "2026-10-29T20:29:17.517Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1272,7 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.750Z",
+        "timestamp": "2026-10-29T20:29:17.819Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1284,7 @@
         "changePct": 0.99,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.804Z",
+        "timestamp": "2026-10-29T20:29:18.132Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1296,7 @@
         "changePct": -0.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.886Z",
+        "timestamp": "2026-10-29T20:29:18.402Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1308,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:18.959Z",
+        "timestamp": "2026-10-29T20:29:18.661Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1320,7 @@
         "changePct": 2.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.007Z",
+        "timestamp": "2026-10-29T20:29:18.986Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,7 +1332,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.132Z",
+        "timestamp": "2026-10-29T20:29:19.247Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1354,7 +1344,7 @@
         "changePct": 1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.185Z",
+        "timestamp": "2026-10-29T20:29:19.654Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1366,7 +1356,7 @@
         "changePct": 2.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.294Z",
+        "timestamp": "2026-10-29T20:29:19.938Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1378,7 +1368,7 @@
         "changePct": 2.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.350Z",
+        "timestamp": "2026-10-29T20:29:20.548Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1390,7 +1380,7 @@
         "changePct": 0.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.405Z",
+        "timestamp": "2026-10-29T20:29:20.909Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1402,7 +1392,7 @@
         "changePct": 1.18,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.461Z",
+        "timestamp": "2026-10-29T20:29:21.224Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1414,19 +1404,19 @@
         "changePct": 1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.513Z",
+        "timestamp": "2026-10-29T20:29:21.513Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7720.31,
-        "change": -23.67,
-        "changePct": -0.31,
+        "price": 7720.39,
+        "change": -23.59,
+        "changePct": -0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.613Z",
+        "timestamp": "2026-10-29T20:29:21.794Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1438,7 +1428,7 @@
         "changePct": -1.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.660Z",
+        "timestamp": "2026-10-29T20:29:22.089Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1450,7 +1440,7 @@
         "changePct": -0.25,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.713Z",
+        "timestamp": "2026-10-29T20:29:22.359Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1462,7 +1452,7 @@
         "changePct": 0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.788Z",
+        "timestamp": "2026-10-29T20:29:22.693Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1474,7 +1464,7 @@
         "changePct": 1.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.845Z",
+        "timestamp": "2026-10-29T20:29:23.000Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1486,7 +1476,7 @@
         "changePct": 1.1,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.905Z",
+        "timestamp": "2026-10-29T20:29:23.934Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1498,7 +1488,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:19.955Z",
+        "timestamp": "2026-10-29T20:29:24.227Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1510,7 +1500,7 @@
         "changePct": -1.24,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:20.025Z",
+        "timestamp": "2026-10-29T20:29:24.513Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1522,55 +1512,55 @@
         "changePct": -0.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-29T20:03:20.083Z",
+        "timestamp": "2026-10-29T20:29:24.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 111.38,
-        "change": -0.26,
-        "changePct": -0.23,
+        "price": 111.72,
+        "change": 0.08,
+        "changePct": 0.07,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-29T20:03:20.202Z",
+        "timestamp": "2026-10-29T20:29:25.163Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 102.65,
-        "change": -0.13,
-        "changePct": -0.13,
+        "price": 102.86,
+        "change": 0.08,
+        "changePct": 0.08,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-29T20:03:20.274Z",
+        "timestamp": "2026-10-29T20:29:25.424Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4031.7,
-        "change": -19.9,
-        "changePct": -0.49,
+        "price": 4037,
+        "change": -14.6,
+        "changePct": -0.36,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-29T20:03:20.387Z",
+        "timestamp": "2026-10-29T20:29:25.645Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.315,
-        "change": -1.351,
-        "changePct": -2.52,
+        "price": 52.265,
+        "change": -1.401,
+        "changePct": -2.61,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-29T20:03:20.451Z",
+        "timestamp": "2026-10-29T20:29:26.192Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1582,43 +1572,43 @@
         "changePct": -1.11,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-29T20:03:20.503Z",
+        "timestamp": "2026-10-29T20:29:26.537Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123413,
-        "change": -609,
-        "changePct": -0.49,
+        "price": 123582,
+        "change": -441,
+        "changePct": -0.35,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-29T20:03:20.555Z",
+        "timestamp": "2026-10-29T20:29:26.695Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 160140,
-        "change": -4136,
-        "changePct": -2.52,
+        "price": 159987,
+        "change": -4289,
+        "changePct": -2.61,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-29T20:03:20.607Z",
+        "timestamp": "2026-10-29T20:29:26.829Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9773,
-        "change": -12,
-        "changePct": -0.13,
+        "price": 9793,
+        "change": 8,
+        "changePct": 0.08,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-29T20:03:20.612Z",
+        "timestamp": "2026-10-29T20:29:26.933Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
