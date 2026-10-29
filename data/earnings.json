@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:29:43.451Z",
+  "generatedAt": "2026-10-29T09:59:41.869Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1024,6 +1024,12 @@
     },
     {
       "dateISO": "2026-10-31",
+      "co": "T T Limited",
+      "tk": "TTL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-10-31",
       "co": "Uttam Sugar Mills Limited",
       "tk": "UTTAMSUGAR",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-02",
       "co": "Global Surfaces Limited",
       "tk": "GSLSU",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-02",
-      "co": "Gopal Snacks Limited",
-      "tk": "GOPAL",
       "type": "Q2 FY27 results announcement"
     }
   ]
