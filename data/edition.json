@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-10-30T19:59:33.016Z",
+  "generatedAt": "2026-10-30T20:29:49.519Z",
   "articles": [
+    {
+      "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
+      "desc": "US stocks tumbled on Friday as disappointing results from Intel and Amazon reignited concerns over rising artificial intelligence spending and uncertain returns. The Nasdaq recorded its biggest single-day percentage decline since June 5. Technology stocks led losses, while the S&amp;P 500 and Nasdaq also ended October in negative territory.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
+      "pubDate": "Sat, 31 Oct 2026 01:49:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "desc": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:13:36 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "desc": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:10:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "desc": "Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:00:10 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
       "desc": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
@@ -42,44 +82,64 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-      "desc": "Colombia&#039;s president plans to slash spending on a transitional justice court. But war crimes victims fear the cost.",
-      "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 17:43:21 +0000",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "desc": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal [&#8230;]",
+      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "pubDate": "2026-10-30T16:26:10-04:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
+      "desc": "US stocks tumbled on Friday as disappointing results from Intel and Amazon reignited concerns over rising artificial intelligence spending and uncertain returns. The Nasdaq recorded its biggest single-day percentage decline since June 5. Technology stocks led losses, while the S&amp;P 500 and Nasdaq also ended October in negative territory.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
+      "pubDate": "Sat, 31 Oct 2026 01:49:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+      "desc": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:13:36 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "desc": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "pubDate": "2026-10-30T13:38:04-04:00",
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "desc": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:10:22 +0000",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "desc": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 30 Oct 2026 17:25:20 GMT",
+      "title": "Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen",
+      "desc": "Investor concerns about the high expenditures on artificial intelligence have intensified amidst rising borrowing costs. Major technology companies like Meta, Alphabet, and Microsoft are increasing their capital outlays to strengthen AI infrastructure. The Nasdaq 100 index has already seen a significant decline of more than 5.8% in October. Analysts predict that global AI infrastructure spending could reach unprecedented levels by 2030.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
+      "pubDate": "Sat, 31 Oct 2026 01:40:09 +0530",
       "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Rivian’s autonomy gamble faces its first real test",
-      "desc": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-      "pubDate": "2026-10-30T13:16:09-04:00",
+      "title": "EU and Canada seek deeper ties amid worsening global uncertainty",
+      "desc": "Both sides signed a digital trade deal, as Trump&#039;s trade threats push Washington&#039;s allies to seek closer ties elsewhere.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/eu-and-canada-seek-deeper-ties-amid-worsening-global-uncertainty?traffic_source=rss",
+      "pubDate": "Fri, 30 Oct 2026 20:00:10 +0000",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
@@ -492,7 +552,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: Nasdaq 100 tumbles 4%, set to wipe out $2 trillion in market value",
+      "title": "US Stock Market Live Updates: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
       "pubDate": "Fri, 30 Oct 2026 17:44:11 +0530",
@@ -942,26 +1002,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Sensex, Nifty turn lower; broader markets crash as oil tops $116/barrel. What lies ahead?",
-      "desc": "Indian equities turned lower as crude oil prices crossed $116 per barrel, raising concerns about inflation and economic growth. While the Sensex and Nifty posted modest declines, midcap and smallcap indices fell more sharply amid weak market breadth.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-turn-lower-broader-markets-crash-as-oil-tops-116/barrel-what-lies-ahead/articleshow/135345897.cms",
-      "pubDate": "Fri, 30 Oct 2026 11:06:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: BOJ to accelerate ETF sales, cut holdings overhaul timeline to 43 years",
-      "desc": "The Bank of Japan will accelerate the sale of its exchange-traded fund holdings, targeting annual disposals of 860 billion yen ($5.45 billion) at book value, equivalent to around 0.1% of market trading value. The move aims to unwind its massive stock portfolio, with the estimated time to complete the sell-off falling to 43 years from the earlier estimate of 112 years.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-to-accelerate-etf-sales-cut-holdings-overhaul-timeline-to-43-years/articleshow/135345633.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:59:19 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India records one of the fastest poverty declines in the world, poverty down from 27.1% to 2.6%: World Bank",
       "desc": "India has seen a significant decline in poverty, with the rate dropping from 27.1 percent to 2.6 percent. Approximately 496 million people were lifted out of poverty between 2011 and 2023. Employment has increased, particularly among rural women, which contributed to this progress. However, youth unemployment has also risen, particularly among young rural women. The report highlights the need for productive employment opportunities to continue reducing poverty.",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-records-one-of-the-fastest-poverty-declines-in-the-world-poverty-down-from-27-1-to-2-6-world-bank/articleshow/135344552.cms",
@@ -1130,20 +1170,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-      "desc": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 29 Oct 2026 20:05:57 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-30T19:59:33.016Z",
+    "generatedAt": "2026-10-30T20:29:49.519Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1156,7 +1186,7 @@
         "changePct": 0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:23.305Z",
+        "timestamp": "2026-10-30T20:29:39.110Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1168,7 +1198,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:23.934Z",
+        "timestamp": "2026-10-30T20:29:39.862Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1180,7 +1210,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:24.232Z",
+        "timestamp": "2026-10-30T20:29:40.140Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1192,7 +1222,7 @@
         "changePct": -0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:24.561Z",
+        "timestamp": "2026-10-30T20:29:40.441Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1204,7 +1234,7 @@
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:24.919Z",
+        "timestamp": "2026-10-30T20:29:40.868Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1216,7 +1246,7 @@
         "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:25.743Z",
+        "timestamp": "2026-10-30T20:29:41.170Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1228,7 +1258,7 @@
         "changePct": 1.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:26.112Z",
+        "timestamp": "2026-10-30T20:29:41.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1240,7 +1270,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:26.347Z",
+        "timestamp": "2026-10-30T20:29:41.890Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1252,7 +1282,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:26.631Z",
+        "timestamp": "2026-10-30T20:29:42.229Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1264,7 +1294,7 @@
         "changePct": -0.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:27.048Z",
+        "timestamp": "2026-10-30T20:29:42.509Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1276,7 +1306,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:27.292Z",
+        "timestamp": "2026-10-30T20:29:42.825Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1288,7 +1318,7 @@
         "changePct": -0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:27.559Z",
+        "timestamp": "2026-10-30T20:29:43.180Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1300,7 +1330,7 @@
         "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:27.846Z",
+        "timestamp": "2026-10-30T20:29:43.461Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1312,7 +1342,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:28.073Z",
+        "timestamp": "2026-10-30T20:29:43.753Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1324,43 +1354,43 @@
         "changePct": -1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:28.350Z",
+        "timestamp": "2026-10-30T20:29:44.044Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7560.24,
-        "change": -160.15,
-        "changePct": -2.07,
+        "price": 7580.07,
+        "change": -140.32,
+        "changePct": -1.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:28.681Z",
+        "timestamp": "2026-10-30T20:29:44.332Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25465.264,
-        "change": -719.461,
-        "changePct": -2.75,
+        "price": 25436.998,
+        "change": -747.727,
+        "changePct": -2.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:28.998Z",
+        "timestamp": "2026-10-30T20:29:44.649Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51671.9,
-        "change": -670.66,
-        "changePct": -1.28,
+        "price": 51770.31,
+        "change": -572.25,
+        "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:29.286Z",
+        "timestamp": "2026-10-30T20:29:45.146Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1372,7 +1402,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:29.597Z",
+        "timestamp": "2026-10-30T20:29:45.491Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1384,7 +1414,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:29.828Z",
+        "timestamp": "2026-10-30T20:29:45.788Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1396,7 +1426,7 @@
         "changePct": -2.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:30.388Z",
+        "timestamp": "2026-10-30T20:29:46.132Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1408,7 +1438,7 @@
         "changePct": 1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:30.612Z",
+        "timestamp": "2026-10-30T20:29:46.439Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1420,7 +1450,7 @@
         "changePct": -3.48,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:30.867Z",
+        "timestamp": "2026-10-30T20:29:46.754Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1432,103 +1462,103 @@
         "changePct": -1.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:59:31.110Z",
+        "timestamp": "2026-10-30T20:29:47.047Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 112.8,
-        "change": 2,
-        "changePct": 1.8,
+        "price": 112.39,
+        "change": 1.59,
+        "changePct": 1.44,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-30T19:59:31.391Z",
+        "timestamp": "2026-10-30T20:29:47.405Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 104.3,
-        "change": 2.3,
-        "changePct": 2.25,
+        "price": 104.13,
+        "change": 2.13,
+        "changePct": 2.09,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-30T19:59:31.639Z",
+        "timestamp": "2026-10-30T20:29:47.930Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3884.3,
-        "change": -147.1,
-        "changePct": -3.65,
+        "price": 3889.4,
+        "change": -142,
+        "changePct": -3.52,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-30T19:59:32.060Z",
+        "timestamp": "2026-10-30T20:29:48.327Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 49.04,
-        "change": -3.34,
-        "changePct": -6.38,
+        "price": 48.975,
+        "change": -3.405,
+        "changePct": -6.5,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-30T19:59:32.349Z",
+        "timestamp": "2026-10-30T20:29:48.703Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.915,
-        "change": -0.074,
-        "changePct": -1.48,
+        "price": 4.929,
+        "change": -0.06,
+        "changePct": -1.2,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-30T19:59:32.664Z",
+        "timestamp": "2026-10-30T20:29:49.078Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 118564,
-        "change": -4490,
-        "changePct": -3.65,
+        "price": 118720,
+        "change": -4334,
+        "changePct": -3.52,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-30T19:59:32.798Z",
+        "timestamp": "2026-10-30T20:29:49.227Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 149689,
-        "change": -10195,
-        "changePct": -6.38,
+        "price": 149491,
+        "change": -10393,
+        "changePct": -6.5,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-30T19:59:32.933Z",
+        "timestamp": "2026-10-30T20:29:49.390Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9902,
-        "change": 218,
-        "changePct": 2.25,
+        "price": 9886,
+        "change": 202,
+        "changePct": 2.09,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-30T19:59:33.016Z",
+        "timestamp": "2026-10-30T20:29:49.519Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
