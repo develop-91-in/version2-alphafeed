@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:29:27.531Z",
+  "generatedAt": "2026-10-30T19:59:33.016Z",
   "articles": [
     {
       "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
@@ -8,6 +8,16 @@
       "pubDate": "Fri, 30 Oct 2026 18:55:36 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+      "desc": "Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic and could lead to a decline in daily active users. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cross border sellers weighed on its business and growth expectations.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+      "pubDate": "Sat, 31 Oct 2026 00:03:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -72,16 +82,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
-      "desc": "Intel shares plunged 30% after the chipmaker issued a weak fourth-quarter revenue forecast and warned of negative cash flow for the year. The warning triggered a global semiconductor selloff, with Nvidia, AMD and other chip stocks declining as weak PC demand and rising AI infrastructure costs weighed on sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
-      "pubDate": "Fri, 30 Oct 2026 22:37:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
       "desc": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
       "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
@@ -90,6 +90,16 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+      "desc": "Reddit shares plunged 23% after the company warned that Google's AI powered search features were hurting referral traffic and could lead to a decline in daily active users. Pinterest also fell after issuing a weaker revenue outlook, as pressure on European cross border sellers weighed on its business and growth expectations.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+      "pubDate": "Sat, 31 Oct 2026 00:03:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
@@ -432,16 +442,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Italy tightens security as students, unions launch nationwide protests",
-      "desc": "Rallies across the country target living costs, investment in education and the wars in the Middle East.",
-      "link": "https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss",
-      "pubDate": "Fri, 30 Oct 2026 13:14:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "NTPC Green Energy Q2 Results: Profit jumps 56% YoY to Rs 137 crore, revenue rises 53%",
       "desc": "NTPC Green Energy reported a 56.2% year-on-year rise in Q2FY27 net profit to Rs 137.5 crore, driven by 53.2% revenue growth. EBITDA margins improved, while new solar capacity boosted its operational renewable energy portfolio.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-green-energy-q2-results-profit-jumps-56-yoy-to-rs-137-crore-revenue-rises-53/articleshow/135363615.cms",
@@ -492,7 +492,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: Nasdaq sinks 2%, S&amp;P 1% as Amazon, Intel add to AI spending woes",
+      "title": "US Stock Market Live Updates: Nasdaq 100 tumbles 4%, set to wipe out $2 trillion in market value",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
       "pubDate": "Fri, 30 Oct 2026 17:44:11 +0530",
@@ -962,16 +962,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Q2 earnings upgrades hold above 50%, says Jefferies. Is the profit cycle turning?",
-      "desc": "India’s Q2 FY27 earnings show signs of resilience, with Jefferies reporting that 50% of the 105 companies it tracks received FY27 earnings estimate upgrades, while 41% saw downgrades and 9% remained unchanged. The share of companies beating expectations rose to 56% from 52% in the previous quarter, though the recovery remains uneven across sectors.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q2-earnings-upgrades-hold-above-50-says-jefferies-is-the-profit-cycle-turning/articleshow/135345343.cms",
-      "pubDate": "Fri, 30 Oct 2026 10:48:44 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "India records one of the fastest poverty declines in the world, poverty down from 27.1% to 2.6%: World Bank",
       "desc": "India has seen a significant decline in poverty, with the rate dropping from 27.1 percent to 2.6 percent. Approximately 496 million people were lifted out of poverty between 2011 and 2023. Employment has increased, particularly among rural women, which contributed to this progress. However, youth unemployment has also risen, particularly among young rural women. The report highlights the need for productive employment opportunities to continue reducing poverty.",
       "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-records-one-of-the-fastest-poverty-declines-in-the-world-poverty-down-from-27-1-to-2-6-world-bank/articleshow/135344552.cms",
@@ -1153,7 +1143,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-30T19:29:27.531Z",
+    "generatedAt": "2026-10-30T19:59:33.016Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1166,7 +1156,7 @@
         "changePct": 0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:18.170Z",
+        "timestamp": "2026-10-30T19:59:23.305Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1178,7 +1168,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:18.762Z",
+        "timestamp": "2026-10-30T19:59:23.934Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1190,7 +1180,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:19.039Z",
+        "timestamp": "2026-10-30T19:59:24.232Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1202,7 +1192,7 @@
         "changePct": -0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:19.312Z",
+        "timestamp": "2026-10-30T19:59:24.561Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1214,7 +1204,7 @@
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:19.563Z",
+        "timestamp": "2026-10-30T19:59:24.919Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1226,7 +1216,7 @@
         "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:19.824Z",
+        "timestamp": "2026-10-30T19:59:25.743Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1228,7 @@
         "changePct": 1.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:20.044Z",
+        "timestamp": "2026-10-30T19:59:26.112Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1240,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:20.316Z",
+        "timestamp": "2026-10-30T19:59:26.347Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1252,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:20.555Z",
+        "timestamp": "2026-10-30T19:59:26.631Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1264,7 @@
         "changePct": -0.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:20.780Z",
+        "timestamp": "2026-10-30T19:59:27.048Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1276,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:21.007Z",
+        "timestamp": "2026-10-30T19:59:27.292Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1288,7 @@
         "changePct": -0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:21.279Z",
+        "timestamp": "2026-10-30T19:59:27.559Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1300,7 @@
         "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:21.547Z",
+        "timestamp": "2026-10-30T19:59:27.846Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1312,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:21.928Z",
+        "timestamp": "2026-10-30T19:59:28.073Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,43 +1324,43 @@
         "changePct": -1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:22.329Z",
+        "timestamp": "2026-10-30T19:59:28.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7551.18,
-        "change": -169.21,
-        "changePct": -2.19,
+        "price": 7560.24,
+        "change": -160.15,
+        "changePct": -2.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:22.648Z",
+        "timestamp": "2026-10-30T19:59:28.681Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25308.469,
-        "change": -876.256,
-        "changePct": -3.35,
+        "price": 25465.264,
+        "change": -719.461,
+        "changePct": -2.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:22.906Z",
+        "timestamp": "2026-10-30T19:59:28.998Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51667.9,
-        "change": -674.66,
-        "changePct": -1.29,
+        "price": 51671.9,
+        "change": -670.66,
+        "changePct": -1.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:23.227Z",
+        "timestamp": "2026-10-30T19:59:29.286Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,7 +1372,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:23.485Z",
+        "timestamp": "2026-10-30T19:59:29.597Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1394,7 +1384,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:23.764Z",
+        "timestamp": "2026-10-30T19:59:29.828Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1406,7 +1396,7 @@
         "changePct": -2.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:24.039Z",
+        "timestamp": "2026-10-30T19:59:30.388Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1418,7 +1408,7 @@
         "changePct": 1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:24.282Z",
+        "timestamp": "2026-10-30T19:59:30.612Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1430,7 +1420,7 @@
         "changePct": -3.48,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:24.605Z",
+        "timestamp": "2026-10-30T19:59:30.867Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,103 +1432,103 @@
         "changePct": -1.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-30T19:29:24.995Z",
+        "timestamp": "2026-10-30T19:59:31.110Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 113.4,
-        "change": 2.6,
-        "changePct": 2.35,
+        "price": 112.8,
+        "change": 2,
+        "changePct": 1.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-30T19:29:25.246Z",
+        "timestamp": "2026-10-30T19:59:31.391Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 104.36,
-        "change": 2.36,
-        "changePct": 2.31,
+        "price": 104.3,
+        "change": 2.3,
+        "changePct": 2.25,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-30T19:29:25.731Z",
+        "timestamp": "2026-10-30T19:59:31.639Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3889.1,
-        "change": -142.3,
-        "changePct": -3.53,
+        "price": 3884.3,
+        "change": -147.1,
+        "changePct": -3.65,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-30T19:29:26.030Z",
+        "timestamp": "2026-10-30T19:59:32.060Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 49.1,
-        "change": -3.28,
-        "changePct": -6.26,
+        "price": 49.04,
+        "change": -3.34,
+        "changePct": -6.38,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-30T19:29:26.551Z",
+        "timestamp": "2026-10-30T19:59:32.349Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.925,
-        "change": -0.064,
-        "changePct": -1.28,
+        "price": 4.915,
+        "change": -0.074,
+        "changePct": -1.48,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-30T19:29:27.067Z",
+        "timestamp": "2026-10-30T19:59:32.664Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 118710,
-        "change": -4344,
-        "changePct": -3.53,
+        "price": 118564,
+        "change": -4490,
+        "changePct": -3.65,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-30T19:29:27.260Z",
+        "timestamp": "2026-10-30T19:59:32.798Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 149872,
-        "change": -10012,
-        "changePct": -6.26,
+        "price": 149689,
+        "change": -10195,
+        "changePct": -6.38,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-30T19:29:27.397Z",
+        "timestamp": "2026-10-30T19:59:32.933Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9908,
-        "change": 224,
-        "changePct": 2.31,
+        "price": 9902,
+        "change": 218,
+        "changePct": 2.25,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-30T19:29:27.531Z",
+        "timestamp": "2026-10-30T19:59:33.016Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
