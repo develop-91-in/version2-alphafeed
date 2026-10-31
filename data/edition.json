@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-31T12:29:25.235Z",
+  "generatedAt": "2026-10-31T12:59:39.310Z",
   "articles": [
+    {
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "desc": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "pubDate": "Sat, 31 Oct 2026 12:22:45 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "India extends cotton import duty exemption till December 31",
       "desc": "The Indian government has extended the customs duty exemption on cotton imports to December 31. This decision aims to support the textile industry by ensuring adequate raw material availability. The waiver allows greater flexibility for manufacturers to source inputs at reduced costs. Domestic cotton prices have remained firm due to production concerns, prompting this extension. The move is expected to strengthen Indian textiles in both domestic and international markets.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-      "desc": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus&#039;s Gomel.",
-      "link": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
-      "pubDate": "Sat, 31 Oct 2026 10:53:55 +0000",
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "desc": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "pubDate": "Sat, 31 Oct 2026 12:22:45 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "India extends cotton import duty exemption till December 31",
@@ -970,30 +980,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Big dividends, bigger losses? The hidden risk in Wall Street's highest-yielding stocks",
-      "desc": "Several US stocks offer dividend yields exceeding 10%, led by mortgage REITs Annaly Capital Management and AGNC Investment above 16%. However, significant share-price declines highlight risks surrounding dividend sustainability, payout ratios, debt and overall investment returns.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-dividends-bigger-losses-the-hidden-risk-in-wall-streets-highest-yielding-stocks/articleshow/135362488.cms",
-      "pubDate": "Fri, 30 Oct 2026 18:15:29 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "India PE/VC investments jump 45% to $7 billion in September, highest in over two years",
-      "desc": "Private equity and venture capital investments in India saw significant growth in September 2026. The total investment reached USD 7 billion, marking a substantial increase from August. Large-value deals accounted for 76% of the total investments during the July-September quarter. Despite this growth, the number of deals declined compared to last year. Investors are expected to remain cautious amid economic challenges and inflation pressures.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-pe/vc-investments-jump-45-to-7-billion-in-september-highest-in-over-two-years/articleshow/135362031.cms",
-      "pubDate": "Fri, 30 Oct 2026 18:04:46 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-31T12:29:25.235Z",
+    "generatedAt": "2026-10-31T12:59:39.310Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1006,7 +996,7 @@
         "changePct": 0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:16.174Z",
+        "timestamp": "2026-10-31T12:59:23.101Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1018,7 +1008,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:16.671Z",
+        "timestamp": "2026-10-31T12:59:24.183Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1030,7 +1020,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:17.133Z",
+        "timestamp": "2026-10-31T12:59:24.467Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1042,7 +1032,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:17.601Z",
+        "timestamp": "2026-10-31T12:59:24.722Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1054,7 +1044,7 @@
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:17.892Z",
+        "timestamp": "2026-10-31T12:59:25.230Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1066,7 +1056,7 @@
         "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:18.116Z",
+        "timestamp": "2026-10-31T12:59:25.480Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1068,7 @@
         "changePct": 1.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:18.455Z",
+        "timestamp": "2026-10-31T12:59:25.927Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1080,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:18.702Z",
+        "timestamp": "2026-10-31T12:59:26.234Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,7 +1092,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:18.992Z",
+        "timestamp": "2026-10-31T12:59:26.625Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1114,7 +1104,7 @@
         "changePct": -0.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:19.204Z",
+        "timestamp": "2026-10-31T12:59:27.085Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1116,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:19.485Z",
+        "timestamp": "2026-10-31T12:59:28.233Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1128,7 @@
         "changePct": -0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:19.770Z",
+        "timestamp": "2026-10-31T12:59:28.729Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,7 +1140,7 @@
         "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:20.093Z",
+        "timestamp": "2026-10-31T12:59:29.083Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1162,7 +1152,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:20.298Z",
+        "timestamp": "2026-10-31T12:59:29.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1164,7 @@
         "changePct": -1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:20.608Z",
+        "timestamp": "2026-10-31T12:59:29.682Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1176,7 @@
         "changePct": -1.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:20.825Z",
+        "timestamp": "2026-10-31T12:59:30.262Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1188,7 @@
         "changePct": -2.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:21.110Z",
+        "timestamp": "2026-10-31T12:59:30.751Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1200,7 @@
         "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:21.315Z",
+        "timestamp": "2026-10-31T12:59:31.112Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1212,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:21.609Z",
+        "timestamp": "2026-10-31T12:59:31.984Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,7 +1224,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:21.820Z",
+        "timestamp": "2026-10-31T12:59:32.512Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1246,7 +1236,7 @@
         "changePct": -2.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:22.140Z",
+        "timestamp": "2026-10-31T12:59:33.492Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,7 +1248,7 @@
         "changePct": 1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:22.505Z",
+        "timestamp": "2026-10-31T12:59:34.519Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,7 +1260,7 @@
         "changePct": -3.48,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:22.839Z",
+        "timestamp": "2026-10-31T12:59:35.724Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1272,7 @@
         "changePct": -1.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T12:29:23.043Z",
+        "timestamp": "2026-10-31T12:59:36.823Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1284,7 @@
         "changePct": 2.37,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T12:29:23.442Z",
+        "timestamp": "2026-10-31T12:59:37.207Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1296,7 @@
         "changePct": 2.08,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T12:29:23.957Z",
+        "timestamp": "2026-10-31T12:59:37.560Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1308,7 @@
         "changePct": -3.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T12:29:24.317Z",
+        "timestamp": "2026-10-31T12:59:37.841Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1320,7 @@
         "changePct": -5.93,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T12:29:24.519Z",
+        "timestamp": "2026-10-31T12:59:38.336Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,7 +1332,7 @@
         "changePct": -1.2,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-31T12:29:24.917Z",
+        "timestamp": "2026-10-31T12:59:38.893Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1354,7 +1344,7 @@
         "changePct": -3.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-31T12:29:25.012Z",
+        "timestamp": "2026-10-31T12:59:39.060Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1366,7 +1356,7 @@
         "changePct": -5.93,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-31T12:29:25.188Z",
+        "timestamp": "2026-10-31T12:59:39.218Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1378,7 +1368,7 @@
         "changePct": 2.08,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-31T12:29:25.235Z",
+        "timestamp": "2026-10-31T12:59:39.310Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
