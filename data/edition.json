@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-10-31T07:59:29.952Z",
+  "generatedAt": "2026-10-31T08:19:05.126Z",
   "articles": [
+    {
+      "title": "Sebi pushes for resilient capital markets, focuses on investor protection: Chairman",
+      "desc": "SEBI Chairman Tuhin Kanta Pandey emphasized the importance of accessible and efficient capital markets at a recent forum. He highlighted the growth in market capitalisation with significant annual fundraising through equity and debt. The number of investors in West Bengal has dramatically increased, indicating regional market participation. Additionally, various steps have been taken to streamline compliance and fundraising processes for issuers.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-pushes-for-resilient-capital-markets-focuses-on-investor-protection-chairman/articleshow/135393379.cms",
+      "pubDate": "Sat, 31 Oct 2026 13:11:02 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Concurrent Gainers: 8 stocks that gain for 5 days in a row",
       "desc": "Eight BSE 500 stocks gained in each of the five sessions between October 26 and 30, delivering cumulative returns of 10% to 21%.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Diwali stock picks: SBI Securities lists 11 stocks with up to 22% upside potential. Do you own any?",
-      "desc": "SBI Securities has picked 11 stocks for Samvat 2083, with up to 22% upside potential. The list spans steel, hospitality, jewellery, electronics and infrastructure.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-stock-picks-sbi-securities-lists-11-stocks-with-up-to-22-upside-potential-do-you-own-any/slideshow/135388727.cms",
-      "pubDate": "Sat, 31 Oct 2026 10:13:23 +0530",
+      "title": "Sebi pushes for resilient capital markets, focuses on investor protection: Chairman",
+      "desc": "SEBI Chairman Tuhin Kanta Pandey emphasized the importance of accessible and efficient capital markets at a recent forum. He highlighted the growth in market capitalisation with significant annual fundraising through equity and debt. The number of investors in West Bengal has dramatically increased, indicating regional market participation. Additionally, various steps have been taken to streamline compliance and fundraising processes for issuers.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-pushes-for-resilient-capital-markets-focuses-on-investor-protection-chairman/articleshow/135393379.cms",
+      "pubDate": "Sat, 31 Oct 2026 13:11:02 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Indian households shifting spending towards non-food items, services as consumption patterns evolve: Report",
@@ -1032,16 +1042,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Rupee rises 33 paise to close at 94.93 against US dollar",
-      "desc": "The rupee closed at 94.93 against the US dollar, marking a gain of 33 paise. Positive trends in domestic markets contributed to this improvement, despite elevated crude oil prices. Foreign Institutional Investors sold equities worth Rs 943.60 crore on a net basis. The IMF advocated for exchange rate flexibility in response to energy shocks affecting the Indian economy.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-33-paise-to-close-at-94-93-against-us-dollar/articleshow/135357047.cms",
-      "pubDate": "Fri, 30 Oct 2026 16:11:59 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "India's fiscal deficit for April-September at Rs 7.14 lakh crore, widens to 42.1% of FY27 aim",
       "desc": "India's fiscal deficit for the first half of the fiscal year through September stood at Rs 7.14 lakh crore. Total receipts during this period amounted to Rs 18.35 lakh crore, representing 50.3% of the annual estimate. The Centre has budgeted a fiscal deficit of Rs 16.96 lakh crore for the full year. Major subsidy expenditures reached approximately Rs 6.55 lakh crore, affecting overall financial performance.",
       "link": "https://economictimes.indiatimes.com/news/economy/finance/india-fiscal-deficit-april-september-fy27-rs-7-14-lakh-crore/articleshow/135356964.cms",
@@ -1103,7 +1103,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-10-31T07:59:29.952Z",
+    "generatedAt": "2026-10-31T08:19:05.126Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1116,7 +1116,7 @@
         "changePct": 0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:20.660Z",
+        "timestamp": "2026-10-31T08:19:02.385Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1128,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:21.231Z",
+        "timestamp": "2026-10-31T08:19:02.552Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1140,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:21.481Z",
+        "timestamp": "2026-10-31T08:19:02.641Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1152,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:21.746Z",
+        "timestamp": "2026-10-31T08:19:02.741Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,7 +1164,7 @@
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:21.986Z",
+        "timestamp": "2026-10-31T08:19:02.850Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1176,7 +1176,7 @@
         "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:22.315Z",
+        "timestamp": "2026-10-31T08:19:02.946Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1188,7 +1188,7 @@
         "changePct": 1.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:22.608Z",
+        "timestamp": "2026-10-31T08:19:03.041Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1200,7 +1200,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:22.871Z",
+        "timestamp": "2026-10-31T08:19:03.140Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1212,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:23.111Z",
+        "timestamp": "2026-10-31T08:19:03.231Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,7 +1224,7 @@
         "changePct": -0.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:23.377Z",
+        "timestamp": "2026-10-31T08:19:03.330Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1236,7 +1236,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:23.679Z",
+        "timestamp": "2026-10-31T08:19:03.427Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1248,7 @@
         "changePct": -0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:24.013Z",
+        "timestamp": "2026-10-31T08:19:03.525Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1260,7 @@
         "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:24.293Z",
+        "timestamp": "2026-10-31T08:19:03.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1272,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:24.636Z",
+        "timestamp": "2026-10-31T08:19:03.708Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1284,7 @@
         "changePct": -1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:24.883Z",
+        "timestamp": "2026-10-31T08:19:03.797Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1296,7 @@
         "changePct": -1.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:25.331Z",
+        "timestamp": "2026-10-31T08:19:03.894Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1308,7 @@
         "changePct": -2.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:25.584Z",
+        "timestamp": "2026-10-31T08:19:03.981Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,7 +1320,7 @@
         "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:26.062Z",
+        "timestamp": "2026-10-31T08:19:04.078Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,7 +1332,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:26.263Z",
+        "timestamp": "2026-10-31T08:19:04.162Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1344,7 +1344,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:26.525Z",
+        "timestamp": "2026-10-31T08:19:04.264Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1356,7 @@
         "changePct": -2.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:26.765Z",
+        "timestamp": "2026-10-31T08:19:04.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1368,7 @@
         "changePct": 1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:27.388Z",
+        "timestamp": "2026-10-31T08:19:04.447Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1380,7 @@
         "changePct": -3.48,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:27.639Z",
+        "timestamp": "2026-10-31T08:19:04.536Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,7 +1392,7 @@
         "changePct": -1.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T07:59:27.863Z",
+        "timestamp": "2026-10-31T08:19:04.634Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1404,7 +1404,7 @@
         "changePct": 2.37,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T07:59:28.367Z",
+        "timestamp": "2026-10-31T08:19:04.660Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1416,7 +1416,7 @@
         "changePct": 2.08,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T07:59:28.644Z",
+        "timestamp": "2026-10-31T08:19:04.760Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1428,7 +1428,7 @@
         "changePct": -3.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T07:59:28.884Z",
+        "timestamp": "2026-10-31T08:19:04.846Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1440,7 +1440,7 @@
         "changePct": -5.93,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T07:59:29.376Z",
+        "timestamp": "2026-10-31T08:19:04.946Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1452,7 +1452,7 @@
         "changePct": -1.2,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-31T07:59:29.610Z",
+        "timestamp": "2026-10-31T08:19:05.032Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1464,7 +1464,7 @@
         "changePct": -3.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-31T07:59:29.716Z",
+        "timestamp": "2026-10-31T08:19:05.066Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1476,7 +1476,7 @@
         "changePct": -5.93,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-31T07:59:29.843Z",
+        "timestamp": "2026-10-31T08:19:05.092Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1488,7 +1488,7 @@
         "changePct": 2.08,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-31T07:59:29.952Z",
+        "timestamp": "2026-10-31T08:19:05.126Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
