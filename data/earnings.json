@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-10-31T18:29:38.134Z",
+  "generatedAt": "2026-10-31T18:59:37.069Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
-    {
-      "dateISO": "2026-11-01",
-      "co": "Power Grid Corporation of India Limited",
-      "tk": "POWERGRID",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-01",
-      "co": "Sai Parenterals Limited",
-      "tk": "SAIPARENT",
-      "type": "Q2 FY27 results announcement"
-    },
     {
       "dateISO": "2026-11-02",
       "co": "Aakash Exploration Services Limited",
@@ -1320,6 +1308,18 @@
       "dateISO": "2026-11-03",
       "co": "J.G.Chemicals Limited",
       "tk": "JGCHEM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-03",
+      "co": "Jain Resource Recycling Limited",
+      "tk": "JAINREC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-03",
+      "co": "Jocil Limited",
+      "tk": "JOCIL",
       "type": "Q2 FY27 results announcement"
     }
   ]
