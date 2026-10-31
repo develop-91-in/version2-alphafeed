@@ -1,85 +1,205 @@
 {
-  "generatedAt": "2026-10-31T03:59:25.071Z",
+  "generatedAt": "2026-10-31T04:29:24.068Z",
   "articles": [
     {
-      "title": "Alliant targets 1 GW of new data-center contracts in six months as power demand surges",
-      "desc": "Alliant Energy expects to sign contracts for about 1 gigawatt of additional data-center demand within six months, its finance chief said on Friday, as rising AI use and growing electrification push US power demand to record highs.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/alliant-targets-1-gw-of-new-data-center-contracts-in-six-months-as-power-demand-surges/articleshow/135385487.cms",
-      "pubDate": "Sat, 31 Oct 2026 08:25:15 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Govt extends customs duty exemption on cotton imports till December 31",
-      "desc": "The government has extended the customs duty exemption on cotton imports until December 31, 2026. This extension aims to improve cotton supply and reduce costs for the textile industry. It follows an earlier five-month exemption that was set to expire on October 31. The measure is expected to benefit manufacturers, especially small and medium enterprises, and consumers.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/govt-extends-customs-duty-exemption-on-cotton-imports-till-december-31/articleshow/135385169.cms",
-      "pubDate": "Sat, 31 Oct 2026 08:17:36 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Big Tech returns smallest share of cash to shareholders in 15 years, given AI spending",
-      "desc": "The retreat threatens a long-standing source of support for technology share prices. With companies buying back fewer shares, investors are increasingly dependent on heavy AI investments delivering enough profit growth to justify their valuations.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/big-tech-returns-smallest-share-of-cash-to-shareholders-in-15-years-given-ai-spending/articleshow/135385233.cms",
-      "pubDate": "Sat, 31 Oct 2026 08:17:35 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Hundreds evacuated from Melania-brokered ceasefire town of Oleshky",
-      "desc": "Hundreds have been evacuated from Russia-occupied Oleshky under a localised ceasefire brokered by Melania Trump.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/hundreds-evacuated-from-melania-brokered-ceasefire-town-of-oleshky?traffic_source=rss",
-      "pubDate": "Sat, 31 Oct 2026 02:44:38 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "OpenAI cuts funding target by $10 billion: FT",
-      "desc": "AI startup OpenAI has slashed the target for its latest funding round by $10 billion and is now seeking to raise $20 billion at a $1.25 trillion valuation, the Financial Times",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms",
-      "pubDate": "Sat, 31 Oct 2026 08:05:12 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "EAM Jaishankar slams sanctions, chokepoints disrupting global energy trade, holding prices hostage",
-      "desc": "S Jaishankar highlighted the challenges posed by disruptions in global oil supplies during the G20 meeting. He pointed out that the current energy crisis results from unpredictability and significant disruptions. Jaishankar emphasized the need for the G20 to ensure that energy markets remain open and predictable. He also mentioned India's efforts in critical minerals and the necessity for reliable energy supplies.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/eam-jaishankar-slams-sanctions-chokepoints-disrupting-global-energy-trade-holding-prices-hostage/articleshow/135384017.cms",
-      "pubDate": "Sat, 31 Oct 2026 07:32:15 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India-Brazil bilateral trade set to reach $20 bn with focus on critical minerals, AI, defence: Envoy",
-      "desc": "Brazil's Ambassador to India highlighted growing trade relations, expecting bilateral trade to reach USD 20 billion soon. The partnership encompasses critical sectors such as defence, energy, and pharmaceuticals, promoting economic engagement. Both nations aim to deepen cultural ties, celebrating the centenary of musician Antonio Carlos Jobim in 2027. Recent political visits strengthened commitments toward technological and economic cooperation in multilateral forums.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-brazil-bilateral-trade-set-to-reach-20-bn-with-focus-on-critical-minerals-ai-defence-envoy/articleshow/135383999.cms",
-      "pubDate": "Sat, 31 Oct 2026 07:23:37 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
-      "desc": "Wall Street’s tech sell-off deepened on Friday as investors questioned whether massive spending on artificial intelligence will deliver enough returns to justify lofty valuations. The S&amp;P 500 fell 1.8% and the Nasdaq 2.9%, with Intel plunging nearly 29% and Nvidia down 4.2%, while bitcoin also slid after a major hack at Binance.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
-      "pubDate": "Sat, 31 Oct 2026 06:20:12 +0530",
+      "title": "Reliance Retail Q2 profit takes a hit on Qcomm push",
+      "desc": "Reliance Retail Ventures reported a significant drop in net profit, down 24.5% year-on-year to ₹2,619 crore in the last quarter. Despite this, revenue improved by 5.8% to ₹80,220 crore, largely driven by a surge in grocery sales. The company's profitability was affected by strategic investments and evolving festive season patterns, alongside rising finance costs stemming from increased borrowing and interest rates. Focus remains on improving transactions and business model adaptation.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:54:27 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
+      "desc": "Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore, fueled by a surge in digital services and a boost in average revenue per user, now at ₹218.8.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:49:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Airtel Africa Q2 profit rises 16% to $254 million",
+      "desc": "Airtel Africa has revealed a remarkable 15.9% jump in its quarterly net profit, reaching $254 million, fueled by robust revenue growth. The total revenue escalated to $1.97 billion, showcasing a 25.7% rise in reported currency. Operating profit surged by 28.5% to $659 million, while customer numbers soared by 11.6%, pointing to the growing demand for data and mobile money services. The company achieved a record underlying Ebitda margin of 50.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/airtel-africa-q2-profit-rises-16-to-254-million/articleshow/135387563.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:47:49 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
+      "desc": "Indian Oil experienced a remarkable surge in its net profit, which soared to ₹21,630 crore for the second quarter. This growth can be attributed to elevated pump prices and government subsidies for LPG sales. In contrast, the same quarter last year showcased a profit of only ₹7,610 crore. Moreover, operational revenue increased by 29%, reaching ₹2,62,935 crore, with the firm's operating profit from petroleum product sales more than doubling.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:41:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "GAIL Q2 profit surges over two fold YoY to 4,650 cr despite global disruptions",
+      "desc": "GAIL (India) has reported a remarkable increase in net profit, reaching ₹4,650 crore for the September quarter, more than double from the previous year. This growth is attributed to heightened gas marketing margins amid global energy supply disruptions. Revenue also surged by 31% to ₹45,924 crore. Furthermore, GAIL has moved forward with plans to list its subsidiary GAIL Gas, enhancing its stock value by 1.7% to ₹168 per share.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:40:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Lodha Developers profit rises 28% YoY to Rs 1,013 crore in Sept quarter",
+      "desc": "Lodha has announced a remarkable 63% surge in net profit, reaching ₹2,386 crore for the first half of FY27. This growth is driven by impressive operational performance, with net profit for the September quarter rising by 28% to ₹1,013 crore and revenue climbing 18% to ₹4,468 crore. The company’s pre-sales also saw a 10% increase to ₹5,037 crore, alongside plans for expansion in NCR and Bengaluru.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-profit-rises-28-yoy-to-rs-1013-crore-in-sept-quarter/articleshow/135387254.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:32:38 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Sun Pharma Q2 profit takes a hit on exceptional items",
+      "desc": "Sun Pharmaceutical has seen a notable 36% drop in net profit, juxtaposed with an 11.8% rise in consolidated revenue. The uplift in revenue can be attributed largely to strong sales growth in India and emerging markets, particularly in domestic formulations. Conversely, US formulation sales faced a significant downturn. The company also marked progress in its integration planning for the acquisition of Organon, following the successful completion of regulatory approvals.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:31:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Varun Beverages Q3 net profit rises 13% YoY, but margins fall",
+      "desc": "Varun Beverages recorded a substantial net profit increase of 13.5% for the quarter ending September 2026. Although there was strong revenue growth attributed to both local and international sales, the company's shares dropped because of shrinking operating margins. Challenges arose from heightened packaging costs and sugar price surges affecting gross margins. Additionally, Varun Beverages solidified its partnership with PepsiCo, extending their licensing agreement through 2049.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:27:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Reliance Retail Q2 profit takes a hit on Qcomm push",
+      "desc": "Reliance Retail Ventures reported a significant drop in net profit, down 24.5% year-on-year to ₹2,619 crore in the last quarter. Despite this, revenue improved by 5.8% to ₹80,220 crore, largely driven by a surge in grocery sales. The company's profitability was affected by strategic investments and evolving festive season patterns, alongside rising finance costs stemming from increased borrowing and interest rates. Focus remains on improving transactions and business model adaptation.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-profit-takes-a-hit-on-qcomm-push/articleshow/135387788.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:54:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Jio Platforms profit zooms 14% on healthy user mix, digital play",
+      "desc": "Jio Platforms has unveiled an impressive 14% net profit growth to ₹8,387 crore for the September quarter, achieving a milestone subscriber count of 542 million, which includes 300 million utilizing 5G services. Revenue from operations climbed to ₹40,475 crore, fueled by a surge in digital services and a boost in average revenue per user, now at ₹218.8.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-profit-zooms-14-on-healthy-user-mix-digital-play/articleshow/135387627.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:49:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Airtel Africa Q2 profit rises 16% to $254 million",
+      "desc": "Airtel Africa has revealed a remarkable 15.9% jump in its quarterly net profit, reaching $254 million, fueled by robust revenue growth. The total revenue escalated to $1.97 billion, showcasing a 25.7% rise in reported currency. Operating profit surged by 28.5% to $659 million, while customer numbers soared by 11.6%, pointing to the growing demand for data and mobile money services. The company achieved a record underlying Ebitda margin of 50.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/airtel-africa-q2-profit-rises-16-to-254-million/articleshow/135387563.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:47:49 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Indian Oil net profit triples YoY to 21,630 cr in Q2",
+      "desc": "Indian Oil experienced a remarkable surge in its net profit, which soared to ₹21,630 crore for the second quarter. This growth can be attributed to elevated pump prices and government subsidies for LPG sales. In contrast, the same quarter last year showcased a profit of only ₹7,610 crore. Moreover, operational revenue increased by 29%, reaching ₹2,62,935 crore, with the firm's operating profit from petroleum product sales more than doubling.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indian-oil-net-profit-triples-yoy-to-21630-cr-in-q2/articleshow/135387471.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:41:43 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "GAIL Q2 profit surges over two fold YoY to 4,650 cr despite global disruptions",
+      "desc": "GAIL (India) has reported a remarkable increase in net profit, reaching ₹4,650 crore for the September quarter, more than double from the previous year. This growth is attributed to heightened gas marketing margins amid global energy supply disruptions. Revenue also surged by 31% to ₹45,924 crore. Furthermore, GAIL has moved forward with plans to list its subsidiary GAIL Gas, enhancing its stock value by 1.7% to ₹168 per share.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gail-q2-profit-surges-over-two-fold-yoy-to-4650-cr-despite-global-disruptions/articleshow/135387433.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:40:48 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Lodha Developers profit rises 28% YoY to Rs 1,013 crore in Sept quarter",
+      "desc": "Lodha has announced a remarkable 63% surge in net profit, reaching ₹2,386 crore for the first half of FY27. This growth is driven by impressive operational performance, with net profit for the September quarter rising by 28% to ₹1,013 crore and revenue climbing 18% to ₹4,468 crore. The company’s pre-sales also saw a 10% increase to ₹5,037 crore, alongside plans for expansion in NCR and Bengaluru.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-profit-rises-28-yoy-to-rs-1013-crore-in-sept-quarter/articleshow/135387254.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:32:38 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Sun Pharma Q2 profit takes a hit on exceptional items",
+      "desc": "Sun Pharmaceutical has seen a notable 36% drop in net profit, juxtaposed with an 11.8% rise in consolidated revenue. The uplift in revenue can be attributed largely to strong sales growth in India and emerging markets, particularly in domestic formulations. Conversely, US formulation sales faced a significant downturn. The company also marked progress in its integration planning for the acquisition of Organon, following the successful completion of regulatory approvals.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-takes-a-hit-on-exceptional-items/articleshow/135387152.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:31:50 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Varun Beverages Q3 net profit rises 13% YoY, but margins fall",
+      "desc": "Varun Beverages recorded a substantial net profit increase of 13.5% for the quarter ending September 2026. Although there was strong revenue growth attributed to both local and international sales, the company's shares dropped because of shrinking operating margins. Challenges arose from heightened packaging costs and sugar price surges affecting gross margins. Additionally, Varun Beverages solidified its partnership with PepsiCo, extending their licensing agreement through 2049.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/varun-beverages-q3-net-profit-rises-13-yoy-but-margins-fall/articleshow/135387006.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:27:54 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Iran says four tankers on fire after striking mines in Hormuz",
+      "desc": "Iran&#039;s Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss",
+      "pubDate": "Sat, 31 Oct 2026 03:55:48 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Global Markets | European shares stumble at end of best month since June on AI worries",
+      "desc": "European stock markets slid as a global selloff in technology rattled investors, with the pan-European STOXX 600 index closing in negative territory. Concerns over soaring AI infrastructure costs loomed large. However, to add a silver lining, euro zone growth exceeded forecasts amid climbing inflation and borrowing costs, while firms such as Universal Music Group and Sanofi flaunted impressive earnings in these challenging times.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-european-shares-stumble-at-end-of-best-month-since-june-on-ai-worries/articleshow/135386838.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:18:26 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Wall Street Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market",
+      "desc": "As we approach the US midterm elections next week, stock investors are bracing for the impact of significant corporate earnings reports. The market is already under pressure due to unsatisfactory AI earnings from leading firms, sparking worries about regulatory challenges. Investor focus will be on earnings from major players like Apple and AMD, with the upcoming jobs report additionally providing insights into the strength of the US economy.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-midterm-us-elections-earnings-jobs-data-loom-for-ai-wary-stock-market/articleshow/135386687.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:17:08 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
+    },
+    {
+      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+      "desc": "Gold prices have plummeted to a year-long low, driven by anxiety over AI expenditure trends and declining tech shares. Other precious metals such as silver, platinum, and palladium have similarly seen their values drop sharply. Market experts forecast that precious metals may rebound, particularly if gold stays under $4,000. A decline in demand for silver's industrial and jewelry uses further complicates its market outlook, leaving a persistent downtrend expected.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
+      "pubDate": "Sat, 31 Oct 2026 09:16:29 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Burnham 'open' to calls for slavery apology but not reparations",
@@ -230,6 +350,16 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Oil-to-chemicals business powers Reliance Industries' record quarterly net profit, up 34% to ₹29,550 crore",
+      "desc": "Reliance Industries Ltd has set a new benchmark with a record net profit of ₹29,550 crore for the September quarter, fueled by significant advancements in the oil-to-chemicals and digital segments. With a yearly revenue surge of 28.5% to ₹3.38 lakh crore, the O2C division's Ebitda skyrocketed 68%, reflecting the advantages of elevated energy prices and the firm’s adaptability in challenging market scenarios.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oil-to-chemicals-business-powers-reliance-industries-record-quarterly-net-profit-up-34-to-29550-crore/articleshow/135387613.cms",
+      "pubDate": "Sat, 31 Oct 2026 05:30:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
@@ -932,26 +1062,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Global Market: Binance breach rekindles fears over cryptocurrency security",
-      "desc": "A reported $6.3 billion breach at Binance, described as the largest crypto heist on record, has renewed concerns about digital-asset security. Binance has located about $3 billion in affected assets and pledged to cover losses. The incident joins major attacks on Bybit, Ronin Network, Wormhole and other platforms, highlighting persistent vulnerabilities across exchanges, wallets, blockchain bridges and DeFi services.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-binance-breach-rekindles-fears-over-cryptocurrency-security/articleshow/135351569.cms",
-      "pubDate": "Fri, 30 Oct 2026 14:00:16 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Reliance Industries Q2 Results 2026 Live: RIL Q2 profit jumps 41% YoY to Rs 25,548 crore; co posts highest-ever quarterly revenue; Jio ARPU rises to Rs 218.8",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms",
-      "pubDate": "Fri, 30 Oct 2026 13:57:39 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
       "title": "Samsung Electronics to buy 1.27 trillion won worth of shares in TCL China from Samsung Display",
       "desc": "Samsung Electronics said in a filing on Fridaty that the company will buy 1.27 trillion won ($948.39 million) worth of shares in TCL China Star Optoelectronics Technology Co. Ltd from Samsung Display.",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-to-buy-1-27-trillion-won-worth-of-shares-in-tcl-china-from-samsung-display/articleshow/135350320.cms",
@@ -972,86 +1082,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Global Market: Wall Street's top asset managers bet big on AI infrastructure boom",
-      "desc": "Wall Street’s leading alternative asset managers are ramping up investments in AI infrastructure, betting on long-term leases and creditworthy tenants to secure predictable returns. However, rising debt levels among neoclouds and concerns over AI spending returns are bringing private credit risks into focus.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-wall-streets-top-asset-managers-bet-big-on-ai-infrastructure-boom/articleshow/135349828.cms",
-      "pubDate": "Fri, 30 Oct 2026 13:07:43 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Can AWS growth help Amazon shares rebound from the post-earnings selloff?",
-      "desc": "Amazon shares fell more than 9% after its third-quarter revenue and earnings missed expectations, while heavy AI investment pushed free cash flow into negative territory. AWS delivered strong growth, but cautious holiday-quarter guidance and plans for about $220 billion in 2026 capital expenditure heightened concerns over spending and future returns.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-aws-growth-help-amazon-shares-rebound-from-the-post-earnings-selloff/slideshow/135350722.cms",
-      "pubDate": "Fri, 30 Oct 2026 13:06:10 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do?",
-      "desc": "Bitcoin fell more than 4% to a six-week low below $78,000, while Ether and BNB also slumped after a reported $6.3 billion security breach at Binance rattled crypto markets. Analysts flagged key support levels and advised investors against panic selling or aggressive dip-buying, favouring staggered entries and smaller positions.",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:59:59 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Coal India shares fall 3% after Q2 results; Jefferies, Motilal Oswal, others cut target price",
-      "desc": "Coal India shares fell 3% despite a 57% year-on-year rise in Q2 FY27 net profit to Rs 6,547 crore. Jefferies and JM Financial cut their target prices to Rs 460 and Rs 438, respectively, while Motilal Oswal retained its Buy rating with a Rs 450 target, citing a potential volume recovery.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-shares-fall-3-after-q2-results-jefferies-motilal-oswal-others-cut-target-price/articleshow/135349282.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:46:49 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Explained: Why AI giants Google, Amazon, Intel shares crashed up to 23% in a single day",
-      "desc": "Shares of Alphabet, Amazon and Intel plunged on Thursday as investors fretted over rising AI spending, weakening cash flows and a subdued outlook. Alphabet shares fell over 13% after its Q3 results missed Wall Street estimates, with slowing search advertising growth and higher AI investments weighing on sentiment.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-ai-giants-google-amazon-intel-shares-crashed-up-to-23-in-a-single-day/articleshow/135349077.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:39:40 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Equitas SFB shares tumble 27% in 2 days on CEO exit. More pain ahead?",
-      "desc": "Equitas Small Finance Bank shares plunged 27% in two sessions after CEO and founder PN Vasudevan announced his resignation over a perceived conflict involving his daughter’s NBFC.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-sfb-shares-tumble-27-in-2-days-on-ceo-exit-more-pain-ahead/articleshow/135348776.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:35:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Biggest crypto heist in history: How Binance’s $6 billion hack rattled markets and what it means for investors?",
-      "desc": "Binance is investigating a reported security breach estimated to have caused $6.3 billion in losses, with North Korea-linked hackers suspected by TRM Labs. The exchange says user funds are safe and has pledged to cover all losses.",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/biggest-crypto-heist-in-history-how-binances-6-billion-hack-rattled-markets-and-what-it-means-for-investors/articleshow/135348042.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:23:24 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Global Market: Chinese yuan hits four-year high, heads for fourth straight monthly gain",
-      "desc": "China’s yuan reached its strongest level against the US dollar in more than four years, supported by exporter dollar sales, robust exports and a weaker greenback. The currency has gained about 5% this year, while the PBOC’s stronger daily fixing suggests policymakers are comfortable with its appreciation, though the pace may moderate.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-yuan-hits-four-year-high-heads-for-fourth-straight-monthly-gain/articleshow/135348252.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:17:35 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Gig workers get a seat at the table as Centre notifies social security boards",
       "desc": "The Ministry of Labour and Employment has notified the National Social Security Board for unorganised workers and gig workers. This board will enable the implementation of welfare schemes designed to address social security gaps. It will include representatives from government, companies, and civil society to ensure diverse input. The board is expected to meet regularly to discuss policies affecting these workers.",
       "link": "https://economictimes.indiatimes.com/news/economy/policy/gig-workers-get-a-seat-at-the-table-as-centre-notifies-social-security-boards/articleshow/135348193.cms",
@@ -1060,16 +1090,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Global Market: Bank of Japan achieves 2% inflation target after 13 years",
-      "desc": "The Bank of Japan declared its long-standing 2% inflation target achieved after more than 13 years, but kept its benchmark interest rate unchanged at 1.25%. Persistent inflation, rising oil and semiconductor prices, and yen weakness have fuelled expectations of another rate hike in December as policymakers gradually tighten monetary policy.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-achieves-2-inflation-target-after-13-years/articleshow/135347955.cms",
-      "pubDate": "Fri, 30 Oct 2026 12:06:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Escorts Kubota hikes tractor prices  as Middle East war fuels cost pressures",
@@ -1090,26 +1110,6 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Intel Stock Crash: Can chipmaker revive its turnaround strategy?",
-      "desc": "Intel shares plunged over 20% after the chipmaker issued a weaker-than-expected Q4 earnings outlook. Manufacturing bottlenecks, rising memory prices and PC market weakness add to turnaround challenges.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/intel-stock-crash-can-chipmaker-revive-its-turnaround-strategy/slideshow/135347873.cms",
-      "pubDate": "Fri, 30 Oct 2026 11:33:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Global Market: China stocks extend losing streak to 12 weeks as global AI selloff hits tech shares",
-      "desc": "China's CSI300 index fell to a one-year low, extending its losing streak to 12 weeks as a global AI stock selloff weighed on technology shares. The index is down 14% over 12 weeks and on track for its steepest monthly decline since July, while Hong Kong's Hang Seng advanced.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-extend-losing-streak-to-12-weeks-as-global-ai-selloff-hits-tech-shares/articleshow/135346469.cms",
-      "pubDate": "Fri, 30 Oct 2026 11:29:52 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Polymarket paused international trading after a security issue involving a third-party provider",
@@ -1160,30 +1160,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
-      "desc": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom. Nvidia also has around $36 billion in cloud backstops and a guarantee of up to $105 billion linked to an OpenAI data center, according to US media.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
-      "pubDate": "Fri, 30 Oct 2026 09:53:50 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Salesforce to buy defense tech firm Rune in military business push",
-      "desc": "Business software maker Salesforce said on Thursday it would buy defense technology company Rune Technologies to expand its Missionforce business, which serves the US military and government agencies.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/salesforce-to-buy-defense-tech-firm-rune-in-military-business-push/articleshow/135341877.cms",
-      "pubDate": "Fri, 30 Oct 2026 09:30:55 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-10-31T03:59:25.070Z",
+    "generatedAt": "2026-10-31T04:29:24.068Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1196,7 +1176,7 @@
         "changePct": 0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:15.115Z",
+        "timestamp": "2026-10-31T04:29:16.095Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1208,7 +1188,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:15.777Z",
+        "timestamp": "2026-10-31T04:29:16.574Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1220,7 +1200,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:16.083Z",
+        "timestamp": "2026-10-31T04:29:16.813Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1232,7 +1212,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:16.418Z",
+        "timestamp": "2026-10-31T04:29:17.111Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1244,7 +1224,7 @@
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:16.677Z",
+        "timestamp": "2026-10-31T04:29:17.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1256,7 +1236,7 @@
         "changePct": -0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:16.966Z",
+        "timestamp": "2026-10-31T04:29:17.618Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1268,7 +1248,7 @@
         "changePct": 1.55,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:17.224Z",
+        "timestamp": "2026-10-31T04:29:17.898Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1280,7 +1260,7 @@
         "changePct": -0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:17.571Z",
+        "timestamp": "2026-10-31T04:29:18.154Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1292,7 +1272,7 @@
         "changePct": -0.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:17.823Z",
+        "timestamp": "2026-10-31T04:29:18.424Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1304,7 +1284,7 @@
         "changePct": -0.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:18.227Z",
+        "timestamp": "2026-10-31T04:29:18.671Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1316,7 +1296,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:18.524Z",
+        "timestamp": "2026-10-31T04:29:18.939Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1328,7 +1308,7 @@
         "changePct": -0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:18.806Z",
+        "timestamp": "2026-10-31T04:29:19.167Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1340,7 +1320,7 @@
         "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:19.112Z",
+        "timestamp": "2026-10-31T04:29:19.505Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1352,7 +1332,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:19.414Z",
+        "timestamp": "2026-10-31T04:29:19.787Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1364,7 +1344,7 @@
         "changePct": -1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:19.762Z",
+        "timestamp": "2026-10-31T04:29:20.027Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1376,7 +1356,7 @@
         "changePct": -1.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:20.103Z",
+        "timestamp": "2026-10-31T04:29:20.272Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1388,7 +1368,7 @@
         "changePct": -2.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:20.471Z",
+        "timestamp": "2026-10-31T04:29:20.709Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1400,7 +1380,7 @@
         "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:20.761Z",
+        "timestamp": "2026-10-31T04:29:20.950Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1412,7 +1392,7 @@
         "changePct": 0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:21.300Z",
+        "timestamp": "2026-10-31T04:29:21.185Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1424,7 +1404,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:21.587Z",
+        "timestamp": "2026-10-31T04:29:21.414Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1436,7 +1416,7 @@
         "changePct": -2.12,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:21.859Z",
+        "timestamp": "2026-10-31T04:29:21.654Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1448,7 +1428,7 @@
         "changePct": 1.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:22.409Z",
+        "timestamp": "2026-10-31T04:29:21.917Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1460,7 +1440,7 @@
         "changePct": -3.48,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:22.708Z",
+        "timestamp": "2026-10-31T04:29:22.150Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1472,31 +1452,31 @@
         "changePct": -1.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-10-31T03:59:23.042Z",
+        "timestamp": "2026-10-31T04:29:22.609Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 112.33,
-        "change": 1.53,
-        "changePct": 1.38,
+        "price": 113.43,
+        "change": 2.63,
+        "changePct": 2.37,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T03:59:23.296Z",
+        "timestamp": "2026-10-31T04:29:22.856Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 102.95,
-        "change": 0.95,
-        "changePct": 0.93,
+        "price": 104.12,
+        "change": 2.12,
+        "changePct": 2.08,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-10-31T03:59:23.643Z",
+        "timestamp": "2026-10-31T04:29:23.067Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1508,7 +1488,7 @@
         "changePct": -3.63,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T03:59:23.956Z",
+        "timestamp": "2026-10-31T04:29:23.300Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1520,7 +1500,7 @@
         "changePct": -6.2,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-10-31T03:59:24.312Z",
+        "timestamp": "2026-10-31T04:29:23.535Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1532,7 +1512,7 @@
         "changePct": -1.2,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-10-31T03:59:24.621Z",
+        "timestamp": "2026-10-31T04:29:23.770Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1544,7 +1524,7 @@
         "changePct": -3.63,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-10-31T03:59:24.798Z",
+        "timestamp": "2026-10-31T04:29:23.850Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1556,19 +1536,19 @@
         "changePct": -6.2,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-10-31T03:59:24.939Z",
+        "timestamp": "2026-10-31T04:29:23.987Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9775,
-        "change": 90,
-        "changePct": 0.93,
+        "price": 9886,
+        "change": 201,
+        "changePct": 2.08,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-10-31T03:59:25.070Z",
+        "timestamp": "2026-10-31T04:29:24.068Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
