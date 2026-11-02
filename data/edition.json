@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-02T22:07:09.097Z",
+  "generatedAt": "2026-11-02T22:29:43.305Z",
   "articles": [
+    {
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "desc": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time last year. The increase in revenue follows the launch of [&#8230;]",
+      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "pubDate": "2026-11-02T17:02:36-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US stocks today: Nasdaq ends over 1% lower as AI worries persist",
       "desc": "US stocks ended mixed on Monday, with the S&amp;P 500 and Nasdaq closing lower as Apple shares slipped ahead of earnings and Oracle fell over plans to raise $20 billion. Falling oil prices amid US-Iran peace hopes offered some relief, while concerns over Big Tech's AI spending persisted.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Manufacturing activity eases in Oct as new order growth drops",
-      "desc": "Manufacturing activity in India experienced a slowdown in October, decreasing from the previous month's growth. Despite this, the sector remained above its long-run average due to stronger international demand. A survey indicated that nearly 18% of manufacturers anticipated increased output over the next year, supported by fresh client inquiries.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/manufacturing-activity-eases-in-oct-as-new-order-growth-drops/articleshow/135473150.cms",
-      "pubDate": "Tue, 03 Nov 2026 00:52:12 +0530",
+      "title": "Apple set an iPhone sales record even without a new standard iPhone",
+      "desc": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, marking a 17 percent jump from the same time last year. The increase in revenue follows the launch of [&#8230;]",
+      "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+      "pubDate": "2026-11-02T17:02:36-05:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "US stocks today: Nasdaq ends over 1% lower as AI worries persist",
@@ -1013,7 +1023,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-02T22:07:09.097Z",
+    "generatedAt": "2026-11-02T22:29:43.305Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1026,7 +1036,7 @@
         "changePct": 1.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:05.920Z",
+        "timestamp": "2026-11-02T22:29:33.764Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1038,7 +1048,7 @@
         "changePct": 1.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.130Z",
+        "timestamp": "2026-11-02T22:29:34.366Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1050,7 +1060,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.222Z",
+        "timestamp": "2026-11-02T22:29:34.635Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1062,7 +1072,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.445Z",
+        "timestamp": "2026-11-02T22:29:34.949Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1074,7 +1084,7 @@
         "changePct": -0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.530Z",
+        "timestamp": "2026-11-02T22:29:35.459Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1086,7 +1096,7 @@
         "changePct": 1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.633Z",
+        "timestamp": "2026-11-02T22:29:35.759Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1108,7 @@
         "changePct": -0.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.717Z",
+        "timestamp": "2026-11-02T22:29:36.099Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,7 +1120,7 @@
         "changePct": 0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.833Z",
+        "timestamp": "2026-11-02T22:29:36.388Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1122,7 +1132,7 @@
         "changePct": 3.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:06.994Z",
+        "timestamp": "2026-11-02T22:29:36.683Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1134,7 +1144,7 @@
         "changePct": 3.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.106Z",
+        "timestamp": "2026-11-02T22:29:36.957Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1146,7 +1156,7 @@
         "changePct": 1.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.196Z",
+        "timestamp": "2026-11-02T22:29:37.238Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1158,7 +1168,7 @@
         "changePct": 1.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.297Z",
+        "timestamp": "2026-11-02T22:29:37.740Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,7 +1180,7 @@
         "changePct": 1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.381Z",
+        "timestamp": "2026-11-02T22:29:38.102Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1182,7 +1192,7 @@
         "changePct": 3.7,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.474Z",
+        "timestamp": "2026-11-02T22:29:38.368Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1194,7 +1204,7 @@
         "changePct": -0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.638Z",
+        "timestamp": "2026-11-02T22:29:38.678Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1206,7 +1216,7 @@
         "changePct": -0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.732Z",
+        "timestamp": "2026-11-02T22:29:39.034Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1228,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.838Z",
+        "timestamp": "2026-11-02T22:29:39.387Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,7 +1240,7 @@
         "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:07.932Z",
+        "timestamp": "2026-11-02T22:29:39.600Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1242,7 +1252,7 @@
         "changePct": 0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.020Z",
+        "timestamp": "2026-11-02T22:29:39.900Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1254,7 +1264,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.112Z",
+        "timestamp": "2026-11-02T22:29:40.166Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1266,7 +1276,7 @@
         "changePct": -0.33,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.194Z",
+        "timestamp": "2026-11-02T22:29:40.408Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1278,7 +1288,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.371Z",
+        "timestamp": "2026-11-02T22:29:40.617Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1290,7 +1300,7 @@
         "changePct": 2.24,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.459Z",
+        "timestamp": "2026-11-02T22:29:41.203Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1302,55 +1312,55 @@
         "changePct": 1.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-02T22:07:08.557Z",
+        "timestamp": "2026-11-02T22:29:41.460Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 104.28,
-        "change": -9.15,
-        "changePct": -8.07,
+        "price": 104.23,
+        "change": -9.2,
+        "changePct": -8.11,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-02T22:07:08.641Z",
+        "timestamp": "2026-11-02T22:29:41.735Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 96.32,
-        "change": -7.8,
-        "changePct": -7.49,
+        "price": 96.26,
+        "change": -7.86,
+        "changePct": -7.55,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-02T22:07:08.734Z",
+        "timestamp": "2026-11-02T22:29:41.943Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3955.5,
-        "change": 56.6,
-        "changePct": 1.45,
+        "price": 3956.6,
+        "change": 57.7,
+        "changePct": 1.48,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-02T22:07:08.822Z",
+        "timestamp": "2026-11-02T22:29:42.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 50.69,
-        "change": 1.414,
-        "changePct": 2.87,
+        "price": 50.71,
+        "change": 1.434,
+        "changePct": 2.91,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-02T22:07:08.947Z",
+        "timestamp": "2026-11-02T22:29:42.477Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1362,43 +1372,43 @@
         "changePct": -0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-02T22:07:09.009Z",
+        "timestamp": "2026-11-02T22:29:42.939Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 120674,
-        "change": 1727,
-        "changePct": 1.45,
+        "price": 120707,
+        "change": 1760,
+        "changePct": 1.48,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-02T22:07:09.041Z",
+        "timestamp": "2026-11-02T22:29:43.035Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 154644,
-        "change": 4314,
-        "changePct": 2.87,
+        "price": 154705,
+        "change": 4375,
+        "changePct": 2.91,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-02T22:07:09.065Z",
+        "timestamp": "2026-11-02T22:29:43.209Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9140,
-        "change": -740,
-        "changePct": -7.49,
+        "price": 9134,
+        "change": -746,
+        "changePct": -7.55,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-02T22:07:09.097Z",
+        "timestamp": "2026-11-02T22:29:43.305Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
