@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:59:39.881Z",
+  "generatedAt": "2026-11-02T23:30:15.352Z",
   "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
   "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
   "items": [
@@ -12,7 +12,7 @@
       "changePct": 1.68,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:29.567Z",
+      "timestamp": "2026-11-02T23:30:04.698Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -24,7 +24,7 @@
       "changePct": 1.66,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:30.040Z",
+      "timestamp": "2026-11-02T23:30:05.577Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -36,7 +36,7 @@
       "changePct": 0.58,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:30.271Z",
+      "timestamp": "2026-11-02T23:30:05.776Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -48,7 +48,7 @@
       "changePct": -0.05,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:30.792Z",
+      "timestamp": "2026-11-02T23:30:06.324Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -60,7 +60,7 @@
       "changePct": -0.5,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:31.102Z",
+      "timestamp": "2026-11-02T23:30:06.524Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -72,7 +72,7 @@
       "changePct": 1.33,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:31.342Z",
+      "timestamp": "2026-11-02T23:30:06.867Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -84,7 +84,7 @@
       "changePct": -0.07,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:31.616Z",
+      "timestamp": "2026-11-02T23:30:07.126Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -96,7 +96,7 @@
       "changePct": 0.84,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:32.333Z",
+      "timestamp": "2026-11-02T23:30:07.547Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -108,7 +108,7 @@
       "changePct": 3.21,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:32.639Z",
+      "timestamp": "2026-11-02T23:30:07.847Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -120,7 +120,7 @@
       "changePct": 3.92,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:32.891Z",
+      "timestamp": "2026-11-02T23:30:08.170Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -132,7 +132,7 @@
       "changePct": 1.03,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:33.364Z",
+      "timestamp": "2026-11-02T23:30:08.405Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -144,7 +144,7 @@
       "changePct": 1.36,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:33.600Z",
+      "timestamp": "2026-11-02T23:30:08.732Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -156,7 +156,7 @@
       "changePct": 1.24,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:33.959Z",
+      "timestamp": "2026-11-02T23:30:08.970Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -168,7 +168,7 @@
       "changePct": 3.7,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:34.249Z",
+      "timestamp": "2026-11-02T23:30:09.397Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -180,7 +180,7 @@
       "changePct": -0.76,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:34.560Z",
+      "timestamp": "2026-11-02T23:30:09.780Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -192,19 +192,19 @@
       "changePct": -0.51,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:34.959Z",
+      "timestamp": "2026-11-02T23:30:10.298Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "NASDAQ",
       "label": "NASDAQ",
       "region": "United States",
-      "price": 25164.316,
-      "change": -272.682,
+      "price": 25164.363,
+      "change": -272.635,
       "changePct": -1.07,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:35.411Z",
+      "timestamp": "2026-11-02T23:30:10.862Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -216,7 +216,7 @@
       "changePct": 0.41,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:36.335Z",
+      "timestamp": "2026-11-02T23:30:11.192Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -228,7 +228,7 @@
       "changePct": 0.29,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:36.650Z",
+      "timestamp": "2026-11-02T23:30:11.511Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -240,7 +240,7 @@
       "changePct": 0.63,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:36.994Z",
+      "timestamp": "2026-11-02T23:30:11.848Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -252,7 +252,7 @@
       "changePct": -0.33,
       "dec": 0,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:37.200Z",
+      "timestamp": "2026-11-02T23:30:12.075Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -264,7 +264,7 @@
       "changePct": 0.42,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:37.436Z",
+      "timestamp": "2026-11-02T23:30:12.638Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -276,7 +276,7 @@
       "changePct": 2.24,
       "dec": 0,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:37.823Z",
+      "timestamp": "2026-11-02T23:30:12.922Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -288,55 +288,55 @@
       "changePct": 1.08,
       "dec": 2,
       "unit": "",
-      "timestamp": "2026-11-02T22:59:38.071Z",
+      "timestamp": "2026-11-02T23:30:13.469Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "BRENT",
       "label": "BRENT CRUDE",
       "region": "Global",
-      "price": 104.23,
-      "change": -0.54,
-      "changePct": -0.52,
+      "price": 104.3,
+      "change": -0.47,
+      "changePct": -0.45,
       "dec": 2,
       "unit": "$/bbl",
-      "timestamp": "2026-11-02T22:59:38.323Z",
+      "timestamp": "2026-11-02T23:30:13.768Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "WTI",
       "label": "WTI CRUDE",
       "region": "Global",
-      "price": 96.26,
-      "change": -0.2,
-      "changePct": -0.21,
+      "price": 96.37,
+      "change": -0.09,
+      "changePct": -0.09,
       "dec": 2,
       "unit": "$/bbl",
-      "timestamp": "2026-11-02T22:59:38.611Z",
+      "timestamp": "2026-11-02T23:30:14.139Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "GOLD SPOT",
       "label": "GOLD SPOT",
       "region": "Global",
-      "price": 3956.6,
-      "change": 57.7,
-      "changePct": 1.48,
+      "price": 3954.9,
+      "change": -14.7,
+      "changePct": -0.37,
       "dec": 2,
       "unit": "$/oz",
-      "timestamp": "2026-11-02T22:59:38.879Z",
+      "timestamp": "2026-11-02T23:30:14.312Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "SILVER SPOT",
       "label": "SILVER SPOT",
       "region": "Global",
-      "price": 50.71,
-      "change": 1.434,
-      "changePct": 2.91,
+      "price": 50.69,
+      "change": -0.198,
+      "changePct": -0.39,
       "dec": 3,
       "unit": "$/oz",
-      "timestamp": "2026-11-02T22:59:39.157Z",
+      "timestamp": "2026-11-02T23:30:14.690Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
@@ -348,43 +348,43 @@
       "changePct": -0.71,
       "dec": 2,
       "unit": "%",
-      "timestamp": "2026-11-02T22:59:39.541Z",
+      "timestamp": "2026-11-02T23:30:14.890Z",
       "source": "Yahoo Finance (unofficial)"
     },
     {
       "symbol": "MCX GOLD",
       "label": "MCX GOLD",
       "region": "India",
-      "price": 120707,
-      "change": 1760,
-      "changePct": 1.48,
+      "price": 120661,
+      "change": -442,
+      "changePct": -0.36,
       "dec": 0,
       "unit": "₹/10g",
-      "timestamp": "2026-11-02T22:59:39.672Z",
+      "timestamp": "2026-11-02T23:30:15.091Z",
       "source": "Derived from COMEX GC=F x USD/INR — approx"
     },
     {
       "symbol": "MCX SILVER",
       "label": "MCX SILVER",
       "region": "India",
-      "price": 154705,
-      "change": 4375,
-      "changePct": 2.91,
+      "price": 154644,
+      "change": -604,
+      "changePct": -0.39,
       "dec": 0,
       "unit": "₹/kg",
-      "timestamp": "2026-11-02T22:59:39.800Z",
+      "timestamp": "2026-11-02T23:30:15.179Z",
       "source": "Derived from COMEX SI=F x USD/INR — approx"
     },
     {
       "symbol": "MCX CRUDE",
       "label": "MCX CRUDE",
       "region": "India",
-      "price": 9134,
-      "change": -19,
-      "changePct": -0.21,
+      "price": 9145,
+      "change": -9,
+      "changePct": -0.09,
       "dec": 0,
       "unit": "₹/bbl",
-      "timestamp": "2026-11-02T22:59:39.881Z",
+      "timestamp": "2026-11-02T23:30:15.352Z",
       "source": "Derived from WTI CL=F x USD/INR — approx"
     }
   ]
