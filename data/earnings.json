@@ -1,1081 +1,7 @@
 {
-  "generatedAt": "2026-11-02T18:29:45.962Z",
+  "generatedAt": "2026-11-02T18:59:48.584Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
-    {
-      "dateISO": "2026-11-03",
-      "co": "A B Infrabuild Limited",
-      "tk": "ABINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "AIA Engineering Limited",
-      "tk": "AIAENG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "ASK Automotive Limited",
-      "tk": "ASKAUTOLTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Aarnav Fashions Limited",
-      "tk": "AARNAV",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Aarti Drugs Limited",
-      "tk": "AARTIDRUGS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Advent Hotels International Limited",
-      "tk": "ADVENTHTL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Ajmera Realty & Infra India Limited",
-      "tk": "AJMERA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Alkyl Amines Chemicals Limited",
-      "tk": "ALKYLAMINE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Allcargo Logistics Limited",
-      "tk": "ALLCARGO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Allied Digital Services Limited",
-      "tk": "ADSL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Amanta Healthcare Limited",
-      "tk": "AMANTA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Amrutanjan Health Care Limited",
-      "tk": "AMRUTANJAN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Anthem Biosciences Limited",
-      "tk": "ANTHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Archidply Industries Limited",
-      "tk": "ARCHIDPLY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Arfin India Limited",
-      "tk": "ARFIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Arihant Superstructures Limited",
-      "tk": "ARIHANTSUP",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Arisinfra Solutions Limited",
-      "tk": "ARIS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Arvee Laboratories (India) Limited",
-      "tk": "ARVEE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Asahi India Glass Limited",
-      "tk": "ASAHIINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Ashoka Metcast Limited",
-      "tk": "ASHOKAMET",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Asian Granito India Limited",
-      "tk": "ASIANTILES",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Authum Investment & Infrastructure Limited",
-      "tk": "AIIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Awfis Space Solutions Limited",
-      "tk": "AWFIS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "BLS International Services Limited",
-      "tk": "BLS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "BMW Ventures Limited",
-      "tk": "BMWVENTLTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Baid Finserv Limited",
-      "tk": "BAIDFIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bajaj Finserv Limited",
-      "tk": "BAJAJFINSV",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bajaj Holdings & Investment Limited",
-      "tk": "BAJAJHLDNG",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bata India Limited",
-      "tk": "BATAINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Belding India Limited",
-      "tk": "BELDING",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bhagiradha Chemicals & Industries Limited",
-      "tk": "BHAGCHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bigbloc Construction Limited",
-      "tk": "BIGBLOC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Bodal Chemicals Limited",
-      "tk": "BODALCHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "CL Educate Limited",
-      "tk": "CLEDUCATE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "COSMO FIRST LIMITED",
-      "tk": "COSMOFIRST",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Camlin Fine Sciences Limited",
-      "tk": "CAMLINFINE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Career Point Edutech Limited",
-      "tk": "CPEDU",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Chambal Fertilizers & Chemicals Limited",
-      "tk": "CHAMBLFERT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Clean Max Enviro Energy Solutions Limited",
-      "tk": "CLEANMAX",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Concord Enviro Systems Limited",
-      "tk": "CEWATER",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "DIC India Limited",
-      "tk": "DICIND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Dalmia Bharat Sugar and Industries Limited",
-      "tk": "DALMIASUG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Dam Capital Advisors Limited",
-      "tk": "DAMCAPITAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Datamatics Global Services Limited",
-      "tk": "DATAMATICS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "De Nora India Limited",
-      "tk": "DENORA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Deep Industries Limited",
-      "tk": "DEEPINDS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Dev Accelerator Limited",
-      "tk": "DEVX",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Dhoot Transmission Limited",
-      "tk": "DHOOTTRANS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "DiGiSPICE Technologies Limited",
-      "tk": "DIGISPICE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Diamond Power Infrastructure Limited",
-      "tk": "DIACABS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Diligent Media Corporation Limited",
-      "tk": "DNAMEDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Dreamfolks Services Limited",
-      "tk": "DREAMFOLKS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Embassy Developments Limited",
-      "tk": "EMBDL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Emcure Pharmaceuticals Limited",
-      "tk": "EMCURE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Endurance Technologies Limited",
-      "tk": "ENDURANCE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Entertainment Network (India) Limited",
-      "tk": "ENIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Ester Industries Limited",
-      "tk": "ESTER",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Faze Three Limited",
-      "tk": "FAZE3Q",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Fractal Analytics Limited",
-      "tk": "FRACTAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "GNG Electronics Limited",
-      "tk": "EBGNG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "GSPL Transmission Limited",
-      "tk": "GSPLTRANS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Gandhi Special Tubes Limited",
-      "tk": "GANDHITUBE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "GeeCee Ventures Limited",
-      "tk": "GEECEE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Generic Engineering Construction and Projects Limited",
-      "tk": "GENCON",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Glass Wall Systems (India) Limited",
-      "tk": "GLASSWALL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "GlaxoSmithKline Pharmaceuticals Limited",
-      "tk": "GLAXO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Global Health Limited",
-      "tk": "MEDANTA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Graphite India Limited",
-      "tk": "GRAPHITE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Gujarat Fluorochemicals Limited",
-      "tk": "FLUOROCHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "H.G. Infra Engineering Limited",
-      "tk": "HGINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "HEG Advanced Materials Limited",
-      "tk": "HEGAM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "HMA Agro Industries Limited",
-      "tk": "HMAAGRO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "HMA Agro Industries Limited",
-      "tk": "HMAAGRO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Halder Venture Limited",
-      "tk": "HALDER",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Harsha Engineers International Limited",
-      "tk": "HARSHA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Hikal Limited",
-      "tk": "HIKAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "IL&FS Engineering and Construction Company Limited",
-      "tk": "IL&FSENGG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "IMP Powers Limited",
-      "tk": "INDLMETER",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "INOX India Limited",
-      "tk": "INOXINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "ION Exchange (India) Limited",
-      "tk": "IONEXCHANG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "India Pesticides Limited",
-      "tk": "IPL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Indian Card Clothing Company Limited",
-      "tk": "INDIANCARD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Indiqube Spaces Limited",
-      "tk": "INDIQUBE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Inventure Growth & Securities Limited",
-      "tk": "INVENTURE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "J.G.Chemicals Limited",
-      "tk": "JGCHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Jain Resource Recycling Limited",
-      "tk": "JAINREC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Jocil Limited",
-      "tk": "JOCIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Jyoti CNC Automation Limited",
-      "tk": "JYOTICNC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Jyoti Structures Limited",
-      "tk": "JYOTISTRUC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Kamat Hotels (I) Limited",
-      "tk": "KAMATHOTEL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Kolte - Patil Developers Limited",
-      "tk": "KOLTEPATIL",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Kopran Limited",
-      "tk": "KOPRAN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Kothari Petrochemicals Limited",
-      "tk": "KOTHARIPET",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Ksb Limited",
-      "tk": "KSB",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Landsmill Green Limited",
-      "tk": "LANDSMILL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Laxmi Dental Limited",
-      "tk": "LAXMIDENTL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Linde India Limited",
-      "tk": "LINDEINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Lloyds Metals And Energy Limited",
-      "tk": "LLOYDSME",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Lords Chloro Alkali Limited",
-      "tk": "LORDSCHLO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Lupin Limited",
-      "tk": "LUPIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Lux Industries Limited",
-      "tk": "LUXIND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "MPS Limited",
-      "tk": "MPSLTD",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Mahanagar Gas Limited",
-      "tk": "MGL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Mangal Credit and Fincorp Limited",
-      "tk": "MANCREDIT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Mangalam Cement Limited",
-      "tk": "MANGLMCEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Manipal Payment and Identity Solutions Limited",
-      "tk": "MPIMANIPAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Master Trust Limited",
-      "tk": "MASTERTR",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Max India Limited",
-      "tk": "MAXIND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Metropolis Healthcare Limited",
-      "tk": "METROPOLIS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Minda Corporation Limited",
-      "tk": "MINDACORP",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Mirza International Limited",
-      "tk": "MIRZAINT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Monte Carlo Fashions Limited",
-      "tk": "MONTECARLO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "N R Agarwal Industries Limited",
-      "tk": "NRAIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "NDR INVIT Trust",
-      "tk": "NDRINVIT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Nephrocare Health Services Limited",
-      "tk": "NEPHROPLUS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Neuland Laboratories Limited",
-      "tk": "NEULANDLAB",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Next Mediaworks Limited",
-      "tk": "NEXTMEDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Nexus Select Trust",
-      "tk": "NXST",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Nitco Limited",
-      "tk": "NITCO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Northern Arc Capital Limited",
-      "tk": "NORTHARC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "One Point One Solutions Limited",
-      "tk": "ONEPOINT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Onida Electronics Limited",
-      "tk": "ONIDA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Parag Milk Foods Limited",
-      "tk": "PARAGMILK",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Pfizer Limited",
-      "tk": "PFIZER",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Pokarna Limited",
-      "tk": "POKARNA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Prince Pipes And Fittings Limited",
-      "tk": "PRINCEPIPE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Punjab Chemicals & Crop Protection Limited",
-      "tk": "PUNJABCHEM",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "R Systems International Limited",
-      "tk": "RSYSTEMS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "RBZ Jewellers Limited",
-      "tk": "RBZJEWEL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Radhika Jeweltech Limited",
-      "tk": "RADHIKAJWE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Raj Rayon Industries Limited",
-      "tk": "RAJRILTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Rajshree Polypack Limited",
-      "tk": "RPPL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Rane (Madras) Limited",
-      "tk": "RML",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "RattanIndia Enterprises Limited",
-      "tk": "RTNINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Rhetan TMT Limited",
-      "tk": "RHETAN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Rushabh Precision Bearings Limited",
-      "tk": "RUSHABEAR",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Rushil Decor Limited",
-      "tk": "RUSHIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "SEDEMAC Mechatronics Limited",
-      "tk": "SEDEMAC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "SKF India Limited",
-      "tk": "SKFINDIA",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sagardeep Alloys Limited",
-      "tk": "SAGARDEEP",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sai Silks (Kalamandir) Limited",
-      "tk": "KALAMANDIR",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Samhi Hotels Limited",
-      "tk": "SAMHI",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sandur Manganese & Iron Ores Limited",
-      "tk": "SANDUMA",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sarla Performance Fibers Limited",
-      "tk": "SARLAPOLY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Savita Oil Technologies Limited",
-      "tk": "SOTL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Seamec Limited",
-      "tk": "SEAMECLTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Servotech Renewable Power System Limited",
-      "tk": "SERVOTECH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Shalby Limited",
-      "tk": "SHALBY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Shanti Gold International Limited",
-      "tk": "SHANTIGOLD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Shrem Invit",
-      "tk": "SHREMINVIT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Shukra Pharmaceuticals Limited",
-      "tk": "SHUKRAPHAR",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sigma Solve Limited",
-      "tk": "SIGMA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sikko Industries Limited",
-      "tk": "SIKKO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Solar Industries India Limited",
-      "tk": "SOLARINDS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Speciality Restaurants Limited",
-      "tk": "SPECIALITY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Standard Industries Limited",
-      "tk": "SIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "State Bank of India",
-      "tk": "SBIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Subex Limited",
-      "tk": "SUBEXLTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Subros Limited",
-      "tk": "SUBROS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Sumeet Industries Limited",
-      "tk": "SUMEETINDS",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Summit Securities Limited",
-      "tk": "SUMMITSEC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Surana Telecom and Power Limited",
-      "tk": "SURANAT&P",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Suyog Telematics Limited",
-      "tk": "SUYOG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Synergy Green Industries Limited",
-      "tk": "SGIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "The Sandesh Limited",
-      "tk": "SANDESH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Tourism Finance Corporation of India Limited",
-      "tk": "TFCILTD",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Transrail Lighting Limited",
-      "tk": "TRANSRAILL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "UFO Moviez India Limited",
-      "tk": "UFO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Utkarsh Small Finance Bank Limited",
-      "tk": "UTKARSHBNK",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "V-Mart Retail Limited",
-      "tk": "VMART",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "V2 Retail Limited",
-      "tk": "V2RETAIL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Vascon Engineers Limited",
-      "tk": "VASCONEQ",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Vijaya Diagnostic Centre Limited",
-      "tk": "VIJAYA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "WE WIN LIMITED",
-      "tk": "WEWIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Wealth First Portfolio Managers Limited",
-      "tk": "WEALTH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Windsor Machines Limited",
-      "tk": "WINDMACHIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Xpro India Limited",
-      "tk": "XPROINDIA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Yatharth Hospital & Trauma Care Services Limited",
-      "tk": "YATHARTH",
-      "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-03",
-      "co": "Zydus Wellness Limited",
-      "tk": "ZYDUSWELL",
-      "type": "Q2 FY27 results announcement"
-    },
     {
       "dateISO": "2026-11-04",
       "co": "63 moons technologies limited",
@@ -1320,6 +246,1080 @@
       "dateISO": "2026-11-04",
       "co": "Chalet Hotels Limited",
       "tk": "CHALET",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Chemplast Sanmar Limited",
+      "tk": "CHEMPLASTS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Coral India Finance & Housing Limited",
+      "tk": "CORALFINAC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Credo Brands Marketing Limited",
+      "tk": "MUFTI",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Cummins India Limited",
+      "tk": "CUMMINSIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Dabur India Limited",
+      "tk": "DABUR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Delta Manufacturing Limited",
+      "tk": "DELTAMAGNT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Dharmaj Crop Guard Limited",
+      "tk": "DHARMAJ",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Diffusion Engineers Limited",
+      "tk": "DIFFNKG",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Dollex Agrotech Limited",
+      "tk": "DOLLEX",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Dr. Lal Path Labs Ltd.",
+      "tk": "LALPATHLAB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "EPL Limited",
+      "tk": "EPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Electrotherm (India) Limited",
+      "tk": "ELECTHERM",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ellenbarrie Industrial Gases Limited",
+      "tk": "ELLEN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Entero Healthcare Solutions Limited",
+      "tk": "ENTERO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Esab India Limited",
+      "tk": "ESABINDIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Essar Shipping Limited",
+      "tk": "ESSARSHPNG",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Excel Industries Limited",
+      "tk": "EXCELINDUS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Exicom Tele-Systems Limited",
+      "tk": "EXICOM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Exide Industries Limited",
+      "tk": "EXIDEIND",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "FCS Software Solutions Limited",
+      "tk": "FCSSOFT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "FSN E-Commerce Ventures Limited",
+      "tk": "NYKAA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "G R Infraprojects Limited",
+      "tk": "GRINFRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "GMM Pfaudler Limited",
+      "tk": "GMMPFAUDLR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "GPT Infraprojects Limited",
+      "tk": "GPTINFRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Gaja Alternative Asset Management Limited",
+      "tk": "GAJA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Galaxy Surfactants Limited",
+      "tk": "GALAXYSURF",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Garden Reach Shipbuilders & Engineers Limited",
+      "tk": "GRSE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Garuda Construction and Engineering Limited",
+      "tk": "GARUDA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Gayatri Projects Limited",
+      "tk": "GAYAPROJ",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Geekay Wires Limited",
+      "tk": "GEEKAYWIRE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Godavari Biorefineries Limited",
+      "tk": "GODAVARIB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Gujarat Kidney And Super Speciality Limited",
+      "tk": "GKSL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Gujarat Pipavav Port Limited",
+      "tk": "GPPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Gujarat Themis Biosyn Limited",
+      "tk": "GUJTHEM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Hariom Pipe Industries Limited",
+      "tk": "HARIOMPIPE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Hindcon Chemicals Limited",
+      "tk": "HINDCON",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Hindustan Media Ventures Limited",
+      "tk": "HMVL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Housing & Urban Development Corporation Limited",
+      "tk": "HUDCO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Hy-Tech Engineers Limited",
+      "tk": "HTEL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "IL&FS Investment Managers Limited",
+      "tk": "IVC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "IVP Limited",
+      "tk": "IVP",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Indian Metals & Ferro Alloys Limited",
+      "tk": "IMFA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Indo Count Industries Limited",
+      "tk": "ICIL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Interarch Building Solutions Limited",
+      "tk": "INTERARCH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ircon International Limited",
+      "tk": "IRCON",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Isgec Heavy Engineering Limited",
+      "tk": "ISGEC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "JK Lakshmi Cement Limited",
+      "tk": "JKLAKSHMI",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "JM Financial Limited",
+      "tk": "JMFINANCIL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "JSW Dulux Limited",
+      "tk": "JSWDULUX",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jain Irrigation Systems Limited",
+      "tk": "JISLDVREQS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jain Irrigation Systems Limited",
+      "tk": "JISLJALEQS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jash Engineering Limited",
+      "tk": "JASH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jayant Agro Organics Limited",
+      "tk": "JAYAGROGN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jtekt India Limited",
+      "tk": "JTEKTINDIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Jyothy Labs Limited",
+      "tk": "JYOTHYLAB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "KSH International Limited",
+      "tk": "KSHINTL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Kalyani Investment Company Limited",
+      "tk": "KICL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Kansai Nerolac Paints Limited",
+      "tk": "KANSAINER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Keystone Realtors Limited",
+      "tk": "RUSTOMJEE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Kirloskar Oil Engines Limited",
+      "tk": "KIRLOSENG",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Kokuyo Camlin Limited",
+      "tk": "KOKUYOCMLN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Krishival Foods Limited",
+      "tk": "KRISHIVAL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Krishna Institute of Medical Sciences Limited",
+      "tk": "KIMS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Kshitij Polyline Limited",
+      "tk": "KSHITIJPOL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Lenskart Solutions Limited",
+      "tk": "LENSKART",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Lohia Corp Limited",
+      "tk": "LCL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Lumino Industries Limited",
+      "tk": "LUMINO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Manika Plastech Limited",
+      "tk": "MANIKA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Manugraph India Limited",
+      "tk": "MANUGRAPH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Marine Electricals (India) Limited",
+      "tk": "MARINE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Marksans Pharma Limited",
+      "tk": "MARKSANS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Max Estates Limited",
+      "tk": "MAXESTATES",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mayur Uniquoters Ltd",
+      "tk": "MAYURUNIQ",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mazda Limited",
+      "tk": "MAZDA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Meghmani Organics Limited",
+      "tk": "MOL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mindteck (India) Limited",
+      "tk": "MINDTECK",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mittal Life Style Limited",
+      "tk": "MITTAL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mold-Tek Technologies Limited",
+      "tk": "MOLDTECH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Mrs. Bectors Food Specialities Limited",
+      "tk": "BECTORFOOD",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "NHPC Limited",
+      "tk": "NHPC",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "NLC India Limited",
+      "tk": "NLCINDIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "NRB Bearing Limited",
+      "tk": "NRBBEARING",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Navkar Urbanstructure Limited",
+      "tk": "NAVKARURB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Navneet Education Limited",
+      "tk": "NAVNETEDUL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ndr Auto Components Limited",
+      "tk": "NDRAUTO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Niva Bupa Health Insurance Company Limited",
+      "tk": "NIVABUPA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "ORIENT CERATECH LIMITED",
+      "tk": "ORIENTCER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Omnitech Engineering Limited",
+      "tk": "OMNI",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Oricon Enterprises Limited",
+      "tk": "ORICONENT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Oriental Aromatics Limited",
+      "tk": "OAL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Orkla India Limited",
+      "tk": "ORKLAINDIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Oswal Agro Mills Limited",
+      "tk": "OSWALAGRO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Oswal Greentech Limited",
+      "tk": "OSWALGREEN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "PDS Limited",
+      "tk": "PDSL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "PI Industries Limited",
+      "tk": "PIIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "PTL Enterprises Limited",
+      "tk": "PTL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Panama Petrochem Limited",
+      "tk": "PANAMAPET",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Patel Retail Limited",
+      "tk": "PATELRMART",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Physicswallah Limited",
+      "tk": "PWL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Platinum Industries Limited",
+      "tk": "PLATIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Power Finance Corporation Limited",
+      "tk": "PFC",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Premier Energies Limited",
+      "tk": "PREMIERENE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Pricol Limited",
+      "tk": "PRICOLLTD",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Quintegra Solutions Limited",
+      "tk": "QUINTEGRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "RITES Limited",
+      "tk": "RITES",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Raajmarg Infra Investment Trust",
+      "tk": "RIIT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ramco Industries Limited",
+      "tk": "RAMCOIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ravindra Energy Limited",
+      "tk": "RELTD",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Redington Limited",
+      "tk": "REDINGTON",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Redtape Limited",
+      "tk": "REDTAPE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Revathi Equipment India Limited",
+      "tk": "RVTH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Rolex Rings Limited",
+      "tk": "ROLEXRINGS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Ruchi Infrastructure Limited",
+      "tk": "RUCHINFRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Rudrabhishek Enterprises Limited",
+      "tk": "REPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "S.J.S. Enterprises Limited",
+      "tk": "SJS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "SIS LIMITED",
+      "tk": "SIS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "SKF India (Industrial) Limited",
+      "tk": "SKFINDUS",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "SMS Pharmaceuticals Limited",
+      "tk": "SMSPHARMA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "STEEL EXCHANGE INDIA LIMITED",
+      "tk": "STEELXIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "SWAN CORP LIMITED",
+      "tk": "SWANCORP",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sadbhav Engineering Limited",
+      "tk": "SADBHAV",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Saksoft Limited",
+      "tk": "SAKSOFT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sanathan Textiles Limited",
+      "tk": "SANATHAN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sangam (India) Limited",
+      "tk": "SANGAMIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Saregama India Limited",
+      "tk": "SAREGAMA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Saurashtra Cement Limited",
+      "tk": "SAURASHCEM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shankara Building Products Limited",
+      "tk": "SHANKARA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shipping Corporation Of India Limited",
+      "tk": "SCI",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shivalik Bimetal Controls Limited",
+      "tk": "SBCL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shivam Autotech Limited",
+      "tk": "SHIVAMAUTO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shree Vasu Logistics Limited",
+      "tk": "SVLL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shringar House of Mangalsutra Limited",
+      "tk": "SHRINGARMS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Shukra Pharmaceuticals Limited",
+      "tk": "SHUKRAPHAR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Softtech Engineers Limited",
+      "tk": "SOFTTECH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Somany Ceramics Limited",
+      "tk": "SOMANYCERA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Southern Petrochemicals Industries Corporation  Limited",
+      "tk": "SPIC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Steel City Securities Limited",
+      "tk": "STEELCITY",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Stel Holdings Limited",
+      "tk": "STEL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Stove Kraft Limited",
+      "tk": "STOVEKRAFT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sumit Woods Limited",
+      "tk": "SUMIT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sundaram Clayton Limited",
+      "tk": "SUNCLAY",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Sundaram Finance Limited",
+      "tk": "SUNDARMFIN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Suratwwala Business Group Limited",
+      "tk": "SBGLP",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "TCC Concept Limited",
+      "tk": "TCC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "TPL Plastech Limited",
+      "tk": "TPLPLASTEH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "TVS Infrastructure Trust",
+      "tk": "TVSINVIT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Tainwala Chemical and Plastic (I) Limited",
+      "tk": "TAINWALCHM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Tenneco Clean Air India Limited",
+      "tk": "TENNIND",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Thangamayil Jewellery Limited",
+      "tk": "THANGAMAYL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "The Hi-Tech Gears Limited",
+      "tk": "HITECHGEAR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "The Investment Trust Of India Limited",
+      "tk": "THEINVEST",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Tijaria Polypipes Limited",
+      "tk": "TIJARIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Tokyo Plast International Limited",
+      "tk": "TOKYOPLAST",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Torrent Power Limited",
+      "tk": "TORNTPOWER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Total Transport Systems Limited",
+      "tk": "TOTAL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Tracxn Technologies Limited",
+      "tk": "TRACXN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Transindia Real Estate Limited",
+      "tk": "TREL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Trigyn Technologies Limited",
+      "tk": "TRIGYN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Unichem Laboratories Limited",
+      "tk": "UNICHEMLAB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Uniparts India Limited",
+      "tk": "UNIPARTS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Univa Foods Limited",
+      "tk": "UNIVAFOODS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Universal Cables Limited",
+      "tk": "UNIVCABLES",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "VL E-Governance & IT Solutions Limited",
+      "tk": "VLEGOV",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Varroc Engineering Limited",
+      "tk": "VARROC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Vidya Wires Limited",
+      "tk": "VIDYAWIRES",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Vindhya Telelinks Limited",
+      "tk": "VINDHYATEL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Vintage Coffee And Beverages Limited",
+      "tk": "VINCOFE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Wanbury Limited",
+      "tk": "WANBURY",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Websol Energy System Limited",
+      "tk": "WEBELSOLAR",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Zenith Steel Pipes & Industries Limited",
+      "tk": "ZENITHSTL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Zim Laboratories Limited",
+      "tk": "ZIMLAB",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "Zydus Lifesciences Limited",
+      "tk": "ZYDUSLIFE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-04",
+      "co": "eMudhra Limited",
+      "tk": "EMUDHRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "ADF Foods Limited",
+      "tk": "ADFFOODS",
+      "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "AURUS GEM CORPORATION LIMITED",
+      "tk": "AURUS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "Aadhar Housing Finance Limited",
+      "tk": "AADHARHFC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "Aditya Birla Fashion and Retail Limited",
+      "tk": "ABFRL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "Aditya Infotech Limited",
+      "tk": "CPPLUS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
+      "co": "Alpine Texworld Limited",
+      "tk": "ALPINETEX",
       "type": "Q2 FY27 results announcement"
     }
   ]
