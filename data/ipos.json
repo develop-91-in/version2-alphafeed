@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T18:29:32.277Z",
+  "generatedAt": "2026-11-03T18:59:41.668Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -93,21 +93,21 @@
       "listingISO": "2026-11-11"
     },
     {
-      "co": "Johnsoncab Electricals",
-      "note": "BSE SME",
-      "size": "₹56.02 cr",
-      "band": "₹190 – ₹200",
-      "dates": "30 Oct 2026 – 3 Nov 2026",
-      "listing": "6 Nov 2026",
-      "openISO": "2026-10-30",
-      "closeISO": "2026-11-03",
-      "listingISO": "2026-11-06"
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹56.68 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
     },
     {
-      "co": "HGS (India)",
+      "co": "Maxwell Engineering Solutions",
       "note": "NSE SME",
-      "size": "₹34.56 cr",
-      "band": "₹114 – ₹120",
+      "size": "₹57.64 cr",
+      "band": "₹150 – ₹158",
       "dates": "30 Oct 2026 – 3 Nov 2026",
       "listing": "6 Nov 2026",
       "openISO": "2026-10-30",
@@ -126,10 +126,10 @@
       "listingISO": "2026-11-06"
     },
     {
-      "co": "Maxwell Engineering Solutions",
+      "co": "HGS (India)",
       "note": "NSE SME",
-      "size": "₹57.64 cr",
-      "band": "₹150 – ₹158",
+      "size": "₹34.56 cr",
+      "band": "₹114 – ₹120",
       "dates": "30 Oct 2026 – 3 Nov 2026",
       "listing": "6 Nov 2026",
       "openISO": "2026-10-30",
@@ -137,15 +137,15 @@
       "listingISO": "2026-11-06"
     },
     {
-      "co": "Vedant Poly Fabs",
-      "note": "NSE SME",
-      "size": "₹56.68 cr",
-      "band": "₹88 – ₹94",
-      "dates": "2 Nov – 4 Nov 2026",
-      "listing": "9 Nov 2026",
-      "openISO": "2026-11-02",
-      "closeISO": "2026-11-04",
-      "listingISO": "2026-11-09"
+      "co": "Johnsoncab Electricals",
+      "note": "BSE SME",
+      "size": "₹56.02 cr",
+      "band": "₹190 – ₹200",
+      "dates": "30 Oct 2026 – 3 Nov 2026",
+      "listing": "6 Nov 2026",
+      "openISO": "2026-10-30",
+      "closeISO": "2026-11-03",
+      "listingISO": "2026-11-06"
     }
   ]
 }
