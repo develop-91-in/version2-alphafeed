@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-03T21:59:27.725Z",
+  "generatedAt": "2026-11-03T22:29:30.222Z",
   "articles": [
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "desc": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "pubDate": "Tue, 03 Nov 2026 21:43:19 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
       "desc": "US stocks ended mixed as the Nasdaq rebounded on gains in chipmakers and AI linked heavyweights ahead of the midterm election results. Nvidia and Micron advanced, while Apple slipped over concerns about rising memory chip costs and holiday quarter margins. Investors also assessed AI spending concerns and the outlook for technology stocks.",
@@ -72,14 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-      "desc": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
-      "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-      "pubDate": "Tue, 03 Nov 2026 19:09:09 +0000",
+      "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+      "desc": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly start playback. If you're in the US, you [&#8230;]",
+      "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+      "pubDate": "2026-11-03T17:20:50-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+      "desc": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process that started with one developer downloading a tampered installer in June apparently spread by a malicious Google ad, exposing details about the [&#8230;]",
+      "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+      "pubDate": "2026-11-03T17:04:02-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
+      "desc": "Ukrainian President Volodmyr Zelenskyy has said that the US midterm elections will impact the ongoing war in his country",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "pubDate": "Tue, 03 Nov 2026 21:43:19 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
@@ -123,7 +153,7 @@
     },
     {
       "title": "iPhone 18 rumors suggest a bigger battery, higher price next year",
-      "desc": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple upgrades with the price hike, including a larger battery and [&#8230;]",
+      "desc": "After Apple raised iPhone prices earlier this year, a new rumor claims it plans to launch the base iPhone 18 with a higher price, too. A Weibo post from leaker Digital Chat Station, spotted by 9to5Mac, says the base iPhone 18 is getting a couple of upgrades with the price hike, including a larger battery [&#8230;]",
       "link": "https://www.theverge.com/tech/1025748/apple-iphone-18-rumors-price-hike-battery",
       "pubDate": "2026-11-03T15:16:54-05:00",
       "image": "",
@@ -250,16 +280,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "desc": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the announcement at a press event on Monday. He said [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "pubDate": "2026-11-03T13:30:42-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
@@ -496,16 +516,6 @@
       "desc": "Indian government bonds experienced a modest rise as the 10-year bond yield neared a one-month peak. Investor optimism was bolstered by decreasing oil prices, although caution was still prevalent ahead of the upcoming US midterm elections. The benchmark bond yield displayed its lowest point since early October after notable drops in earlier trading sessions.",
       "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-tad-higher-on-softer-oil/articleshow/135501245.cms",
       "pubDate": "Tue, 03 Nov 2026 18:49:51 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "US stock futures mixed as Apple falls on margin warning, midterm results awaited",
-      "desc": "U.S. stock index futures reflect a mixed response as crude oil prices trend upwards ahead of midterm election outcomes. Apple's shares took a hit following its announcement regarding rising costs and potential holiday-quarter margin impacts. Despite Palantir Technologies exceeding revenue estimates, its stock plummeted post-results. Analysts are warning of heightened market volatility depending on elections and government expenditure.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-futures-mixed-as-apple-falls-on-margin-warning-midterm-results-awaited/articleshow/135501177.cms",
-      "pubDate": "Tue, 03 Nov 2026 18:47:16 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -1033,7 +1043,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-03T21:59:27.725Z",
+    "generatedAt": "2026-11-03T22:29:30.222Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1046,7 +1056,7 @@
         "changePct": 1.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:18.843Z",
+        "timestamp": "2026-11-03T22:29:19.892Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1058,7 +1068,7 @@
         "changePct": 1.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:19.245Z",
+        "timestamp": "2026-11-03T22:29:20.431Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1070,7 +1080,7 @@
         "changePct": 0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:19.941Z",
+        "timestamp": "2026-11-03T22:29:20.688Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1082,7 +1092,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:20.133Z",
+        "timestamp": "2026-11-03T22:29:20.965Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1094,7 +1104,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:20.363Z",
+        "timestamp": "2026-11-03T22:29:21.261Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1106,7 +1116,7 @@
         "changePct": 1.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:20.564Z",
+        "timestamp": "2026-11-03T22:29:21.515Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1118,7 +1128,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:20.888Z",
+        "timestamp": "2026-11-03T22:29:21.786Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1130,7 +1140,7 @@
         "changePct": 3.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:21.274Z",
+        "timestamp": "2026-11-03T22:29:22.087Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1142,7 +1152,7 @@
         "changePct": -0.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:21.551Z",
+        "timestamp": "2026-11-03T22:29:22.505Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1154,7 +1164,7 @@
         "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:21.837Z",
+        "timestamp": "2026-11-03T22:29:22.767Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1166,7 +1176,7 @@
         "changePct": 2.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:22.057Z",
+        "timestamp": "2026-11-03T22:29:23.260Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1178,7 +1188,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:22.258Z",
+        "timestamp": "2026-11-03T22:29:23.509Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1190,7 +1200,7 @@
         "changePct": 1.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:22.456Z",
+        "timestamp": "2026-11-03T22:29:24.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1202,7 +1212,7 @@
         "changePct": 1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:22.649Z",
+        "timestamp": "2026-11-03T22:29:24.667Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1214,7 +1224,7 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:22.848Z",
+        "timestamp": "2026-11-03T22:29:25.041Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1226,7 +1236,7 @@
         "changePct": 0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:23.050Z",
+        "timestamp": "2026-11-03T22:29:25.244Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1248,7 @@
         "changePct": 0.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:23.424Z",
+        "timestamp": "2026-11-03T22:29:25.490Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1260,7 @@
         "changePct": -0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:24.141Z",
+        "timestamp": "2026-11-03T22:29:25.770Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,7 +1272,7 @@
         "changePct": -1.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:24.843Z",
+        "timestamp": "2026-11-03T22:29:26.013Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1274,7 +1284,7 @@
         "changePct": -0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:25.095Z",
+        "timestamp": "2026-11-03T22:29:26.220Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1296,7 @@
         "changePct": -0.33,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:25.302Z",
+        "timestamp": "2026-11-03T22:29:26.469Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1308,7 @@
         "changePct": 0.57,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:25.550Z",
+        "timestamp": "2026-11-03T22:29:26.692Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1320,7 @@
         "changePct": -3.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:25.805Z",
+        "timestamp": "2026-11-03T22:29:27.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1332,7 @@
         "changePct": -0.82,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-03T21:59:26.008Z",
+        "timestamp": "2026-11-03T22:29:27.630Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,43 +1344,43 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-03T21:59:26.201Z",
+        "timestamp": "2026-11-03T22:29:27.899Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 96.8,
-        "change": 0.34,
-        "changePct": 0.35,
+        "price": 96.76,
+        "change": 0.3,
+        "changePct": 0.31,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-03T21:59:26.548Z",
+        "timestamp": "2026-11-03T22:29:28.195Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3937.8,
-        "change": -31.8,
-        "changePct": -0.8,
+        "price": 3940.2,
+        "change": -29.4,
+        "changePct": -0.74,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-03T21:59:26.917Z",
+        "timestamp": "2026-11-03T22:29:28.459Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 49.8,
-        "change": -1.088,
-        "changePct": -2.14,
+        "price": 49.81,
+        "change": -1.078,
+        "changePct": -2.12,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-03T21:59:27.192Z",
+        "timestamp": "2026-11-03T22:29:28.921Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,43 +1392,43 @@
         "changePct": 1.19,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-03T21:59:27.431Z",
+        "timestamp": "2026-11-03T22:29:29.817Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 119931,
-        "change": -969,
-        "changePct": -0.8,
+        "price": 120004,
+        "change": -895,
+        "changePct": -0.74,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-03T21:59:27.570Z",
+        "timestamp": "2026-11-03T22:29:29.968Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 151673,
-        "change": -3314,
-        "changePct": -2.14,
+        "price": 151703,
+        "change": -3283,
+        "changePct": -2.12,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-03T21:59:27.662Z",
+        "timestamp": "2026-11-03T22:29:30.119Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 9170,
-        "change": 32,
-        "changePct": 0.35,
+        "price": 9166,
+        "change": 28,
+        "changePct": 0.31,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-03T21:59:27.725Z",
+        "timestamp": "2026-11-03T22:29:30.222Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
