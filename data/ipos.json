@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-11-04T15:01:52.374Z",
+  "generatedAt": "2026-11-04T15:33:09.914Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
-    {
-      "co": "Bombay Coated & Special Steels",
-      "note": "BSE · NSE",
-      "size": "₹183.06 cr",
-      "band": "₹78 – ₹82",
-      "dates": "29 Oct 2026 – 2 Nov 2026",
-      "listing": "5 Nov 2026",
-      "openISO": "2026-10-29",
-      "closeISO": "2026-11-02",
-      "listingISO": "2026-11-05"
-    },
     {
       "co": "M.K.Sons Fine Jewels",
       "note": "BSE · NSE",
@@ -81,6 +70,17 @@
     }
   ],
   "sme": [
+    {
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹56.68 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
+    },
     {
       "co": "Maxwell Engineering Solutions",
       "note": "NSE SME",
