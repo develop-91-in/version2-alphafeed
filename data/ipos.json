@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-11-04T16:31:37.647Z",
+  "generatedAt": "2026-11-04T17:00:41.417Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
+    {
+      "co": "Bombay Coated & Special Steels",
+      "note": "BSE · NSE",
+      "size": "₹183.06 cr",
+      "band": "₹78 – ₹82",
+      "dates": "29 Oct 2026 – 2 Nov 2026",
+      "listing": "5 Nov 2026",
+      "openISO": "2026-10-29",
+      "closeISO": "2026-11-02",
+      "listingISO": "2026-11-05"
+    },
     {
       "co": "M.K.Sons Fine Jewels",
       "note": "BSE · NSE",
@@ -18,6 +29,17 @@
       "note": "BSE · NSE",
       "size": "₹667.53 cr",
       "band": "₹313 – ₹330",
+      "dates": "27 Oct – 29 Oct 2026",
+      "listing": "To be announced",
+      "openISO": "2026-10-27",
+      "closeISO": "2026-10-29",
+      "listingISO": ""
+    },
+    {
+      "co": "BLS Polymers",
+      "note": "BSE · NSE",
+      "size": "₹255 cr",
+      "band": "₹142 – ₹150",
       "dates": "27 Oct – 29 Oct 2026",
       "listing": "To be announced",
       "openISO": "2026-10-27",
