@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:31:10.811Z",
+  "generatedAt": "2026-11-04T14:02:48.026Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -36,17 +36,6 @@
       "listingISO": ""
     },
     {
-      "co": "BLS Polymers",
-      "note": "BSE · NSE",
-      "size": "₹255 cr",
-      "band": "₹142 – ₹150",
-      "dates": "27 Oct – 29 Oct 2026",
-      "listing": "To be announced",
-      "openISO": "2026-10-27",
-      "closeISO": "2026-10-29",
-      "listingISO": ""
-    },
-    {
       "co": "EAAA India Alternatives",
       "note": "BSE · NSE",
       "size": "₹1,200 cr",
@@ -67,17 +56,6 @@
       "openISO": "2026-10-21",
       "closeISO": "2026-10-23",
       "listingISO": ""
-    },
-    {
-      "co": "Jio Platforms",
-      "note": "BSE · NSE",
-      "size": "₹30,187.65 cr",
-      "band": "₹1,065 – ₹1,119",
-      "dates": "21 Oct – 23 Oct 2026",
-      "listing": "To be announced",
-      "openISO": "2026-10-21",
-      "closeISO": "2026-10-23",
-      "listingISO": ""
     }
   ],
   "sme": [
@@ -91,6 +69,17 @@
       "openISO": "2026-10-29",
       "closeISO": "2026-11-05",
       "listingISO": "2026-11-11"
+    },
+    {
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹56.68 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
     },
     {
       "co": "Maxwell Engineering Solutions",
