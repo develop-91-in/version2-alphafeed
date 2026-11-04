@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T14:02:48.026Z",
+  "generatedAt": "2026-11-04T14:33:02.216Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -14,21 +14,21 @@
       "listingISO": "2026-11-05"
     },
     {
-      "co": "M.K.Sons Fine Jewels",
-      "note": "BSE · NSE",
-      "size": "₹275.4 cr",
-      "band": "₹153 – ₹162",
-      "dates": "28 Oct – 30 Oct 2026",
-      "listing": "To be announced",
-      "openISO": "2026-10-28",
-      "closeISO": "2026-10-30",
-      "listingISO": ""
-    },
-    {
       "co": "SFC Environmental Technologies",
       "note": "BSE · NSE",
       "size": "₹667.53 cr",
       "band": "₹313 – ₹330",
+      "dates": "27 Oct – 29 Oct 2026",
+      "listing": "To be announced",
+      "openISO": "2026-10-27",
+      "closeISO": "2026-10-29",
+      "listingISO": ""
+    },
+    {
+      "co": "BLS Polymers",
+      "note": "BSE · NSE",
+      "size": "₹255 cr",
+      "band": "₹142 – ₹150",
       "dates": "27 Oct – 29 Oct 2026",
       "listing": "To be announced",
       "openISO": "2026-10-27",
@@ -51,6 +51,17 @@
       "note": "BSE · NSE",
       "size": "₹1,450 cr",
       "band": "₹660 – ₹693",
+      "dates": "21 Oct – 23 Oct 2026",
+      "listing": "To be announced",
+      "openISO": "2026-10-21",
+      "closeISO": "2026-10-23",
+      "listingISO": ""
+    },
+    {
+      "co": "Jio Platforms",
+      "note": "BSE · NSE",
+      "size": "₹30,187.65 cr",
+      "band": "₹1,065 – ₹1,119",
       "dates": "21 Oct – 23 Oct 2026",
       "listing": "To be announced",
       "openISO": "2026-10-21",
