@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-04T19:29:52.067Z",
+  "generatedAt": "2026-11-04T19:59:38.329Z",
   "articles": [
+    {
+      "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
+      "desc": "Bitcoin rebounds more than 4% to above $81,000, tracking a broader recovery in financial markets after the US midterm elections. However, Democratic control of Congress threatens to stall crypto-friendly legislation and increase regulatory scrutiny. Investors are also weighing the impact of political uncertainty, Treasury yields and institutional adoption.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoin-rebounds-with-stocks-despite-threat-to-crypto-agenda/articleshow/135550638.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:02:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Big factories dominate India's manufacturing output, Annual Survey of Industries shows",
+      "desc": "India's manufacturing sector is characterized by a significant concentration in large factories generating substantial output. Factories producing over ₹500 crore contribute to more than three-fifths of total value added. Smaller factories represent a large number but have minimal output and value contribution. The overall manufacturing corporate sector experienced a notable growth in gross value added year-on-year. However, per-worker value creation did not witness similar growth despite increased employment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/big-factories-dominate-indias-manufacturing-output/articleshow/135549706.cms",
+      "pubDate": "Thu, 05 Nov 2026 00:47:52 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "New orders &amp; robust demand lift India's October services growth to 4-month high",
       "desc": "Growth in India's services sector increased to a four-month high in October due to strong domestic demand and business orders. The HSBC Services Business Activity Index rose to 55.8, reflecting improved business conditions. Conversely, manufacturing activity showed a slight decline, easing to a PMI of 54.7. While input prices continued to rise, the rate of increase was the slowest in over six years.",
@@ -62,24 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
-      "desc": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid concerns over changing government spending and immigration policies.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
-      "pubDate": "Wed, 04 Nov 2026 22:01:06 +0530",
+      "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
+      "desc": "Bitcoin rebounds more than 4% to above $81,000, tracking a broader recovery in financial markets after the US midterm elections. However, Democratic control of Congress threatens to stall crypto-friendly legislation and increase regulatory scrutiny. Investors are also weighing the impact of political uncertainty, Treasury yields and institutional adoption.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoin-rebounds-with-stocks-despite-threat-to-crypto-agenda/articleshow/135550638.cms",
+      "pubDate": "Thu, 05 Nov 2026 01:02:16 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Big factories dominate India's manufacturing output, Annual Survey of Industries shows",
+      "desc": "India's manufacturing sector is characterized by a significant concentration in large factories generating substantial output. Factories producing over ₹500 crore contribute to more than three-fifths of total value added. Smaller factories represent a large number but have minimal output and value contribution. The overall manufacturing corporate sector experienced a notable growth in gross value added year-on-year. However, per-worker value creation did not witness similar growth despite increased employment.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/big-factories-dominate-indias-manufacturing-output/articleshow/135549706.cms",
+      "pubDate": "Thu, 05 Nov 2026 00:47:52 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Google’s Pixel 11 phones are up to 27 percent off",
@@ -642,6 +662,16 @@
       "sectionLabel": "Business"
     },
     {
+      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
+      "desc": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fundamentals. Industrial and jewellery demand may weaken, while institutional buying and supply constraints could offer support.",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:09:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Google extends voluntary buyout offers to employees in several countries",
       "desc": "The move comes amid mounting AI spending that has unnerved Wall Street and dented Alphabet's stock price. Microsoft last week offered voluntary buyouts to 60,000 employees in an effort to contain costs. Alphabet's workforce has grown steadily in recent quarters, but it has sought to shift resources toward priority areas.",
       "link": "https://economictimes.indiatimes.com/tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/articleshow/135532115.cms",
@@ -892,16 +922,6 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "South Korean shares reverse gains, KOSPI falls over 1% as US midterm results loom",
-      "desc": "South Korean shares reversed early gains as caution ahead of the US midterm election results triggered broad selling. Technology stocks led the decline, while foreign investors offloaded equities worth 1 trillion won amid concerns over global market volatility.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-reverse-gains-kospi-falls-over-1-as-us-midterm-results-loom/articleshow/135525437.cms",
-      "pubDate": "Wed, 04 Nov 2026 11:07:28 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "IndiaAI Mission's three indigenous AI models target offline mobile access, secure use in critical sectors",
       "desc": "Three indigenous artificial intelligence (AI) models launched under the Centre's IndiaAI Mission are being developed for applications ranging from offline access on mobile phones to secure use in critical sectors such as defence, cybersecurity and banking.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indiaai-missions-three-indigenous-ai-models-target-offline-mobile-access-secure-use-in-critical-sectors/articleshow/135524432.cms",
@@ -1030,20 +1050,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Festive demand lifts dry fruit, chocolate imports this season",
-      "desc": "During the festive season, India's import of tree nuts and chocolates rose significantly, reflecting a 10-12% annual demand increase. The reduction in goods and services tax has made these gourmet products more accessible to consumers. In 2025, dry fruit imports during this period accounted for a substantial share of annual purchases.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/festive-demand-lifts-dry-fruit-chocolate-imports-this-season/articleshow/135512188.cms",
-      "pubDate": "Wed, 04 Nov 2026 01:05:04 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-04T19:29:52.067Z",
+    "generatedAt": "2026-11-04T19:59:38.329Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1056,7 +1066,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:28.420Z",
+        "timestamp": "2026-11-04T19:59:23.365Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1078,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:29.323Z",
+        "timestamp": "2026-11-04T19:59:24.439Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1090,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:31.508Z",
+        "timestamp": "2026-11-04T19:59:24.805Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1102,7 @@
         "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:32.974Z",
+        "timestamp": "2026-11-04T19:59:25.528Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,7 +1114,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:34.281Z",
+        "timestamp": "2026-11-04T19:59:26.098Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,7 +1126,7 @@
         "changePct": 1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:35.481Z",
+        "timestamp": "2026-11-04T19:59:26.436Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1138,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:36.196Z",
+        "timestamp": "2026-11-04T19:59:26.838Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1150,7 @@
         "changePct": 1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:36.962Z",
+        "timestamp": "2026-11-04T19:59:27.824Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1162,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:37.881Z",
+        "timestamp": "2026-11-04T19:59:28.246Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,7 +1174,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:38.267Z",
+        "timestamp": "2026-11-04T19:59:29.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1176,7 +1186,7 @@
         "changePct": 2.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:38.576Z",
+        "timestamp": "2026-11-04T19:59:29.410Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1188,7 +1198,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:39.582Z",
+        "timestamp": "2026-11-04T19:59:29.726Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1200,7 +1210,7 @@
         "changePct": 1.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:41.542Z",
+        "timestamp": "2026-11-04T19:59:30.092Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1222,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:41.999Z",
+        "timestamp": "2026-11-04T19:59:30.428Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,43 +1234,43 @@
         "changePct": 5.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:42.511Z",
+        "timestamp": "2026-11-04T19:59:30.904Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7703.67,
-        "change": 134.75,
-        "changePct": 1.78,
+        "price": 7696.08,
+        "change": 127.16,
+        "changePct": 1.68,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:42.938Z",
+        "timestamp": "2026-11-04T19:59:31.221Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25845.447,
-        "change": 473.438,
-        "changePct": 1.87,
+        "price": 25796.45,
+        "change": 424.439,
+        "changePct": 1.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:43.162Z",
+        "timestamp": "2026-11-04T19:59:31.525Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 53337.47,
-        "change": 1550.75,
-        "changePct": 2.99,
+        "price": 53324.46,
+        "change": 1537.742,
+        "changePct": 2.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:43.591Z",
+        "timestamp": "2026-11-04T19:59:31.833Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1282,7 @@
         "changePct": 1.79,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:44.744Z",
+        "timestamp": "2026-11-04T19:59:32.139Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1294,7 @@
         "changePct": 2.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:45.919Z",
+        "timestamp": "2026-11-04T19:59:34.406Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1306,7 @@
         "changePct": -1.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:47.175Z",
+        "timestamp": "2026-11-04T19:59:34.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1318,7 @@
         "changePct": 1.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:48.035Z",
+        "timestamp": "2026-11-04T19:59:35.074Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,7 +1330,7 @@
         "changePct": 0.62,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:48.434Z",
+        "timestamp": "2026-11-04T19:59:35.410Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,103 +1342,103 @@
         "changePct": 2.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T19:29:48.695Z",
+        "timestamp": "2026-11-04T19:59:35.732Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 94.52,
-        "change": -9.08,
-        "changePct": -8.76,
+        "price": 95.07,
+        "change": -8.53,
+        "changePct": -8.23,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T19:29:49.067Z",
+        "timestamp": "2026-11-04T19:59:36.033Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 87.79,
-        "change": -8.3,
-        "changePct": -8.64,
+        "price": 88.55,
+        "change": -7.54,
+        "changePct": -7.85,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T19:29:49.817Z",
+        "timestamp": "2026-11-04T19:59:36.431Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4072.3,
-        "change": 131.9,
-        "changePct": 3.35,
+        "price": 4067.3,
+        "change": 126.9,
+        "changePct": 3.22,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T19:29:50.566Z",
+        "timestamp": "2026-11-04T19:59:36.779Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.33,
-        "change": 2.577,
-        "changePct": 5.18,
+        "price": 52.23,
+        "change": 2.477,
+        "changePct": 4.98,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T19:29:50.988Z",
+        "timestamp": "2026-11-04T19:59:37.140Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.888,
-        "change": -0.064,
-        "changePct": -1.29,
+        "price": 4.892,
+        "change": -0.06,
+        "changePct": -1.21,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-04T19:29:51.624Z",
+        "timestamp": "2026-11-04T19:59:37.748Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123897,
-        "change": 4013,
-        "changePct": 3.35,
+        "price": 123744,
+        "change": 3861,
+        "changePct": 3.22,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-04T19:29:51.846Z",
+        "timestamp": "2026-11-04T19:59:37.959Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159210,
-        "change": 7840,
-        "changePct": 5.18,
+        "price": 158906,
+        "change": 7536,
+        "changePct": 4.98,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-04T19:29:51.967Z",
+        "timestamp": "2026-11-04T19:59:38.163Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8308,
-        "change": -785,
-        "changePct": -8.64,
+        "price": 8379,
+        "change": -714,
+        "changePct": -7.85,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-04T19:29:52.067Z",
+        "timestamp": "2026-11-04T19:59:38.329Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
