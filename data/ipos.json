@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-11-04T16:01:26.629Z",
+  "generatedAt": "2026-11-04T16:31:37.647Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
-    {
-      "co": "Bombay Coated & Special Steels",
-      "note": "BSE · NSE",
-      "size": "₹183.06 cr",
-      "band": "₹78 – ₹82",
-      "dates": "29 Oct 2026 – 2 Nov 2026",
-      "listing": "5 Nov 2026",
-      "openISO": "2026-10-29",
-      "closeISO": "2026-11-02",
-      "listingISO": "2026-11-05"
-    },
     {
       "co": "M.K.Sons Fine Jewels",
       "note": "BSE · NSE",
@@ -25,10 +14,10 @@
       "listingISO": ""
     },
     {
-      "co": "BLS Polymers",
+      "co": "SFC Environmental Technologies",
       "note": "BSE · NSE",
-      "size": "₹255 cr",
-      "band": "₹142 – ₹150",
+      "size": "₹667.53 cr",
+      "band": "₹313 – ₹330",
       "dates": "27 Oct – 29 Oct 2026",
       "listing": "To be announced",
       "openISO": "2026-10-27",
@@ -70,6 +59,28 @@
     }
   ],
   "sme": [
+    {
+      "co": "Antala Industries",
+      "note": "BSE SME",
+      "size": "₹22.98 cr",
+      "band": "₹62 – ₹66",
+      "dates": "29 Oct 2026 – 5 Nov 2026",
+      "listing": "11 Nov 2026",
+      "openISO": "2026-10-29",
+      "closeISO": "2026-11-05",
+      "listingISO": "2026-11-11"
+    },
+    {
+      "co": "Vedant Poly Fabs",
+      "note": "NSE SME",
+      "size": "₹56.68 cr",
+      "band": "₹88 – ₹94",
+      "dates": "2 Nov – 4 Nov 2026",
+      "listing": "9 Nov 2026",
+      "openISO": "2026-11-02",
+      "closeISO": "2026-11-04",
+      "listingISO": "2026-11-09"
+    },
     {
       "co": "Maxwell Engineering Solutions",
       "note": "NSE SME",
