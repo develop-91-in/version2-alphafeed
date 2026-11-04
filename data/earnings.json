@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:31:12.658Z",
+  "generatedAt": "2026-11-04T14:02:49.649Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -790,6 +790,12 @@
     },
     {
       "dateISO": "2026-11-05",
+      "co": "Kshitij Polyline Limited",
+      "tk": "KSHITIJPOL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-05",
       "co": "Kusumgar Limited",
       "tk": "KUSUMGAR",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-05",
       "co": "TCI Express Limited",
       "tk": "TCIEXP",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-05",
-      "co": "TCPL Packaging Limited",
-      "tk": "TCPLPACK",
       "type": "Q2 FY27 results announcement"
     }
   ]
