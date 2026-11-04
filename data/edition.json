@@ -1,10 +1,20 @@
 {
-  "generatedAt": "2026-11-04T15:59:53.376Z",
+  "generatedAt": "2026-11-04T16:29:56.765Z",
   "articles": [
+    {
+      "title": "Data centers lost the midterms",
+      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "pubDate": "2026-11-04T11:05:39-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
       "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1026306/ber-ai-agents-q3-earnings-disintermediation",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
       "pubDate": "2026-11-04T10:58:45-05:00",
       "image": "",
       "source": "The Verge",
@@ -72,19 +82,19 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Prediction markets get Democratic win right, with a few surprises",
-      "desc": "Prediction markets provided insights during the US midterm elections, with $1.48 billion wagered on the outcomes. Democrats gained control of both the Senate and House of Representatives after delivering a rebuke to Donald Trump. Despite some accurate forecasts, notable surprises emerged, such as Annie Andrews' victory in South Carolina against expectations. Kalshi and Polymarket reflected varying probabilities, emphasizing the predictive capabilities of betting markets.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-get-democratic-win-right-with-a-few-surprises/articleshow/135543698.cms",
-      "pubDate": "Wed, 04 Nov 2026 20:47:04 +0530",
+      "title": "Data centers lost the midterms",
+      "desc": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [&#8230;]",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "pubDate": "2026-11-04T11:05:39-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Uber only fulfilled 4 rides from AI agents last quarter",
       "desc": "AI agents won't be stealing Uber's lunch any time soon. Only four rides were arranged by third-party AI agents during the third quarter of 2026, Uber executives disclosed during an earnings call this morning. The volume of Uber Eats orders fulfilled by AI agents was a little higher, with the company recording \"around 500\" during [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1026306/ber-ai-agents-q3-earnings-disintermediation",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
       "pubDate": "2026-11-04T10:58:45-05:00",
       "image": "",
       "source": "The Verge",
@@ -252,8 +262,8 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "US stocks today: Dow Jones soars 1,000 points at open as Democrats win Congress; data center stocks slide",
-      "desc": "US stocks opened higher on Wednesday as investors bet a divided Washington after the Democrats' midterm sweep could limit sharp policy shifts, though data center-related stocks were",
+      "title": "US stocks today: US stocks rally after Democrats' midterm sweep as AI infrastructure stocks slide",
+      "desc": "US stocks rallied after Democrats secured control of both chambers of Congress in the midterm elections, easing concerns over major policy shifts. The Dow, S&amp;P 500 and Nasdaq advanced, while data centre stocks declined amid AI regulation concerns. AMD gained on its upbeat 2027 growth forecast, while clean energy stocks surged.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
       "pubDate": "Wed, 04 Nov 2026 20:11:36 +0530",
       "image": "",
@@ -312,17 +322,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Iran hails US voters rejecting war while Khamenei warns hostility won’t end",
-      "desc": "Iranian officials see Republican midterm losses in a positive light, but supreme leader says US policy will not shift.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 13:26:44 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "US Stock Market Live Updates: Dow Jones soars 1,000 points at open as Democrats win Congress; data center stocks slide",
+      "title": "US Stock Market Live Updates: US stocks rally after Democrats win Congress; data center stocks slide",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
       "pubDate": "Wed, 04 Nov 2026 18:42:18 +0530",
@@ -392,16 +392,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
-      "desc": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "pubDate": "2026-11-04T07:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Tech funding hits 12-month low of $592 million in October; late-stage funding plunges 72%",
       "desc": "Early-stage funding, by contrast, rose 114% sequentially to $361.6 million from $168.6 million and was up 10.8% from $326.4 million in October 2025. Early-stage rounds accounted for 61% of the month's funding.",
       "link": "https://economictimes.indiatimes.com/tech/funding/tech-funding-hits-12-month-low-of-592-million-in-october-late-stage-funding-plunges-72/articleshow/135538367.cms",
@@ -418,16 +408,6 @@
       "pubDate": "Wed, 04 Nov 2026 11:46:09 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "‘Seismic shift’: World reacts to US midterm election results",
-      "desc": "Iran&#039;s top negotiator says US voters sent a “NO TO WAR” message, as Trump&#039;s Democratic opponents take Congress.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/seismic-shift-world-reacts-to-us-midterm-election-results?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 11:24:50 +0000",
-      "image": "",
-      "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
     },
@@ -622,6 +602,16 @@
       "sectionLabel": "Business"
     },
     {
+      "title": "Oracle abandons $7 billion Tencent AI deal under Trump pressure: FT",
+      "desc": "US officials approached Oracle to raise concerns about the Tencent deal, the newspaper said, citing people familiar with the matter.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/oracle-abandons-7-billion-tencent-ai-deal-under-trump-pressure-ft/articleshow/135532578.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:20:40 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
       "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
       "desc": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to be limited as silver trades close to levels justified by fundamentals. Industrial and jewellery demand may weaken, while institutional buying and supply constraints could offer support.",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
@@ -636,6 +626,16 @@
       "desc": "The move comes amid mounting AI spending that has unnerved Wall Street and dented Alphabet's stock price. Microsoft last week offered voluntary buyouts to 60,000 employees in an effort to contain costs. Alphabet's workforce has grown steadily in recent quarters, but it has sought to shift resources toward priority areas.",
       "link": "https://economictimes.indiatimes.com/tech/technology/google-extends-voluntary-buyout-offers-to-employees-in-several-countries/articleshow/135532115.cms",
       "pubDate": "Wed, 04 Nov 2026 14:08:42 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say",
+      "desc": "SK Hynix is seeking US export licenses to equip its Dalian plant, arguing that increased production there would help fund its planned US expansion. But the Commerce Department has yet to approve the new licenses, the people said. Its Solidigm unit plans to invest about $45 billion and build two NAND plants in Marcy, New York, two people said, with investment potentially reaching about $100 billion over time. NAND is memory that retains data even when power is turned off and is used for storage in data centers.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say/articleshow/135531996.cms",
+      "pubDate": "Wed, 04 Nov 2026 14:05:41 +0530",
       "image": "",
       "source": "Economic Times Industry",
       "section": "business",
@@ -1053,7 +1053,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-04T15:59:53.376Z",
+    "generatedAt": "2026-11-04T16:29:56.764Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1066,7 +1066,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:21.918Z",
+        "timestamp": "2026-11-04T16:29:27.113Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1078,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:22.721Z",
+        "timestamp": "2026-11-04T16:29:29.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1090,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:23.975Z",
+        "timestamp": "2026-11-04T16:29:32.022Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,7 +1102,7 @@
         "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:25.488Z",
+        "timestamp": "2026-11-04T16:29:33.488Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1114,7 +1114,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:27.009Z",
+        "timestamp": "2026-11-04T16:29:34.248Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1126,7 @@
         "changePct": 1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:28.181Z",
+        "timestamp": "2026-11-04T16:29:34.743Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1138,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:28.742Z",
+        "timestamp": "2026-11-04T16:29:36.195Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,7 +1150,7 @@
         "changePct": 1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:30.326Z",
+        "timestamp": "2026-11-04T16:29:37.788Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1162,7 +1162,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:31.743Z",
+        "timestamp": "2026-11-04T16:29:38.387Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1174,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:32.544Z",
+        "timestamp": "2026-11-04T16:29:39.112Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1186,7 @@
         "changePct": 2.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:35.115Z",
+        "timestamp": "2026-11-04T16:29:39.555Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1198,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:37.909Z",
+        "timestamp": "2026-11-04T16:29:39.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1210,7 @@
         "changePct": 1.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:39.604Z",
+        "timestamp": "2026-11-04T16:29:40.322Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1222,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:41.047Z",
+        "timestamp": "2026-11-04T16:29:41.576Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,67 +1234,67 @@
         "changePct": 5.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:41.425Z",
+        "timestamp": "2026-11-04T16:29:42.465Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7683.04,
-        "change": 114.12,
-        "changePct": 1.51,
+        "price": 7666.28,
+        "change": 97.36,
+        "changePct": 1.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:41.744Z",
+        "timestamp": "2026-11-04T16:29:42.972Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25786.094,
-        "change": 414.084,
-        "changePct": 1.63,
+        "price": 25697.814,
+        "change": 325.805,
+        "changePct": 1.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:42.423Z",
+        "timestamp": "2026-11-04T16:29:45.118Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 53139.66,
-        "change": 1352.941,
-        "changePct": 2.61,
+        "price": 53030.3,
+        "change": 1243.582,
+        "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:43.438Z",
+        "timestamp": "2026-11-04T16:29:47.222Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10849.13,
-        "change": 210.7,
-        "changePct": 1.98,
+        "price": 10852.56,
+        "change": 214.13,
+        "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:44.620Z",
+        "timestamp": "2026-11-04T16:29:47.959Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26479.74,
-        "change": 615.121,
-        "changePct": 2.38,
+        "price": 26528.81,
+        "change": 664.191,
+        "changePct": 2.57,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:45.145Z",
+        "timestamp": "2026-11-04T16:29:48.432Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1306,7 @@
         "changePct": -1.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:45.708Z",
+        "timestamp": "2026-11-04T16:29:49.210Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1318,7 @@
         "changePct": 1.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:46.898Z",
+        "timestamp": "2026-11-04T16:29:49.844Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1330,7 @@
         "changePct": 0.62,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:47.969Z",
+        "timestamp": "2026-11-04T16:29:50.304Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,103 +1342,103 @@
         "changePct": 2.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T15:59:49.227Z",
+        "timestamp": "2026-11-04T16:29:50.661Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 100.72,
-        "change": -2.88,
-        "changePct": -2.78,
+        "price": 98.97,
+        "change": -4.63,
+        "changePct": -4.47,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T15:59:50.231Z",
+        "timestamp": "2026-11-04T16:29:51.361Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 93.51,
-        "change": -2.58,
-        "changePct": -2.69,
+        "price": 92,
+        "change": -4.09,
+        "changePct": -4.26,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T15:59:51.061Z",
+        "timestamp": "2026-11-04T16:29:52.019Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4049.3,
-        "change": 108.9,
-        "changePct": 2.76,
+        "price": 4052.9,
+        "change": 112.5,
+        "changePct": 2.85,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T15:59:51.531Z",
+        "timestamp": "2026-11-04T16:29:53.675Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.855,
-        "change": 2.102,
-        "changePct": 4.22,
+        "price": 52.02,
+        "change": 2.267,
+        "changePct": 4.56,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T15:59:52.197Z",
+        "timestamp": "2026-11-04T16:29:55.395Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.937,
-        "change": -0.015,
-        "changePct": -0.3,
+        "price": 4.917,
+        "change": -0.035,
+        "changePct": -0.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-04T15:59:52.875Z",
+        "timestamp": "2026-11-04T16:29:56.220Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123197,
-        "change": 3313,
-        "changePct": 2.76,
+        "price": 123306,
+        "change": 3423,
+        "changePct": 2.85,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-04T15:59:53.055Z",
+        "timestamp": "2026-11-04T16:29:56.451Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 157765,
-        "change": 6395,
-        "changePct": 4.22,
+        "price": 158267,
+        "change": 6897,
+        "changePct": 4.56,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-04T15:59:53.233Z",
+        "timestamp": "2026-11-04T16:29:56.636Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8849,
-        "change": -244,
-        "changePct": -2.69,
+        "price": 8706,
+        "change": -387,
+        "changePct": -4.26,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-04T15:59:53.376Z",
+        "timestamp": "2026-11-04T16:29:56.764Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
