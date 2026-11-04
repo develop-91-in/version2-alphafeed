@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-04T17:00:01.022Z",
+  "generatedAt": "2026-11-04T17:29:27.959Z",
   "articles": [
+    {
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last [&#8230;]",
+      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "pubDate": "2026-11-04T12:03:32-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "desc": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 17:02:44 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
       "desc": "AI data centre stocks declined while renewable energy and healthcare shares rallied after Democrats won control of Congress in the US midterm elections. Investors assessed the possibility of tighter AI oversight and continued clean energy support. Defence contractors and prison operators fell amid concerns over changing government spending and immigration policies.",
@@ -52,34 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-      "desc": "Trump acknowledges Iran war played role in defeats but says he would launch it again.",
-      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-      "pubDate": "Wed, 04 Nov 2026 15:28:00 +0000",
+      "title": "Nintendo is losing a Switch cartridge supplier",
+      "desc": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last [&#8230;]",
+      "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+      "pubDate": "2026-11-04T12:03:32-05:00",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "US Treasury shifts language, opening door to auction size changes",
-      "desc": "The US Treasury Department has updated its regulations regarding upcoming auction sizes for treasury securities. This revision hints at a potential increase in the issuance of short- and intermediate-term debt. They also flagged a likely decrease in demand for longer-term 20- and 30-year auctions. Future adjustments will rely on demand trends and financial requirements, with the Treasury planning to consult market participants for a thorough understanding of these changing factors.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-shifts-language-opening-door-to-auction-size-changes/articleshow/135543878.cms",
-      "pubDate": "Wed, 04 Nov 2026 20:51:43 +0530",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "desc": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "link": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 17:02:44 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
-      "desc": "Meta Platforms has successfully garnered an impressive €53 billion in investor interest for its inaugural euro bond issuance. With an ambition to raise €9 billion divided into six distinct parts, this move follows their recent $15 billion bond offering in the US market. Citigroup and Morgan Stanley are at the helm of this euro bond sale, with pricing anticipated shortly. As of September 30, Meta's total debt reached $83.67 billion.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-draws-record-orders-for-debut-euro-bond-sale-bloomberg-news-reports/articleshow/135543860.cms",
-      "pubDate": "Wed, 04 Nov 2026 20:50:06 +0530",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
@@ -272,16 +302,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Sam Altman addresses RAM comments: people should &#8216;put as much as they want in their computers&#8217;",
-      "desc": "OpenAI CEO Sam Altman spent election night defending his position on PC RAM purchases. He changed his name on X to \"Ram Altman\" in response to another user's comment, saying, \"i actually do want the world to have tons of memory and people to put as much as they want in their computers, and it [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026292/sam-altman-ram-shortage-pcs-comments",
-      "pubDate": "2026-11-04T09:46:01-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "US stocks today: US stocks rally after Democrats' midterm sweep as AI infrastructure stocks slide",
       "desc": "US stocks rallied after Democrats secured control of both chambers of Congress in the midterm elections, easing concerns over major policy shifts. The Dow, S&amp;P 500 and Nasdaq advanced, while data centre stocks declined amid AI regulation concerns. AMD gained on its upbeat 2027 growth forecast, while clean energy stocks surged.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-soars-1000-points-at-open-as-democrats-win-congress-data-center-stocks-slide/articleshow/135542698.cms",
@@ -290,16 +310,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-      "desc": "SpaceX is teaming up with Qualcomm to build out its nationwide mobile network. Under the multi-year deal, SpaceX will bring Qualcomm's Dragonwing technology to \"tens of thousands\" of 5G cell sites across the US, with the first deployments set for 2027. The news of the partnership comes as part of SpaceX's push to make Starlink [&#8230;]",
-      "link": "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-      "pubDate": "2026-11-04T09:38:20-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Piyush Goyal sets March 2027 deadline for digitisation of DGFT services, aims to end physical visits",
@@ -342,7 +352,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "US Stock Market Live Updates: US stocks rally after Democrats win Congress; data center stocks slide",
+      "title": "US Stock Market Live Updates: Dow soars 1,500 points as Brent crude falls below $100 on Democrat win, Iran peace deal hopes",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amd-nvidia-tesla-amazon-meta-ai-stocks-us-midterm-election-results-democrat-win-treasury-yield-news-4th-november-2026/liveblog/135540466.cms",
       "pubDate": "Wed, 04 Nov 2026 18:42:18 +0530",
@@ -380,16 +390,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "desc": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 04 Nov 2026 12:21:21 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Beyond Equity: Jiraaf’s Saurav Ghosh on how to customise your portfolio, and the importance of bonds",
@@ -1063,7 +1063,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-04T17:00:01.022Z",
+    "generatedAt": "2026-11-04T17:29:27.959Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1076,7 +1076,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:28.672Z",
+        "timestamp": "2026-11-04T17:29:15.339Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1088,7 +1088,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:30.371Z",
+        "timestamp": "2026-11-04T17:29:17.232Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1100,7 +1100,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:32.057Z",
+        "timestamp": "2026-11-04T17:29:17.621Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1112,7 +1112,7 @@
         "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:33.693Z",
+        "timestamp": "2026-11-04T17:29:17.919Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1124,7 +1124,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:35.322Z",
+        "timestamp": "2026-11-04T17:29:18.358Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1136,7 +1136,7 @@
         "changePct": 1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:37.144Z",
+        "timestamp": "2026-11-04T17:29:18.674Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1148,7 +1148,7 @@
         "changePct": 0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:38.504Z",
+        "timestamp": "2026-11-04T17:29:18.913Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1160,7 +1160,7 @@
         "changePct": 1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:39.095Z",
+        "timestamp": "2026-11-04T17:29:19.486Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1172,7 +1172,7 @@
         "changePct": 2.8,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:40.021Z",
+        "timestamp": "2026-11-04T17:29:20.050Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1184,7 +1184,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:41.220Z",
+        "timestamp": "2026-11-04T17:29:20.354Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1196,7 +1196,7 @@
         "changePct": 2.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:42.181Z",
+        "timestamp": "2026-11-04T17:29:20.571Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1208,7 +1208,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:43.753Z",
+        "timestamp": "2026-11-04T17:29:21.343Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1220,7 +1220,7 @@
         "changePct": 1.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:43.990Z",
+        "timestamp": "2026-11-04T17:29:22.083Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1232,7 +1232,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:44.261Z",
+        "timestamp": "2026-11-04T17:29:22.510Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1244,43 +1244,43 @@
         "changePct": 5.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:44.854Z",
+        "timestamp": "2026-11-04T17:29:23.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7711.16,
-        "change": 142.24,
-        "changePct": 1.88,
+        "price": 7707.48,
+        "change": 138.56,
+        "changePct": 1.83,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:45.820Z",
+        "timestamp": "2026-11-04T17:29:23.860Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25915.639,
-        "change": 543.629,
-        "changePct": 2.14,
+        "price": 25901.486,
+        "change": 529.477,
+        "changePct": 2.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:46.548Z",
+        "timestamp": "2026-11-04T17:29:24.043Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 53319.33,
-        "change": 1532.609,
-        "changePct": 2.96,
+        "price": 53276.43,
+        "change": 1489.711,
+        "changePct": 2.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:47.351Z",
+        "timestamp": "2026-11-04T17:29:24.512Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1292,7 +1292,7 @@
         "changePct": 1.79,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:49.148Z",
+        "timestamp": "2026-11-04T17:29:24.741Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1304,7 +1304,7 @@
         "changePct": 2.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:50.900Z",
+        "timestamp": "2026-11-04T17:29:25.068Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1316,7 +1316,7 @@
         "changePct": -1.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:52.027Z",
+        "timestamp": "2026-11-04T17:29:25.309Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1328,7 +1328,7 @@
         "changePct": 1.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:53.623Z",
+        "timestamp": "2026-11-04T17:29:25.616Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1340,7 +1340,7 @@
         "changePct": 0.62,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:54.611Z",
+        "timestamp": "2026-11-04T17:29:25.957Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1352,55 +1352,55 @@
         "changePct": 2.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-04T16:59:55.557Z",
+        "timestamp": "2026-11-04T17:29:26.314Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 95.53,
-        "change": -8.07,
-        "changePct": -7.79,
+        "price": 94.12,
+        "change": -9.48,
+        "changePct": -9.15,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T16:59:57.260Z",
+        "timestamp": "2026-11-04T17:29:26.514Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 89.41,
-        "change": -6.68,
-        "changePct": -6.95,
+        "price": 87.74,
+        "change": -8.35,
+        "changePct": -8.69,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-04T16:59:57.819Z",
+        "timestamp": "2026-11-04T17:29:26.818Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4071.8,
-        "change": 131.4,
-        "changePct": 3.33,
+        "price": 4075.6,
+        "change": 135.2,
+        "changePct": 3.43,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T16:59:58.281Z",
+        "timestamp": "2026-11-04T17:29:27.023Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.215,
-        "change": 2.462,
-        "changePct": 4.95,
+        "price": 52.32,
+        "change": 2.567,
+        "changePct": 5.16,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-04T16:59:58.734Z",
+        "timestamp": "2026-11-04T17:29:27.375Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1412,43 +1412,43 @@
         "changePct": -1.05,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-04T17:00:00.517Z",
+        "timestamp": "2026-11-04T17:29:27.550Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123884,
-        "change": 4001,
-        "changePct": 3.34,
+        "price": 123988,
+        "change": 4104,
+        "changePct": 3.42,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-04T17:00:00.747Z",
+        "timestamp": "2026-11-04T17:29:27.710Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 158860,
-        "change": 7490,
-        "changePct": 4.95,
+        "price": 159180,
+        "change": 7810,
+        "changePct": 5.16,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-04T17:00:00.903Z",
+        "timestamp": "2026-11-04T17:29:27.803Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8461,
-        "change": -632,
-        "changePct": -6.95,
+        "price": 8303,
+        "change": -790,
+        "changePct": -8.69,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-04T17:00:01.022Z",
+        "timestamp": "2026-11-04T17:29:27.959Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
