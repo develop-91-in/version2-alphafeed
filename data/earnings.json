@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:29:50.554Z",
+  "generatedAt": "2026-11-05T13:01:29.879Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1138,6 +1138,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "Hindustan Copper Limited",
+      "tk": "HINDCOPPER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "ICDS Limited",
       "tk": "ICDSLTD",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Ace Integrated Solutions Limited",
       "tk": "ACEINTEG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Action Construction Equipment Limited",
-      "tk": "ACE",
       "type": "Q2 FY27 results announcement"
     }
   ]
