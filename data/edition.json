@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-05T16:39:03.485Z",
+  "generatedAt": "2026-11-05T16:59:49.318Z",
   "articles": [
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 16:44:38 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+      "desc": "Paras Healthcare announced a profit after tax of Rs 40.35 crore in the September quarter. This performance shows a significant increase from the net profit of Rs 12.38 crore reported last year. Revenue from operations reached Rs 510.89 crore, with expenses at Rs 463.12 crore during the same period. The company utilized a portion of its IPO proceeds to strengthen its balance sheet.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
+      "pubDate": "Thu, 05 Nov 2026 22:02:07 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Photos: Thousands rally in France over rising costs and economic struggles",
       "desc": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
@@ -62,24 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Emerging market outflows hit $33.8 billion, US midterms offer some relief",
-      "desc": "October witnessed an alarming withdrawal of $33.8 billion by foreign investors from emerging markets, the largest since March. Almost all of this outflow consisted of equities, severely impacting Taiwan. While Emerging Asia grappled with major losses, Latin America encountered minimal setbacks amid election-related volatility. Additionally, Chinese stocks continued to see foreign sell-offs for the fifth consecutive month.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/emerging-market-outflows-hit-33-8-billion-us-midterms-offer-some-relief/articleshow/135578199.cms",
-      "pubDate": "Thu, 05 Nov 2026 20:39:12 +0530",
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 16:44:38 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
-      "title": "The hidden supply chain costs of the AI boom",
-      "desc": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "pubDate": "2026-11-05T10:00:00-05:00",
+      "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
+      "desc": "Paras Healthcare announced a profit after tax of Rs 40.35 crore in the September quarter. This performance shows a significant increase from the net profit of Rs 12.38 crore reported last year. Revenue from operations reached Rs 510.89 crore, with expenses at Rs 463.12 crore during the same period. The company utilized a portion of its IPO proceeds to strengthen its balance sheet.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paras-healthcare-posts-rs-40-crore-q2-net-profit-in-first-results-after-listing/articleshow/135580435.cms",
+      "pubDate": "Thu, 05 Nov 2026 22:02:07 +0530",
       "image": "",
-      "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -952,16 +972,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Hindalco Share Price Highlights: Hindalco Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-share-price-today-live-05-nov-2026/liveblog/135556937.cms",
-      "pubDate": "Thu, 05 Nov 2026 08:36:39 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
       "desc": "Demand for lucrative high-bandwidth storage for AI servers has pushed up memory chip prices, raising the cost of consumer electronics and squeezing smartphone processor designers such as Qualcomm.",
       "link": "https://economictimes.indiatimes.com/tech/technology/qualcomms-smartphone-chip-sales-miss-estimates-shares-fall/articleshow/135556562.cms",
@@ -1073,7 +1083,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T16:39:03.485Z",
+    "generatedAt": "2026-11-05T16:59:49.315Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1086,7 +1096,7 @@
         "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.620Z",
+        "timestamp": "2026-11-05T16:59:31.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1108,7 @@
         "changePct": 2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.677Z",
+        "timestamp": "2026-11-05T16:59:32.913Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,7 +1120,7 @@
         "changePct": 3.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.738Z",
+        "timestamp": "2026-11-05T16:59:33.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1122,7 +1132,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.787Z",
+        "timestamp": "2026-11-05T16:59:33.765Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1134,7 +1144,7 @@
         "changePct": 2.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.880Z",
+        "timestamp": "2026-11-05T16:59:34.147Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1146,7 +1156,7 @@
         "changePct": 4.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:01.965Z",
+        "timestamp": "2026-11-05T16:59:35.197Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1158,7 +1168,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.024Z",
+        "timestamp": "2026-11-05T16:59:35.572Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,7 +1180,7 @@
         "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.076Z",
+        "timestamp": "2026-11-05T16:59:36.081Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1182,7 +1192,7 @@
         "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.176Z",
+        "timestamp": "2026-11-05T16:59:36.371Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1194,7 +1204,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.256Z",
+        "timestamp": "2026-11-05T16:59:36.660Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1206,7 +1216,7 @@
         "changePct": 3.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.310Z",
+        "timestamp": "2026-11-05T16:59:37.097Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1228,7 @@
         "changePct": 3.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.370Z",
+        "timestamp": "2026-11-05T16:59:37.479Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,7 +1240,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.425Z",
+        "timestamp": "2026-11-05T16:59:37.815Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1242,7 +1252,7 @@
         "changePct": 0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.515Z",
+        "timestamp": "2026-11-05T16:59:38.272Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1254,67 +1264,67 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.587Z",
+        "timestamp": "2026-11-05T16:59:39.245Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7465.64,
-        "change": -222.98,
-        "changePct": -2.9,
+        "price": 7444.82,
+        "change": -243.8,
+        "changePct": -3.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.595Z",
+        "timestamp": "2026-11-05T16:59:41.225Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24702.4,
-        "change": -1034.113,
-        "changePct": -4.02,
+        "price": 24626.39,
+        "change": -1110.123,
+        "changePct": -4.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.647Z",
+        "timestamp": "2026-11-05T16:59:41.629Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52197.58,
-        "change": -1158.543,
-        "changePct": -2.17,
+        "price": 52094.24,
+        "change": -1261.883,
+        "changePct": -2.37,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.699Z",
+        "timestamp": "2026-11-05T16:59:41.968Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10782.2,
-        "change": -47.01,
+        "price": 10782.66,
+        "change": -46.55,
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.762Z",
+        "timestamp": "2026-11-05T16:59:42.216Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26339.95,
-        "change": -97.721,
-        "changePct": -0.37,
+        "price": 26325.01,
+        "change": -112.66,
+        "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.812Z",
+        "timestamp": "2026-11-05T16:59:42.651Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1326,7 +1336,7 @@
         "changePct": -1.79,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.870Z",
+        "timestamp": "2026-11-05T16:59:43.410Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1338,7 +1348,7 @@
         "changePct": 3.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.918Z",
+        "timestamp": "2026-11-05T16:59:43.885Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1350,7 +1360,7 @@
         "changePct": -5.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:02.971Z",
+        "timestamp": "2026-11-05T16:59:44.210Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1362,103 +1372,103 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T16:39:03.029Z",
+        "timestamp": "2026-11-05T16:59:44.745Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 96.87,
-        "change": 2.25,
-        "changePct": 2.38,
+        "price": 96.85,
+        "change": 2.23,
+        "changePct": 2.36,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T16:39:03.127Z",
+        "timestamp": "2026-11-05T16:59:46.783Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 90.34,
-        "change": 2.22,
-        "changePct": 2.52,
+        "price": 90.15,
+        "change": 2.03,
+        "changePct": 2.3,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T16:39:03.184Z",
+        "timestamp": "2026-11-05T16:59:47.615Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4125,
-        "change": 52,
-        "changePct": 1.28,
+        "price": 4131.6,
+        "change": 58.6,
+        "changePct": 1.44,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T16:39:03.252Z",
+        "timestamp": "2026-11-05T16:59:47.969Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.545,
-        "change": 0.263,
-        "changePct": 0.5,
+        "price": 52.765,
+        "change": 0.483,
+        "changePct": 0.92,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T16:39:03.304Z",
+        "timestamp": "2026-11-05T16:59:48.491Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.843,
-        "change": -0.051,
-        "changePct": -1.04,
+        "price": 4.835,
+        "change": -0.059,
+        "changePct": -1.21,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-05T16:39:03.386Z",
+        "timestamp": "2026-11-05T16:59:48.796Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125281,
-        "change": 1579,
-        "changePct": 1.28,
+        "price": 125482,
+        "change": 1780,
+        "changePct": 1.44,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-05T16:39:03.474Z",
+        "timestamp": "2026-11-05T16:59:48.981Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159616,
-        "change": 829,
-        "changePct": 0.52,
+        "price": 160284,
+        "change": 1497,
+        "changePct": 0.94,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-05T16:39:03.481Z",
+        "timestamp": "2026-11-05T16:59:49.175Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8534,
-        "change": 210,
-        "changePct": 2.52,
+        "price": 8516,
+        "change": 192,
+        "changePct": 2.3,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-05T16:39:03.485Z",
+        "timestamp": "2026-11-05T16:59:49.315Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
