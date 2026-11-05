@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:59:37.837Z",
+  "generatedAt": "2026-11-05T07:29:33.278Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -916,6 +916,12 @@
     },
     {
       "dateISO": "2026-11-10",
+      "co": "ARSS Infrastructure Projects Limited",
+      "tk": "ARSSINFRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-10",
       "co": "Avanti Feeds Limited",
       "tk": "AVANTIFEED",
       "type": "Q2 FY27 results announcement"
@@ -1150,6 +1156,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "Network People Services Technologies Limited",
+      "tk": "NPST",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "Orchasp Limited",
       "tk": "ORCHASP",
       "type": "Q2 FY27 results announcement"
@@ -1306,20 +1318,8 @@
     },
     {
       "dateISO": "2026-11-12",
-      "co": "Aro Granite Industries Limited",
-      "tk": "AROGRANITE",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Asahi Songwon Colors Limited",
-      "tk": "ASAHISONG",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Associated Alcohols & Breweries Ltd.",
-      "tk": "ASALCBR",
+      "co": "Ardee Industries Limited",
+      "tk": "ARDEE",
       "type": "Q2 FY27 results announcement"
     }
   ]
