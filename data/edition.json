@@ -1,9 +1,19 @@
 {
-  "generatedAt": "2026-11-05T19:29:35.861Z",
+  "generatedAt": "2026-11-05T19:59:36.078Z",
   "articles": [
     {
+      "title": "JP Morgan to add Philippines and Saudi Arabia to key EM bond index over 10 months",
+      "desc": "JP Morgan has announced plans to include Saudi Arabia and the Philippines in its emerging market debt index starting in 2027. The Saudi riyal-denominated sukuk and Philippine peso-denominated government bonds will be integrated over a ten-month period. The index is expected to adjust the maximum country weight limit from 10% to 9%. Saudi Arabia's weight will reach 2.71%, while the Philippines will have a weight of 1.64%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-to-add-philippines-and-saudi-arabia-to-key-em-bond-index-over-10-months/articleshow/135585489.cms",
+      "pubDate": "Fri, 06 Nov 2026 00:56:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "US yields fall in choppy session as oil rises and equities sink",
-      "desc": "* Benchmark 10-year Treasury yield falls 4.9 basis points to 4.843% * Two-year Treasury yield drops 5.6 basis points to 4.525% * Initial jobless claims fall 6,000 to 189,000 in week ended October 31",
+      "desc": "As geopolitical tensions change the landscape, US Treasuries are witnessing a spike in demand while equity markets take a hit and oil prices show volatility. Investors are reassessing their outlook on the US-Iran relations following new election results. The labor market remains resilient with dropping unemployment claims and heightened productivity levels, pointing towards ongoing inflation risk.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms",
       "pubDate": "Fri, 06 Nov 2026 00:49:17 +0530",
       "image": "",
@@ -42,16 +52,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "AI stocks plunge after US election, driving down markets",
       "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
       "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
@@ -82,8 +82,28 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "JP Morgan to add Philippines and Saudi Arabia to key EM bond index over 10 months",
+      "desc": "JP Morgan has announced plans to include Saudi Arabia and the Philippines in its emerging market debt index starting in 2027. The Saudi riyal-denominated sukuk and Philippine peso-denominated government bonds will be integrated over a ten-month period. The index is expected to adjust the maximum country weight limit from 10% to 9%. Saudi Arabia's weight will reach 2.71%, while the Philippines will have a weight of 1.64%.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jp-morgan-to-add-philippines-and-saudi-arabia-to-key-em-bond-index-over-10-months/articleshow/135585489.cms",
+      "pubDate": "Fri, 06 Nov 2026 00:56:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "The average US 30-year mortgage rate falls to 7.18% this week, its third straight decline",
+      "desc": "The average long-term mortgage rates in the U.S. decreased for the third consecutive week, offering some respite. The average 30-year fixed-rate mortgage declined to 7.18% from 7.24%, according to Freddie Mac. Additionally, the 15-year fixed-rate mortgages saw a drop to 6.57%, slightly down from last week. These lower rates help to alleviate the financial burden on prospective homebuyers facing increased costs.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/the-average-us-30-year-mortgage-rate-falls-to-7-18-this-week-its-third-straight-decline-/articleshow/135585420.cms",
+      "pubDate": "Fri, 06 Nov 2026 00:54:21 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "US yields fall in choppy session as oil rises and equities sink",
-      "desc": "* Benchmark 10-year Treasury yield falls 4.9 basis points to 4.843% * Two-year Treasury yield drops 5.6 basis points to 4.525% * Initial jobless claims fall 6,000 to 189,000 in week ended October 31",
+      "desc": "As geopolitical tensions change the landscape, US Treasuries are witnessing a spike in demand while equity markets take a hit and oil prices show volatility. Investors are reassessing their outlook on the US-Iran relations following new election results. The labor market remains resilient with dropping unemployment claims and heightened productivity levels, pointing towards ongoing inflation risk.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-fall-in-choppy-session-as-oil-rises-and-equities-sink/articleshow/135585328.cms",
       "pubDate": "Fri, 06 Nov 2026 00:49:17 +0530",
       "image": "",
@@ -137,9 +157,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
       "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
     },
     {
       "title": "AI stocks plunge after US election, driving down markets",
@@ -222,7 +242,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Qualcomm shares 9% slump as weak smartphone chip sales overshadow data-center momentum",
+      "title": "Qualcomm shares slump 9% as weak smartphone chip sales overshadow data-center momentum",
       "desc": "Qualcomm's shares dropped significantly in early trading following disappointing smartphone chip sales. The company's largest business segment faced a 26% revenue decline, leading to lower overall chip sales. While Qualcomm's investments in data-center and automotive chips strengthen its growth potential, analysts remain skeptical about immediate earnings. Brokerages have reduced their price targets on Qualcomm's stock after recent results were released.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-9-slump-as-weak-smartphone-chip-sales-overshadow-data-center-momentum/articleshow/135578695.cms",
       "pubDate": "Thu, 05 Nov 2026 20:59:36 +0530",
@@ -962,26 +982,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Eicher Motors Share Price Highlights: Eicher Motors Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-today-live-updates-05-nov-2026/liveblog/135557009.cms",
-      "pubDate": "Thu, 05 Nov 2026 08:40:14 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Steel Share Price Highlights: Tata Steel Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-live-updates-05-nov-2026/liveblog/135556949.cms",
-      "pubDate": "Thu, 05 Nov 2026 08:37:01 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Qualcomm's smartphone chip sales miss estimates, shares fall",
       "desc": "Demand for lucrative high-bandwidth storage for AI servers has pushed up memory chip prices, raising the cost of consumer electronics and squeezing smartphone processor designers such as Qualcomm.",
       "link": "https://economictimes.indiatimes.com/tech/technology/qualcomms-smartphone-chip-sales-miss-estimates-shares-fall/articleshow/135556562.cms",
@@ -1053,7 +1053,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T19:29:35.861Z",
+    "generatedAt": "2026-11-05T19:59:36.078Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1066,7 +1066,7 @@
         "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:20.542Z",
+        "timestamp": "2026-11-05T19:59:20.942Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1078,7 @@
         "changePct": 2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:22.131Z",
+        "timestamp": "2026-11-05T19:59:21.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1090,7 @@
         "changePct": 3.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:22.906Z",
+        "timestamp": "2026-11-05T19:59:21.866Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,7 +1102,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:23.971Z",
+        "timestamp": "2026-11-05T19:59:23.216Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1114,7 +1114,7 @@
         "changePct": 2.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:24.299Z",
+        "timestamp": "2026-11-05T19:59:23.489Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1126,7 @@
         "changePct": 4.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:24.585Z",
+        "timestamp": "2026-11-05T19:59:23.770Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1138,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:24.918Z",
+        "timestamp": "2026-11-05T19:59:24.048Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,7 +1150,7 @@
         "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:25.249Z",
+        "timestamp": "2026-11-05T19:59:25.028Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1162,7 +1162,7 @@
         "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:25.800Z",
+        "timestamp": "2026-11-05T19:59:25.361Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1174,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:26.284Z",
+        "timestamp": "2026-11-05T19:59:25.624Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1186,7 @@
         "changePct": 3.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:26.578Z",
+        "timestamp": "2026-11-05T19:59:25.897Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1198,7 @@
         "changePct": 3.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:26.946Z",
+        "timestamp": "2026-11-05T19:59:26.864Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1210,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:27.244Z",
+        "timestamp": "2026-11-05T19:59:27.983Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1222,7 @@
         "changePct": 0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:27.487Z",
+        "timestamp": "2026-11-05T19:59:28.710Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,43 +1234,43 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:27.861Z",
+        "timestamp": "2026-11-05T19:59:29.374Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7374.38,
-        "change": -314.24,
-        "changePct": -4.09,
+        "price": 7421.35,
+        "change": -267.27,
+        "changePct": -3.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:28.442Z",
+        "timestamp": "2026-11-05T19:59:29.773Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24390.537,
-        "change": -1345.977,
-        "changePct": -5.23,
+        "price": 24593.527,
+        "change": -1142.986,
+        "changePct": -4.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:29.003Z",
+        "timestamp": "2026-11-05T19:59:30.151Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51639.05,
-        "change": -1717.07,
-        "changePct": -3.22,
+        "price": 51857.83,
+        "change": -1498.293,
+        "changePct": -2.81,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:29.245Z",
+        "timestamp": "2026-11-05T19:59:30.422Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1282,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:30.018Z",
+        "timestamp": "2026-11-05T19:59:30.707Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1294,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:30.476Z",
+        "timestamp": "2026-11-05T19:59:32.342Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1306,7 @@
         "changePct": -1.79,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:31.814Z",
+        "timestamp": "2026-11-05T19:59:32.679Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1318,7 @@
         "changePct": 3.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:32.094Z",
+        "timestamp": "2026-11-05T19:59:33.072Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1330,7 @@
         "changePct": -5.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:32.374Z",
+        "timestamp": "2026-11-05T19:59:33.346Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,103 +1342,103 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T19:29:32.874Z",
+        "timestamp": "2026-11-05T19:59:33.615Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 97.91,
-        "change": 3.29,
-        "changePct": 3.48,
+        "price": 98.37,
+        "change": 3.75,
+        "changePct": 3.96,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T19:29:33.715Z",
+        "timestamp": "2026-11-05T19:59:33.910Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 90.33,
-        "change": 2.21,
-        "changePct": 2.51,
+        "price": 90.65,
+        "change": 2.53,
+        "changePct": 2.87,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T19:29:34.430Z",
+        "timestamp": "2026-11-05T19:59:34.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4114.3,
-        "change": 41.3,
-        "changePct": 1.01,
+        "price": 4123.4,
+        "change": 50.4,
+        "changePct": 1.24,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T19:29:34.835Z",
+        "timestamp": "2026-11-05T19:59:34.844Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.435,
-        "change": 0.153,
-        "changePct": 0.29,
+        "price": 52.61,
+        "change": 0.328,
+        "changePct": 0.63,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T19:29:35.188Z",
+        "timestamp": "2026-11-05T19:59:35.217Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.833,
-        "change": -0.061,
-        "changePct": -1.25,
+        "price": 4.837,
+        "change": -0.057,
+        "changePct": -1.16,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-05T19:29:35.477Z",
+        "timestamp": "2026-11-05T19:59:35.638Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124956,
-        "change": 1254,
-        "changePct": 1.01,
+        "price": 125233,
+        "change": 1531,
+        "changePct": 1.24,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-05T19:29:35.615Z",
+        "timestamp": "2026-11-05T19:59:35.795Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159251,
-        "change": 465,
-        "changePct": 0.29,
+        "price": 159783,
+        "change": 996,
+        "changePct": 0.63,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-05T19:29:35.782Z",
+        "timestamp": "2026-11-05T19:59:35.966Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8533,
-        "change": 209,
-        "changePct": 2.51,
+        "price": 8563,
+        "change": 239,
+        "changePct": 2.87,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-05T19:29:35.861Z",
+        "timestamp": "2026-11-05T19:59:36.078Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
