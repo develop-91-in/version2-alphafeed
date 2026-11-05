@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:59:37.278Z",
+  "generatedAt": "2026-11-05T10:29:45.400Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1024,6 +1024,12 @@
     },
     {
       "dateISO": "2026-11-10",
+      "co": "Suraksha Diagnostic Limited",
+      "tk": "SURAKSHA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-10",
       "co": "The United Nilgiri Tea Estates Company Limited",
       "tk": "UNITEDTEA",
       "type": "Q2 FY27 results announcement"
@@ -1044,6 +1050,12 @@
       "dateISO": "2026-11-11",
       "co": "AVT Natural Products Limited",
       "tk": "AVTNPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
+      "co": "Abans Financial Services Limited",
+      "tk": "AFSL",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1309,18 +1321,6 @@
       "co": "Alkem Laboratories Limited",
       "tk": "ALKEM",
       "type": "Financial results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Alphageo (India) Limited",
-      "tk": "ALPHAGEO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Anjani Portland Cement Limited",
-      "tk": "APCL",
-      "type": "Q2 FY27 results announcement"
     }
   ]
 }
