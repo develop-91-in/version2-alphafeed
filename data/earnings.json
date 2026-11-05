@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T08:29:41.421Z",
+  "generatedAt": "2026-11-05T09:59:37.278Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1114,6 +1114,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "Glottis Limited",
+      "tk": "GLOTTIS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "ICDS Limited",
       "tk": "ICDSLTD",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Anjani Portland Cement Limited",
       "tk": "APCL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Ardee Industries Limited",
-      "tk": "ARDEE",
       "type": "Q2 FY27 results announcement"
     }
   ]
