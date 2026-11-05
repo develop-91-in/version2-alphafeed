@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-05T17:59:46.651Z",
+  "generatedAt": "2026-11-05T18:29:51.352Z",
   "articles": [
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "desc": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "pubDate": "2026-11-05T13:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
       "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
@@ -8,6 +18,16 @@
       "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
       "image": "",
       "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "AI stocks plunge after election, driving down US markets",
+      "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+      "pubDate": "Thu, 05 Nov 2026 17:56:17 +0000",
+      "image": "",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,24 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Qualcomm shares 9% slump as weak smartphone chip sales overshadow data-center momentum",
-      "desc": "Qualcomm's shares dropped significantly in early trading following disappointing smartphone chip sales. The company's largest business segment faced a 26% revenue decline, leading to lower overall chip sales. While Qualcomm's investments in data-center and automotive chips strengthen its growth potential, analysts remain skeptical about immediate earnings. Brokerages have reduced their price targets on Qualcomm's stock after recent results were released.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-9-slump-as-weak-smartphone-chip-sales-overshadow-data-center-momentum/articleshow/135578695.cms",
-      "pubDate": "Thu, 05 Nov 2026 20:59:36 +0530",
+      "title": "Claude AI can plug directly into your bank account",
+      "desc": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "pubDate": "2026-11-05T13:00:00-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Elon Musk gambled $445 million to boost Republicans in midterms and came up short",
-      "desc": "Elon Musk's hefty USD 445 million investment in Republican candidates did not yield the desired electoral success, as Republicans faced significant losses, ceding control of Congress. This setback has prompted Democrats to contemplate investigating Musk's business operations. Critics have denounced his financial influence in politics, highlighting the risks of affluent individuals shaping policy. Anticipated changes in Texas's Democratic leadership suggest intensified scrutiny of Musk's ties to the state.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/elon-musk-gambled-445-million-to-boost-republicans-in-midterms-and-came-up-short/articleshow/135578644.cms",
-      "pubDate": "Thu, 05 Nov 2026 20:57:55 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
@@ -90,6 +100,26 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "AI stocks plunge after election, driving down US markets",
+      "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
+      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+      "pubDate": "Thu, 05 Nov 2026 17:56:17 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "desc": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "pubDate": "2026-11-05T12:51:52-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Nintendo says it’s not planning another Switch 2 price hike",
@@ -1040,20 +1070,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "US slaps sanctions on Indian, Turkish firms and people for aiding Iran",
-      "desc": "The sanctions are part of the Trump administration's \"Operation Economic Outcast,\" which aims to cut off Iran's ability to sell oil to fund the war with the US and Israel. Treasury unveiled the new sanctions a day after Democrats made huge gains in midterm elections, winning control of both houses of Congress as voters expressed anger about the Iran war and its impact in fueling US inflation.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/articleshow/135548791.cms",
-      "pubDate": "Wed, 04 Nov 2026 23:54:05 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T17:59:46.651Z",
+    "generatedAt": "2026-11-05T18:29:51.352Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1066,7 +1086,7 @@
         "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:27.878Z",
+        "timestamp": "2026-11-05T18:29:25.863Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1098,7 @@
         "changePct": 2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:28.568Z",
+        "timestamp": "2026-11-05T18:29:27.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1110,7 @@
         "changePct": 3.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:29.111Z",
+        "timestamp": "2026-11-05T18:29:28.095Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,7 +1122,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:29.561Z",
+        "timestamp": "2026-11-05T18:29:28.444Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1114,7 +1134,7 @@
         "changePct": 2.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:31.245Z",
+        "timestamp": "2026-11-05T18:29:28.717Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1146,7 @@
         "changePct": 4.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:32.048Z",
+        "timestamp": "2026-11-05T18:29:29.629Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1158,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:32.478Z",
+        "timestamp": "2026-11-05T18:29:31.521Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,7 +1170,7 @@
         "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:32.819Z",
+        "timestamp": "2026-11-05T18:29:33.050Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1162,7 +1182,7 @@
         "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:33.124Z",
+        "timestamp": "2026-11-05T18:29:34.310Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1194,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:33.787Z",
+        "timestamp": "2026-11-05T18:29:35.704Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1206,7 @@
         "changePct": 3.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:34.332Z",
+        "timestamp": "2026-11-05T18:29:37.757Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1218,7 @@
         "changePct": 3.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:34.811Z",
+        "timestamp": "2026-11-05T18:29:39.242Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1230,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:35.250Z",
+        "timestamp": "2026-11-05T18:29:41.024Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1242,7 @@
         "changePct": 0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:36.561Z",
+        "timestamp": "2026-11-05T18:29:41.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,43 +1254,43 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:37.592Z",
+        "timestamp": "2026-11-05T18:29:42.042Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7392.6,
-        "change": -296.02,
-        "changePct": -3.85,
+        "price": 7390.84,
+        "change": -297.78,
+        "changePct": -3.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:37.885Z",
+        "timestamp": "2026-11-05T18:29:42.360Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24426.94,
-        "change": -1309.574,
-        "changePct": -5.09,
+        "price": 24420.871,
+        "change": -1315.643,
+        "changePct": -5.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:38.247Z",
+        "timestamp": "2026-11-05T18:29:43.091Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51773.83,
-        "change": -1582.293,
-        "changePct": -2.97,
+        "price": 51774.25,
+        "change": -1581.871,
+        "changePct": -2.96,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:39.081Z",
+        "timestamp": "2026-11-05T18:29:43.651Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1302,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:39.329Z",
+        "timestamp": "2026-11-05T18:29:43.932Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1314,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:39.633Z",
+        "timestamp": "2026-11-05T18:29:44.257Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1326,7 @@
         "changePct": -1.79,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:40.364Z",
+        "timestamp": "2026-11-05T18:29:45.819Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1338,7 @@
         "changePct": 3.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:40.693Z",
+        "timestamp": "2026-11-05T18:29:47.207Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1350,7 @@
         "changePct": -5.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:42.051Z",
+        "timestamp": "2026-11-05T18:29:47.915Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,103 +1362,103 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:59:42.840Z",
+        "timestamp": "2026-11-05T18:29:49.011Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 97.41,
-        "change": 2.79,
-        "changePct": 2.95,
+        "price": 98.03,
+        "change": 3.41,
+        "changePct": 3.6,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T17:59:43.130Z",
+        "timestamp": "2026-11-05T18:29:49.407Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 90.43,
-        "change": 2.31,
-        "changePct": 2.62,
+        "price": 90.61,
+        "change": 2.49,
+        "changePct": 2.83,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T17:59:43.389Z",
+        "timestamp": "2026-11-05T18:29:49.695Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4116.8,
-        "change": 43.8,
-        "changePct": 1.07,
+        "price": 4109.3,
+        "change": 36.3,
+        "changePct": 0.89,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T17:59:45.063Z",
+        "timestamp": "2026-11-05T18:29:50.025Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.415,
-        "change": 0.133,
-        "changePct": 0.25,
+        "price": 52.38,
+        "change": 0.098,
+        "changePct": 0.19,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T17:59:45.973Z",
+        "timestamp": "2026-11-05T18:29:50.400Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.831,
-        "change": -0.063,
-        "changePct": -1.29,
+        "price": 4.833,
+        "change": -0.061,
+        "changePct": -1.25,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-05T17:59:46.250Z",
+        "timestamp": "2026-11-05T18:29:50.923Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125026,
-        "change": 1324,
-        "changePct": 1.07,
+        "price": 124804,
+        "change": 1102,
+        "changePct": 0.89,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-05T17:59:46.434Z",
+        "timestamp": "2026-11-05T18:29:51.095Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159191,
-        "change": 404,
-        "changePct": 0.25,
+        "price": 159084,
+        "change": 298,
+        "changePct": 0.19,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-05T17:59:46.539Z",
+        "timestamp": "2026-11-05T18:29:51.227Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8542,
-        "change": 218,
-        "changePct": 2.62,
+        "price": 8559,
+        "change": 235,
+        "changePct": 2.83,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-05T17:59:46.651Z",
+        "timestamp": "2026-11-05T18:29:51.352Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
