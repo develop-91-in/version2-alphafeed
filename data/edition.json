@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-05T17:29:42.425Z",
+  "generatedAt": "2026-11-05T17:59:46.651Z",
   "articles": [
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Nintendo says it’s not planning another Switch 2 price hike",
       "desc": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 [&#8230;]",
@@ -8,16 +18,6 @@
       "pubDate": "2026-11-05T12:24:39-05:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 16:44:38 GMT",
-      "image": "",
-      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -82,6 +82,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Thu, 05 Nov 2026 17:57:57 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
       "title": "Nintendo says it’s not planning another Switch 2 price hike",
       "desc": "Nintendo president Shuntaro Furukawa said during the company's latest earnings call that it's \"not considering additional changes\" to the Switch 2's price, Reuters reports. The Switch 2 got a $50 price hike earlier this year, bringing its starting price up to $499. Nintendo said in Thursday's earnings report that Switch 2 sales have dropped 37.4 [&#8230;]",
       "link": "https://www.theverge.com/games/1027757/nintendo-switch-2-price-hike-plans-ram",
@@ -120,16 +130,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
-      "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 05 Nov 2026 16:44:38 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Paras Healthcare posts Rs 40 crore Q2 net profit in first results after listing",
@@ -210,16 +210,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "The hidden supply chain costs of the AI boom",
-      "desc": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through [&#8230;]",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "pubDate": "2026-11-05T10:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Nasdaq tumbles over 3% as tech stocks extend selloff after Democrats sweep midterms; Tesla plunges 9%, chipmakers slide",
@@ -1060,20 +1050,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Over half of street vendors may cut UPI acceptance if 0.4% MDR is introduced: ISB study",
-      "desc": "More than 67% of street vendors in India currently accept UPI payments for transactions. A proposed 0.4% merchant discount rate could lead to reduced acceptance among vendors. Concerns arise particularly for vendor-supplier transactions, as many vendors make payments above ₹2,000. A significant portion of vendors faced additional charges from suppliers and might pass costs onto customers.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/over-half-of-street-vendors-may-cut-upi-acceptance-if-0-4-mdr-is-introduced-isb-study/articleshow/135546615.cms",
-      "pubDate": "Wed, 04 Nov 2026 23:12:57 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T17:29:42.424Z",
+    "generatedAt": "2026-11-05T17:59:46.651Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1086,7 +1066,7 @@
         "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:21.154Z",
+        "timestamp": "2026-11-05T17:59:27.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1078,7 @@
         "changePct": 2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:21.663Z",
+        "timestamp": "2026-11-05T17:59:28.568Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,7 +1090,7 @@
         "changePct": 3.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:22.073Z",
+        "timestamp": "2026-11-05T17:59:29.111Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1122,7 +1102,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:22.482Z",
+        "timestamp": "2026-11-05T17:59:29.561Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1134,7 +1114,7 @@
         "changePct": 2.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:23.439Z",
+        "timestamp": "2026-11-05T17:59:31.245Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1146,7 +1126,7 @@
         "changePct": 4.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:23.831Z",
+        "timestamp": "2026-11-05T17:59:32.048Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1158,7 +1138,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:24.281Z",
+        "timestamp": "2026-11-05T17:59:32.478Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,7 +1150,7 @@
         "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:24.593Z",
+        "timestamp": "2026-11-05T17:59:32.819Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1182,7 +1162,7 @@
         "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:25.589Z",
+        "timestamp": "2026-11-05T17:59:33.124Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1194,7 +1174,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:26.192Z",
+        "timestamp": "2026-11-05T17:59:33.787Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1206,7 +1186,7 @@
         "changePct": 3.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:26.570Z",
+        "timestamp": "2026-11-05T17:59:34.332Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1198,7 @@
         "changePct": 3.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:29.005Z",
+        "timestamp": "2026-11-05T17:59:34.811Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,7 +1210,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:30.333Z",
+        "timestamp": "2026-11-05T17:59:35.250Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1242,7 +1222,7 @@
         "changePct": 0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:31.088Z",
+        "timestamp": "2026-11-05T17:59:36.561Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1254,43 +1234,43 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:32.127Z",
+        "timestamp": "2026-11-05T17:59:37.592Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7416.71,
-        "change": -271.91,
-        "changePct": -3.54,
+        "price": 7392.6,
+        "change": -296.02,
+        "changePct": -3.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:32.502Z",
+        "timestamp": "2026-11-05T17:59:37.885Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24514.816,
-        "change": -1221.697,
-        "changePct": -4.75,
+        "price": 24426.94,
+        "change": -1309.574,
+        "changePct": -5.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:32.953Z",
+        "timestamp": "2026-11-05T17:59:38.247Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51899.43,
-        "change": -1456.691,
-        "changePct": -2.73,
+        "price": 51773.83,
+        "change": -1582.293,
+        "changePct": -2.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:33.891Z",
+        "timestamp": "2026-11-05T17:59:39.081Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1302,7 +1282,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:34.986Z",
+        "timestamp": "2026-11-05T17:59:39.329Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1314,7 +1294,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:35.418Z",
+        "timestamp": "2026-11-05T17:59:39.633Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1326,7 +1306,7 @@
         "changePct": -1.79,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:35.856Z",
+        "timestamp": "2026-11-05T17:59:40.364Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1338,7 +1318,7 @@
         "changePct": 3.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:36.817Z",
+        "timestamp": "2026-11-05T17:59:40.693Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1350,7 +1330,7 @@
         "changePct": -5.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:37.985Z",
+        "timestamp": "2026-11-05T17:59:42.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1362,19 +1342,19 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T17:29:39.224Z",
+        "timestamp": "2026-11-05T17:59:42.840Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 97.1,
-        "change": 2.48,
-        "changePct": 2.62,
+        "price": 97.41,
+        "change": 2.79,
+        "changePct": 2.95,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T17:29:40.685Z",
+        "timestamp": "2026-11-05T17:59:43.130Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1386,67 +1366,67 @@
         "changePct": 2.62,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T17:29:41.085Z",
+        "timestamp": "2026-11-05T17:59:43.389Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4128.3,
-        "change": 55.3,
-        "changePct": 1.36,
+        "price": 4116.8,
+        "change": 43.8,
+        "changePct": 1.07,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T17:29:41.441Z",
+        "timestamp": "2026-11-05T17:59:45.063Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.67,
-        "change": 0.388,
-        "changePct": 0.74,
+        "price": 52.415,
+        "change": 0.133,
+        "changePct": 0.25,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T17:29:41.684Z",
+        "timestamp": "2026-11-05T17:59:45.973Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.843,
-        "change": -0.051,
-        "changePct": -1.04,
+        "price": 4.831,
+        "change": -0.063,
+        "changePct": -1.29,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-05T17:29:42.022Z",
+        "timestamp": "2026-11-05T17:59:46.250Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 125387,
-        "change": 1686,
-        "changePct": 1.36,
+        "price": 125026,
+        "change": 1324,
+        "changePct": 1.07,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-05T17:29:42.161Z",
+        "timestamp": "2026-11-05T17:59:46.434Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159965,
-        "change": 1178,
-        "changePct": 0.74,
+        "price": 159191,
+        "change": 404,
+        "changePct": 0.25,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-05T17:29:42.332Z",
+        "timestamp": "2026-11-05T17:59:46.539Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1458,7 +1438,7 @@
         "changePct": 2.62,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-05T17:29:42.424Z",
+        "timestamp": "2026-11-05T17:59:46.651Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
