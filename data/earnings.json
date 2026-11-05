@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T05:59:39.517Z",
+  "generatedAt": "2026-11-05T06:29:33.314Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -258,6 +258,12 @@
       "dateISO": "2026-11-06",
       "co": "GTL Infrastructure Limited",
       "tk": "GTLINFRA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-06",
+      "co": "Gammon India Limited",
+      "tk": "GAMMONIND",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1114,6 +1120,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "Intense Technologies Limited",
+      "tk": "INTENTECH",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "Lalithaa Jewellery Mart Limited",
       "tk": "LALITHAA",
       "type": "Q2 FY27 results announcement"
@@ -1170,6 +1182,12 @@
       "dateISO": "2026-11-11",
       "co": "Roto Pumps Limited",
       "tk": "ROTO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
+      "co": "SECUREKLOUD TECHNOLOGIES LIMITED",
+      "tk": "SECURKLOUD",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1302,24 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Associated Alcohols & Breweries Ltd.",
       "tk": "ASALCBR",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Astra Microwave Products Limited",
-      "tk": "ASTRAMICRO",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Avalon Technologies Limited",
-      "tk": "AVALON",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "B. L. Kashyap and Sons Limited",
-      "tk": "BLKASHYAP",
       "type": "Q2 FY27 results announcement"
     }
   ]
