@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:01:29.879Z",
+  "generatedAt": "2026-11-05T13:29:34.511Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1114,6 +1114,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "EAAA India Alternatives Limited",
+      "tk": "EDELALTS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "EIH Associated Hotels Limited",
       "tk": "EIHAHOTELS",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "AION-TECH SOLUTIONS LIMITED",
       "tk": "GOLDTECH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Ace Integrated Solutions Limited",
-      "tk": "ACEINTEG",
       "type": "Q2 FY27 results announcement"
     }
   ]
