@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:29:45.400Z",
+  "generatedAt": "2026-11-05T10:59:46.520Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1180,6 +1180,12 @@
     },
     {
       "dateISO": "2026-11-11",
+      "co": "ORTIN GLOBAL LIMITED",
+      "tk": "ORTINGLOBE",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
       "co": "Orchasp Limited",
       "tk": "ORCHASP",
       "type": "Q2 FY27 results announcement"
@@ -1218,6 +1224,12 @@
       "dateISO": "2026-11-11",
       "co": "SECUREKLOUD TECHNOLOGIES LIMITED",
       "tk": "SECURKLOUD",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
+      "co": "SEPC Limited",
+      "tk": "SEPC",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1309,18 +1321,6 @@
       "co": "Albert David Limited",
       "tk": "ALBERTDAVD",
       "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Alicon Castalloy Limited",
-      "tk": "ALICON",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Alkem Laboratories Limited",
-      "tk": "ALKEM",
-      "type": "Financial results announcement"
     }
   ]
 }
