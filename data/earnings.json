@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:29:35.845Z",
+  "generatedAt": "2026-11-06T19:59:35.087Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1108,6 +1108,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Ola Electric Mobility Limited",
+      "tk": "OLAELEC",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Orient Cables (India) Limited",
       "tk": "ORIENTCABL",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Stanley Lifestyles Limited",
       "tk": "STANLEY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Sunshine Pictures Limited",
-      "tk": "SUNSHINE",
       "type": "Q2 FY27 results announcement"
     }
   ]
