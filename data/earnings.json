@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:29:26.522Z",
+  "generatedAt": "2026-11-06T10:59:29.677Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1072,6 +1072,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Jullundur Motor Agency (Delhi) Limited",
+      "tk": "JMA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "KCP Sugar and Industries Corporation Limited",
       "tk": "KCPSUGIND",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Raj Television Network Limited",
       "tk": "RAJTV",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Rane Holdings Limited",
-      "tk": "RANEHOLDIN",
       "type": "Q2 FY27 results announcement"
     }
   ]
