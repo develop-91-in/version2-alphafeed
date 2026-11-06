@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:29:28.203Z",
+  "generatedAt": "2026-11-06T08:59:26.639Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -784,6 +784,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Cerebra Integrated Technologies Limited",
+      "tk": "CEREBRAINT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Chaman Lal Setia Exports Limited",
       "tk": "CLSEL",
       "type": "Q2 FY27 results announcement"
@@ -978,6 +984,12 @@
       "dateISO": "2026-11-12",
       "co": "IIRM Holdings India Limited",
       "tk": "IIRM",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "India Nippon Electricals Limited",
+      "tk": "INDNIPPON",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1308,18 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Reliance Power Limited",
       "tk": "RPOWER",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Rubfila International Limited",
-      "tk": "RUBFILA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SPML Infra Limited",
-      "tk": "SPMLINFRA",
       "type": "Q2 FY27 results announcement"
     }
   ]
