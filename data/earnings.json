@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:29:29.227Z",
+  "generatedAt": "2026-11-06T07:59:29.463Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -778,6 +778,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Ceinsys Tech Limited",
+      "tk": "CEINSYS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Chaman Lal Setia Exports Limited",
       "tk": "CLSEL",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "SPML Infra Limited",
       "tk": "SPMLINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SRIT India Limited",
-      "tk": "SRIT",
       "type": "Q2 FY27 results announcement"
     }
   ]
