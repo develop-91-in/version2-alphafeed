@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T16:01:20.363Z",
+  "generatedAt": "2026-11-06T17:29:38.816Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -802,6 +802,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Consolidated Finvest & Holdings Limited",
+      "tk": "CONSOFINVT",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Country Condo's Limited",
       "tk": "COUNCODOS",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Prakash Pipes Limited",
       "tk": "PPL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Premier Explosives Limited",
-      "tk": "PREMEXPLN",
       "type": "Q2 FY27 results announcement"
     }
   ]
