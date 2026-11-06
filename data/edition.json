@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-05T23:29:28.062Z",
+  "generatedAt": "2026-11-05T23:59:45.929Z",
   "articles": [
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "desc": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "pubDate": "2026-11-05T18:17:10-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Perplexity launches its own take on AI agents for work",
       "desc": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
@@ -72,16 +82,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "AI stocks plunge after US election, driving down markets",
-      "desc": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-      "pubDate": "Thu, 05 Nov 2026 17:56:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
       "desc": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
       "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
@@ -90,6 +90,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "desc": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "pubDate": "2026-11-05T18:17:10-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Perplexity launches its own take on AI agents for work",
@@ -200,16 +210,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "desc": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "pubDate": "2026-11-05T12:51:52-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -1073,7 +1073,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-05T23:29:28.062Z",
+    "generatedAt": "2026-11-05T23:59:45.929Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1086,7 +1086,7 @@
         "changePct": 2.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:17.244Z",
+        "timestamp": "2026-11-05T23:59:33.501Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1098,7 +1098,7 @@
         "changePct": 2.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:18.050Z",
+        "timestamp": "2026-11-05T23:59:34.215Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1110,7 +1110,7 @@
         "changePct": 3.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:18.314Z",
+        "timestamp": "2026-11-05T23:59:34.816Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1122,7 +1122,7 @@
         "changePct": -0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:18.618Z",
+        "timestamp": "2026-11-05T23:59:35.249Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1134,7 +1134,7 @@
         "changePct": 2.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:18.891Z",
+        "timestamp": "2026-11-05T23:59:35.761Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1146,7 +1146,7 @@
         "changePct": 4.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:19.253Z",
+        "timestamp": "2026-11-05T23:59:36.333Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1158,7 +1158,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:19.679Z",
+        "timestamp": "2026-11-05T23:59:36.720Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1170,7 +1170,7 @@
         "changePct": 0.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:19.954Z",
+        "timestamp": "2026-11-05T23:59:37.154Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1182,7 +1182,7 @@
         "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:20.245Z",
+        "timestamp": "2026-11-05T23:59:37.492Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1194,7 +1194,7 @@
         "changePct": -0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:20.514Z",
+        "timestamp": "2026-11-05T23:59:37.820Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1206,7 +1206,7 @@
         "changePct": 3.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:21.082Z",
+        "timestamp": "2026-11-05T23:59:38.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1218,7 +1218,7 @@
         "changePct": 3.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:21.457Z",
+        "timestamp": "2026-11-05T23:59:38.667Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1230,7 +1230,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:21.784Z",
+        "timestamp": "2026-11-05T23:59:38.994Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1242,7 +1242,7 @@
         "changePct": 0.62,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:22.090Z",
+        "timestamp": "2026-11-05T23:59:39.294Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1254,7 +1254,7 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:22.593Z",
+        "timestamp": "2026-11-05T23:59:39.794Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1266,7 +1266,7 @@
         "changePct": -4.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:23.052Z",
+        "timestamp": "2026-11-05T23:59:40.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1278,7 +1278,7 @@
         "changePct": -5.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:23.359Z",
+        "timestamp": "2026-11-05T23:59:40.514Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1290,7 +1290,7 @@
         "changePct": -3.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:23.632Z",
+        "timestamp": "2026-11-05T23:59:40.856Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1302,7 +1302,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:23.940Z",
+        "timestamp": "2026-11-05T23:59:41.261Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1314,7 +1314,7 @@
         "changePct": -0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:24.433Z",
+        "timestamp": "2026-11-05T23:59:41.561Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1326,7 +1326,7 @@
         "changePct": -1.79,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:24.827Z",
+        "timestamp": "2026-11-05T23:59:41.919Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1338,7 +1338,7 @@
         "changePct": 3.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:25.397Z",
+        "timestamp": "2026-11-05T23:59:42.205Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1350,7 +1350,7 @@
         "changePct": -5.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:25.676Z",
+        "timestamp": "2026-11-05T23:59:42.539Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1362,55 +1362,55 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-05T23:29:25.968Z",
+        "timestamp": "2026-11-05T23:59:42.822Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 99.46,
-        "change": 1.17,
-        "changePct": 1.19,
+        "price": 99.32,
+        "change": 1.03,
+        "changePct": 1.05,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T23:29:26.346Z",
+        "timestamp": "2026-11-05T23:59:43.198Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 91.33,
-        "change": 0.81,
-        "changePct": 0.9,
+        "price": 91.26,
+        "change": 0.74,
+        "changePct": 0.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-05T23:29:26.800Z",
+        "timestamp": "2026-11-05T23:59:44.252Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4082.3,
-        "change": -31.2,
-        "changePct": -0.76,
+        "price": 4099.5,
+        "change": -14,
+        "changePct": -0.34,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T23:29:27.072Z",
+        "timestamp": "2026-11-05T23:59:44.655Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.285,
-        "change": -1.091,
-        "changePct": -2.08,
+        "price": 51.755,
+        "change": -0.621,
+        "changePct": -1.19,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-05T23:29:27.312Z",
+        "timestamp": "2026-11-05T23:59:44.979Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1422,43 +1422,43 @@
         "changePct": -1.17,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-05T23:29:27.601Z",
+        "timestamp": "2026-11-05T23:59:45.332Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123984,
-        "change": -948,
-        "changePct": -0.76,
+        "price": 124507,
+        "change": -425,
+        "changePct": -0.34,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-05T23:29:27.769Z",
+        "timestamp": "2026-11-05T23:59:45.575Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 155774,
-        "change": -3298,
-        "changePct": -2.07,
+        "price": 157186,
+        "change": -1886,
+        "changePct": -1.19,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-05T23:29:27.933Z",
+        "timestamp": "2026-11-05T23:59:45.804Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8627,
-        "change": 77,
-        "changePct": 0.9,
+        "price": 8621,
+        "change": 70,
+        "changePct": 0.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-05T23:29:28.062Z",
+        "timestamp": "2026-11-05T23:59:45.929Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
