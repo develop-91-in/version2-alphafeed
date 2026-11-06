@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T11:29:27.597Z",
+  "generatedAt": "2026-11-06T12:00:02.404Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1096,6 +1096,18 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Lancor Holdings Limited",
+      "tk": "LANCORHOL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "Laser Power & Infra Limited",
+      "tk": "LASERPOWER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Liberty Shoes Limited",
       "tk": "LIBERTSHOE",
       "type": "Q2 FY27 results announcement"
@@ -1194,6 +1206,12 @@
       "dateISO": "2026-11-12",
       "co": "NAVA LIMITED",
       "tk": "NAVA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "NCL Industries Limited",
+      "tk": "NCLIND",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1302,24 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Procter & Gamble Hygiene and Health Care Limited",
       "tk": "PGHH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "R K Swamy Limited",
-      "tk": "RKSWAMY",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Radaan Mediaworks India Limited",
-      "tk": "RADAAN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Radiant Cash Management Services Limited",
-      "tk": "RADIANTCMS",
       "type": "Q2 FY27 results announcement"
     }
   ]
