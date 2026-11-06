@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-06T18:12:42.887Z",
+  "generatedAt": "2026-11-06T18:29:29.532Z",
   "articles": [
+    {
+      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "desc": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:09:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US city votes to divest from Israel",
       "desc": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
@@ -8,6 +18,16 @@
       "pubDate": "Fri, 06 Nov 2026 17:40:13 +0000",
       "image": "",
       "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Food bank to close amid rising costs",
+      "desc": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
+      "image": "",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,24 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
-      "desc": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data revive concerns over a December Fed rate hike. Airbnb rallies after raising its full-year revenue growth forecast, while Atlassian shares decline.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
-      "pubDate": "Fri, 06 Nov 2026 20:10:26 +0530",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "desc": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, [&#8230;]",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "pubDate": "2026-11-06T13:10:10-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
-      "desc": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
-      "link": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
-      "pubDate": "Fri, 06 Nov 2026 13:49:07 +0000",
+      "title": "Yemeni gov’t forces, Houthis trade blame for deadly strikes on Taiz market",
+      "desc": "The attack on al-Hadara market in Taiz governorate&#039;s al-Waziiya district killed at least 30 people, Houthi rebels say.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/yemeni-govt-forces-houthis-trade-blame-for-deadly-strikes-on-taiz-market?traffic_source=rss",
+      "pubDate": "Fri, 06 Nov 2026 18:09:49 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "US city votes to divest from Israel",
@@ -120,6 +140,16 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "Food bank to close amid rising costs",
+      "desc": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 06 Nov 2026 16:42:23 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Taiwan to close representative office in Papua New Guinea, blames China",
@@ -983,7 +1013,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-06T18:12:42.887Z",
+    "generatedAt": "2026-11-06T18:29:29.532Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -996,7 +1026,7 @@
         "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.122Z",
+        "timestamp": "2026-11-06T18:29:18.850Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1008,7 +1038,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.234Z",
+        "timestamp": "2026-11-06T18:29:19.465Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1050,7 @@
         "changePct": 2.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.307Z",
+        "timestamp": "2026-11-06T18:29:19.777Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1062,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.390Z",
+        "timestamp": "2026-11-06T18:29:20.037Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1074,7 @@
         "changePct": 0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.480Z",
+        "timestamp": "2026-11-06T18:29:20.313Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1086,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.557Z",
+        "timestamp": "2026-11-06T18:29:20.552Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1098,7 @@
         "changePct": 1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.631Z",
+        "timestamp": "2026-11-06T18:29:21.050Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1110,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.704Z",
+        "timestamp": "2026-11-06T18:29:22.096Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1122,7 @@
         "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.790Z",
+        "timestamp": "2026-11-06T18:29:22.565Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,7 +1134,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.865Z",
+        "timestamp": "2026-11-06T18:29:22.829Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,7 +1146,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:40.939Z",
+        "timestamp": "2026-11-06T18:29:23.149Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1158,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.011Z",
+        "timestamp": "2026-11-06T18:29:23.455Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1170,7 @@
         "changePct": 0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.096Z",
+        "timestamp": "2026-11-06T18:29:23.749Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1182,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.243Z",
+        "timestamp": "2026-11-06T18:29:23.985Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,43 +1194,43 @@
         "changePct": -1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.320Z",
+        "timestamp": "2026-11-06T18:29:24.355Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7392.4,
-        "change": 38.67,
-        "changePct": 0.53,
+        "price": 7396.88,
+        "change": 43.15,
+        "changePct": 0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.591Z",
+        "timestamp": "2026-11-06T18:29:24.585Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24574.479,
-        "change": 259.48,
-        "changePct": 1.07,
+        "price": 24607.166,
+        "change": 292.168,
+        "changePct": 1.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.664Z",
+        "timestamp": "2026-11-06T18:29:24.895Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51479.92,
-        "change": -43.137,
-        "changePct": -0.08,
+        "price": 51476.98,
+        "change": -46.078,
+        "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.724Z",
+        "timestamp": "2026-11-06T18:29:25.567Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1242,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.797Z",
+        "timestamp": "2026-11-06T18:29:25.870Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,7 +1254,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:41.938Z",
+        "timestamp": "2026-11-06T18:29:26.352Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1236,7 +1266,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:42.008Z",
+        "timestamp": "2026-11-06T18:29:26.622Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1278,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:42.085Z",
+        "timestamp": "2026-11-06T18:29:26.868Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1290,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:42.164Z",
+        "timestamp": "2026-11-06T18:29:27.197Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,103 +1302,103 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-06T18:12:42.313Z",
+        "timestamp": "2026-11-06T18:29:27.498Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 97.16,
-        "change": -1.13,
-        "changePct": -1.15,
+        "price": 97.23,
+        "change": -1.06,
+        "changePct": -1.08,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-06T18:12:42.393Z",
+        "timestamp": "2026-11-06T18:29:27.808Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 89.73,
-        "change": -0.79,
-        "changePct": -0.87,
+        "price": 89.85,
+        "change": -0.67,
+        "changePct": -0.74,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-06T18:12:42.472Z",
+        "timestamp": "2026-11-06T18:29:28.043Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4071.8,
-        "change": -41.7,
+        "price": 4071.9,
+        "change": -41.6,
         "changePct": -1.01,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-06T18:12:42.547Z",
+        "timestamp": "2026-11-06T18:29:28.281Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.905,
-        "change": -0.471,
-        "changePct": -0.9,
+        "price": 51.945,
+        "change": -0.431,
+        "changePct": -0.82,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-06T18:12:42.633Z",
+        "timestamp": "2026-11-06T18:29:28.501Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.831,
-        "change": -0.006,
-        "changePct": -0.12,
+        "price": 4.841,
+        "change": 0.004,
+        "changePct": 0.08,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-06T18:12:42.706Z",
+        "timestamp": "2026-11-06T18:29:29.134Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 122919,
-        "change": -1259,
-        "changePct": -1.01,
+        "price": 122931,
+        "change": -1247,
+        "changePct": -1,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-06T18:12:42.782Z",
+        "timestamp": "2026-11-06T18:29:29.281Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 156690,
-        "change": -1422,
-        "changePct": -0.9,
+        "price": 156811,
+        "change": -1301,
+        "changePct": -0.82,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-06T18:12:42.863Z",
+        "timestamp": "2026-11-06T18:29:29.455Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8425,
-        "change": -74,
-        "changePct": -0.87,
+        "price": 8436,
+        "change": -63,
+        "changePct": -0.74,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-06T18:12:42.887Z",
+        "timestamp": "2026-11-06T18:29:29.532Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
