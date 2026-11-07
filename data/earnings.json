@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T08:29:39.314Z",
+  "generatedAt": "2026-11-07T08:59:36.800Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -570,6 +570,12 @@
       "dateISO": "2026-11-12",
       "co": "Astra Microwave Products Limited",
       "tk": "ASTRAMICRO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "Automotive Axles Limited",
+      "tk": "AUTOAXLES",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1315,12 +1321,6 @@
       "co": "Sharda Motor Industries Limited",
       "tk": "SHARDAMOTR",
       "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Shiva Mills Limited",
-      "tk": "SHIVAMILLS",
-      "type": "Financial results announcement"
     }
   ]
 }
