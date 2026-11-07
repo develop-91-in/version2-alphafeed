@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T05:59:35.602Z",
+  "generatedAt": "2026-11-07T06:29:40.444Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -498,6 +498,12 @@
       "dateISO": "2026-11-12",
       "co": "Alphageo (India) Limited",
       "tk": "ALPHAGEO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "Amber Enterprises India Limited",
+      "tk": "AMBER",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Singer India Limited",
       "tk": "SINGERIND",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Sri Havisha Hospitality and Infrastructure Limited",
-      "tk": "HAVISHA",
       "type": "Q2 FY27 results announcement"
     }
   ]
