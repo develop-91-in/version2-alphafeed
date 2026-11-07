@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T14:59:39.261Z",
+  "generatedAt": "2026-11-07T15:29:26.527Z",
   "articles": [
     {
       "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
@@ -82,6 +82,36 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 15:19:35 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "desc": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "pubDate": "2026-11-07T10:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Baxters fish soup cans recalled over fears they could 'swell and potentially rupture'",
+      "desc": "A manufacturing fault could cause a batch of the Cullen Skink soup to spoil, and cans could swell and burst.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2l4590188ro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sat, 07 Nov 2026 14:28:40 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
       "desc": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
       "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
@@ -90,16 +120,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "desc": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 13:02:21 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Why a new report on Anthropic automating AI development is alarming researchers",
@@ -190,16 +210,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Paraguay's president impeached after collapse of bank",
-      "desc": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Sat, 07 Nov 2026 07:20:00 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
@@ -433,7 +443,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T14:59:39.261Z",
+    "generatedAt": "2026-11-07T15:29:26.527Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -446,7 +456,7 @@
         "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:22.635Z",
+        "timestamp": "2026-11-07T15:29:16.093Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -458,7 +468,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:23.921Z",
+        "timestamp": "2026-11-07T15:29:16.884Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -470,7 +480,7 @@
         "changePct": 2.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:25.312Z",
+        "timestamp": "2026-11-07T15:29:17.396Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -482,7 +492,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:26.041Z",
+        "timestamp": "2026-11-07T15:29:17.767Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -494,7 +504,7 @@
         "changePct": 0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:26.429Z",
+        "timestamp": "2026-11-07T15:29:18.182Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -506,7 +516,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:26.666Z",
+        "timestamp": "2026-11-07T15:29:18.500Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -518,7 +528,7 @@
         "changePct": 1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:27.105Z",
+        "timestamp": "2026-11-07T15:29:18.801Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -530,7 +540,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:27.345Z",
+        "timestamp": "2026-11-07T15:29:19.135Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -542,7 +552,7 @@
         "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:28.025Z",
+        "timestamp": "2026-11-07T15:29:19.410Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -554,7 +564,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:28.766Z",
+        "timestamp": "2026-11-07T15:29:19.757Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -566,7 +576,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:29.665Z",
+        "timestamp": "2026-11-07T15:29:20.104Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -578,7 +588,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:30.001Z",
+        "timestamp": "2026-11-07T15:29:20.418Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -590,7 +600,7 @@
         "changePct": 0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:30.343Z",
+        "timestamp": "2026-11-07T15:29:20.689Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -602,7 +612,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:30.805Z",
+        "timestamp": "2026-11-07T15:29:21.016Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -614,7 +624,7 @@
         "changePct": -1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:31.116Z",
+        "timestamp": "2026-11-07T15:29:21.269Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -626,7 +636,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:31.317Z",
+        "timestamp": "2026-11-07T15:29:21.875Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -638,7 +648,7 @@
         "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:31.866Z",
+        "timestamp": "2026-11-07T15:29:22.146Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -650,7 +660,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:32.340Z",
+        "timestamp": "2026-11-07T15:29:22.536Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -662,7 +672,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:32.677Z",
+        "timestamp": "2026-11-07T15:29:22.809Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -674,7 +684,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:32.908Z",
+        "timestamp": "2026-11-07T15:29:23.157Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -686,7 +696,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:34.150Z",
+        "timestamp": "2026-11-07T15:29:23.410Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -698,7 +708,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:34.369Z",
+        "timestamp": "2026-11-07T15:29:23.881Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -710,7 +720,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:34.709Z",
+        "timestamp": "2026-11-07T15:29:24.159Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -722,7 +732,7 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T14:59:35.631Z",
+        "timestamp": "2026-11-07T15:29:24.530Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -734,7 +744,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T14:59:37.359Z",
+        "timestamp": "2026-11-07T15:29:24.785Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -746,7 +756,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T14:59:37.796Z",
+        "timestamp": "2026-11-07T15:29:25.092Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -758,7 +768,7 @@
         "changePct": -0.94,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T14:59:38.201Z",
+        "timestamp": "2026-11-07T15:29:25.346Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -770,7 +780,7 @@
         "changePct": -0.83,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T14:59:38.538Z",
+        "timestamp": "2026-11-07T15:29:25.620Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -782,7 +792,7 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-07T14:59:38.838Z",
+        "timestamp": "2026-11-07T15:29:25.924Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -794,7 +804,7 @@
         "changePct": -0.94,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-07T14:59:38.962Z",
+        "timestamp": "2026-11-07T15:29:26.175Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -806,7 +816,7 @@
         "changePct": -0.83,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-07T14:59:39.162Z",
+        "timestamp": "2026-11-07T15:29:26.371Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -818,7 +828,7 @@
         "changePct": 0.34,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-07T14:59:39.261Z",
+        "timestamp": "2026-11-07T15:29:26.527Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
