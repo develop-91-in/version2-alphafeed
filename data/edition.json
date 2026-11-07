@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T18:29:28.564Z",
+  "generatedAt": "2026-11-07T18:59:23.406Z",
   "articles": [
     {
       "title": "What we know about Krakow mass shooting so far",
@@ -52,16 +52,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
       "desc": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
@@ -76,6 +66,16 @@
       "desc": "Amid the Sensex’s 8.82% five-session rally, several BSE 200 stocks posted consecutive gains. Here are 10 stocks that advanced every session between November 2 and 6, delivering returns of 14–19%.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
       "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
+      "desc": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "pubDate": "Sat, 07 Nov 2026 11:31:15 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
@@ -180,16 +180,6 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-      "desc": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 12:24:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
@@ -390,20 +380,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "Why the US midterms sparked an AI stock selloff",
-      "desc": "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-      "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 06 Nov 2026 18:32:16 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T18:29:28.564Z",
+    "generatedAt": "2026-11-07T18:59:23.406Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -416,7 +396,7 @@
         "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:17.386Z",
+        "timestamp": "2026-11-07T18:59:15.164Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -428,7 +408,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:18.124Z",
+        "timestamp": "2026-11-07T18:59:15.773Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -440,7 +420,7 @@
         "changePct": 2.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:18.482Z",
+        "timestamp": "2026-11-07T18:59:16.007Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -452,7 +432,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:18.901Z",
+        "timestamp": "2026-11-07T18:59:16.393Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -464,7 +444,7 @@
         "changePct": 0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:19.192Z",
+        "timestamp": "2026-11-07T18:59:16.673Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -476,7 +456,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:19.529Z",
+        "timestamp": "2026-11-07T18:59:16.911Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -488,7 +468,7 @@
         "changePct": 1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:20.371Z",
+        "timestamp": "2026-11-07T18:59:17.193Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -500,7 +480,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:20.697Z",
+        "timestamp": "2026-11-07T18:59:17.444Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -512,7 +492,7 @@
         "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:21.037Z",
+        "timestamp": "2026-11-07T18:59:17.684Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -524,7 +504,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:21.661Z",
+        "timestamp": "2026-11-07T18:59:18.050Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -536,7 +516,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:21.969Z",
+        "timestamp": "2026-11-07T18:59:18.304Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -548,7 +528,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:22.285Z",
+        "timestamp": "2026-11-07T18:59:18.609Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -560,7 +540,7 @@
         "changePct": 0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:22.637Z",
+        "timestamp": "2026-11-07T18:59:18.880Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -572,7 +552,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:23.002Z",
+        "timestamp": "2026-11-07T18:59:19.246Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -584,7 +564,7 @@
         "changePct": -1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:23.300Z",
+        "timestamp": "2026-11-07T18:59:19.473Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -596,7 +576,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:23.558Z",
+        "timestamp": "2026-11-07T18:59:19.714Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -608,7 +588,7 @@
         "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:23.835Z",
+        "timestamp": "2026-11-07T18:59:19.907Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -620,7 +600,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:24.170Z",
+        "timestamp": "2026-11-07T18:59:20.162Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -632,7 +612,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:24.520Z",
+        "timestamp": "2026-11-07T18:59:20.388Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -644,7 +624,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:24.915Z",
+        "timestamp": "2026-11-07T18:59:20.612Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -656,7 +636,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:25.483Z",
+        "timestamp": "2026-11-07T18:59:20.847Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -668,7 +648,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:25.786Z",
+        "timestamp": "2026-11-07T18:59:21.071Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -680,7 +660,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:26.132Z",
+        "timestamp": "2026-11-07T18:59:21.461Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -692,7 +672,7 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:29:26.451Z",
+        "timestamp": "2026-11-07T18:59:21.748Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -704,7 +684,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T18:29:26.739Z",
+        "timestamp": "2026-11-07T18:59:22.000Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -716,7 +696,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T18:29:27.062Z",
+        "timestamp": "2026-11-07T18:59:22.262Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -728,7 +708,7 @@
         "changePct": -0.94,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T18:29:27.362Z",
+        "timestamp": "2026-11-07T18:59:22.545Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -740,7 +720,7 @@
         "changePct": -0.83,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T18:29:27.715Z",
+        "timestamp": "2026-11-07T18:59:22.859Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -752,7 +732,7 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-07T18:29:28.006Z",
+        "timestamp": "2026-11-07T18:59:23.088Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -764,7 +744,7 @@
         "changePct": -0.94,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-07T18:29:28.216Z",
+        "timestamp": "2026-11-07T18:59:23.204Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -776,7 +756,7 @@
         "changePct": -0.83,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-07T18:29:28.406Z",
+        "timestamp": "2026-11-07T18:59:23.329Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -788,7 +768,7 @@
         "changePct": 0.34,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-07T18:29:28.564Z",
+        "timestamp": "2026-11-07T18:59:23.406Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
