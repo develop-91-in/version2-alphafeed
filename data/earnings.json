@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:29:33.105Z",
+  "generatedAt": "2026-11-07T11:59:56.818Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -940,6 +940,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Jinkushal Industries Limited",
+      "tk": "JKIPL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Jullundur Motor Agency (Delhi) Limited",
       "tk": "JMA",
       "type": "Q2 FY27 results announcement"
@@ -1308,12 +1314,6 @@
       "dateISO": "2026-11-12",
       "co": "SPML Infra Limited",
       "tk": "SPMLINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SRIT India Limited",
-      "tk": "SRIT",
       "type": "Q2 FY27 results announcement"
     },
     {
