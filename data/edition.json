@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-07T18:59:23.406Z",
+  "generatedAt": "2026-11-07T19:29:33.392Z",
   "articles": [
+    {
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "desc": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 19:10:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "What we know about Krakow mass shooting so far",
       "desc": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
-      "desc": "Wall Street is undergoing notable shifts as worries about the AI investment frenzy and political developments arise. This sharp sell-off brings forth doubts about the viability of AI infrastructure investments, scrutinizing valuations and corporate expenditures. The Democratic majority in Congress poses regulatory challenges, amplifying economic tensions. Investors are leaning towards more conservative sectors, yearning for assurance that AI investments will deliver anticipated results amidst these turbulent times.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-      "pubDate": "Sat, 07 Nov 2026 11:31:15 +0530",
+      "title": "Latvian farmers protest over ‘blood grain’ trade with Russia",
+      "desc": "Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss",
+      "pubDate": "Sat, 07 Nov 2026 19:10:34 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "What we know about Krakow mass shooting so far",
@@ -383,7 +393,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T18:59:23.406Z",
+    "generatedAt": "2026-11-07T19:29:33.392Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -396,7 +406,7 @@
         "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:15.164Z",
+        "timestamp": "2026-11-07T19:29:23.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -408,7 +418,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:15.773Z",
+        "timestamp": "2026-11-07T19:29:23.562Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -420,7 +430,7 @@
         "changePct": 2.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:16.007Z",
+        "timestamp": "2026-11-07T19:29:23.833Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -432,7 +442,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:16.393Z",
+        "timestamp": "2026-11-07T19:29:24.076Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -444,7 +454,7 @@
         "changePct": 0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:16.673Z",
+        "timestamp": "2026-11-07T19:29:24.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -456,7 +466,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:16.911Z",
+        "timestamp": "2026-11-07T19:29:24.611Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -468,7 +478,7 @@
         "changePct": 1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:17.193Z",
+        "timestamp": "2026-11-07T19:29:24.941Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -480,7 +490,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:17.444Z",
+        "timestamp": "2026-11-07T19:29:25.213Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -492,7 +502,7 @@
         "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:17.684Z",
+        "timestamp": "2026-11-07T19:29:25.475Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -504,7 +514,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:18.050Z",
+        "timestamp": "2026-11-07T19:29:25.782Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -516,7 +526,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:18.304Z",
+        "timestamp": "2026-11-07T19:29:26.604Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -528,7 +538,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:18.609Z",
+        "timestamp": "2026-11-07T19:29:26.854Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -540,7 +550,7 @@
         "changePct": 0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:18.880Z",
+        "timestamp": "2026-11-07T19:29:27.128Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -552,7 +562,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:19.246Z",
+        "timestamp": "2026-11-07T19:29:27.403Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -564,7 +574,7 @@
         "changePct": -1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:19.473Z",
+        "timestamp": "2026-11-07T19:29:27.668Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -576,7 +586,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:19.714Z",
+        "timestamp": "2026-11-07T19:29:27.906Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -588,7 +598,7 @@
         "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:19.907Z",
+        "timestamp": "2026-11-07T19:29:28.215Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -600,7 +610,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:20.162Z",
+        "timestamp": "2026-11-07T19:29:28.484Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -612,7 +622,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:20.388Z",
+        "timestamp": "2026-11-07T19:29:28.792Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -624,7 +634,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:20.612Z",
+        "timestamp": "2026-11-07T19:29:29.256Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -636,7 +646,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:20.847Z",
+        "timestamp": "2026-11-07T19:29:29.605Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -648,7 +658,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:21.071Z",
+        "timestamp": "2026-11-07T19:29:30.095Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -660,7 +670,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:21.461Z",
+        "timestamp": "2026-11-07T19:29:30.441Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -672,7 +682,7 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T18:59:21.748Z",
+        "timestamp": "2026-11-07T19:29:30.775Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -684,7 +694,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T18:59:22.000Z",
+        "timestamp": "2026-11-07T19:29:31.118Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -696,7 +706,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T18:59:22.262Z",
+        "timestamp": "2026-11-07T19:29:31.404Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -708,7 +718,7 @@
         "changePct": -0.94,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T18:59:22.545Z",
+        "timestamp": "2026-11-07T19:29:31.669Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -720,7 +730,7 @@
         "changePct": -0.83,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T18:59:22.859Z",
+        "timestamp": "2026-11-07T19:29:32.042Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -732,7 +742,7 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-07T18:59:23.088Z",
+        "timestamp": "2026-11-07T19:29:33.001Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -744,7 +754,7 @@
         "changePct": -0.94,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-07T18:59:23.204Z",
+        "timestamp": "2026-11-07T19:29:33.141Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -756,7 +766,7 @@
         "changePct": -0.83,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-07T18:59:23.329Z",
+        "timestamp": "2026-11-07T19:29:33.300Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -768,7 +778,7 @@
         "changePct": 0.34,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-07T18:59:23.406Z",
+        "timestamp": "2026-11-07T19:29:33.392Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
