@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-07T10:59:23.744Z",
+  "generatedAt": "2026-11-07T11:29:21.631Z",
   "articles": [
+    {
+      "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "desc": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "pubDate": "Sat, 07 Nov 2026 16:37:31 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Sudan war and climate change see parents struggle to feed their children",
       "desc": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Paraguay’s Pena under military protection in bank collapse chaos",
-      "desc": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
-      "pubDate": "Sat, 07 Nov 2026 05:51:23 +0000",
+      "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
+      "desc": "Indian equity markets rallied significantly following the results of the US midterm elections, which were favorable for investors. The Nifty Index saw a large gain and reclaimed important moving averages, indicating improved market sentiment. Some consolidation is expected, as the Index approaches broader resistance levels between 25,000 and 25,200. Various sector indices showed differing momentum as they contrasted against the broader Nifty 500 Index.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+      "pubDate": "Sat, 07 Nov 2026 16:37:31 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Sudan war and climate change see parents struggle to feed their children",
@@ -590,40 +600,10 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
-      "desc": "Ske Jarzenske and other Trump Media investors are facing severe losses as the company's stock value has plummeted. Many investors had high hopes for the social media platform, believing in its potential profitability under Trump's leadership. Instead, Trump Media's shares have lost significant value, and discontent among shareholders has grown. The company's revenue remains stagnant, leading investors to question management practices and investor trust.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:58:37 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
-      "desc": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. The three-month copper rate on the London Metal Exchange fell to a low not seen since late July. While tight supply, particularly outside the US, has cushioned further losses, a significant drop in copper stocks within Chinese warehouses is intensifying supply anxieties.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:54:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
-      "desc": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. Revenue from operations grew significantly to Rs 5,734 crore, up from Rs 4,900 crore a year prior. Additionally, new orders reached Rs 6,228 crore, a notable 38% increase year-over-year.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
-      "pubDate": "Fri, 06 Nov 2026 16:52:53 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-07T10:59:23.743Z",
+    "generatedAt": "2026-11-07T11:29:21.630Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -636,7 +616,7 @@
         "changePct": 2.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:14.431Z",
+        "timestamp": "2026-11-07T11:29:13.426Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -648,7 +628,7 @@
         "changePct": 2.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:14.987Z",
+        "timestamp": "2026-11-07T11:29:13.960Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -660,7 +640,7 @@
         "changePct": 2.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:15.256Z",
+        "timestamp": "2026-11-07T11:29:14.225Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -672,7 +652,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:15.477Z",
+        "timestamp": "2026-11-07T11:29:14.468Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -684,7 +664,7 @@
         "changePct": 0.43,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:15.728Z",
+        "timestamp": "2026-11-07T11:29:14.762Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -696,7 +676,7 @@
         "changePct": 0.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:16.021Z",
+        "timestamp": "2026-11-07T11:29:15.044Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -708,7 +688,7 @@
         "changePct": 1.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:16.275Z",
+        "timestamp": "2026-11-07T11:29:15.301Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -720,7 +700,7 @@
         "changePct": 0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:16.498Z",
+        "timestamp": "2026-11-07T11:29:15.548Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -732,7 +712,7 @@
         "changePct": 0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:17.006Z",
+        "timestamp": "2026-11-07T11:29:15.868Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -744,7 +724,7 @@
         "changePct": -0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:17.254Z",
+        "timestamp": "2026-11-07T11:29:16.125Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -756,7 +736,7 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:17.609Z",
+        "timestamp": "2026-11-07T11:29:16.473Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -768,7 +748,7 @@
         "changePct": 0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:17.851Z",
+        "timestamp": "2026-11-07T11:29:16.717Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -780,7 +760,7 @@
         "changePct": 0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:18.346Z",
+        "timestamp": "2026-11-07T11:29:16.968Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -792,7 +772,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:18.622Z",
+        "timestamp": "2026-11-07T11:29:17.226Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -804,7 +784,7 @@
         "changePct": -1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:18.873Z",
+        "timestamp": "2026-11-07T11:29:17.488Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -816,7 +796,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:19.094Z",
+        "timestamp": "2026-11-07T11:29:17.749Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -828,7 +808,7 @@
         "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:19.358Z",
+        "timestamp": "2026-11-07T11:29:18.007Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -840,7 +820,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:19.646Z",
+        "timestamp": "2026-11-07T11:29:18.325Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -852,7 +832,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:19.929Z",
+        "timestamp": "2026-11-07T11:29:18.589Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -864,7 +844,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:20.150Z",
+        "timestamp": "2026-11-07T11:29:18.832Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -876,7 +856,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:20.630Z",
+        "timestamp": "2026-11-07T11:29:19.097Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -888,7 +868,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:20.874Z",
+        "timestamp": "2026-11-07T11:29:19.343Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -900,7 +880,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:21.179Z",
+        "timestamp": "2026-11-07T11:29:19.598Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -912,7 +892,7 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-07T10:59:21.434Z",
+        "timestamp": "2026-11-07T11:29:19.847Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -924,7 +904,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T10:59:22.008Z",
+        "timestamp": "2026-11-07T11:29:20.103Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -936,7 +916,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-07T10:59:22.692Z",
+        "timestamp": "2026-11-07T11:29:20.346Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -948,7 +928,7 @@
         "changePct": -0.94,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T10:59:22.958Z",
+        "timestamp": "2026-11-07T11:29:20.725Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -960,7 +940,7 @@
         "changePct": -0.83,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-07T10:59:23.184Z",
+        "timestamp": "2026-11-07T11:29:20.996Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -972,7 +952,7 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-07T10:59:23.420Z",
+        "timestamp": "2026-11-07T11:29:21.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -984,7 +964,7 @@
         "changePct": -0.94,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-07T10:59:23.534Z",
+        "timestamp": "2026-11-07T11:29:21.368Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -996,7 +976,7 @@
         "changePct": -0.83,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-07T10:59:23.671Z",
+        "timestamp": "2026-11-07T11:29:21.519Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1008,7 +988,7 @@
         "changePct": 0.34,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-07T10:59:23.743Z",
+        "timestamp": "2026-11-07T11:29:21.630Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
