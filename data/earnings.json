@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:29:37.930Z",
+  "generatedAt": "2026-11-07T17:29:32.394Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -414,6 +414,12 @@
       "dateISO": "2026-11-11",
       "co": "Sical Logistics Limited",
       "tk": "SICALLOG",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
+      "co": "Soma Textiles & Industries Limited",
+      "tk": "SOMATEX",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "S. P. Apparels Limited",
       "tk": "SPAL",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SPML Infra Limited",
-      "tk": "SPMLINFRA",
       "type": "Q2 FY27 results announcement"
     }
   ]
