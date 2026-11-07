@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:53:58.295Z",
+  "generatedAt": "2026-11-07T09:59:35.163Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1186,6 +1186,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Prajay Engineers Syndicate Limited",
+      "tk": "PRAENG",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Prakash Industries Limited",
       "tk": "PRAKASH",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "SRIT India Limited",
       "tk": "SRIT",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Salzer Electronics Limited",
-      "tk": "SALZERELEC",
       "type": "Q2 FY27 results announcement"
     }
   ]
