@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:11:33.191Z",
+  "generatedAt": "2026-11-08T17:29:27.533Z",
   "articles": [
     {
       "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
@@ -52,16 +52,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "desc": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 09:30:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "How the deadly shooting in Krakow unfolded",
       "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss",
@@ -78,6 +68,16 @@
       "pubDate": "Sun, 08 Nov 2026 07:11:02 GMT",
       "image": "",
       "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+      "desc": "Despite the Nifty 50 declining nearly 3% since Diwali 2025, eight BSE 500 stocks more than doubled investors' wealth. Data from ACE Equities shows Aditya Infotech, HFCL, and Welspun Corp leading the rally with returns of up to 191% over the past year.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+      "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -152,16 +152,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
-      "desc": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
-      "pubDate": "Sun, 08 Nov 2026 09:30:17 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "How the deadly shooting in Krakow unfolded",
       "desc": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
       "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&amp;at_campaign=rss",
@@ -170,6 +160,16 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
+    },
+    {
+      "title": "We face paying £9,000 tax even though our second home is in a war zone",
+      "desc": "A Ukrainian woman who fled to Scotland is told she and her partner could face a £9,000 property tax charge because she still owns a flat in Kyiv.",
+      "link": "https://www.bbc.co.uk/news/articles/c674pk4klp7no?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 08 Nov 2026 08:04:59 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
     },
     {
       "title": "Traders 'priced out' of £12,000 Christmas market pitches",
@@ -673,7 +673,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-08T17:11:33.191Z",
+    "generatedAt": "2026-11-08T17:29:27.533Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -686,7 +686,7 @@
         "changePct": 1.83,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.699Z",
+        "timestamp": "2026-11-08T17:29:15.986Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -698,7 +698,7 @@
         "changePct": 2.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.732Z",
+        "timestamp": "2026-11-08T17:29:16.711Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -710,7 +710,7 @@
         "changePct": 1.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.781Z",
+        "timestamp": "2026-11-08T17:29:16.933Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -722,7 +722,7 @@
         "changePct": -0.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.865Z",
+        "timestamp": "2026-11-08T17:29:17.293Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -734,7 +734,7 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.948Z",
+        "timestamp": "2026-11-08T17:29:17.538Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -746,7 +746,7 @@
         "changePct": 0.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:31.998Z",
+        "timestamp": "2026-11-08T17:29:18.055Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -758,7 +758,7 @@
         "changePct": 2.97,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.045Z",
+        "timestamp": "2026-11-08T17:29:18.275Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -770,7 +770,7 @@
         "changePct": 0.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.090Z",
+        "timestamp": "2026-11-08T17:29:18.619Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -782,7 +782,7 @@
         "changePct": 1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.145Z",
+        "timestamp": "2026-11-08T17:29:19.195Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -794,7 +794,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.190Z",
+        "timestamp": "2026-11-08T17:29:19.526Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -806,7 +806,7 @@
         "changePct": -0.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.237Z",
+        "timestamp": "2026-11-08T17:29:19.939Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -818,7 +818,7 @@
         "changePct": 0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.283Z",
+        "timestamp": "2026-11-08T17:29:20.239Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -830,7 +830,7 @@
         "changePct": 0.37,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.351Z",
+        "timestamp": "2026-11-08T17:29:21.671Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -842,7 +842,7 @@
         "changePct": 0.71,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.402Z",
+        "timestamp": "2026-11-08T17:29:22.226Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -854,7 +854,7 @@
         "changePct": 0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.455Z",
+        "timestamp": "2026-11-08T17:29:22.441Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -866,7 +866,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.503Z",
+        "timestamp": "2026-11-08T17:29:22.708Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -878,7 +878,7 @@
         "changePct": 1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.507Z",
+        "timestamp": "2026-11-08T17:29:23.130Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -890,7 +890,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.554Z",
+        "timestamp": "2026-11-08T17:29:23.541Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -902,7 +902,7 @@
         "changePct": -1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.606Z",
+        "timestamp": "2026-11-08T17:29:23.760Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -914,7 +914,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.655Z",
+        "timestamp": "2026-11-08T17:29:24.168Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -926,7 +926,7 @@
         "changePct": -5.96,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.700Z",
+        "timestamp": "2026-11-08T17:29:24.388Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -938,7 +938,7 @@
         "changePct": -1.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.746Z",
+        "timestamp": "2026-11-08T17:29:24.729Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -950,7 +950,7 @@
         "changePct": -6.02,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.795Z",
+        "timestamp": "2026-11-08T17:29:25.346Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -962,7 +962,7 @@
         "changePct": -1.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-08T17:11:32.842Z",
+        "timestamp": "2026-11-08T17:29:25.767Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -974,7 +974,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-08T17:11:32.894Z",
+        "timestamp": "2026-11-08T17:29:25.984Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -986,7 +986,7 @@
         "changePct": 0.34,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-08T17:11:32.947Z",
+        "timestamp": "2026-11-08T17:29:26.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -998,7 +998,7 @@
         "changePct": -0.94,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-08T17:11:32.993Z",
+        "timestamp": "2026-11-08T17:29:26.537Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1010,7 +1010,7 @@
         "changePct": -0.83,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-08T17:11:33.048Z",
+        "timestamp": "2026-11-08T17:29:26.855Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1022,7 +1022,7 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-08T17:11:33.052Z",
+        "timestamp": "2026-11-08T17:29:27.114Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1034,7 +1034,7 @@
         "changePct": -0.94,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-08T17:11:33.133Z",
+        "timestamp": "2026-11-08T17:29:27.291Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -1046,7 +1046,7 @@
         "changePct": -0.83,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-08T17:11:33.187Z",
+        "timestamp": "2026-11-08T17:29:27.402Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -1058,7 +1058,7 @@
         "changePct": 0.34,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-08T17:11:33.191Z",
+        "timestamp": "2026-11-08T17:29:27.533Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
