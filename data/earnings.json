@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T04:59:33.036Z",
+  "generatedAt": "2026-11-09T05:29:31.405Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -565,6 +565,12 @@
       "co": "BALAXI PHARMACEUTICALS LIMITED",
       "tk": "BALAXI",
       "type": "Financial results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
+      "co": "Banka BioLoo Limited",
+      "tk": "BANKA",
+      "type": "Q2 FY27 results announcement"
     },
     {
       "dateISO": "2026-11-12",
@@ -1315,12 +1321,6 @@
       "co": "Sharda Motor Industries Limited",
       "tk": "SHARDAMOTR",
       "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Shiva Mills Limited",
-      "tk": "SHIVAMILLS",
-      "type": "Financial results announcement"
     }
   ]
 }
