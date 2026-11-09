@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-09T17:29:31.621Z",
+  "generatedAt": "2026-11-09T17:59:29.785Z",
   "articles": [
+    {
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "desc": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "pubDate": "2026-11-09T12:36:08-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Uber wants to park your car now, too",
       "desc": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
@@ -72,14 +82,14 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
-      "desc": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
-      "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "desc": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "pubDate": "2026-11-09T12:36:08-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Uber wants to park your car now, too",
@@ -222,7 +232,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow rockets over 950 pts after last week's tech-led rout; oil prices swing",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Dow rockets 1,000 pts after last week's tech-led rout; oil prices swing",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
       "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
@@ -292,7 +302,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "US markets still reliant on tech stocks despite AI selloff and Democrat-win triggered political risks",
+      "title": "US stock market remains tied to tech despite sharp AI sell-of",
       "desc": "The US stock market is currently experiencing a significant pullback in technology and AI-related stocks. Investors are concerned that Democratic victories in the midterm elections may result in reduced data center spending. Despite recent declines, the technology sector remains dominant within the S&amp;P 500 index. Upcoming technology earnings reports and the potential IPO of AI lab Anthropic are closely watched by investors.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-markets-still-reliant-on-tech-stocks-despite-ai-selloff-and-democrat-win-triggered-political-risks/articleshow/135679992.cms",
       "pubDate": "Mon, 09 Nov 2026 16:46:25 +0530",
@@ -843,7 +853,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-09T17:29:31.621Z",
+    "generatedAt": "2026-11-09T17:59:29.785Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -856,7 +866,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:20.094Z",
+        "timestamp": "2026-11-09T17:59:19.744Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -868,7 +878,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:20.568Z",
+        "timestamp": "2026-11-09T17:59:20.326Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -880,7 +890,7 @@
         "changePct": 1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:20.916Z",
+        "timestamp": "2026-11-09T17:59:20.689Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -892,7 +902,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:21.771Z",
+        "timestamp": "2026-11-09T17:59:20.944Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -904,7 +914,7 @@
         "changePct": -1.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:22.055Z",
+        "timestamp": "2026-11-09T17:59:21.222Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -916,7 +926,7 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:22.424Z",
+        "timestamp": "2026-11-09T17:59:21.461Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -928,7 +938,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:22.809Z",
+        "timestamp": "2026-11-09T17:59:21.757Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -940,7 +950,7 @@
         "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:23.151Z",
+        "timestamp": "2026-11-09T17:59:22.081Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -952,7 +962,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:23.434Z",
+        "timestamp": "2026-11-09T17:59:22.368Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -964,7 +974,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:23.690Z",
+        "timestamp": "2026-11-09T17:59:22.622Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -976,7 +986,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:24.430Z",
+        "timestamp": "2026-11-09T17:59:22.867Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -988,7 +998,7 @@
         "changePct": 3.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:24.777Z",
+        "timestamp": "2026-11-09T17:59:23.126Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1000,7 +1010,7 @@
         "changePct": 0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:25.105Z",
+        "timestamp": "2026-11-09T17:59:23.471Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1012,7 +1022,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:25.397Z",
+        "timestamp": "2026-11-09T17:59:23.722Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1024,43 +1034,43 @@
         "changePct": 0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:25.683Z",
+        "timestamp": "2026-11-09T17:59:24.217Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7547.87,
-        "change": 171.01,
+        "price": 7548.26,
+        "change": 171.4,
         "changePct": 2.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:26.293Z",
+        "timestamp": "2026-11-09T17:59:24.517Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25231.105,
-        "change": 651.682,
-        "changePct": 2.65,
+        "price": 25208.473,
+        "change": 629.049,
+        "changePct": 2.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:26.635Z",
+        "timestamp": "2026-11-09T17:59:24.785Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52360.64,
-        "change": 1074.91,
-        "changePct": 2.1,
+        "price": 52386.98,
+        "change": 1101.25,
+        "changePct": 2.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:27.020Z",
+        "timestamp": "2026-11-09T17:59:25.104Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1072,7 +1082,7 @@
         "changePct": 1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:27.337Z",
+        "timestamp": "2026-11-09T17:59:25.385Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1084,7 +1094,7 @@
         "changePct": 1.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:27.588Z",
+        "timestamp": "2026-11-09T17:59:25.836Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1096,7 +1106,7 @@
         "changePct": 2.33,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:27.975Z",
+        "timestamp": "2026-11-09T17:59:26.229Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1108,7 +1118,7 @@
         "changePct": -0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:28.593Z",
+        "timestamp": "2026-11-09T17:59:26.670Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1120,7 +1130,7 @@
         "changePct": -0.81,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:28.916Z",
+        "timestamp": "2026-11-09T17:59:26.945Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1132,103 +1142,103 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T17:29:29.418Z",
+        "timestamp": "2026-11-09T17:59:27.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 93.93,
-        "change": -4.39,
-        "changePct": -4.46,
+        "price": 93.61,
+        "change": -4.71,
+        "changePct": -4.79,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-09T17:29:29.705Z",
+        "timestamp": "2026-11-09T17:59:28.115Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 87.86,
-        "change": -2.97,
-        "changePct": -3.27,
+        "price": 87.61,
+        "change": -3.22,
+        "changePct": -3.54,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-09T17:29:30.094Z",
+        "timestamp": "2026-11-09T17:59:28.391Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4113.9,
-        "change": 39,
-        "changePct": 0.96,
+        "price": 4111.7,
+        "change": 36.8,
+        "changePct": 0.9,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-09T17:29:30.381Z",
+        "timestamp": "2026-11-09T17:59:28.642Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.71,
-        "change": 0.768,
-        "changePct": 1.48,
+        "price": 52.625,
+        "change": 0.683,
+        "changePct": 1.31,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-09T17:29:30.666Z",
+        "timestamp": "2026-11-09T17:59:28.922Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.882,
-        "change": 0.023,
-        "changePct": 0.47,
+        "price": 4.876,
+        "change": 0.017,
+        "changePct": 0.35,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-09T17:29:31.122Z",
+        "timestamp": "2026-11-09T17:59:29.498Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124221,
-        "change": 1178,
-        "changePct": 0.96,
+        "price": 124154,
+        "change": 1111,
+        "changePct": 0.9,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-09T17:29:31.277Z",
+        "timestamp": "2026-11-09T17:59:29.589Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 159160,
-        "change": 2319,
-        "changePct": 1.48,
+        "price": 158903,
+        "change": 2062,
+        "changePct": 1.31,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-09T17:29:31.524Z",
+        "timestamp": "2026-11-09T17:59:29.689Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8252,
-        "change": -279,
-        "changePct": -3.27,
+        "price": 8228,
+        "change": -302,
+        "changePct": -3.54,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-09T17:29:31.621Z",
+        "timestamp": "2026-11-09T17:59:29.785Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
