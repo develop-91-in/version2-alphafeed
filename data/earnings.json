@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:59:38.765Z",
+  "generatedAt": "2026-11-09T08:23:50.266Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -402,6 +402,12 @@
       "dateISO": "2026-11-11",
       "co": "Tata Power Company Limited",
       "tk": "TATAPOWER",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-11",
+      "co": "Tera Software Limited",
+      "tk": "TERASOFT",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "Salzer Electronics Limited",
       "tk": "SALZERELEC",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "Sharda Motor Industries Limited",
-      "tk": "SHARDAMOTR",
       "type": "Q2 FY27 results announcement"
     }
   ]
