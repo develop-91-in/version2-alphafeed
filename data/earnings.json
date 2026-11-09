@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:29:39.294Z",
+  "generatedAt": "2026-11-09T13:00:22.682Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -1060,6 +1060,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Markolines Pavement Technologies Limited",
+      "tk": "MARKOLINES",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Mcnally Bharat Engineering Company Limited",
       "tk": "MBECL",
       "type": "Q2 FY27 results announcement"
@@ -1308,12 +1314,6 @@
       "dateISO": "2026-11-12",
       "co": "SPML Infra Limited",
       "tk": "SPMLINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SRIT India Limited",
-      "tk": "SRIT",
       "type": "Q2 FY27 results announcement"
     },
     {
