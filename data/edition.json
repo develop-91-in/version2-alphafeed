@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-11-09T15:29:37.583Z",
+  "generatedAt": "2026-11-09T15:59:32.734Z",
   "articles": [
     {
-      "title": "US stocks: US market opens higher after last week's AI rout",
-      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "desc": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to [&#8230;]",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "pubDate": "2026-11-09T10:38:56-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
+      "desc": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
       "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
       "image": "",
@@ -22,19 +52,9 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "desc": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 09 Nov 2026 14:50:35 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
+      "title": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
       "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
       "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
       "image": "",
       "source": "Economic Times Markets",
@@ -52,7 +72,7 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 550 pts after last week's AI rout; Nvidia stock crashes 8%",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
       "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
@@ -62,28 +82,48 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google to introduce two variants of in-house chips: Bloomberg News",
-      "desc": "The search giant's shares were up more than 2% in premarket trading. Through last close, the stock has fallen 9% so far this year. Alphabet did not immediately respond to a Reuters request for comment. Reuters could not independently verify the report.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/google-to-introduce-two-variants-of-in-house-chips-bloomberg-news/articleshow/135682947.cms",
-      "pubDate": "Mon, 09 Nov 2026 18:26:44 +0530",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "desc": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they talk, and I think the risk can be managed, and it's managed.\" He claimed the DOJ is managing that risk, and said \"AI\" rather than \"SI\" or [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "pubDate": "2026-11-09T10:50:38-05:00",
       "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "India bonds continue rally ahead of inflation data",
-      "desc": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
-      "pubDate": "Mon, 09 Nov 2026 17:41:27 +0530",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "desc": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adobe's MAX conference, and it will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to [&#8230;]",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "pubDate": "2026-11-09T10:38:56-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "US stocks: US market opens higher after last week's AI rout",
-      "desc": "Wall Street's main indexes opened higher on Monday, as investors attempted to shake off last week's AI anxieties while awaiting more clarity on the controversy surrounding Nvidia CEO",
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "desc": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+      "link": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:31:37 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+      "desc": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+      "pubDate": "Mon, 09 Nov 2026 15:10:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "US stocks: Dow Jones rallies 500 points, Nasdaq over 2% as chip stocks rebound; Nvidia probe weighs",
+      "desc": "Wall Street's indexes climbed as investors honed in on Nvidia CEO Jensen Huang's investigation and awaited crucial inflation data. Nvidia's shares faced declines due to worries over foreign intelligence, yet analysts proposed that the sell-off in AI stocks was potentially overblown. Tech giants like Microsoft and Alphabet, along with chip manufacturers such as Marvell and Broadcom, enjoyed substantial gains.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-last-weeks-ai-rout/articleshow/135685663.cms",
       "pubDate": "Mon, 09 Nov 2026 20:35:56 +0530",
       "image": "",
@@ -107,14 +147,14 @@
       "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 09 Nov 2026 14:50:35 GMT",
       "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia stock crashes 8% after a 'foreign intelligence' probe initiated by AI company into CEO Jensen Huang",
+      "title": "Nvidia sell-off continues: Chipmaker stock plunges 9% as Jensen Huang faces espionage controversy",
       "desc": "Nvidia has opened an investigation following CEO Jensen Huang's connection with an executive linked to intelligence efforts. The company announced this after Huang acknowledged his relationship with the executive, raising concerns over security. Nvidia's shares plummeted 8% amidst uncertainty surrounding Huang's future as CEO. Analysts believe Huang's leadership is crucial for Nvidia's ongoing success in AI technology.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-stock-crashes-8-after-a-foreign-intelligence-probe-initiated-by-ai-company-into-ceo-jensen-huang/articleshow/135685302.cms",
       "pubDate": "Mon, 09 Nov 2026 20:14:09 +0530",
       "image": "",
       "source": "Economic Times Markets",
@@ -132,17 +172,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "desc": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight in the private sector, and with a perhaps unexpected tool: AI. Alongside former acting Antitrust Division chief Doha Mekki, Kanter recently launched a [&#8230;]",
-      "link": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "pubDate": "2026-11-09T09:30:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 2% after last week's AI rout; Nvidia stock crashes 8%",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq jumps over 550 pts after last week's AI rout; Nvidia stock crashes 8%",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-nvidia-jensen-huang-marvell-tech-qualcomm-meta-micrsoft-ai-chip-stock-price-news-9th-november-2026/liveblog/135683531.cms",
       "pubDate": "Mon, 09 Nov 2026 18:41:00 +0530",
@@ -180,16 +210,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Instagram’s AI age detection is expanding globally",
-      "desc": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The [&#8230;]",
-      "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-      "pubDate": "2026-11-09T07:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Uno Minda among 7 stocks hitting 52-week highs; rally up to 26% in a month",
@@ -813,7 +833,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-09T15:29:37.583Z",
+    "generatedAt": "2026-11-09T15:59:32.733Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -826,7 +846,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:23.840Z",
+        "timestamp": "2026-11-09T15:59:18.423Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -838,7 +858,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:24.304Z",
+        "timestamp": "2026-11-09T15:59:18.872Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -850,7 +870,7 @@
         "changePct": 1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:25.087Z",
+        "timestamp": "2026-11-09T15:59:19.279Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -862,7 +882,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:25.631Z",
+        "timestamp": "2026-11-09T15:59:19.538Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -874,7 +894,7 @@
         "changePct": -1.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:25.878Z",
+        "timestamp": "2026-11-09T15:59:19.870Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -886,7 +906,7 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:26.429Z",
+        "timestamp": "2026-11-09T15:59:20.090Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -898,7 +918,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:27.262Z",
+        "timestamp": "2026-11-09T15:59:20.388Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -910,7 +930,7 @@
         "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:27.513Z",
+        "timestamp": "2026-11-09T15:59:20.814Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -922,7 +942,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:28.422Z",
+        "timestamp": "2026-11-09T15:59:23.021Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -934,7 +954,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:28.880Z",
+        "timestamp": "2026-11-09T15:59:25.274Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -946,7 +966,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:29.096Z",
+        "timestamp": "2026-11-09T15:59:25.621Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -958,7 +978,7 @@
         "changePct": 3.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:29.301Z",
+        "timestamp": "2026-11-09T15:59:26.224Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -970,7 +990,7 @@
         "changePct": 0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:29.622Z",
+        "timestamp": "2026-11-09T15:59:26.706Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -982,7 +1002,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:30.032Z",
+        "timestamp": "2026-11-09T15:59:27.135Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -994,67 +1014,67 @@
         "changePct": 0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:31.381Z",
+        "timestamp": "2026-11-09T15:59:27.382Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7513.57,
-        "change": 136.71,
-        "changePct": 1.85,
+        "price": 7540.47,
+        "change": 163.61,
+        "changePct": 2.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:31.699Z",
+        "timestamp": "2026-11-09T15:59:27.706Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 25157.133,
-        "change": 577.709,
-        "changePct": 2.35,
+        "price": 25268.498,
+        "change": 689.074,
+        "changePct": 2.8,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:31.978Z",
+        "timestamp": "2026-11-09T15:59:27.981Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52073.2,
-        "change": 787.469,
-        "changePct": 1.54,
+        "price": 52194.69,
+        "change": 908.961,
+        "changePct": 1.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:32.354Z",
+        "timestamp": "2026-11-09T15:59:28.848Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10753.12,
-        "change": 79.18,
-        "changePct": 0.74,
+        "price": 10767.55,
+        "change": 93.609,
+        "changePct": 0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:33.011Z",
+        "timestamp": "2026-11-09T15:59:29.214Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26247.94,
-        "change": 427.58,
-        "changePct": 1.66,
+        "price": 26237.44,
+        "change": 417.08,
+        "changePct": 1.61,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:33.257Z",
+        "timestamp": "2026-11-09T15:59:29.449Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1066,7 +1086,7 @@
         "changePct": 2.33,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:33.570Z",
+        "timestamp": "2026-11-09T15:59:29.709Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1098,7 @@
         "changePct": -0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:34.017Z",
+        "timestamp": "2026-11-09T15:59:29.973Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1110,7 @@
         "changePct": -0.81,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:34.820Z",
+        "timestamp": "2026-11-09T15:59:30.549Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,103 +1122,103 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-09T15:29:35.092Z",
+        "timestamp": "2026-11-09T15:59:30.775Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 94.43,
-        "change": -3.89,
-        "changePct": -3.96,
+        "price": 94.82,
+        "change": -3.5,
+        "changePct": -3.56,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-09T15:29:35.300Z",
+        "timestamp": "2026-11-09T15:59:31.225Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 87.79,
-        "change": -3.04,
-        "changePct": -3.35,
+        "price": 88.2,
+        "change": -2.63,
+        "changePct": -2.9,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-09T15:29:35.571Z",
+        "timestamp": "2026-11-09T15:59:31.481Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4123.7,
-        "change": 48.8,
-        "changePct": 1.2,
+        "price": 4127.4,
+        "change": 52.5,
+        "changePct": 1.29,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-09T15:29:35.849Z",
+        "timestamp": "2026-11-09T15:59:31.754Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.615,
-        "change": 0.673,
-        "changePct": 1.3,
+        "price": 52.74,
+        "change": 0.798,
+        "changePct": 1.54,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-09T15:29:36.424Z",
+        "timestamp": "2026-11-09T15:59:32.063Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.864,
-        "change": 0.005,
-        "changePct": 0.1,
+        "price": 4.872,
+        "change": 0.013,
+        "changePct": 0.27,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-09T15:29:37.319Z",
+        "timestamp": "2026-11-09T15:59:32.425Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 124522,
-        "change": 1480,
-        "changePct": 1.2,
+        "price": 124628,
+        "change": 1585,
+        "changePct": 1.29,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-09T15:29:37.417Z",
+        "timestamp": "2026-11-09T15:59:32.543Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 158918,
-        "change": 2077,
-        "changePct": 1.32,
+        "price": 159250,
+        "change": 2410,
+        "changePct": 1.54,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-09T15:29:37.513Z",
+        "timestamp": "2026-11-09T15:59:32.657Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8245,
-        "change": -286,
-        "changePct": -3.35,
+        "price": 8284,
+        "change": -247,
+        "changePct": -2.9,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-09T15:29:37.583Z",
+        "timestamp": "2026-11-09T15:59:32.733Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
