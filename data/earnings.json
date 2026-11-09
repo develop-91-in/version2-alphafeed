@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T17:29:45.246Z",
+  "generatedAt": "2026-11-09T18:29:38.333Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -814,6 +814,12 @@
     },
     {
       "dateISO": "2026-11-12",
+      "co": "Gujarat Raffia Industries Limited",
+      "tk": "GUJRAFFIA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-12",
       "co": "Gulshan Polyols Limited",
       "tk": "GULPOLY",
       "type": "Q2 FY27 results announcement"
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-12",
       "co": "SPML Infra Limited",
       "tk": "SPMLINFRA",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-12",
-      "co": "SRIT India Limited",
-      "tk": "SRIT",
       "type": "Q2 FY27 results announcement"
     }
   ]
