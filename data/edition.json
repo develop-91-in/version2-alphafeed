@@ -1,13 +1,23 @@
 {
-  "generatedAt": "2026-11-10T13:29:29.095Z",
+  "generatedAt": "2026-11-10T13:59:42.290Z",
   "articles": [
     {
-      "title": "Anthropic to raise $64bn in major stock market listing",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
       "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 13:19:37 GMT",
+      "pubDate": "Tue, 10 Nov 2026 13:45:36 GMT",
       "image": "",
       "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "New regulation for heating oil market, but no price controls",
+      "desc": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:42:29 GMT",
+      "image": "",
+      "source": "BBC Business",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -18,6 +28,16 @@
       "pubDate": "Tue, 10 Nov 2026 18:45:45 +0530",
       "image": "",
       "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Nasdaq futures dip as Nvidia woes persist; Anthropic IPO in focus: Stock Market Live Updates",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:33:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -62,34 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Anthropic targets valuation of about $1 trillion in IPO",
-      "desc": "Anthropic has entered into agreements with partners AMD, Broadcom, Google, Micron, Microsoft, Nvidia, and TSMC, who will purchase $26.0 billion of its Class N common stock in a private placement.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/anthropic-targets-valuation-of-about-1-trillion-in-ipo/articleshow/135710518.cms",
-      "pubDate": "Tue, 10 Nov 2026 17:40:17 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Why the GCC is setting up an advanced military command base in Kuwait",
-      "desc": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
-      "link": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 12:09:54 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Anthropic to raise $64bn in major stock market listing",
+      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
       "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 13:19:37 GMT",
+      "pubDate": "Tue, 10 Nov 2026 13:45:36 GMT",
       "image": "",
       "source": "BBC News",
       "section": "ipo-centre",
       "sectionLabel": "IPO Centre"
+    },
+    {
+      "title": "New regulation for heating oil market, but no price controls",
+      "desc": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+      "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 13:42:29 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Amazon turned its Alexa robot into a Ring security patrol bot",
+      "desc": "As part of a new brand called Ring Robotics - designed to take a more proactive approach to security instead of just monitoring - a new rolling mobile security camera was announced by Amazon, called the Ring Rover Cam. It borrows a lot of the design and functionality from the Astro home robot that Amazon [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030282/amazon-ring-robotics-rover-cam-4k-security-business",
+      "pubDate": "2026-11-10T08:30:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Hands-on with Ring’s new AI drone camera for your home",
+      "desc": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced [&#8230;]",
+      "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
+      "pubDate": "2026-11-10T08:30:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks",
+      "desc": "\"The remaining 2.84% cannot be recovered due to critical damage to equipment and the absence of backups on the platform by customers,\" the company said in its statement.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/russias-yandex-says-nearly-3-of-cloud-customer-data-lost-after-attacks/articleshow/135712117.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:52:57 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Nvidia, Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair",
@@ -110,6 +150,16 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
+    },
+    {
+      "title": "Nasdaq futures dip as Nvidia woes persist; Anthropic IPO in focus: Stock Market Live Updates",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
+      "pubDate": "Tue, 10 Nov 2026 18:33:22 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Alibaba chip unit T-Head files confidential Hong Kong IPO application",
@@ -230,16 +280,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Israeli forces kill 14-year-old Palestinian boy in West Bank, health ministry says",
-      "desc": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 11:23:18 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
@@ -370,16 +410,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "What a lower tax rise could mean for you - and the council",
-      "desc": "The leader of Calderdale Council says next year's council tax rise will be lower than expected.",
-      "link": "https://www.bbc.co.uk/news/articles/c63r55vpze41o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 10 Nov 2026 06:10:50 GMT",
-      "image": "",
-      "source": "BBC Business",
-      "section": "global-markets",
-      "sectionLabel": "Global Markets"
     },
     {
       "title": "Delhi set to get Namo Yamuna River Safari; Kapil Mishra shares launch details",
@@ -642,16 +672,6 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-      "desc": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "pubDate": "2026-11-09T14:09:58-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Trump administration's embrace of \"perp\" futures sets off risk alarms for Wall Street stalwarts",
       "desc": "The decision by the Trump administration to launch perpetual futures has sparked significant worry among market stakeholders. Leaders from established exchanges contend that these offerings might disrupt existing market dynamics and risk assessment practices. They claim that perpetual futures ought to be categorized as swaps due to their unique trading characteristics. Moreover, ongoing trading raises alarm about liquidity and counterparty risk, especially in turbulent market conditions.",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-administrations-embrace-of-perp-futures-sets-off-risk-alarms-for-wall-street-stalwarts/articleshow/135688561.cms",
@@ -713,7 +733,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-10T13:29:29.095Z",
+    "generatedAt": "2026-11-10T13:59:42.290Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -726,7 +746,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:17.607Z",
+        "timestamp": "2026-11-10T13:59:26.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -738,7 +758,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:18.392Z",
+        "timestamp": "2026-11-10T13:59:27.142Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -750,7 +770,7 @@
         "changePct": 1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:18.934Z",
+        "timestamp": "2026-11-10T13:59:28.051Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -762,7 +782,7 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:19.282Z",
+        "timestamp": "2026-11-10T13:59:28.500Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -774,7 +794,7 @@
         "changePct": -1.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:19.604Z",
+        "timestamp": "2026-11-10T13:59:28.816Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -786,7 +806,7 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:19.932Z",
+        "timestamp": "2026-11-10T13:59:30.347Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -798,7 +818,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:20.379Z",
+        "timestamp": "2026-11-10T13:59:30.921Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -810,7 +830,7 @@
         "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:20.698Z",
+        "timestamp": "2026-11-10T13:59:31.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -822,7 +842,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:21.053Z",
+        "timestamp": "2026-11-10T13:59:31.788Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -834,7 +854,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:21.410Z",
+        "timestamp": "2026-11-10T13:59:32.815Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -846,7 +866,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:21.743Z",
+        "timestamp": "2026-11-10T13:59:34.177Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -858,7 +878,7 @@
         "changePct": 3.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:22.061Z",
+        "timestamp": "2026-11-10T13:59:34.803Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -870,7 +890,7 @@
         "changePct": 0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:22.461Z",
+        "timestamp": "2026-11-10T13:59:35.387Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -882,7 +902,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:22.784Z",
+        "timestamp": "2026-11-10T13:59:36.046Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -894,7 +914,7 @@
         "changePct": 0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:23.137Z",
+        "timestamp": "2026-11-10T13:59:36.333Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -906,7 +926,7 @@
         "changePct": 2.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:23.477Z",
+        "timestamp": "2026-11-10T13:59:36.615Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -918,7 +938,7 @@
         "changePct": 2.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:23.993Z",
+        "timestamp": "2026-11-10T13:59:36.967Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -930,31 +950,31 @@
         "changePct": 2.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:24.354Z",
+        "timestamp": "2026-11-10T13:59:37.466Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10832.22,
-        "change": 49.35,
-        "changePct": 0.46,
+        "price": 10820.31,
+        "change": 37.439,
+        "changePct": 0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:24.680Z",
+        "timestamp": "2026-11-10T13:59:37.788Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26583.75,
-        "change": 316.561,
-        "changePct": 1.21,
+        "price": 26562.44,
+        "change": 295.25,
+        "changePct": 1.12,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:25.019Z",
+        "timestamp": "2026-11-10T13:59:38.585Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -966,7 +986,7 @@
         "changePct": 2.87,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:25.394Z",
+        "timestamp": "2026-11-10T13:59:38.975Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -978,7 +998,7 @@
         "changePct": 0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:25.714Z",
+        "timestamp": "2026-11-10T13:59:39.355Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -990,7 +1010,7 @@
         "changePct": 4.39,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:26.144Z",
+        "timestamp": "2026-11-10T13:59:39.666Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1002,103 +1022,103 @@
         "changePct": 0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T13:29:26.516Z",
+        "timestamp": "2026-11-10T13:59:39.932Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 90.13,
-        "change": -2.44,
-        "changePct": -2.64,
+        "price": 89.6,
+        "change": -2.97,
+        "changePct": -3.21,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-10T13:29:27.045Z",
+        "timestamp": "2026-11-10T13:59:40.311Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 84.94,
-        "change": -1.91,
-        "changePct": -2.2,
+        "price": 84.4,
+        "change": -2.45,
+        "changePct": -2.82,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-10T13:29:27.404Z",
+        "timestamp": "2026-11-10T13:59:40.581Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4080.6,
-        "change": -33.9,
-        "changePct": -0.82,
+        "price": 4068.6,
+        "change": -45.9,
+        "changePct": -1.12,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-10T13:29:27.761Z",
+        "timestamp": "2026-11-10T13:59:41.114Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 52.185,
-        "change": -0.508,
-        "changePct": -0.96,
+        "price": 52.07,
+        "change": -0.623,
+        "changePct": -1.18,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-10T13:29:28.155Z",
+        "timestamp": "2026-11-10T13:59:41.518Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 4.864,
-        "change": 0,
-        "changePct": 0,
+        "price": 4.938,
+        "change": 0.074,
+        "changePct": 1.52,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-10T13:29:28.525Z",
+        "timestamp": "2026-11-10T13:59:41.909Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 123215,
-        "change": -1024,
-        "changePct": -0.82,
+        "price": 122853,
+        "change": -1386,
+        "changePct": -1.12,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-10T13:29:28.732Z",
+        "timestamp": "2026-11-10T13:59:42.048Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 157574,
-        "change": -1534,
-        "changePct": -0.96,
+        "price": 157227,
+        "change": -1881,
+        "changePct": -1.18,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-10T13:29:28.939Z",
+        "timestamp": "2026-11-10T13:59:42.158Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 7977,
-        "change": -179,
-        "changePct": -2.2,
+        "price": 7927,
+        "change": -230,
+        "changePct": -2.82,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-10T13:29:29.095Z",
+        "timestamp": "2026-11-10T13:59:42.290Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
