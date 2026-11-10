@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-10T18:29:30.810Z",
+  "generatedAt": "2026-11-10T18:59:36.565Z",
   "articles": [
+    {
+      "title": "Nvidia scandal rocks tech world Web Summit",
+      "desc": "Allegations of Chinese spying on Nvidia dominated a top world tech conference on Tuesday, with some executives seeing potential opportunities in the turmoil at the US artificial intelligence chip giant. Chinese technology executives attending the summit highlighted emerging alternatives to Nvidia.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scandal-rocks-tech-world-web-summit/articleshow/135718799.cms",
+      "pubDate": "Wed, 11 Nov 2026 00:23:48 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Google agrees to addition privacy protections in Spirit Airlines data sale",
+      "desc": "The agreement clears the way next week for approval of Google's $10 million deal to acquire Spirit data to train AI models. The union said it had won a more rigorous de-identification process than previously planned and added significant employee data will be excluded from the sale, including health and medical information.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-agrees-to-addition-privacy-protections-in-spirit-airlines-data-sale/articleshow/135718690.cms",
+      "pubDate": "Wed, 11 Nov 2026 00:18:44 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "desc": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
+      "desc": "Nexperia says it is heavily oversubscribed as chipmakers redirect capacity towards higher-margin AI data-centre products, creating shortages of mature semiconductors used in vehicles and industrial equipment. Industry executives warn that the AI investment boom is worsening bottlenecks across automotive and industrial supply chains.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain/articleshow/135718403.cms",
+      "pubDate": "Tue, 10 Nov 2026 23:55:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "US Fed's Logan calls for two more rate hikes, possibly rapidly",
       "desc": "Dallas Fed President Lorie Logan said the central bank needs at least two more quarter-point rate increases to curb persistent inflation and prevent price pressures from becoming entrenched. She suggested policymakers could accelerate the pace of tightening this winter, beginning with the Fed’s December 8-9 meeting.",
@@ -42,44 +82,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-      "desc": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-      "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 17:21:58 +0000",
+      "title": "Nvidia scandal rocks tech world Web Summit",
+      "desc": "Allegations of Chinese spying on Nvidia dominated a top world tech conference on Tuesday, with some executives seeing potential opportunities in the turmoil at the US artificial intelligence chip giant. Chinese technology executives attending the summit highlighted emerging alternatives to Nvidia.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/nvidia-scandal-rocks-tech-world-web-summit/articleshow/135718799.cms",
+      "pubDate": "Wed, 11 Nov 2026 00:23:48 +0530",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "India well on track to achieve $1 trillion exports target for FY27: Piyush Goyal",
-      "desc": "Commerce Minister Piyush Goyal said India is on track to achieve its $1 trillion goods and services export target in FY27, having already recorded nearly $480 billion in exports during April-September. He highlighted opportunities from free trade agreements, particularly the proposed India-EU pact, for the automobile and mobility sectors. Goyal urged manufacturers to expand globally, boost competitiveness and leverage international partnerships to drive exports, investment and employment.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-well-on-track-to-achieve-1-trillion-exports-target-for-fy27-piyush-goyal/articleshow/135717065.cms",
-      "pubDate": "Tue, 10 Nov 2026 22:35:33 +0530",
+      "title": "Google agrees to addition privacy protections in Spirit Airlines data sale",
+      "desc": "The agreement clears the way next week for approval of Google's $10 million deal to acquire Spirit data to train AI models. The union said it had won a more rigorous de-identification process than previously planned and added significant employee data will be excluded from the sale, including health and medical information.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/google-agrees-to-addition-privacy-protections-in-spirit-airlines-data-sale/articleshow/135718690.cms",
+      "pubDate": "Wed, 11 Nov 2026 00:18:44 +0530",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-      "desc": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-      "pubDate": "Tue, 10 Nov 2026 16:39:25 +0000",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "desc": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 10 Nov 2026 18:35:35 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "India-US hold bilateral talks in New Delhi on Customs and trade facilitation: Govt sources",
-      "desc": "A US delegation engaged with Indian Commerce Ministry officials to enhance bilateral trade and customs procedures. The discussions took place on November 2-3 and focused on trade facilitation frameworks. Ongoing negotiations are related to the proposed Bilateral Trade Agreement aimed at improving market access. Both nations are close to finalizing an interim trade agreement, with few issues left to resolve.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-hold-bilateral-talks-in-new-delhi-on-customs-and-trade-facilitation-govt-sources/articleshow/135716101.cms",
-      "pubDate": "Tue, 10 Nov 2026 21:54:40 +0530",
+      "title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
+      "desc": "Nexperia says it is heavily oversubscribed as chipmakers redirect capacity towards higher-margin AI data-centre products, creating shortages of mature semiconductors used in vehicles and industrial equipment. Industry executives warn that the AI investment boom is worsening bottlenecks across automotive and industrial supply chains.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain/articleshow/135718403.cms",
+      "pubDate": "Tue, 10 Nov 2026 23:55:20 +0530",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "US Fed's Logan calls for two more rate hikes, possibly rapidly",
@@ -102,7 +142,7 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "desc": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 10 Nov 2026 17:56:12 GMT",
@@ -813,7 +853,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-10T18:29:30.810Z",
+    "generatedAt": "2026-11-10T18:59:36.565Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -826,7 +866,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:19.312Z",
+        "timestamp": "2026-11-10T18:59:24.268Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -838,7 +878,7 @@
         "changePct": 0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:20.338Z",
+        "timestamp": "2026-11-10T18:59:24.954Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -850,7 +890,7 @@
         "changePct": 1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:20.643Z",
+        "timestamp": "2026-11-10T18:59:25.466Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -862,7 +902,7 @@
         "changePct": 0,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:20.993Z",
+        "timestamp": "2026-11-10T18:59:25.770Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -874,7 +914,7 @@
         "changePct": -1.22,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:21.254Z",
+        "timestamp": "2026-11-10T18:59:26.055Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -886,7 +926,7 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:21.842Z",
+        "timestamp": "2026-11-10T18:59:26.351Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -898,7 +938,7 @@
         "changePct": 1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:22.250Z",
+        "timestamp": "2026-11-10T18:59:26.971Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -910,7 +950,7 @@
         "changePct": -0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:22.559Z",
+        "timestamp": "2026-11-10T18:59:27.294Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -922,7 +962,7 @@
         "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:22.810Z",
+        "timestamp": "2026-11-10T18:59:27.632Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -934,7 +974,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:23.118Z",
+        "timestamp": "2026-11-10T18:59:28.021Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -946,7 +986,7 @@
         "changePct": 0.77,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:23.419Z",
+        "timestamp": "2026-11-10T18:59:28.794Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -958,7 +998,7 @@
         "changePct": 3.73,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:23.762Z",
+        "timestamp": "2026-11-10T18:59:29.084Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -970,7 +1010,7 @@
         "changePct": 0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:24.082Z",
+        "timestamp": "2026-11-10T18:59:29.330Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -982,7 +1022,7 @@
         "changePct": 0.23,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:24.811Z",
+        "timestamp": "2026-11-10T18:59:29.617Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -994,43 +1034,43 @@
         "changePct": 0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:25.179Z",
+        "timestamp": "2026-11-10T18:59:29.869Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7484.01,
-        "change": -65.93,
-        "changePct": -0.87,
+        "price": 7500.51,
+        "change": -49.43,
+        "changePct": -0.66,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:25.659Z",
+        "timestamp": "2026-11-10T18:59:30.183Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24889.273,
-        "change": -363.865,
-        "changePct": -1.44,
+        "price": 24959.744,
+        "change": -293.395,
+        "changePct": -1.16,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:25.913Z",
+        "timestamp": "2026-11-10T18:59:30.409Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 52074.83,
-        "change": -314.922,
-        "changePct": -0.6,
+        "price": 52147.19,
+        "change": -242.559,
+        "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:26.673Z",
+        "timestamp": "2026-11-10T18:59:30.800Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1042,7 +1082,7 @@
         "changePct": -0.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:26.923Z",
+        "timestamp": "2026-11-10T18:59:31.045Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1054,7 +1094,7 @@
         "changePct": 0.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:27.257Z",
+        "timestamp": "2026-11-10T18:59:31.391Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1066,7 +1106,7 @@
         "changePct": 2.87,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:27.514Z",
+        "timestamp": "2026-11-10T18:59:32.564Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1118,7 @@
         "changePct": 0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:27.891Z",
+        "timestamp": "2026-11-10T18:59:33.125Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1130,7 @@
         "changePct": 4.39,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:28.472Z",
+        "timestamp": "2026-11-10T18:59:34.538Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,103 +1142,103 @@
         "changePct": 0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-10T18:29:28.785Z",
+        "timestamp": "2026-11-10T18:59:34.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 91.76,
-        "change": -0.81,
-        "changePct": -0.88,
+        "price": 91.45,
+        "change": -1.12,
+        "changePct": -1.21,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-10T18:29:29.070Z",
+        "timestamp": "2026-11-10T18:59:35.157Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.28,
-        "change": -0.57,
-        "changePct": -0.66,
+        "price": 86.08,
+        "change": -0.77,
+        "changePct": -0.89,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-10T18:29:29.392Z",
+        "timestamp": "2026-11-10T18:59:35.389Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 4027.2,
-        "change": -87.3,
-        "changePct": -2.12,
+        "price": 4036.7,
+        "change": -77.8,
+        "changePct": -1.89,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-10T18:29:29.650Z",
+        "timestamp": "2026-11-10T18:59:35.729Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.245,
-        "change": -1.448,
-        "changePct": -2.75,
+        "price": 51.29,
+        "change": -1.403,
+        "changePct": -2.66,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-10T18:29:30.010Z",
+        "timestamp": "2026-11-10T18:59:36.003Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.008,
-        "change": 0.144,
-        "changePct": 2.96,
+        "price": 4.996,
+        "change": 0.132,
+        "changePct": 2.71,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-10T18:29:30.276Z",
+        "timestamp": "2026-11-10T18:59:36.188Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 121600,
-        "change": -2639,
-        "changePct": -2.12,
+        "price": 121886,
+        "change": -2352,
+        "changePct": -1.89,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-10T18:29:30.492Z",
+        "timestamp": "2026-11-10T18:59:36.314Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 154736,
-        "change": -4372,
-        "changePct": -2.75,
+        "price": 154872,
+        "change": -4236,
+        "changePct": -2.66,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-10T18:29:30.643Z",
+        "timestamp": "2026-11-10T18:59:36.439Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8103,
-        "change": -54,
-        "changePct": -0.66,
+        "price": 8084,
+        "change": -72,
+        "changePct": -0.89,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-10T18:29:30.810Z",
+        "timestamp": "2026-11-10T18:59:36.565Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
