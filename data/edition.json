@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-11T21:29:35.625Z",
+  "generatedAt": "2026-11-11T21:59:38.796Z",
   "articles": [
+    {
+      "title": "United won’t let your AI agent book your flight",
+      "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "pubDate": "2026-11-11T16:54:21-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
       "desc": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
@@ -72,12 +82,32 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "desc": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "pubDate": "2026-11-11T11:00:00-05:00",
+      "title": "United won’t let your AI agent book your flight",
+      "desc": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "pubDate": "2026-11-11T16:54:21-05:00",
       "image": "",
       "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:48:33 GMT",
+      "image": "",
+      "source": "BBC News",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "desc": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 11 Nov 2026 21:42:20 GMT",
+      "image": "",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -106,26 +136,6 @@
       "desc": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
       "link": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 11 Nov 2026 20:40:47 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-      "desc": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 19:15:45 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-      "desc": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:48:19 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
@@ -302,7 +312,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "US stocks end higher as CoreWeave results ease AI spending worries: Stock Market Live Updates",
+      "title": "US stocks end higher as CoreWeave results ease AI spending worries: Stock Market Highlights",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-fed-anthropic-ipo-coreweave-nvidia-marvell-ai-chip-fed-rate-inflation-treasury-yield-news-11th-november-2026/liveblog/135739245.cms",
       "pubDate": "Wed, 11 Nov 2026 18:42:11 +0530",
@@ -863,7 +873,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-11T21:29:35.625Z",
+    "generatedAt": "2026-11-11T21:59:38.796Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -876,7 +886,7 @@
         "changePct": 0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:20.811Z",
+        "timestamp": "2026-11-11T21:59:24.575Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -888,7 +898,7 @@
         "changePct": 0.95,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:21.375Z",
+        "timestamp": "2026-11-11T21:59:25.490Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -900,7 +910,7 @@
         "changePct": 1.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:22.126Z",
+        "timestamp": "2026-11-11T21:59:26.067Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -912,7 +922,7 @@
         "changePct": -0.25,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:22.541Z",
+        "timestamp": "2026-11-11T21:59:26.377Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -924,7 +934,7 @@
         "changePct": -0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:22.828Z",
+        "timestamp": "2026-11-11T21:59:27.035Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -936,7 +946,7 @@
         "changePct": 2.14,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:23.142Z",
+        "timestamp": "2026-11-11T21:59:27.438Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -948,7 +958,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:23.469Z",
+        "timestamp": "2026-11-11T21:59:27.824Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -960,7 +970,7 @@
         "changePct": 1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:24.269Z",
+        "timestamp": "2026-11-11T21:59:28.176Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -972,7 +982,7 @@
         "changePct": 0.96,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:25.106Z",
+        "timestamp": "2026-11-11T21:59:28.650Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -984,7 +994,7 @@
         "changePct": 1.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:25.453Z",
+        "timestamp": "2026-11-11T21:59:29.013Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -996,7 +1006,7 @@
         "changePct": -0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:25.753Z",
+        "timestamp": "2026-11-11T21:59:29.357Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1008,7 +1018,7 @@
         "changePct": 2.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:26.723Z",
+        "timestamp": "2026-11-11T21:59:29.976Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1030,7 @@
         "changePct": 0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:27.070Z",
+        "timestamp": "2026-11-11T21:59:30.318Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1042,7 @@
         "changePct": 0.93,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:27.351Z",
+        "timestamp": "2026-11-11T21:59:30.597Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1054,7 @@
         "changePct": 0.69,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:27.917Z",
+        "timestamp": "2026-11-11T21:59:30.970Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1066,7 @@
         "changePct": 1.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:28.305Z",
+        "timestamp": "2026-11-11T21:59:32.034Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1078,7 @@
         "changePct": 1.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:28.763Z",
+        "timestamp": "2026-11-11T21:59:32.342Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1090,7 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:29.366Z",
+        "timestamp": "2026-11-11T21:59:32.640Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1102,7 @@
         "changePct": 0.78,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:29.872Z",
+        "timestamp": "2026-11-11T21:59:33.033Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,7 +1114,7 @@
         "changePct": 1.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:30.161Z",
+        "timestamp": "2026-11-11T21:59:33.354Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,7 +1126,7 @@
         "changePct": 1.3,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:30.436Z",
+        "timestamp": "2026-11-11T21:59:34.119Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1138,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:31.123Z",
+        "timestamp": "2026-11-11T21:59:35.356Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1150,7 @@
         "changePct": 2.6,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:32.267Z",
+        "timestamp": "2026-11-11T21:59:36.038Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,55 +1162,55 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-11T21:29:32.716Z",
+        "timestamp": "2026-11-11T21:59:36.324Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 92.58,
-        "change": 1.09,
-        "changePct": 1.19,
+        "price": 92.64,
+        "change": 1.15,
+        "changePct": 1.26,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-11T21:29:32.994Z",
+        "timestamp": "2026-11-11T21:59:36.867Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.44,
-        "change": 0.4,
-        "changePct": 0.47,
+        "price": 86.47,
+        "change": 0.43,
+        "changePct": 0.5,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-11T21:29:33.283Z",
+        "timestamp": "2026-11-11T21:59:37.203Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3991,
-        "change": -39.2,
-        "changePct": -0.97,
+        "price": 3993.9,
+        "change": -36.3,
+        "changePct": -0.9,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-11T21:29:33.675Z",
+        "timestamp": "2026-11-11T21:59:37.649Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.725,
-        "change": 0.5,
-        "changePct": 0.98,
+        "price": 51.705,
+        "change": 0.48,
+        "changePct": 0.94,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-11T21:29:34.049Z",
+        "timestamp": "2026-11-11T21:59:37.980Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,43 +1222,43 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-11T21:29:35.131Z",
+        "timestamp": "2026-11-11T21:59:38.283Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 120204,
-        "change": -1181,
-        "changePct": -0.97,
+        "price": 120291,
+        "change": -1093,
+        "changePct": -0.9,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-11T21:29:35.335Z",
+        "timestamp": "2026-11-11T21:59:38.465Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 155789,
-        "change": 1506,
-        "changePct": 0.98,
+        "price": 155729,
+        "change": 1446,
+        "changePct": 0.94,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-11T21:29:35.496Z",
+        "timestamp": "2026-11-11T21:59:38.666Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8098,
-        "change": 37,
-        "changePct": 0.47,
+        "price": 8101,
+        "change": 40,
+        "changePct": 0.5,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-11T21:29:35.625Z",
+        "timestamp": "2026-11-11T21:59:38.796Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
