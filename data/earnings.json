@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T11:59:54.359Z",
+  "generatedAt": "2026-11-12T12:29:40.646Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -120,6 +120,12 @@
       "dateISO": "2026-11-13",
       "co": "Asian Hotels (East) Limited",
       "tk": "AHLEAST",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-13",
+      "co": "Asian Hotels (West) Limited",
+      "tk": "AHLWEST",
       "type": "Q2 FY27 results announcement"
     },
     {
@@ -1314,12 +1320,6 @@
       "dateISO": "2026-11-13",
       "co": "The Motor & General Finance Limited",
       "tk": "MOTOGENFIN",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-13",
-      "co": "The State Trading Corporation of India Limited",
-      "tk": "STCINDIA",
       "type": "Q2 FY27 results announcement"
     }
   ]
