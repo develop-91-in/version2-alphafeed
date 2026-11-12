@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-12T09:59:30.332Z",
+  "generatedAt": "2026-11-12T10:29:27.083Z",
   "articles": [
+    {
+      "title": "India Becomes ChatGPT's Biggest Market | OpenAI's India Chief | Corner Office Conversation",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135764629.cms",
+      "pubDate": "Thu, 12 Nov 2026 15:36:38 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "UK economy grows at fastest rate for more than two years",
       "desc": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
@@ -28,16 +38,6 @@
       "pubDate": "Thu, 12 Nov 2026 14:58:52 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "India Becomes ChatGPT's Biggest Market | OpenAI's India Chief | Corner Office Conversation",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135763467.cms",
-      "pubDate": "Thu, 12 Nov 2026 14:56:16 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -82,6 +82,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "India Becomes ChatGPT's Biggest Market | OpenAI's India Chief | Corner Office Conversation",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135764629.cms",
+      "pubDate": "Thu, 12 Nov 2026 15:36:38 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
       "title": "UK economy grows at fastest rate for more than two years",
       "desc": "The UK economy grew by 0.7% in the three months to September, according to official figures.",
       "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&amp;at_campaign=rss",
@@ -120,16 +130,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "India Becomes ChatGPT's Biggest Market | OpenAI's India Chief | Corner Office Conversation",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/tech/technology/india-becomes-chatgpts-biggest-market-openais-india-chief-corner-office-conversation/videoshow/135763467.cms",
-      "pubDate": "Thu, 12 Nov 2026 14:56:16 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     },
     {
       "title": "RBI plans curbs on private equity firms controlling stakes in multiple non-bank lenders: Report",
@@ -432,7 +432,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Experiences Price Drop Amid Market Fluctuations",
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries shows a downward trend in pricing",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-share-price-today-live-updates-12-nov-2026/liveblog/135753396.cms",
       "pubDate": "Thu, 12 Nov 2026 08:40:22 +0530",
@@ -452,7 +452,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Cipla Share Price Live Updates: Cipla's Stock Update",
+      "title": "Cipla Share Price Live Updates: Cipla's Market Performance Today",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-12-nov-2026/liveblog/135753318.cms",
       "pubDate": "Thu, 12 Nov 2026 08:35:29 +0530",
@@ -712,7 +712,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Current Trading Status",
+      "title": "HDFC Bank Share Price Live Updates: HDFC Bank's Performance Snapshot",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hdfc-bank-stock-price-livestock-price-today-live-updates-12-nov-2026/liveblog/135753001.cms",
       "pubDate": "Thu, 12 Nov 2026 08:17:47 +0530",
@@ -732,7 +732,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Wipro Share Price Live Updates: Wipro's Market Update",
+      "title": "Wipro Share Price Live Updates: Wipro's Trading Day Ends at Rs 196.2",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-12-nov-2026/liveblog/135752991.cms",
       "pubDate": "Thu, 12 Nov 2026 08:17:29 +0530",
@@ -832,16 +832,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "desc": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
-      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 18:04:58 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
       "desc": "Nvidia CEO Jensen Huang is under scrutiny due to rumored connections with a suspected Chinese intelligence asset. An independent committee of directors is investigating potential implications for Nvidia and its stakeholders. Various legal actions, including a proposed class action lawsuit, are being explored by investors. Federal securities regulators may also investigate for possible violations of disclosure laws. The outcome of these investigations could impact the company's future and stock value.",
       "link": "https://economictimes.indiatimes.com/tech/technology/could-huang-nvidia-and-companys-board-be-held-liable-over-affair-scandal/articleshow/135746855.cms",
@@ -902,16 +892,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
-      "desc": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 11 Nov 2026 12:14:12 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
       "desc": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
       "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&amp;at_campaign=rss",
@@ -920,20 +900,10 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "India blocked 129 betting websites on basis of fake high court orders: Report",
-      "desc": "India's government ordered internet providers to block 129 betting websites based on fraudulent high court orders. Investigations have been initiated after it was revealed that these court orders were fake. The Rajasthan and Allahabad High Courts confirmed that the supposed orders did not exist in their records. Concerns about the authenticity of legal documents are growing due to technology advancements.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/india-blocked-129-betting-websites-on-basis-of-fake-high-court-orders-report/articleshow/135742055.cms",
-      "pubDate": "Wed, 11 Nov 2026 15:35:42 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-12T09:59:30.332Z",
+    "generatedAt": "2026-11-12T10:29:27.082Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -946,19 +916,19 @@
         "changePct": 0.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:21.125Z",
+        "timestamp": "2026-11-12T10:29:18.028Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SENSEX",
         "label": "SENSEX",
         "region": "India",
-        "price": 81981.86,
-        "change": 102.461,
-        "changePct": 0.13,
+        "price": 81911.01,
+        "change": 31.609,
+        "changePct": 0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:21.875Z",
+        "timestamp": "2026-11-12T10:29:18.616Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -970,19 +940,19 @@
         "changePct": 1.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:22.096Z",
+        "timestamp": "2026-11-12T10:29:18.868Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 94.035,
-        "change": 0.355,
+        "price": 94.04,
+        "change": 0.36,
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:22.391Z",
+        "timestamp": "2026-11-12T10:29:19.145Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -994,7 +964,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:22.682Z",
+        "timestamp": "2026-11-12T10:29:19.393Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1006,79 +976,79 @@
         "changePct": -1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:23.018Z",
+        "timestamp": "2026-11-12T10:29:19.757Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PHARMA",
         "label": "NIFTY PHARMA",
         "region": "Sector",
-        "price": 28680.45,
-        "change": -96,
-        "changePct": -0.33,
+        "price": 28675.75,
+        "change": -100.699,
+        "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:23.393Z",
+        "timestamp": "2026-11-12T10:29:20.063Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY FMCG",
         "label": "NIFTY FMCG",
         "region": "Sector",
-        "price": 46838.3,
-        "change": -350.25,
+        "price": 46838.5,
+        "change": -350.051,
         "changePct": -0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:24.131Z",
+        "timestamp": "2026-11-12T10:29:20.337Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY METAL",
         "label": "NIFTY METAL",
         "region": "Sector",
-        "price": 12773.9,
-        "change": -12.25,
-        "changePct": -0.1,
+        "price": 12772.6,
+        "change": -13.551,
+        "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:24.369Z",
+        "timestamp": "2026-11-12T10:29:20.603Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY ENERGY",
         "label": "NIFTY ENERGY",
         "region": "Sector",
-        "price": 37394.5,
-        "change": -153.551,
-        "changePct": -0.41,
+        "price": 37389.1,
+        "change": -158.949,
+        "changePct": -0.42,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:24.652Z",
+        "timestamp": "2026-11-12T10:29:20.886Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY REALTY",
         "label": "NIFTY REALTY",
         "region": "Sector",
-        "price": 934.4,
-        "change": 40.45,
-        "changePct": 4.53,
+        "price": 934.25,
+        "change": 40.3,
+        "changePct": 4.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:24.921Z",
+        "timestamp": "2026-11-12T10:29:21.218Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PSU BANK",
         "label": "NIFTY PSU BANK",
         "region": "Sector",
-        "price": 9306.55,
-        "change": 139.35,
-        "changePct": 1.52,
+        "price": 9305.95,
+        "change": 138.75,
+        "changePct": 1.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:25.322Z",
+        "timestamp": "2026-11-12T10:29:21.484Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,7 +1060,7 @@
         "changePct": 0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:25.554Z",
+        "timestamp": "2026-11-12T10:29:21.720Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1102,19 +1072,19 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:25.843Z",
+        "timestamp": "2026-11-12T10:29:22.007Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY MEDIA",
         "label": "NIFTY MEDIA",
         "region": "Sector",
-        "price": 1763.6,
-        "change": 44.6,
-        "changePct": 2.6,
+        "price": 1761.25,
+        "change": 42.25,
+        "changePct": 2.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:26.064Z",
+        "timestamp": "2026-11-12T10:29:22.349Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1096,7 @@
         "changePct": 1.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:26.358Z",
+        "timestamp": "2026-11-12T10:29:23.018Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1108,7 @@
         "changePct": 1.6,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:26.580Z",
+        "timestamp": "2026-11-12T10:29:23.312Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,31 +1120,31 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:26.862Z",
+        "timestamp": "2026-11-12T10:29:23.626Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10873.52,
-        "change": 38.05,
-        "changePct": 0.35,
+        "price": 10868.74,
+        "change": 33.271,
+        "changePct": 0.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:27.104Z",
+        "timestamp": "2026-11-12T10:29:23.939Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26995.53,
-        "change": 332.76,
-        "changePct": 1.25,
+        "price": 26944.63,
+        "change": 281.861,
+        "changePct": 1.06,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:27.404Z",
+        "timestamp": "2026-11-12T10:29:24.207Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1156,7 @@
         "changePct": -0.7,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:27.648Z",
+        "timestamp": "2026-11-12T10:29:24.570Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1168,7 @@
         "changePct": -1.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:27.935Z",
+        "timestamp": "2026-11-12T10:29:24.866Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1180,7 @@
         "changePct": -0.61,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:28.223Z",
+        "timestamp": "2026-11-12T10:29:25.131Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,55 +1192,55 @@
         "changePct": -0.67,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-12T09:59:28.506Z",
+        "timestamp": "2026-11-12T10:29:25.387Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 92.25,
-        "change": -0.51,
-        "changePct": -0.55,
+        "price": 91.79,
+        "change": -0.97,
+        "changePct": -1.05,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-12T09:59:28.723Z",
+        "timestamp": "2026-11-12T10:29:25.623Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.06,
-        "change": -0.47,
-        "changePct": -0.54,
+        "price": 85.67,
+        "change": -0.86,
+        "changePct": -0.99,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-12T09:59:29.045Z",
+        "timestamp": "2026-11-12T10:29:25.878Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3947.5,
-        "change": -53,
-        "changePct": -1.32,
+        "price": 3953.6,
+        "change": -46.9,
+        "changePct": -1.17,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-12T09:59:29.274Z",
+        "timestamp": "2026-11-12T10:29:26.158Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 51.1,
-        "change": -0.902,
-        "changePct": -1.74,
+        "price": 51.14,
+        "change": -0.862,
+        "changePct": -1.66,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-12T09:59:29.616Z",
+        "timestamp": "2026-11-12T10:29:26.449Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,43 +1252,43 @@
         "changePct": 0.3,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-12T09:59:29.875Z",
+        "timestamp": "2026-11-12T10:29:26.644Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 119344,
-        "change": -1602,
-        "changePct": -1.32,
+        "price": 119535,
+        "change": -1418,
+        "changePct": -1.17,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-12T09:59:30.058Z",
+        "timestamp": "2026-11-12T10:29:26.827Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 154490,
-        "change": -2727,
-        "changePct": -1.74,
+        "price": 154619,
+        "change": -2606,
+        "changePct": -1.66,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-12T09:59:30.178Z",
+        "timestamp": "2026-11-12T10:29:26.956Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8093,
-        "change": -44,
-        "changePct": -0.54,
+        "price": 8056,
+        "change": -81,
+        "changePct": -0.99,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-12T09:59:30.331Z",
+        "timestamp": "2026-11-12T10:29:27.082Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
