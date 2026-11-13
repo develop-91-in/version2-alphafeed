@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:29:38.865Z",
+  "generatedAt": "2026-11-13T10:59:43.309Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -750,6 +750,12 @@
       "dateISO": "2026-11-14",
       "co": "Panacea Biotec Limited",
       "tk": "PANACEABIO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-14",
+      "co": "Pansari Developers Limited",
+      "tk": "PANSARI",
       "type": "Q2 FY27 results announcement"
     },
     {
