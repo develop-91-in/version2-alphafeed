@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:29:43.355Z",
+  "generatedAt": "2026-11-13T04:59:38.568Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -60,6 +60,12 @@
       "dateISO": "2026-11-14",
       "co": "Ahlada Engineers Limited",
       "tk": "AHLADA",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-14",
+      "co": "Ahluwalia Contracts (India) Limited",
+      "tk": "AHLUCONT",
       "type": "Q2 FY27 results announcement"
     },
     {
