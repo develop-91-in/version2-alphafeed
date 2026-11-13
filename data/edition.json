@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-13T11:29:31.408Z",
+  "generatedAt": "2026-11-13T11:59:39.465Z",
   "articles": [
+    {
+      "title": "Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%",
+      "desc": "Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore, up from Rs 103.11 crore. In the first half of FY27, the company posted an overall net loss of Rs 12.23 crore, a decrease from Rs 37.81 crore.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jagatjit-industries-q2-net-loss-narrows-to-rs-4-cr-revenue-rises-90/articleshow/135801327.cms",
+      "pubDate": "Fri, 13 Nov 2026 17:01:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Amazon's plan to own the world's product data and fight AI shopping agents",
       "desc": "Called World Product Graph, the initiative seeks to hoover up data on virtually every item for sale on Earth, whether Amazon stocks it or not, according to an internal document reviewed by Reuters, and to people familiar with the matter.",
@@ -72,14 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Cisco shares rally after earnings beat: 6 key things investors need to know",
-      "desc": "Cisco shares surge after strong Q1 FY2027 results, beating analyst estimates. Robust AI data-centre demand drives revenue growth, prompting the networking giant to raise its annual revenue and earnings forecasts.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
-      "pubDate": "Fri, 13 Nov 2026 13:10:19 +0530",
+      "title": "What we know so far about the Microsoft outage",
+      "desc": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:43:27 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%",
+      "desc": "Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore, up from Rs 103.11 crore. In the first half of FY27, the company posted an overall net loss of Rs 12.23 crore, a decrease from Rs 37.81 crore.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jagatjit-industries-q2-net-loss-narrows-to-rs-4-cr-revenue-rises-90/articleshow/135801327.cms",
+      "pubDate": "Fri, 13 Nov 2026 17:01:30 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
@@ -462,7 +482,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Eicher Motors Share Price Live Updates: Eicher Motors Current Trading Status",
+      "title": "Eicher Motors Share Price Live Updates: Opening Of Trading Window",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-stock-price-livestock-price-today-live-updates-13-nov-2026/liveblog/135788075.cms",
       "pubDate": "Fri, 13 Nov 2026 09:01:24 +0530",
@@ -852,16 +872,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Kotak Bank Share Price Live Updates: Kotak Bank Experiences Minor Price Drop",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-stock-price-today-live-13-nov-2026/liveblog/135787036.cms",
-      "pubDate": "Fri, 13 Nov 2026 08:19:56 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Samsung in talks to buy data center cooling firm Modine",
       "desc": "The companies are discussing a potential deal that could come together as soon as the coming weeks, the report added.",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-in-talks-to-buy-data-center-cooling-firm-modine/articleshow/135786969.cms",
@@ -973,7 +983,7 @@
     },
     {
       "title": "Microsoft Outlook is still down",
-      "desc": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which [&#8230;]",
+      "desc": "Microsoft Outlook continues to be unavailable for people, businesses, and public services across the globe, leaving people unable to access their email, either through the web or apps. Reports around the issue starting rolling in at around 1PM ET on Thursday, with Microsoft since confirming that the outage is impacting Microsoft 365 features that interact [&#8230;]",
       "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
       "pubDate": "2026-11-12T18:24:13-05:00",
       "image": "",
@@ -1103,7 +1113,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-13T11:29:31.408Z",
+    "generatedAt": "2026-11-13T11:59:39.464Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1116,7 +1126,7 @@
         "changePct": -0.61,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:22.041Z",
+        "timestamp": "2026-11-13T11:59:22.258Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1138,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:22.673Z",
+        "timestamp": "2026-11-13T11:59:22.886Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1150,7 @@
         "changePct": -0.79,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:22.902Z",
+        "timestamp": "2026-11-13T11:59:23.220Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1162,7 @@
         "changePct": 0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:23.164Z",
+        "timestamp": "2026-11-13T11:59:23.468Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,7 +1174,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:23.368Z",
+        "timestamp": "2026-11-13T11:59:23.833Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1176,7 +1186,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:23.572Z",
+        "timestamp": "2026-11-13T11:59:24.182Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1188,7 +1198,7 @@
         "changePct": -0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:23.834Z",
+        "timestamp": "2026-11-13T11:59:24.494Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1200,7 +1210,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:24.286Z",
+        "timestamp": "2026-11-13T11:59:24.980Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1222,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:24.521Z",
+        "timestamp": "2026-11-13T11:59:25.400Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,7 +1234,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:24.769Z",
+        "timestamp": "2026-11-13T11:59:25.929Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1236,7 +1246,7 @@
         "changePct": -1.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:25.246Z",
+        "timestamp": "2026-11-13T11:59:27.490Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1258,7 @@
         "changePct": -0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:26.007Z",
+        "timestamp": "2026-11-13T11:59:28.207Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1270,7 @@
         "changePct": -0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:26.285Z",
+        "timestamp": "2026-11-13T11:59:28.530Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1282,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:26.494Z",
+        "timestamp": "2026-11-13T11:59:28.789Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,7 +1294,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:26.751Z",
+        "timestamp": "2026-11-13T11:59:29.323Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1296,7 +1306,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:26.971Z",
+        "timestamp": "2026-11-13T11:59:29.610Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1308,7 +1318,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:27.185Z",
+        "timestamp": "2026-11-13T11:59:30.071Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1320,31 +1330,31 @@
         "changePct": -0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:27.466Z",
+        "timestamp": "2026-11-13T11:59:30.534Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10879.98,
-        "change": 16.891,
-        "changePct": 0.15,
+        "price": 10873.12,
+        "change": 10.03,
+        "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:27.689Z",
+        "timestamp": "2026-11-13T11:59:31.037Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26796.41,
-        "change": 24.529,
-        "changePct": 0.09,
+        "price": 26781.81,
+        "change": 9.93,
+        "changePct": 0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:28.057Z",
+        "timestamp": "2026-11-13T11:59:31.439Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1366,7 @@
         "changePct": 0.53,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:28.267Z",
+        "timestamp": "2026-11-13T11:59:32.315Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1378,7 @@
         "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:28.631Z",
+        "timestamp": "2026-11-13T11:59:32.732Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1390,7 @@
         "changePct": -0.98,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:28.845Z",
+        "timestamp": "2026-11-13T11:59:33.433Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,55 +1402,55 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:29:30.086Z",
+        "timestamp": "2026-11-13T11:59:34.941Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 95.78,
-        "change": -0.04,
-        "changePct": -0.04,
+        "price": 95.89,
+        "change": 0.07,
+        "changePct": 0.07,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-13T11:29:30.296Z",
+        "timestamp": "2026-11-13T11:59:36.789Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 88.23,
-        "change": -0.51,
-        "changePct": -0.57,
+        "price": 88.38,
+        "change": -0.36,
+        "changePct": -0.41,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-13T11:29:30.499Z",
+        "timestamp": "2026-11-13T11:59:37.853Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3896.4,
-        "change": 11.1,
-        "changePct": 0.29,
+        "price": 3897.1,
+        "change": 11.8,
+        "changePct": 0.3,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-13T11:29:30.702Z",
+        "timestamp": "2026-11-13T11:59:38.425Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 49.885,
-        "change": -0.18,
-        "changePct": -0.36,
+        "price": 50,
+        "change": -0.065,
+        "changePct": -0.13,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-13T11:29:30.955Z",
+        "timestamp": "2026-11-13T11:59:38.699Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1452,43 +1462,43 @@
         "changePct": 2.1,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-13T11:29:31.163Z",
+        "timestamp": "2026-11-13T11:59:39.094Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 118044,
-        "change": 336,
-        "changePct": 0.29,
+        "price": 118062,
+        "change": 354,
+        "changePct": 0.3,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-13T11:29:31.259Z",
+        "timestamp": "2026-11-13T11:59:39.194Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 151130,
-        "change": -545,
-        "changePct": -0.36,
+        "price": 151478,
+        "change": -197,
+        "changePct": -0.13,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-13T11:29:31.357Z",
+        "timestamp": "2026-11-13T11:59:39.365Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8314,
-        "change": -48,
-        "changePct": -0.57,
+        "price": 8328,
+        "change": -34,
+        "changePct": -0.41,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-13T11:29:31.408Z",
+        "timestamp": "2026-11-13T11:59:39.464Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
