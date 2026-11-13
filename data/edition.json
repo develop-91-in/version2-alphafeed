@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-13T11:59:39.465Z",
+  "generatedAt": "2026-11-13T12:29:27.554Z",
   "articles": [
+    {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "desc": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:59:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Mutlibaggers: 7 stocks held by 100+ MF schemes in October rally up to 300% in FY27",
+      "desc": "An ETMarkets analysis identified seven stocks held by over 100 mutual fund schemes that have more than doubled in FY27 so far. Sterlite Technologies led with 303% gains, followed by Welspun Corp, Ather Energy and Laurus Labs.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms",
+      "pubDate": "Fri, 13 Nov 2026 17:05:39 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%",
       "desc": "Jagatjit Industries Ltd has reported a net loss of Rs 3.96 crore for the second quarter of FY27, significantly improving from Rs 27.91 crore lost during the same period last year. Total income surged to Rs 195.43 crore, up from Rs 103.11 crore. In the first half of FY27, the company posted an overall net loss of Rs 12.23 crore, a decrease from Rs 37.81 crore.",
@@ -62,24 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
-      "desc": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 10:11:38 +0000",
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "desc": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 12:22:30 GMT",
       "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Supply shocks to weaken monetary policy effectiveness: CEA",
-      "desc": "Chief Economic Advisor V Anantha Nageswaran emphasized the diminishing effectiveness of interest rate adjustments in controlling inflation due to supply chain disruptions. He indicated that fiscal policies will play a critical role in addressing these supply-induced challenges. Nageswaran highlighted that many countries have struggled to meet their inflation targets since 2022. He underscored the potential long-term dominance of supply shocks in inflation dynamics.",
-      "link": "https://economictimes.indiatimes.com/news/economy/policy/monetary-policy-ineffectiveness-cea-warns-of-supply-shocks-eroding-inflation-control/articleshow/135797233.cms",
-      "pubDate": "Fri, 13 Nov 2026 15:26:55 +0530",
+      "title": "What we know about the global Microsoft outage",
+      "desc": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 12:09:57 GMT",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Fri, 13 Nov 2026 12:06:18 GMT",
+      "image": "",
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "desc": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "pubDate": "2026-11-13T07:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+      "desc": "Increased attacks on the border with Afghanistan have caused tensions between the neighbours.",
+      "link": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids?traffic_source=rss",
+      "pubDate": "Fri, 13 Nov 2026 11:59:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "What we know so far about the Microsoft outage",
@@ -90,6 +140,16 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "Mutlibaggers: 7 stocks held by 100+ MF schemes in October rally up to 300% in FY27",
+      "desc": "An ETMarkets analysis identified seven stocks held by over 100 mutual fund schemes that have more than doubled in FY27 so far. Sterlite Technologies led with 303% gains, followed by Welspun Corp, Ather Energy and Laurus Labs.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mutlibaggers-7-stocks-held-by-100-mf-schemes-in-october-rally-up-to-300-in-fy27/slideshow/135802136.cms",
+      "pubDate": "Fri, 13 Nov 2026 17:05:39 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Jagatjit Industries Q2 net loss narrows to Rs 4 cr, revenue rises 90%",
@@ -106,16 +166,6 @@
       "desc": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
       "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Fri, 13 Nov 2026 11:09:16 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How the Microsoft outage has been felt worldwide",
-      "desc": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 11:05:10 GMT",
       "image": "",
       "source": "BBC Technology",
       "section": "technology",
@@ -140,16 +190,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "What we know about the global Microsoft outage",
-      "desc": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 10:53:40 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Simplify Alpha™ opens AI engineering and innovation center in Hyderabad, joined by Simplify Healthcare® and SimplifyX™",
@@ -180,16 +220,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Watch: 'I feel it's a sign of what's to come' - office workers on Microsoft disruption",
-      "desc": "Insurance brokers tell Nicky Campbell how their jobs are completely disrupted by the Microsoft outage.",
-      "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Fri, 13 Nov 2026 10:16:29 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
     },
     {
       "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
@@ -310,26 +340,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "UNRWA funding cuts deepen hardship for Palestinian refugees in Lebanon",
-      "desc": "Funding cuts and Israel&#039;s war have left Palestinians in Lebanon in increasingly dire circumstances.",
-      "link": "https://www.aljazeera.com/features/2026/11/13/unrwa-funding-cuts-deepen-hardship-for-palestinian-refugees-in-lebanon?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 04:51:56 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "desc": "Despite knowing a war with Iran would be manufactured for Netanyahu&#039;s survival, many would still rally behind it.",
-      "link": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival?traffic_source=rss",
-      "pubDate": "Fri, 13 Nov 2026 04:48:40 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "India bonds under pressure before debt supply; hot inflation prints pinch further",
@@ -812,14 +822,14 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Wipro Share Price Live Updates: Wipro's Daily Performance Update",
+      "title": "Wipro Share Price Live Updates: Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-live-updates-13-nov-2026/liveblog/135787119.cms",
       "pubDate": "Fri, 13 Nov 2026 08:25:07 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Cipla Share Price Live Updates: Cipla's Current Market Price",
@@ -856,16 +866,6 @@
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-stock-price-today-live-13-nov-2026/liveblog/135787040.cms",
       "pubDate": "Fri, 13 Nov 2026 08:20:13 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Britannia Share Price Live Updates: Britannia's Stock Update",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-stock-price-live-updates-13-nov-2026/liveblog/135787039.cms",
-      "pubDate": "Fri, 13 Nov 2026 08:20:10 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -1072,16 +1072,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
-      "desc": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Thu, 12 Nov 2026 15:10:32 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
       "desc": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
       "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&amp;at_campaign=rss",
@@ -1113,7 +1103,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-13T11:59:39.464Z",
+    "generatedAt": "2026-11-13T12:29:27.554Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1126,7 +1116,7 @@
         "changePct": -0.61,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:22.258Z",
+        "timestamp": "2026-11-13T12:29:12.820Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1128,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:22.886Z",
+        "timestamp": "2026-11-13T12:29:13.306Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,19 +1140,19 @@
         "changePct": -0.79,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:23.220Z",
+        "timestamp": "2026-11-13T12:29:13.769Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 94.23,
-        "change": 0.19,
-        "changePct": 0.2,
+        "price": 94.22,
+        "change": 0.18,
+        "changePct": 0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:23.468Z",
+        "timestamp": "2026-11-13T12:29:14.154Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1164,7 @@
         "changePct": -0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:23.833Z",
+        "timestamp": "2026-11-13T12:29:14.430Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1176,7 @@
         "changePct": -1.07,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:24.182Z",
+        "timestamp": "2026-11-13T12:29:14.681Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1188,7 @@
         "changePct": -0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:24.494Z",
+        "timestamp": "2026-11-13T12:29:15.022Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1200,7 @@
         "changePct": -0.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:24.980Z",
+        "timestamp": "2026-11-13T12:29:15.850Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1212,7 @@
         "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:25.400Z",
+        "timestamp": "2026-11-13T12:29:16.603Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,7 +1224,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:25.929Z",
+        "timestamp": "2026-11-13T12:29:16.870Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1246,7 +1236,7 @@
         "changePct": -1.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:27.490Z",
+        "timestamp": "2026-11-13T12:29:17.640Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,7 +1248,7 @@
         "changePct": -0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:28.207Z",
+        "timestamp": "2026-11-13T12:29:18.204Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1270,7 +1260,7 @@
         "changePct": -0.04,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:28.530Z",
+        "timestamp": "2026-11-13T12:29:18.523Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,7 +1272,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:28.789Z",
+        "timestamp": "2026-11-13T12:29:18.790Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1294,7 +1284,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:29.323Z",
+        "timestamp": "2026-11-13T12:29:19.277Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1296,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:29.610Z",
+        "timestamp": "2026-11-13T12:29:19.520Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1308,7 @@
         "changePct": -0.39,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:30.071Z",
+        "timestamp": "2026-11-13T12:29:19.790Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,31 +1320,31 @@
         "changePct": -0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:30.534Z",
+        "timestamp": "2026-11-13T12:29:20.195Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10873.12,
-        "change": 10.03,
-        "changePct": 0.09,
+        "price": 10873.92,
+        "change": 10.83,
+        "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:31.037Z",
+        "timestamp": "2026-11-13T12:29:20.815Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26781.81,
-        "change": 9.93,
-        "changePct": 0.04,
+        "price": 26763.83,
+        "change": -8.051,
+        "changePct": -0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:31.439Z",
+        "timestamp": "2026-11-13T12:29:21.079Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1366,7 +1356,7 @@
         "changePct": 0.53,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:32.315Z",
+        "timestamp": "2026-11-13T12:29:21.530Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1378,7 +1368,7 @@
         "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:32.732Z",
+        "timestamp": "2026-11-13T12:29:23.843Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1390,7 +1380,7 @@
         "changePct": -0.98,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:33.433Z",
+        "timestamp": "2026-11-13T12:29:24.338Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1402,55 +1392,55 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-13T11:59:34.941Z",
+        "timestamp": "2026-11-13T12:29:24.585Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 95.89,
-        "change": 0.07,
-        "changePct": 0.07,
+        "price": 96.14,
+        "change": 0.32,
+        "changePct": 0.33,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-13T11:59:36.789Z",
+        "timestamp": "2026-11-13T12:29:24.860Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 88.38,
-        "change": -0.36,
-        "changePct": -0.41,
+        "price": 88.63,
+        "change": -0.11,
+        "changePct": -0.12,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-13T11:59:37.853Z",
+        "timestamp": "2026-11-13T12:29:25.115Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3897.1,
-        "change": 11.8,
-        "changePct": 0.3,
+        "price": 3898.7,
+        "change": 13.4,
+        "changePct": 0.34,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-13T11:59:38.425Z",
+        "timestamp": "2026-11-13T12:29:25.404Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 50,
-        "change": -0.065,
-        "changePct": -0.13,
+        "price": 49.995,
+        "change": -0.07,
+        "changePct": -0.14,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-13T11:59:38.699Z",
+        "timestamp": "2026-11-13T12:29:25.761Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1462,43 +1452,43 @@
         "changePct": 2.1,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-13T11:59:39.094Z",
+        "timestamp": "2026-11-13T12:29:27.172Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 118062,
-        "change": 354,
-        "changePct": 0.3,
+        "price": 118101,
+        "change": 406,
+        "changePct": 0.34,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-13T11:59:39.194Z",
+        "timestamp": "2026-11-13T12:29:27.306Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 151478,
-        "change": -197,
-        "changePct": -0.13,
+        "price": 151447,
+        "change": -212,
+        "changePct": -0.14,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-13T11:59:39.365Z",
+        "timestamp": "2026-11-13T12:29:27.461Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8328,
-        "change": -34,
-        "changePct": -0.41,
+        "price": 8351,
+        "change": -10,
+        "changePct": -0.12,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-13T11:59:39.464Z",
+        "timestamp": "2026-11-13T12:29:27.554Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
