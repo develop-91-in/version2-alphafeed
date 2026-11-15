@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:29:27.626Z",
+  "generatedAt": "2026-11-15T01:59:37.718Z",
   "articles": [
     {
       "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
@@ -42,16 +42,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
       "desc": "Yes Bank has filed a petition with the Supreme Court to review an order from October 15. This order upheld a Bombay High Court ruling that quashed the bank's decision to write off AT-1 bonds. These bonds, worth Rs 8,415 crore, were questioned during Yes Bank's financial difficulties. The high court ruled that the bank's administrator lacked authority for such a write-off.",
       "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
@@ -76,6 +66,16 @@
       "desc": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering with regulatory bodies. This IPO features an offer for sale of roughly 66.18 crore equity shares from Coal India, amounting to a 10 percent stake in the subsidiary MCL. The intended capital raise is around Rs 9,500 crore, with the final execution reliant on regulatory approval and market conditions.",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
       "pubDate": "Sat, 14 Nov 2026 15:42:53 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
+      "desc": "The Nifty's current technical structure remains positive. Although a sharp rebound from the vicinity of the 200-week moving average has significantly improved the near-term technical setup, the Index is near its overhead resistance area.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+      "pubDate": "Sat, 14 Nov 2026 15:38:04 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "top-stories",
@@ -136,16 +136,6 @@
       "desc": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
       "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
       "pubDate": "Sat, 14 Nov 2026 16:53:39 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
-      "desc": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
-      "pubDate": "Sat, 14 Nov 2026 16:13:43 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -533,7 +523,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T01:29:27.625Z",
+    "generatedAt": "2026-11-15T01:59:37.718Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -546,7 +536,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:17.113Z",
+        "timestamp": "2026-11-15T01:59:23.427Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -558,7 +548,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:17.848Z",
+        "timestamp": "2026-11-15T01:59:23.849Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -570,7 +560,7 @@
         "changePct": 0.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:18.190Z",
+        "timestamp": "2026-11-15T01:59:24.159Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -582,7 +572,7 @@
         "changePct": 0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:18.501Z",
+        "timestamp": "2026-11-15T01:59:24.541Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -594,7 +584,7 @@
         "changePct": -1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:18.792Z",
+        "timestamp": "2026-11-15T01:59:25.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -606,7 +596,7 @@
         "changePct": -2.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:19.065Z",
+        "timestamp": "2026-11-15T01:59:27.450Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -618,7 +608,7 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:19.380Z",
+        "timestamp": "2026-11-15T01:59:28.383Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -630,7 +620,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:19.669Z",
+        "timestamp": "2026-11-15T01:59:28.737Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -642,7 +632,7 @@
         "changePct": -1.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:19.928Z",
+        "timestamp": "2026-11-15T01:59:29.364Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -654,7 +644,7 @@
         "changePct": -0.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:20.877Z",
+        "timestamp": "2026-11-15T01:59:29.866Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -666,7 +656,7 @@
         "changePct": 3.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:21.136Z",
+        "timestamp": "2026-11-15T01:59:30.330Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -678,7 +668,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:21.449Z",
+        "timestamp": "2026-11-15T01:59:30.922Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -690,7 +680,7 @@
         "changePct": 0.7,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:21.856Z",
+        "timestamp": "2026-11-15T01:59:32.173Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -702,7 +692,7 @@
         "changePct": -0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:22.296Z",
+        "timestamp": "2026-11-15T01:59:32.545Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -714,7 +704,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:22.571Z",
+        "timestamp": "2026-11-15T01:59:32.842Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -726,7 +716,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:22.887Z",
+        "timestamp": "2026-11-15T01:59:33.250Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -738,7 +728,7 @@
         "changePct": -0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:23.142Z",
+        "timestamp": "2026-11-15T01:59:33.576Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -750,7 +740,7 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:23.538Z",
+        "timestamp": "2026-11-15T01:59:33.888Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -762,7 +752,7 @@
         "changePct": 0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:23.957Z",
+        "timestamp": "2026-11-15T01:59:34.191Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -774,7 +764,7 @@
         "changePct": -0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:24.246Z",
+        "timestamp": "2026-11-15T01:59:34.444Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -786,7 +776,7 @@
         "changePct": 0.53,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:24.546Z",
+        "timestamp": "2026-11-15T01:59:34.730Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -798,7 +788,7 @@
         "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:24.857Z",
+        "timestamp": "2026-11-15T01:59:34.984Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -810,7 +800,7 @@
         "changePct": -0.98,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:25.106Z",
+        "timestamp": "2026-11-15T01:59:35.266Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -822,7 +812,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T01:29:25.491Z",
+        "timestamp": "2026-11-15T01:59:35.501Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -834,7 +824,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-15T01:29:25.811Z",
+        "timestamp": "2026-11-15T01:59:35.789Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -846,7 +836,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-15T01:29:26.099Z",
+        "timestamp": "2026-11-15T01:59:35.957Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -858,7 +848,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-15T01:29:26.364Z",
+        "timestamp": "2026-11-15T01:59:36.258Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -870,7 +860,7 @@
         "changePct": -1.89,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-15T01:29:26.718Z",
+        "timestamp": "2026-11-15T01:59:36.586Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -882,7 +872,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-15T01:29:27.193Z",
+        "timestamp": "2026-11-15T01:59:37.383Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -894,7 +884,7 @@
         "changePct": 0.03,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-15T01:29:27.352Z",
+        "timestamp": "2026-11-15T01:59:37.484Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -906,7 +896,7 @@
         "changePct": -1.89,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-15T01:29:27.506Z",
+        "timestamp": "2026-11-15T01:59:37.666Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -918,7 +908,7 @@
         "changePct": -0.2,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-15T01:29:27.625Z",
+        "timestamp": "2026-11-15T01:59:37.718Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
