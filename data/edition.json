@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-15T08:59:31.228Z",
+  "generatedAt": "2026-11-15T09:29:28.012Z",
   "articles": [
+    {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "ASEAN summit: Who’s attending and what’s at stake?",
       "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
@@ -26,16 +36,6 @@
       "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
       "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
       "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "top-stories",
@@ -82,6 +82,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "desc": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Sun, 15 Nov 2026 09:26:37 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
       "title": "ASEAN summit: Who’s attending and what’s at stake?",
       "desc": "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc.",
       "link": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
@@ -106,16 +116,6 @@
       "desc": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
       "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
       "pubDate": "Sun, 15 Nov 2026 01:54:55 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition strikes down 3 drones",
-      "desc": "Saudi-led coalition says it shot down three Houthi drones in as many hours; Iran says it targeted US base in Bahrain.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "pubDate": "Sun, 15 Nov 2026 00:00:08 +0000",
       "image": "",
       "source": "Al Jazeera",
       "section": "global-news",
@@ -220,30 +220,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Concurrent Gainers: 8 stocks gain for 5 days in a row",
-      "desc": "Of these, we shortlisted 8 stocks that consistently gained throughout the period, delivering cumulative returns ranging from 7% to 11%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-gain-for-5-days-in-a-row/slideshow/135828499.cms",
-      "pubDate": "Sat, 14 Nov 2026 14:45:57 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Binance targets full reopening of withdrawals by next week",
-      "desc": "Binance is set to restore withdrawals across all networks and assets by the end of next week. This decision comes after recovering 95% of the $6.3 billion lost in the October hack, which the FBI attributes to North Korean actors, though the nation denies any involvement. Binance pledges to fully reimburse affected clients as operations return to normal.",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms",
-      "pubDate": "Sat, 14 Nov 2026 14:35:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-15T08:59:31.228Z",
+    "generatedAt": "2026-11-15T09:29:28.012Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -256,7 +236,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:19.605Z",
+        "timestamp": "2026-11-15T09:29:17.929Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -268,7 +248,7 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:20.203Z",
+        "timestamp": "2026-11-15T09:29:18.456Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -280,7 +260,7 @@
         "changePct": 0.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:20.459Z",
+        "timestamp": "2026-11-15T09:29:18.750Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -292,7 +272,7 @@
         "changePct": 0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:20.854Z",
+        "timestamp": "2026-11-15T09:29:19.003Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -304,7 +284,7 @@
         "changePct": -1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:21.432Z",
+        "timestamp": "2026-11-15T09:29:19.396Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -316,7 +296,7 @@
         "changePct": -2.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:21.769Z",
+        "timestamp": "2026-11-15T09:29:19.738Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -328,7 +308,7 @@
         "changePct": -0.84,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:22.082Z",
+        "timestamp": "2026-11-15T09:29:20.059Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -340,7 +320,7 @@
         "changePct": -0.75,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:22.384Z",
+        "timestamp": "2026-11-15T09:29:20.334Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -352,7 +332,7 @@
         "changePct": -1.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:23.112Z",
+        "timestamp": "2026-11-15T09:29:20.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -364,7 +344,7 @@
         "changePct": -0.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:23.407Z",
+        "timestamp": "2026-11-15T09:29:21.081Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -376,7 +356,7 @@
         "changePct": 3.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:24.006Z",
+        "timestamp": "2026-11-15T09:29:21.450Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -388,7 +368,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:24.341Z",
+        "timestamp": "2026-11-15T09:29:22.004Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -400,7 +380,7 @@
         "changePct": 0.7,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:24.620Z",
+        "timestamp": "2026-11-15T09:29:22.284Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -412,7 +392,7 @@
         "changePct": -0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:25.049Z",
+        "timestamp": "2026-11-15T09:29:22.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -424,7 +404,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:25.310Z",
+        "timestamp": "2026-11-15T09:29:23.014Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -436,7 +416,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:26.848Z",
+        "timestamp": "2026-11-15T09:29:23.296Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -448,7 +428,7 @@
         "changePct": -0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:27.142Z",
+        "timestamp": "2026-11-15T09:29:23.575Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -460,7 +440,7 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:27.422Z",
+        "timestamp": "2026-11-15T09:29:23.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -472,7 +452,7 @@
         "changePct": 0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:27.730Z",
+        "timestamp": "2026-11-15T09:29:24.160Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -484,7 +464,7 @@
         "changePct": -0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:28.029Z",
+        "timestamp": "2026-11-15T09:29:24.912Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -496,7 +476,7 @@
         "changePct": 0.53,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:28.282Z",
+        "timestamp": "2026-11-15T09:29:25.190Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -508,7 +488,7 @@
         "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:28.598Z",
+        "timestamp": "2026-11-15T09:29:25.449Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -520,7 +500,7 @@
         "changePct": -0.98,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:28.844Z",
+        "timestamp": "2026-11-15T09:29:25.721Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -532,7 +512,7 @@
         "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-15T08:59:29.137Z",
+        "timestamp": "2026-11-15T09:29:25.976Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -544,7 +524,7 @@
         "changePct": 0.02,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-15T08:59:29.413Z",
+        "timestamp": "2026-11-15T09:29:26.250Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -556,7 +536,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-15T08:59:29.697Z",
+        "timestamp": "2026-11-15T09:29:26.512Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -568,7 +548,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-15T08:59:30.179Z",
+        "timestamp": "2026-11-15T09:29:26.786Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -580,7 +560,7 @@
         "changePct": -1.89,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-15T08:59:30.506Z",
+        "timestamp": "2026-11-15T09:29:27.275Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -592,7 +572,7 @@
         "changePct": 1,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-15T08:59:30.768Z",
+        "timestamp": "2026-11-15T09:29:27.575Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -604,7 +584,7 @@
         "changePct": 0.03,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-15T08:59:30.949Z",
+        "timestamp": "2026-11-15T09:29:27.729Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
@@ -616,7 +596,7 @@
         "changePct": -1.89,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-15T08:59:31.094Z",
+        "timestamp": "2026-11-15T09:29:27.903Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
@@ -628,7 +608,7 @@
         "changePct": -0.2,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-15T08:59:31.228Z",
+        "timestamp": "2026-11-15T09:29:28.012Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
