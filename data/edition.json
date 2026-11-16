@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-11-16T15:29:37.721Z",
+  "generatedAt": "2026-11-16T15:59:42.298Z",
   "articles": [
+    {
+      "title": "US stocks: Summit shares drop after US FDA declines to approve lung cancer drug",
+      "desc": "Summit Therapeutics faced a notable decline in share value following the FDA's ruling on ivonescimab, which revealed insufficient overall survival benefits during late-stage trials. Despite Summit's emphasis on regional survival differences, analysts worry that this decision could have repercussions for similar treatments in development. Investors now eagerly await new trial results comparing ivonescimab with conventional lung cancer therapies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-summit-shares-drop-after-us-fda-declines-to-approve-lung-cancer-drug/articleshow/135894815.cms",
+      "pubDate": "Mon, 16 Nov 2026 21:18:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 15:40:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "desc": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 15:37:49 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US stocks: Nasdaq falls 1% at open as Nvidia woes weigh on sentiment ahead of earnings",
+      "desc": "The Nasdaq fell over 1% at the open on Monday as investors remained wary ahead of Nvidia's earnings later this week, with turbulence in the AI trade showing no sign of easing.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
+      "pubDate": "Mon, 16 Nov 2026 21:04:11 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Robert Pattinson is Amazon’s first James Bond",
+      "desc": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from [&#8230;]",
+      "link": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "pubDate": "2026-11-16T10:19:34-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
       "desc": "Ukraine&#039;s military has been relying on the internet service since December 2024 to intercept Russian drones.",
@@ -32,57 +82,67 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-      "desc": "EU foreign policy chief Kaja Kallas says Russian President Vladimir Putin is making maximalist demands.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 13:28:23 +0000",
+      "title": "US stocks: Summit shares drop after US FDA declines to approve lung cancer drug",
+      "desc": "Summit Therapeutics faced a notable decline in share value following the FDA's ruling on ivonescimab, which revealed insufficient overall survival benefits during late-stage trials. Despite Summit's emphasis on regional survival differences, analysts worry that this decision could have repercussions for similar treatments in development. Investors now eagerly await new trial results comparing ivonescimab with conventional lung cancer therapies.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-summit-shares-drop-after-us-fda-declines-to-approve-lung-cancer-drug/articleshow/135894815.cms",
+      "pubDate": "Mon, 16 Nov 2026 21:18:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "desc": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 15:40:16 GMT",
+      "image": "",
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
+    },
+    {
+      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "desc": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 15:37:49 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "S&amp;P, Nasdaq drops 1% as Nvidia woes weigh ahead of earnings: Stock Market Live Updates",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
-      "pubDate": "Mon, 16 Nov 2026 18:44:29 +0530",
+      "title": "US stocks: Nasdaq falls 1% at open as Nvidia woes weigh on sentiment ahead of earnings",
+      "desc": "The Nasdaq fell over 1% at the open on Monday as investors remained wary ahead of Nvidia's earnings later this week, with turbulence in the AI trade showing no sign of easing.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
+      "pubDate": "Mon, 16 Nov 2026 21:04:11 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "earnings-calls",
+      "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Sebi sets up sub-group under PMAC to review key IPO norms; NSE's Chauhan to head panel",
-      "desc": "Sebi has established a sub-group within its Primary Market Advisory Committee aimed at reassessing regulations related to IPOs and fundraising. The initiative seeks to streamline compliance requirements to foster easier access to capital markets. Key focal points include promoter capital lock-in terms, pricing strategies, and due diligence obligations. The group will evaluate relevant Sebi circulars for potential modifications, with final recommendations to be presented to the PMAC for review.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-sets-up-sub-group-under-pmac-to-review-key-ipo-norms-nses-chauhan-to-head-panel/articleshow/135890467.cms",
-      "pubDate": "Mon, 16 Nov 2026 18:37:52 +0530",
+      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
+      "desc": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 15:31:20 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Retain capital gains tax on equities, economists tell FM Sitharaman ahead of Budget 2027-28",
-      "desc": "Economists recently met with Finance Minister Nirmala Sitharaman to discuss the upcoming Union Budget for 2027-28. They recommended keeping the capital gains tax on equities, opposing industry requests for its abolition. Meeting discussions highlighted the economic improvements and private investment growth, emphasizing the importance of fiscal prudence. Additionally, they suggested boosting the MSME and labor-intensive sectors for employment opportunities.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retain-capital-gains-tax-on-equities-economists-tell-fm-sitharaman-ahead-of-budget-2027-28/articleshow/135890410.cms",
-      "pubDate": "Mon, 16 Nov 2026 18:35:46 +0530",
+      "title": "Robert Pattinson is Amazon’s first James Bond",
+      "desc": "Robert Pattinson will take on the role of James Bond in Amazon MGM's first film in the 007 franchise. The next James Bond film will be directed by Denis Villeneuve using a script written by Steven Knight, while Amy Pascal and David Heyman will produce. The upcoming James Bond film will be the first from [&#8230;]",
+      "link": "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond",
+      "pubDate": "2026-11-16T10:19:34-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Blackstone REIT to buy majority stake in $5 billion Amazon data center portfolio",
-      "desc": "Blackstone Digital Infrastructure Trust has officially announced its commitment to acquire a 75.1% stake in joint ventures alongside Amazon Web Services. This significant deal values the AWS data center portfolio at around $5 billion, marking a bold entry into the market. The portfolio features 13 newly constructed powered shells with long-term leases back to AWS.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/blackstone-reit-to-buy-majority-stake-in-5-billion-amazon-data-center-portfolio/articleshow/135890381.cms",
-      "pubDate": "Mon, 16 Nov 2026 18:34:02 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Robert Pattinson: How the Twilight star became 007",
+      "title": "From Batman to Bond - how Robert Pattinson landed the role of 007",
       "desc": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
       "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 16 Nov 2026 15:02:41 GMT",
@@ -172,7 +232,7 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "S&amp;P, Nasdaq drops 1% as Nvidia woes weigh ahead of earnings: Stock Market Live Updates",
+      "title": "Nasdaq tumbles over 500 pts as Nvidia woes weigh ahead of earnings: Stock Market Live Updates",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-meta-tesla-coreweave-nebius-nvidia-earnings-anthropic-ipo-treasury-yield-news-16th-november-2026/liveblog/135890877.cms",
       "pubDate": "Mon, 16 Nov 2026 18:44:29 +0530",
@@ -260,16 +320,6 @@
       "source": "Al Jazeera",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
-      "desc": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 12:20:49 GMT",
-      "image": "",
-      "source": "BBC Technology",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "S&amp;P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom",
@@ -912,26 +962,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Bajaj Auto Share Price Highlights: Bajaj Auto Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-live-updates-16-nov-2026/liveblog/135870691.cms",
-      "pubDate": "Mon, 16 Nov 2026 08:20:06 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-today-live-16-nov-2026/liveblog/135870641.cms",
-      "pubDate": "Mon, 16 Nov 2026 08:17:11 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
       "desc": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
@@ -960,20 +990,10 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-      "desc": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [&#8230;]",
-      "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-      "pubDate": "2026-11-15T16:05:02-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-16T15:29:37.721Z",
+    "generatedAt": "2026-11-16T15:59:42.298Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -986,7 +1006,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:27.630Z",
+        "timestamp": "2026-11-16T15:59:21.735Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -998,7 +1018,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:28.640Z",
+        "timestamp": "2026-11-16T15:59:23.895Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1010,7 +1030,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:29.450Z",
+        "timestamp": "2026-11-16T15:59:25.742Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1022,7 +1042,7 @@
         "changePct": -0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:30.182Z",
+        "timestamp": "2026-11-16T15:59:26.932Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1034,7 +1054,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:30.514Z",
+        "timestamp": "2026-11-16T15:59:28.415Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1046,7 +1066,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:30.772Z",
+        "timestamp": "2026-11-16T15:59:29.628Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1058,7 +1078,7 @@
         "changePct": -1.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:31.058Z",
+        "timestamp": "2026-11-16T15:59:30.420Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1070,7 +1090,7 @@
         "changePct": 1.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:31.351Z",
+        "timestamp": "2026-11-16T15:59:31.348Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1082,7 +1102,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:31.665Z",
+        "timestamp": "2026-11-16T15:59:31.659Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1094,7 +1114,7 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:31.988Z",
+        "timestamp": "2026-11-16T15:59:32.020Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1106,7 +1126,7 @@
         "changePct": -1.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:32.421Z",
+        "timestamp": "2026-11-16T15:59:32.509Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1118,7 +1138,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:32.797Z",
+        "timestamp": "2026-11-16T15:59:32.822Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1130,7 +1150,7 @@
         "changePct": -0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:33.005Z",
+        "timestamp": "2026-11-16T15:59:33.235Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1142,7 +1162,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:33.293Z",
+        "timestamp": "2026-11-16T15:59:34.184Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1154,67 +1174,67 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:33.518Z",
+        "timestamp": "2026-11-16T15:59:35.502Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7459.24,
-        "change": -102.43,
-        "changePct": -1.35,
+        "price": 7487.24,
+        "change": -74.43,
+        "changePct": -0.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:33.866Z",
+        "timestamp": "2026-11-16T15:59:36.086Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24610.764,
-        "change": -525.51,
-        "changePct": -2.09,
+        "price": 24762.758,
+        "change": -373.516,
+        "changePct": -1.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:34.094Z",
+        "timestamp": "2026-11-16T15:59:36.499Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51990.66,
-        "change": -356.891,
-        "changePct": -0.68,
+        "price": 52085.61,
+        "change": -261.941,
+        "changePct": -0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:34.391Z",
+        "timestamp": "2026-11-16T15:59:37.136Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10928.64,
-        "change": 26.08,
-        "changePct": 0.24,
+        "price": 10911.2,
+        "change": 8.641,
+        "changePct": 0.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:34.595Z",
+        "timestamp": "2026-11-16T15:59:37.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26666.97,
-        "change": -82.979,
-        "changePct": -0.31,
+        "price": 26624.73,
+        "change": -125.219,
+        "changePct": -0.47,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:34.859Z",
+        "timestamp": "2026-11-16T15:59:37.743Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1226,7 +1246,7 @@
         "changePct": -2.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:35.083Z",
+        "timestamp": "2026-11-16T15:59:38.082Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1238,7 +1258,7 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:35.364Z",
+        "timestamp": "2026-11-16T15:59:38.334Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1250,7 +1270,7 @@
         "changePct": -3.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:35.581Z",
+        "timestamp": "2026-11-16T15:59:38.649Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1262,103 +1282,103 @@
         "changePct": -0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T15:29:36.024Z",
+        "timestamp": "2026-11-16T15:59:38.954Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 93.12,
-        "change": -2.72,
-        "changePct": -2.84,
+        "price": 93.95,
+        "change": -1.89,
+        "changePct": -1.97,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T15:29:36.295Z",
+        "timestamp": "2026-11-16T15:59:39.492Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.54,
-        "change": -2.02,
-        "changePct": -2.28,
+        "price": 87.06,
+        "change": -1.5,
+        "changePct": -1.69,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T15:29:36.557Z",
+        "timestamp": "2026-11-16T15:59:40.539Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3877.2,
-        "change": -9.1,
-        "changePct": -0.23,
+        "price": 3867,
+        "change": -19.3,
+        "changePct": -0.5,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T15:29:36.768Z",
+        "timestamp": "2026-11-16T15:59:41.178Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 46.705,
-        "change": -2.416,
-        "changePct": -4.92,
+        "price": 46.685,
+        "change": -2.436,
+        "changePct": -4.96,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T15:29:37.044Z",
+        "timestamp": "2026-11-16T15:59:41.612Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.115,
-        "change": -0.039,
-        "changePct": -0.76,
+        "price": 5.123,
+        "change": -0.031,
+        "changePct": -0.6,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-16T15:29:37.322Z",
+        "timestamp": "2026-11-16T15:59:41.927Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 117066,
-        "change": -275,
-        "changePct": -0.23,
+        "price": 116752,
+        "change": -589,
+        "changePct": -0.5,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-16T15:29:37.489Z",
+        "timestamp": "2026-11-16T15:59:42.020Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 141018,
-        "change": -7295,
-        "changePct": -4.92,
+        "price": 140958,
+        "change": -7355,
+        "changePct": -4.96,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-16T15:29:37.598Z",
+        "timestamp": "2026-11-16T15:59:42.198Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8127,
-        "change": -190,
-        "changePct": -2.28,
+        "price": 8176,
+        "change": -141,
+        "changePct": -1.69,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-16T15:29:37.721Z",
+        "timestamp": "2026-11-16T15:59:42.298Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
