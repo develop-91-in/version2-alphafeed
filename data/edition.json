@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-16T10:59:23.229Z",
+  "generatedAt": "2026-11-16T11:29:25.636Z",
   "articles": [
+    {
+      "title": "Fractal in talks with up to 25 AI startups for acquisitions, CEO says",
+      "desc": "Enterprise AI firm Fractal Analytics is actively talking to 20 to 25 startups to potentially acquire them, its CEO told Reuters, as it seeks to deepen its vertical-specific capabilities and gain early access to frontier AI models.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
+      "pubDate": "Mon, 16 Nov 2026 16:40:39 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 11:09:38 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "IBM investing $3 billion annually in India, plans $10 billion global quantum push: CEO",
       "desc": "AI could displace 10-20% of jobs over the next decade, with the business process outsourcing (BPO) industry likely to face some of the biggest reductions in employment, Krishna said, arguing that businesses and governments would need to prepare workers for changes in the nature of work.",
@@ -8,6 +28,16 @@
       "pubDate": "Mon, 16 Nov 2026 16:00:25 +0530",
       "image": "",
       "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Lebanon’s second airport could provide economic and political benefits",
+      "desc": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+      "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 10:28:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
     },
@@ -52,38 +82,48 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Swiggy among 10 midcap stocks that dropped up to 50% in CY26",
-      "desc": "The Nifty Midcap 150 has gained around 2% in CY26, but several constituents have suffered steep corrections. Swiggy, PI Industries and Rail Vikas Nigam lead the 10 biggest laggards, with losses ranging from 32% to 52%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-among-10-midcap-stocks-that-dropped-up-to-50-in-cy26/slideshow/135883464.cms",
-      "pubDate": "Mon, 16 Nov 2026 15:40:54 +0530",
+      "title": "Fractal in talks with up to 25 AI startups for acquisitions, CEO says",
+      "desc": "Enterprise AI firm Fractal Analytics is actively talking to 20 to 25 startups to potentially acquire them, its CEO told Reuters, as it seeks to deepen its vertical-specific capabilities and gain early access to frontier AI models.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/fractal-in-talks-with-up-to-25-ai-startups-for-acquisitions-ceo-says/articleshow/135886057.cms",
+      "pubDate": "Mon, 16 Nov 2026 16:40:39 +0530",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
-      "title": "‘NATO will collapse’: Russia stalls Ukraine talks, seeks to divide Europe",
-      "desc": "Russia has proposed nonaggression pacts with individual nations, which could shatter collective defence against Moscow.",
-      "link": "https://www.aljazeera.com/news/2026/11/16/nato-will-collapse-russia-stalls-ukraine-talks-seeks-to-divide-europe?traffic_source=rss",
-      "pubDate": "Mon, 16 Nov 2026 10:03:11 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "'You're going to win the war': Harry praises war veterans on surprise Ukraine visit",
-      "desc": "He has been showing support for injured veterans in Ukraine and praising the country's resilience.",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 09:21:31 GMT",
+      "title": "Yemeni forces retreat to defend port city from Houthis",
+      "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Mon, 16 Nov 2026 11:09:38 GMT",
       "image": "",
       "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Senator slams Commerce Secretary for flow of Nvidia AI chips to China",
+      "desc": "Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, Cantwell said the DOC has \"undermined America's [&#8230;]",
+      "link": "https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick",
+      "pubDate": "2026-11-16T06:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "India’s unemployment rate eases to 4.9% in October",
+      "desc": "India’s unemployment rate for those aged 15 and above declined to 4.9% in October from 5% in September, government data showed, below the 5.1% forecast in a Reuters poll.",
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-unemployment-rate-eases-to-4-9-in-october/articleshow/135884988.cms",
+      "pubDate": "Mon, 16 Nov 2026 16:22:48 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
     },
     {
       "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "desc": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one haidresser has told the BBC.",
+      "desc": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
       "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Mon, 16 Nov 2026 10:51:45 GMT",
       "image": "",
@@ -100,6 +140,16 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
+    },
+    {
+      "title": "Lebanon’s second airport could provide economic and political benefits",
+      "desc": "The establishment of a second airport in Lebanon gives the war-devastated country more options for air travel.",
+      "link": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 10:28:22 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "LTCG tax relief on the cards? CBDT Chairman says govt examining proposals for equity capital gains tax changes before Union Budget",
@@ -250,16 +300,6 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-      "desc": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
-      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Mon, 16 Nov 2026 07:23:23 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Gas starts flowing from Jackdaw after government green light",
@@ -863,7 +903,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-16T10:59:23.229Z",
+    "generatedAt": "2026-11-16T11:29:25.636Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -876,7 +916,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:13.771Z",
+        "timestamp": "2026-11-16T11:29:14.331Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -888,7 +928,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:14.402Z",
+        "timestamp": "2026-11-16T11:29:15.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -900,7 +940,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:14.630Z",
+        "timestamp": "2026-11-16T11:29:15.778Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -912,7 +952,7 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:14.925Z",
+        "timestamp": "2026-11-16T11:29:16.082Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -924,7 +964,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:15.189Z",
+        "timestamp": "2026-11-16T11:29:16.546Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -936,7 +976,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:15.452Z",
+        "timestamp": "2026-11-16T11:29:16.795Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -948,7 +988,7 @@
         "changePct": -1.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:15.742Z",
+        "timestamp": "2026-11-16T11:29:17.495Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -960,7 +1000,7 @@
         "changePct": 1.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:16.137Z",
+        "timestamp": "2026-11-16T11:29:17.748Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -972,7 +1012,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:16.648Z",
+        "timestamp": "2026-11-16T11:29:18.033Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -984,7 +1024,7 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:17.249Z",
+        "timestamp": "2026-11-16T11:29:19.303Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -996,7 +1036,7 @@
         "changePct": -1.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:17.640Z",
+        "timestamp": "2026-11-16T11:29:19.573Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1008,7 +1048,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:18.012Z",
+        "timestamp": "2026-11-16T11:29:19.876Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1060,7 @@
         "changePct": -0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:18.221Z",
+        "timestamp": "2026-11-16T11:29:20.150Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1072,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:18.582Z",
+        "timestamp": "2026-11-16T11:29:20.467Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1084,7 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:18.788Z",
+        "timestamp": "2026-11-16T11:29:20.876Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1096,7 @@
         "changePct": -0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:19.041Z",
+        "timestamp": "2026-11-16T11:29:21.105Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1108,7 @@
         "changePct": -0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:19.273Z",
+        "timestamp": "2026-11-16T11:29:21.333Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,31 +1120,31 @@
         "changePct": 0.1,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:19.660Z",
+        "timestamp": "2026-11-16T11:29:21.587Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10936.17,
-        "change": 33.61,
-        "changePct": 0.31,
+        "price": 10932.73,
+        "change": 30.171,
+        "changePct": 0.28,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:19.890Z",
+        "timestamp": "2026-11-16T11:29:21.879Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 26714.72,
-        "change": -35.229,
+        "price": 26714.24,
+        "change": -35.709,
         "changePct": -0.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:20.190Z",
+        "timestamp": "2026-11-16T11:29:22.131Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,7 +1156,7 @@
         "changePct": -2.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:20.398Z",
+        "timestamp": "2026-11-16T11:29:22.328Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1168,7 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:20.635Z",
+        "timestamp": "2026-11-16T11:29:22.698Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1180,7 @@
         "changePct": -3.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:20.841Z",
+        "timestamp": "2026-11-16T11:29:23.233Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,55 +1192,55 @@
         "changePct": -0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T10:59:21.225Z",
+        "timestamp": "2026-11-16T11:29:23.507Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 95.44,
-        "change": -0.4,
-        "changePct": -0.42,
+        "price": 95.19,
+        "change": -0.65,
+        "changePct": -0.68,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T10:59:21.472Z",
+        "timestamp": "2026-11-16T11:29:23.787Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 88.4,
-        "change": -0.16,
-        "changePct": -0.18,
+        "price": 88.14,
+        "change": -0.42,
+        "changePct": -0.47,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T10:59:21.723Z",
+        "timestamp": "2026-11-16T11:29:24.049Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3871.8,
-        "change": -14.5,
-        "changePct": -0.37,
+        "price": 3879,
+        "change": -7.3,
+        "changePct": -0.19,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T10:59:21.980Z",
+        "timestamp": "2026-11-16T11:29:24.619Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 47.595,
-        "change": -1.526,
-        "changePct": -3.11,
+        "price": 47.74,
+        "change": -1.381,
+        "changePct": -2.81,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T10:59:22.411Z",
+        "timestamp": "2026-11-16T11:29:25.005Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,43 +1252,43 @@
         "changePct": 1,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-16T10:59:22.890Z",
+        "timestamp": "2026-11-16T11:29:25.248Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 116916,
-        "change": -438,
-        "changePct": -0.37,
+        "price": 117133,
+        "change": -220,
+        "changePct": -0.19,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-16T10:59:23.033Z",
+        "timestamp": "2026-11-16T11:29:25.397Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 143721,
-        "change": -4608,
-        "changePct": -3.11,
+        "price": 144159,
+        "change": -4170,
+        "changePct": -2.81,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-16T10:59:23.132Z",
+        "timestamp": "2026-11-16T11:29:25.533Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8303,
-        "change": -15,
-        "changePct": -0.18,
+        "price": 8278,
+        "change": -39,
+        "changePct": -0.47,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-16T10:59:23.229Z",
+        "timestamp": "2026-11-16T11:29:25.636Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
