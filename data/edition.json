@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-16T20:29:44.760Z",
+  "generatedAt": "2026-11-16T20:59:33.270Z",
   "articles": [
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "desc": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "pubDate": "2026-11-16T15:29:37-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "What will Europe do next in Ukraine?",
+      "desc": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 20:12:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
       "desc": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
@@ -62,24 +82,44 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia earnings spotlight shifts to leadership, AI financing after Huang exit",
-      "desc": "Nvidia faces uncertainty following CEO Jensen Huang's departure due to personal controversies and crisis in leadership. Interim CEO Colette Kress is tasked with addressing concerns over Nvidia's impact on the AI ecosystem. Investors are eager for clarity regarding revenue expectations and ongoing financing commitments in the upcoming earnings report. Key numbers to watch include contributions from the new Vera Rubin data center platform.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms",
-      "pubDate": "Mon, 16 Nov 2026 22:13:54 +0530",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "desc": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "pubDate": "2026-11-16T15:46:01-05:00",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "India-EU should ensure maximum utilisation of FTA: Ambassador Jean-Eric Paquet",
-      "desc": "The agreement will not only ensure that trade flourishes but also will open new opportunities, including those in research and innovation, with Assam poised to benefit from it, he said.",
-      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-eu-should-ensure-maximum-utilisation-of-fta-ambassador-jean-eric-paquet/articleshow/135896025.cms",
-      "pubDate": "Mon, 16 Nov 2026 22:06:55 +0530",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "desc": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "pubDate": "2026-11-16T15:41:28-05:00",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "desc": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "pubDate": "2026-11-16T15:29:37-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "What will Europe do next in Ukraine?",
+      "desc": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+      "pubDate": "Mon, 16 Nov 2026 20:12:21 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
@@ -142,26 +182,6 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "desc": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, [&#8230;]",
-      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "pubDate": "2026-11-16T13:43:35-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft’s global email outage",
-      "desc": "Microsoft's worldwide 365 and Outlook outage had real-world consequences after it cut off email alerts for a German hotel's pool safety system. The German outlet Westdeutscher Rundfunk (WDR) said several people were injured at a Phantasialand hotel on Friday after its email system failed to deliver a safety alert about elevated chlorine levels in the [&#8230;]",
-      "link": "https://www.theverge.com/tech/1034538/microsoft-365-outlook-outage-hotel-chlorine-poisoning",
-      "pubDate": "2026-11-16T13:29:55-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Interest in Trump's meme coin dinner fades as $TRUMP sinks to record lows",
       "desc": "President Donald Trump's third crypto gala dinner will be held on November 22 at his golf club. Interest in the event has dropped significantly, with only 185 holders of the $TRUMP token participating. The top 29 wallets will receive VIP access while the Trump family's earnings have reached billions from their crypto ventures. Many investors face substantial losses in the declining market following the midterm elections.",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/interest-in-trumps-meme-coin-dinner-fades-as-trump-sinks-to-record-lows/articleshow/135899741.cms",
@@ -220,16 +240,6 @@
       "source": "Economic Times Markets",
       "section": "earnings-calls",
       "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia",
-      "desc": "Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. \"I think having Jensen go back- a lot of people are asking Jensen, they think [&#8230;]",
-      "link": "https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return",
-      "pubDate": "2026-11-16T11:39:36-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "India-EU should ensure maximum utilisation of FTA: Ambassador Jean-Eric Paquet",
@@ -983,7 +993,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-16T20:29:44.760Z",
+    "generatedAt": "2026-11-16T20:59:33.270Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -996,7 +1006,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:34.255Z",
+        "timestamp": "2026-11-16T20:59:21.397Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1008,7 +1018,7 @@
         "changePct": 0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:34.949Z",
+        "timestamp": "2026-11-16T20:59:21.892Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1020,7 +1030,7 @@
         "changePct": 0.89,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:35.195Z",
+        "timestamp": "2026-11-16T20:59:22.177Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1032,7 +1042,7 @@
         "changePct": -0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:35.536Z",
+        "timestamp": "2026-11-16T20:59:22.465Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1044,7 +1054,7 @@
         "changePct": 0.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:35.890Z",
+        "timestamp": "2026-11-16T20:59:22.731Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1056,7 +1066,7 @@
         "changePct": -1.29,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:36.577Z",
+        "timestamp": "2026-11-16T20:59:23.661Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1068,7 +1078,7 @@
         "changePct": -1.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:36.866Z",
+        "timestamp": "2026-11-16T20:59:23.984Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1080,7 +1090,7 @@
         "changePct": 1.87,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:37.167Z",
+        "timestamp": "2026-11-16T20:59:24.296Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1092,7 +1102,7 @@
         "changePct": -1.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:37.467Z",
+        "timestamp": "2026-11-16T20:59:24.611Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1104,7 +1114,7 @@
         "changePct": -0.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:37.779Z",
+        "timestamp": "2026-11-16T20:59:24.968Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1116,7 +1126,7 @@
         "changePct": -1.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:38.128Z",
+        "timestamp": "2026-11-16T20:59:26.200Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1138,7 @@
         "changePct": 0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:38.434Z",
+        "timestamp": "2026-11-16T20:59:26.516Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1150,7 @@
         "changePct": -0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:38.688Z",
+        "timestamp": "2026-11-16T20:59:26.806Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1162,7 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:38.999Z",
+        "timestamp": "2026-11-16T20:59:27.113Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,43 +1174,43 @@
         "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:39.266Z",
+        "timestamp": "2026-11-16T20:59:27.727Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7411.28,
-        "change": -150.39,
-        "changePct": -1.99,
+        "price": 7412.19,
+        "change": -149.48,
+        "changePct": -1.98,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:39.567Z",
+        "timestamp": "2026-11-16T20:59:27.994Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24501.945,
-        "change": -634.328,
-        "changePct": -2.52,
+        "price": 24491.506,
+        "change": -644.768,
+        "changePct": -2.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:40.075Z",
+        "timestamp": "2026-11-16T20:59:28.359Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 51575.36,
-        "change": -772.191,
-        "changePct": -1.48,
+        "price": 51587.65,
+        "change": -759.902,
+        "changePct": -1.45,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:40.368Z",
+        "timestamp": "2026-11-16T20:59:28.611Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1222,7 @@
         "changePct": -0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:40.615Z",
+        "timestamp": "2026-11-16T20:59:29.133Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,7 +1234,7 @@
         "changePct": -0.57,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:40.899Z",
+        "timestamp": "2026-11-16T20:59:29.398Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1236,7 +1246,7 @@
         "changePct": -2.42,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:41.135Z",
+        "timestamp": "2026-11-16T20:59:29.668Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1258,7 @@
         "changePct": 0.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:41.601Z",
+        "timestamp": "2026-11-16T20:59:30.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1270,7 @@
         "changePct": -3.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:42.099Z",
+        "timestamp": "2026-11-16T20:59:30.555Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,55 +1282,55 @@
         "changePct": -0.88,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-16T20:29:42.385Z",
+        "timestamp": "2026-11-16T20:59:30.811Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 92.29,
-        "change": -3.55,
-        "changePct": -3.7,
+        "price": 92.35,
+        "change": -3.49,
+        "changePct": -3.64,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T20:29:42.772Z",
+        "timestamp": "2026-11-16T20:59:31.311Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 85.46,
-        "change": -3.1,
-        "changePct": -3.5,
+        "price": 85.53,
+        "change": -3.03,
+        "changePct": -3.42,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-16T20:29:43.095Z",
+        "timestamp": "2026-11-16T20:59:32.007Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3863.8,
-        "change": -22.5,
-        "changePct": -0.58,
+        "price": 3854.7,
+        "change": -31.6,
+        "changePct": -0.81,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T20:29:43.718Z",
+        "timestamp": "2026-11-16T20:59:32.315Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 46.98,
-        "change": -2.141,
-        "changePct": -4.36,
+        "price": 46.93,
+        "change": -2.191,
+        "changePct": -4.46,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-16T20:29:44.077Z",
+        "timestamp": "2026-11-16T20:59:32.618Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,43 +1342,43 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-16T20:29:44.323Z",
+        "timestamp": "2026-11-16T20:59:32.907Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 116661,
-        "change": -679,
-        "changePct": -0.58,
+        "price": 116386,
+        "change": -954,
+        "changePct": -0.81,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-16T20:29:44.491Z",
+        "timestamp": "2026-11-16T20:59:33.053Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 141849,
-        "change": -6464,
-        "changePct": -4.36,
+        "price": 141698,
+        "change": -6615,
+        "changePct": -4.46,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-16T20:29:44.632Z",
+        "timestamp": "2026-11-16T20:59:33.172Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8026,
-        "change": -291,
-        "changePct": -3.5,
+        "price": 8032,
+        "change": -285,
+        "changePct": -3.42,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-16T20:29:44.760Z",
+        "timestamp": "2026-11-16T20:59:33.270Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
