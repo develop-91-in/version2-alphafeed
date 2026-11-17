@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-17T07:29:20.335Z",
+  "generatedAt": "2026-11-17T07:59:27.359Z",
   "articles": [
+    {
+      "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "desc": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:35:54 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
+      "desc": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+      "pubDate": "Tue, 17 Nov 2026 12:54:18 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
+      "desc": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
+      "pubDate": "Tue, 17 Nov 2026 12:53:50 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
       "desc": "The Claude developer's bumper initial public offering (IPO) is set to price on Wednesday before trading begins the following day. In the rush to go public before rival ChatGPT owner OpenAI, it has been caught in a volatility storm that's seen some $2 trillion wiped off AI chip giant and ubiquitous AI financier Nvidia's market value in just six weeks.",
@@ -32,16 +62,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "desc": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 05:57:38 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
       "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
       "desc": "The ongoing Israeli assault continues to have disastrous consequences for the people of southern Lebanon.",
       "link": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon?traffic_source=rss",
@@ -62,24 +82,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Why are Nokia shares falling? Nvidia stake sale sparks concerns",
-      "desc": "Nokia shares have fallen for three consecutive sessions amid AI spending concerns and Nvidia's reduced stake. However, rising AI infrastructure sales, European gigafactory plans and a new patent deal offer potential positives for the Finnish telecom equipment maker.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-nokia-shares-falling-nvidia-stake-sale-sparks-concerns/slideshow/135912331.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:46:30 +0530",
+      "title": "Bahrain thwarts drone attack, Iran claims targeting US military radar",
+      "desc": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/bahrain-thwarts-drone-attack-iran-claims-targeting-us-military-radar?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 07:35:54 +0000",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "India Inc.’s sudden craving for dollars is a dangerous gamble",
-      "desc": "India's increasing reliance on US dollar borrowing poses potential risks for future financial stability and currency strength. The Reserve Bank of India has promoted overseas dollar raising, but this could lead to vulnerabilities. Strengthening dollar reserves through debt might not address underlying economic issues effectively.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-inc-s-sudden-craving-for-dollars-is-a-dangerous-gamble/articleshow/135910773.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:25:04 +0530",
+      "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
+      "desc": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+      "pubDate": "Tue, 17 Nov 2026 12:54:18 +0530",
       "image": "",
-      "source": "Economic Times Economy",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
+      "desc": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips.",
+      "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
+      "pubDate": "Tue, 17 Nov 2026 12:53:50 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
     },
     {
       "title": "Anthropic debuts to skeptics and dogged believers: Mike Dolan",
@@ -110,16 +140,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "desc": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 05:57:38 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
@@ -362,7 +382,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Hindalco Share Price Live Updates: Hindalco's Market Update",
+      "title": "Hindalco Share Price Live Updates: Hindalco's Current Market Position",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-17-nov-2026/liveblog/135908861.cms",
       "pubDate": "Tue, 17 Nov 2026 08:52:48 +0530",
@@ -402,7 +422,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "Sun Pharma Share Price Live Updates: Sun Pharma Stock Details",
+      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Price Movement Today",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-17-nov-2026/liveblog/135908759.cms",
       "pubDate": "Tue, 17 Nov 2026 08:45:41 +0530",
@@ -492,7 +512,7 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "L&amp;T Share Price Live Updates: L&amp;T Stock Details",
+      "title": "L&amp;T Share Price Live Updates: L&amp;T Stock Update",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-17-nov-2026/liveblog/135908376.cms",
       "pubDate": "Tue, 17 Nov 2026 08:27:29 +0530",
@@ -602,7 +622,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Infosys Share Price Live Updates: Infosys Stock Details",
+      "title": "Infosys Share Price Live Updates: Infosys Falls Below 100-Day Exponential Moving Average",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-today-live-17-nov-2026/liveblog/135908134.cms",
       "pubDate": "Tue, 17 Nov 2026 08:18:00 +0530",
@@ -622,7 +642,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "UltraTech Cem Share Price Live Updates: Market Update: UltraTech Cement's Weekly Returns",
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cement's Recent Price Trends",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-today-live-17-nov-2026/liveblog/135908107.cms",
       "pubDate": "Tue, 17 Nov 2026 08:16:00 +0530",
@@ -642,7 +662,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank Stock Details",
+      "title": "IndusInd Bank Share Price Live Updates: IndusInd Bank  Price and EMA5 Overview",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/indusind-bank-stock-price-livestock-price-today-live-updates-17-nov-2026/liveblog/135908102.cms",
       "pubDate": "Tue, 17 Nov 2026 08:15:24 +0530",
@@ -752,16 +772,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Cipla Share Price Live Updates: Cipla's Stock Analysis",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-updates-17-nov-2026/liveblog/135907888.cms",
-      "pubDate": "Tue, 17 Nov 2026 08:03:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Visa, Mastercard urge approval of $38 billion swipe fee settlement",
       "desc": "* Judge declines to rule immediately, sees 'protracted process' if he rejects settlement * Accord would end 'Honor All Cards' rule, cap fees on standard consumer cards * Opponents say fees remain too",
       "link": "https://economictimes.indiatimes.com/tech/technology/visa-mastercard-urge-approval-of-38-billion-swipe-fee-settlement/articleshow/135907825.cms",
@@ -822,7 +832,7 @@
       "sectionLabel": "Global Markets"
     },
     {
-      "title": "Iran war live: Ships warned against ‘fake American routes’ in Hormuz Strait",
+      "title": "Iran war live: Bahrain says it intercepted Iranian drone attack",
       "desc": "Oil tankers continue to explode in the Strait of Hormuz as tensions ramp up over US military buildup in the Middle East.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
       "pubDate": "Mon, 16 Nov 2026 23:57:49 +0000",
@@ -1070,30 +1080,10 @@
       "source": "Economic Times Industry",
       "section": "business",
       "sectionLabel": "Business"
-    },
-    {
-      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-      "desc": "Last week, Germany's Helsing unveiled military intelligence software called Clarity. It is part of a broader market for AI-powered systems designed to accelerate military decision-making by helping sift through vast quantities of data to help identify threats and recommend action, including targeting and attacks.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/articleshow/135877776.cms",
-      "pubDate": "Mon, 16 Nov 2026 13:28:49 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Indonesian police raided Nvidia partner Megaspeed's local unit in early 2026 on US request: report",
-      "desc": "Megaspeed has been under scrutiny over suspicions it helped Chinese companies obtain advanced Nvidia chips subject to Washington's export restrictions, but there has been no public finding that it has violated the rules.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/indonesian-police-raided-nvidia-partner-megaspeeds-local-unit-in-early-2026-on-us-request-report/articleshow/135877651.cms",
-      "pubDate": "Mon, 16 Nov 2026 13:26:26 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-17T07:29:20.335Z",
+    "generatedAt": "2026-11-17T07:59:27.359Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1101,180 +1091,180 @@
         "symbol": "NIFTY 50",
         "label": "NIFTY 50",
         "region": "India",
-        "price": 25453.35,
-        "change": 162.25,
-        "changePct": 0.64,
+        "price": 25379.05,
+        "change": 87.951,
+        "changePct": 0.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:12.092Z",
+        "timestamp": "2026-11-17T07:59:16.665Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SENSEX",
         "label": "SENSEX",
         "region": "India",
-        "price": 82781.36,
-        "change": 676.57,
-        "changePct": 0.82,
+        "price": 82527.34,
+        "change": 422.555,
+        "changePct": 0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:12.615Z",
+        "timestamp": "2026-11-17T07:59:17.452Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY BANK",
         "label": "NIFTY BANK",
         "region": "India",
-        "price": 62306.2,
-        "change": 730.301,
-        "changePct": 1.19,
+        "price": 62196.75,
+        "change": 620.852,
+        "changePct": 1.01,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:12.875Z",
+        "timestamp": "2026-11-17T07:59:17.775Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 93.56,
-        "change": -0.352,
-        "changePct": -0.37,
+        "price": 93.57,
+        "change": -0.342,
+        "changePct": -0.36,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:13.181Z",
+        "timestamp": "2026-11-17T07:59:18.098Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY IT",
         "label": "NIFTY IT",
         "region": "Sector",
-        "price": 31799.95,
-        "change": -141.102,
-        "changePct": -0.44,
+        "price": 31615.55,
+        "change": -325.5,
+        "changePct": -1.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:13.416Z",
+        "timestamp": "2026-11-17T07:59:18.400Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY AUTO",
         "label": "NIFTY AUTO",
         "region": "Sector",
-        "price": 27857.6,
-        "change": 287.35,
-        "changePct": 1.04,
+        "price": 27808.45,
+        "change": 238.199,
+        "changePct": 0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:13.663Z",
+        "timestamp": "2026-11-17T07:59:18.708Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PHARMA",
         "label": "NIFTY PHARMA",
         "region": "Sector",
-        "price": 28222.2,
-        "change": 123.799,
-        "changePct": 0.44,
+        "price": 28187.6,
+        "change": 89.199,
+        "changePct": 0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:13.998Z",
+        "timestamp": "2026-11-17T07:59:19.025Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY FMCG",
         "label": "NIFTY FMCG",
         "region": "Sector",
-        "price": 47619.1,
-        "change": -89,
-        "changePct": -0.19,
+        "price": 47546.65,
+        "change": -161.453,
+        "changePct": -0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:14.249Z",
+        "timestamp": "2026-11-17T07:59:19.643Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY METAL",
         "label": "NIFTY METAL",
         "region": "Sector",
-        "price": 12517.6,
-        "change": 59.25,
-        "changePct": 0.48,
+        "price": 12500.75,
+        "change": 42.4,
+        "changePct": 0.34,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:14.616Z",
+        "timestamp": "2026-11-17T07:59:19.909Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY ENERGY",
         "label": "NIFTY ENERGY",
         "region": "Sector",
-        "price": 37131.6,
-        "change": -145.047,
-        "changePct": -0.39,
+        "price": 37067.9,
+        "change": -208.75,
+        "changePct": -0.56,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:14.860Z",
+        "timestamp": "2026-11-17T07:59:20.203Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY REALTY",
         "label": "NIFTY REALTY",
         "region": "Sector",
-        "price": 928.45,
-        "change": 19.55,
-        "changePct": 2.15,
+        "price": 925.4,
+        "change": 16.5,
+        "changePct": 1.81,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:15.126Z",
+        "timestamp": "2026-11-17T07:59:20.521Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PSU BANK",
         "label": "NIFTY PSU BANK",
         "region": "Sector",
-        "price": 9469.7,
-        "change": 164.4,
-        "changePct": 1.77,
+        "price": 9467.1,
+        "change": 161.8,
+        "changePct": 1.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:15.399Z",
+        "timestamp": "2026-11-17T07:59:20.844Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY MIDCAP 50",
         "label": "NIFTY MIDCAP 50",
         "region": "Sector",
-        "price": 17846.55,
-        "change": 72.4,
-        "changePct": 0.41,
+        "price": 17808.15,
+        "change": 34,
+        "changePct": 0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:15.661Z",
+        "timestamp": "2026-11-17T07:59:21.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY INFRA",
         "label": "NIFTY INFRA",
         "region": "Sector",
-        "price": 9587.3,
-        "change": 47.1,
-        "changePct": 0.49,
+        "price": 9565.3,
+        "change": 25.1,
+        "changePct": 0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:15.904Z",
+        "timestamp": "2026-11-17T07:59:21.568Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY MEDIA",
         "label": "NIFTY MEDIA",
         "region": "Sector",
-        "price": 1775.8,
-        "change": 12.5,
-        "changePct": 0.71,
+        "price": 1769.85,
+        "change": 6.55,
+        "changePct": 0.37,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:16.139Z",
+        "timestamp": "2026-11-17T07:59:22.008Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1286,7 +1276,7 @@
         "changePct": -1.92,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:16.337Z",
+        "timestamp": "2026-11-17T07:59:22.336Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1298,7 +1288,7 @@
         "changePct": -2.49,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:16.583Z",
+        "timestamp": "2026-11-17T07:59:22.705Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1310,7 +1300,7 @@
         "changePct": -1.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:17.021Z",
+        "timestamp": "2026-11-17T07:59:23.012Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1322,7 +1312,7 @@
         "changePct": -0.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:17.411Z",
+        "timestamp": "2026-11-17T07:59:23.373Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1334,7 +1324,7 @@
         "changePct": -0.57,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:17.704Z",
+        "timestamp": "2026-11-17T07:59:23.679Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1346,19 +1336,19 @@
         "changePct": -1.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:17.941Z",
+        "timestamp": "2026-11-17T07:59:24.079Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "HANG SENG",
         "label": "HANG SENG",
         "region": "Hong Kong",
-        "price": 23537.39,
-        "change": -216.449,
-        "changePct": -0.91,
+        "price": 23539.38,
+        "change": -214.459,
+        "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:18.186Z",
+        "timestamp": "2026-11-17T07:59:24.389Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1370,7 +1360,7 @@
         "changePct": -2.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:18.434Z",
+        "timestamp": "2026-11-17T07:59:24.682Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1382,55 +1372,55 @@
         "changePct": -0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T07:29:18.749Z",
+        "timestamp": "2026-11-17T07:59:24.990Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 91.56,
-        "change": -0.88,
-        "changePct": -0.95,
+        "price": 91.93,
+        "change": -0.51,
+        "changePct": -0.55,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T07:29:19.001Z",
+        "timestamp": "2026-11-17T07:59:25.255Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 84.86,
-        "change": -0.86,
-        "changePct": -1,
+        "price": 85.24,
+        "change": -0.48,
+        "changePct": -0.56,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T07:29:19.288Z",
+        "timestamp": "2026-11-17T07:59:25.547Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3880,
-        "change": 27,
-        "changePct": 0.7,
+        "price": 3874.5,
+        "change": 21.5,
+        "changePct": 0.56,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T07:29:19.521Z",
+        "timestamp": "2026-11-17T07:59:26.003Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 47.485,
-        "change": 0.626,
-        "changePct": 1.34,
+        "price": 47.395,
+        "change": 0.536,
+        "changePct": 1.14,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T07:29:19.820Z",
+        "timestamp": "2026-11-17T07:59:26.350Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1442,43 +1432,43 @@
         "changePct": -0.64,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-17T07:29:20.062Z",
+        "timestamp": "2026-11-17T07:59:26.749Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 116711,
-        "change": 812,
-        "changePct": 0.7,
+        "price": 116558,
+        "change": 647,
+        "changePct": 0.56,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-17T07:29:20.153Z",
+        "timestamp": "2026-11-17T07:59:26.976Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 142836,
-        "change": 1883,
-        "changePct": 1.34,
+        "price": 142580,
+        "change": 1612,
+        "changePct": 1.14,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-17T07:29:20.239Z",
+        "timestamp": "2026-11-17T07:59:27.182Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 7940,
-        "change": -80,
-        "changePct": -1,
+        "price": 7976,
+        "change": -45,
+        "changePct": -0.56,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-17T07:29:20.335Z",
+        "timestamp": "2026-11-17T07:59:27.359Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
