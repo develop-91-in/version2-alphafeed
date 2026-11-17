@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T12:29:52.892Z",
+  "generatedAt": "2026-11-17T12:59:52.802Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -42,6 +42,12 @@
       "dateISO": "2026-11-23",
       "co": "Bombay Coated and Special Steels Limited",
       "tk": "BCSSL",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-24",
+      "co": "Setco Automotive Limited",
+      "tk": "SETCO",
       "type": "Q2 FY27 results announcement"
     }
   ]
