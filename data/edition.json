@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T18:29:32.288Z",
+  "generatedAt": "2026-11-17T18:59:32.734Z",
   "articles": [
     {
       "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
@@ -72,14 +72,34 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Kalshi moves into a new kind of gambling: the stock market",
-      "desc": "Kalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC. The company reportedly plans to use its acquisition of broker FB Securities to launch equities and exchange-traded funds \"within the next two months,\" pitting the prediction market against rivals like Robinhood. The rumored expansion [&#8230;]",
-      "link": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
-      "pubDate": "2026-11-17T10:35:32-05:00",
+      "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+      "desc": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 15:26:55 +0000",
       "image": "",
-      "source": "The Verge",
+      "source": "Al Jazeera",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "desc": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [&#8230;]",
+      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "pubDate": "2026-11-17T13:58:01-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "desc": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta says your Instagram chats will sync across both apps if you login with the same account. You can also sign up with an [&#8230;]",
+      "link": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "pubDate": "2026-11-17T13:33:02-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "UK sanctions firms over Israeli West Bank settlements",
@@ -202,16 +222,6 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Kalshi moves into a new kind of gambling: the stock market",
-      "desc": "Kalshi is getting ready to offer stock trading on its platform, according to reports from The Wall Street Journal and CNBC. The company reportedly plans to use its acquisition of broker FB Securities to launch equities and exchange-traded funds \"within the next two months,\" pitting the prediction market against rivals like Robinhood. The rumored expansion [&#8230;]",
-      "link": "https://www.theverge.com/business/1035366/kalshi-stock-trading",
-      "pubDate": "2026-11-17T10:35:32-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
       "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
       "desc": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
       "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
@@ -322,7 +332,7 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Dow tumbles over 750 pts ahead of Nvidia Q3 earnings: Stock Market Live Updates",
+      "title": "Dow tumbles over 600 pts ahead of Nvidia Q3 earnings: Stock Market Live Updates",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms",
       "pubDate": "Tue, 17 Nov 2026 18:37:43 +0530",
@@ -1083,7 +1093,7 @@
     }
   ],
   "market": {
-    "generatedAt": "2026-11-17T18:29:32.288Z",
+    "generatedAt": "2026-11-17T18:59:32.734Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1096,7 +1106,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:21.014Z",
+        "timestamp": "2026-11-17T18:59:17.724Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1108,7 +1118,7 @@
         "changePct": 0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:21.586Z",
+        "timestamp": "2026-11-17T18:59:18.341Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1120,7 +1130,7 @@
         "changePct": 1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:21.915Z",
+        "timestamp": "2026-11-17T18:59:18.732Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1132,7 +1142,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:22.521Z",
+        "timestamp": "2026-11-17T18:59:19.057Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1144,7 +1154,7 @@
         "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:22.843Z",
+        "timestamp": "2026-11-17T18:59:19.462Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1156,7 +1166,7 @@
         "changePct": 0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:23.119Z",
+        "timestamp": "2026-11-17T18:59:19.950Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1168,7 +1178,7 @@
         "changePct": 0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:23.452Z",
+        "timestamp": "2026-11-17T18:59:20.253Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1180,7 +1190,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:23.778Z",
+        "timestamp": "2026-11-17T18:59:20.568Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1192,7 +1202,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:24.606Z",
+        "timestamp": "2026-11-17T18:59:20.874Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1204,7 +1214,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:25.140Z",
+        "timestamp": "2026-11-17T18:59:21.398Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1216,7 +1226,7 @@
         "changePct": 1.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:25.478Z",
+        "timestamp": "2026-11-17T18:59:21.886Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1228,7 +1238,7 @@
         "changePct": 1.95,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:25.817Z",
+        "timestamp": "2026-11-17T18:59:22.195Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1240,7 +1250,7 @@
         "changePct": 0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:26.133Z",
+        "timestamp": "2026-11-17T18:59:22.689Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1252,7 +1262,7 @@
         "changePct": 0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:26.651Z",
+        "timestamp": "2026-11-17T18:59:24.204Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1264,43 +1274,43 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:26.970Z",
+        "timestamp": "2026-11-17T18:59:24.801Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7351.82,
-        "change": -64.77,
-        "changePct": -0.87,
+        "price": 7329.68,
+        "change": -86.91,
+        "changePct": -1.17,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:27.249Z",
+        "timestamp": "2026-11-17T18:59:25.152Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24321.494,
-        "change": -188.264,
-        "changePct": -0.77,
+        "price": 24243.027,
+        "change": -266.73,
+        "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:27.723Z",
+        "timestamp": "2026-11-17T18:59:25.484Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 50965.1,
-        "change": -643.07,
-        "changePct": -1.25,
+        "price": 50812.92,
+        "change": -795.25,
+        "changePct": -1.54,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:28.008Z",
+        "timestamp": "2026-11-17T18:59:26.691Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1312,7 +1322,7 @@
         "changePct": -1.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:28.325Z",
+        "timestamp": "2026-11-17T18:59:27.349Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1324,7 +1334,7 @@
         "changePct": -2.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:28.601Z",
+        "timestamp": "2026-11-17T18:59:28.443Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1336,7 +1346,7 @@
         "changePct": -1.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:28.936Z",
+        "timestamp": "2026-11-17T18:59:28.944Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1348,7 +1358,7 @@
         "changePct": -1.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:29.237Z",
+        "timestamp": "2026-11-17T18:59:29.329Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1360,7 +1370,7 @@
         "changePct": -2.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:29.624Z",
+        "timestamp": "2026-11-17T18:59:30.124Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1372,103 +1382,103 @@
         "changePct": -0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T18:29:30.184Z",
+        "timestamp": "2026-11-17T18:59:30.549Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 93.49,
-        "change": 1.05,
-        "changePct": 1.14,
+        "price": 93.52,
+        "change": 1.08,
+        "changePct": 1.17,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T18:29:30.510Z",
+        "timestamp": "2026-11-17T18:59:30.817Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.55,
-        "change": 0.83,
-        "changePct": 0.97,
+        "price": 86.57,
+        "change": 0.85,
+        "changePct": 0.99,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T18:29:30.789Z",
+        "timestamp": "2026-11-17T18:59:31.087Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3862.9,
-        "change": 9.9,
-        "changePct": 0.26,
+        "price": 3859,
+        "change": 6,
+        "changePct": 0.16,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T18:29:31.192Z",
+        "timestamp": "2026-11-17T18:59:31.363Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 47.33,
-        "change": 0.471,
-        "changePct": 1,
+        "price": 47.315,
+        "change": 0.456,
+        "changePct": 0.97,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T18:29:31.471Z",
+        "timestamp": "2026-11-17T18:59:31.780Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.093,
-        "change": -0.028,
-        "changePct": -0.55,
+        "price": 5.097,
+        "change": -0.024,
+        "changePct": -0.47,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-17T18:29:31.844Z",
+        "timestamp": "2026-11-17T18:59:32.207Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 116067,
-        "change": 291,
-        "changePct": 0.25,
+        "price": 115955,
+        "change": 180,
+        "changePct": 0.16,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-17T18:29:32.011Z",
+        "timestamp": "2026-11-17T18:59:32.371Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 142217,
-        "change": 1415,
-        "changePct": 1,
+        "price": 142172,
+        "change": 1370,
+        "changePct": 0.97,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-17T18:29:32.169Z",
+        "timestamp": "2026-11-17T18:59:32.585Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8089,
-        "change": 78,
-        "changePct": 0.97,
+        "price": 8091,
+        "change": 79,
+        "changePct": 0.99,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-17T18:29:32.288Z",
+        "timestamp": "2026-11-17T18:59:32.734Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
