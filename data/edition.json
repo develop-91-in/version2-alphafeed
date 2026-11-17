@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-11-17T17:29:28.079Z",
+  "generatedAt": "2026-11-17T17:59:46.339Z",
   "articles": [
+    {
+      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+      "desc": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:34:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
       "desc": "As India moves forward, artificial intelligence technologies are being woven into the fabric of its manufacturing, infrastructure, and transportation sectors. This innovative integration is set to boost productivity and create more sustainable practices, with companies likely to see a drop in engineering timelines and costs through tools like predictive maintenance and automated quality checks.",
@@ -72,14 +82,24 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
-      "desc": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
-      "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 15:26:55 +0000",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "desc": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:41:49 GMT",
       "image": "",
-      "source": "Al Jazeera",
+      "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+      "desc": "Ali al-Zaidi&#039;s talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+      "link": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
+      "pubDate": "Tue, 17 Nov 2026 17:34:27 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
@@ -152,17 +172,7 @@
       "sectionLabel": "Technology"
     },
     {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "desc": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Tue, 17 Nov 2026 15:59:47 GMT",
-      "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "How Milburn's proposals could help employers hire under-25s",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
       "desc": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
       "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Tue, 17 Nov 2026 15:56:04 GMT",
@@ -340,16 +350,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-      "desc": "Energy facilities, industrial units, ports and bridges, schools, hospitals and apartment buildings have already been hit",
-      "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
-      "pubDate": "Tue, 17 Nov 2026 12:50:12 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "States' subsidy, cash transfer outgo jumps from 16% to 21% of revenue receipts in 5 years: Report",
@@ -1090,20 +1090,10 @@
       "source": "BBC Business",
       "section": "global-markets",
       "sectionLabel": "Global Markets"
-    },
-    {
-      "title": "India's economic strength underpins attractive investment climate: Nirmala Sitharaman",
-      "desc": "\"The USISPF Board reiterated its commitment to investing in India, including in R&amp;D, reflecting confidence in India's growth story and innovation ecosystem,\" the Finance Ministry said in a post on X.",
-      "link": "https://economictimes.indiatimes.com/news/economy/finance/indias-economic-strength-underpins-attractive-investment-climate-nirmala-sitharaman/articleshow/135898862.cms",
-      "pubDate": "Mon, 16 Nov 2026 23:28:19 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-17T17:29:28.079Z",
+    "generatedAt": "2026-11-17T17:59:46.339Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1116,7 +1106,7 @@
         "changePct": 0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:18.543Z",
+        "timestamp": "2026-11-17T17:59:31.439Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1128,7 +1118,7 @@
         "changePct": 0.52,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:19.187Z",
+        "timestamp": "2026-11-17T17:59:32.679Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1140,7 +1130,7 @@
         "changePct": 1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:19.571Z",
+        "timestamp": "2026-11-17T17:59:33.010Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1152,7 +1142,7 @@
         "changePct": -0.48,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:19.848Z",
+        "timestamp": "2026-11-17T17:59:33.279Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1164,7 +1154,7 @@
         "changePct": -0.9,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:20.126Z",
+        "timestamp": "2026-11-17T17:59:33.582Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1176,7 +1166,7 @@
         "changePct": 0.72,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:20.365Z",
+        "timestamp": "2026-11-17T17:59:34.084Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1188,7 +1178,7 @@
         "changePct": 0.21,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:20.657Z",
+        "timestamp": "2026-11-17T17:59:34.526Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1200,7 +1190,7 @@
         "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:20.958Z",
+        "timestamp": "2026-11-17T17:59:34.858Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1212,7 +1202,7 @@
         "changePct": 0.58,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:21.422Z",
+        "timestamp": "2026-11-17T17:59:35.209Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1224,7 +1214,7 @@
         "changePct": -0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:21.650Z",
+        "timestamp": "2026-11-17T17:59:36.299Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1236,7 +1226,7 @@
         "changePct": 1.94,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:21.911Z",
+        "timestamp": "2026-11-17T17:59:37.277Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1248,7 +1238,7 @@
         "changePct": 1.95,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:22.144Z",
+        "timestamp": "2026-11-17T17:59:37.667Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1260,7 +1250,7 @@
         "changePct": 0.27,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:22.419Z",
+        "timestamp": "2026-11-17T17:59:38.024Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1272,7 +1262,7 @@
         "changePct": 0.26,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:22.697Z",
+        "timestamp": "2026-11-17T17:59:38.345Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1284,43 +1274,43 @@
         "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:23.051Z",
+        "timestamp": "2026-11-17T17:59:38.582Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7349.23,
-        "change": -67.36,
-        "changePct": -0.91,
+        "price": 7332.76,
+        "change": -83.83,
+        "changePct": -1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:23.302Z",
+        "timestamp": "2026-11-17T17:59:38.827Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24300.102,
-        "change": -209.656,
-        "changePct": -0.85,
+        "price": 24242.357,
+        "change": -267.4,
+        "changePct": -1.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:23.706Z",
+        "timestamp": "2026-11-17T17:59:39.124Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 50946.89,
-        "change": -661.281,
-        "changePct": -1.28,
+        "price": 50848.77,
+        "change": -759.402,
+        "changePct": -1.47,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:24.027Z",
+        "timestamp": "2026-11-17T17:59:40.212Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1332,7 +1322,7 @@
         "changePct": -1.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:24.314Z",
+        "timestamp": "2026-11-17T17:59:40.512Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1344,7 +1334,7 @@
         "changePct": -2.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:24.717Z",
+        "timestamp": "2026-11-17T17:59:40.734Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1356,7 +1346,7 @@
         "changePct": -1.34,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:24.992Z",
+        "timestamp": "2026-11-17T17:59:41.023Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1368,7 +1358,7 @@
         "changePct": -1.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:25.551Z",
+        "timestamp": "2026-11-17T17:59:41.452Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1380,7 +1370,7 @@
         "changePct": -2.59,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:25.863Z",
+        "timestamp": "2026-11-17T17:59:41.726Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1392,103 +1382,103 @@
         "changePct": -0.5,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-17T17:29:26.104Z",
+        "timestamp": "2026-11-17T17:59:42.043Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 93.14,
-        "change": 0.7,
-        "changePct": 0.76,
+        "price": 93.18,
+        "change": 0.74,
+        "changePct": 0.8,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T17:29:26.417Z",
+        "timestamp": "2026-11-17T17:59:42.302Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 86.23,
-        "change": 0.51,
-        "changePct": 0.59,
+        "price": 86.3,
+        "change": 0.58,
+        "changePct": 0.68,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-17T17:29:26.840Z",
+        "timestamp": "2026-11-17T17:59:42.610Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3872.3,
-        "change": 19.3,
-        "changePct": 0.5,
+        "price": 3868.3,
+        "change": 15.3,
+        "changePct": 0.4,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T17:29:27.117Z",
+        "timestamp": "2026-11-17T17:59:44.613Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 47.645,
-        "change": 0.786,
-        "changePct": 1.68,
+        "price": 47.45,
+        "change": 0.591,
+        "changePct": 1.26,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-17T17:29:27.415Z",
+        "timestamp": "2026-11-17T17:59:45.663Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.099,
-        "change": -0.022,
-        "changePct": -0.43,
+        "price": 5.093,
+        "change": -0.028,
+        "changePct": -0.55,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-17T17:29:27.711Z",
+        "timestamp": "2026-11-17T17:59:45.971Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 116361,
-        "change": 586,
-        "changePct": 0.51,
+        "price": 116235,
+        "change": 460,
+        "changePct": 0.4,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-17T17:29:27.804Z",
+        "timestamp": "2026-11-17T17:59:46.106Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 143164,
-        "change": 2362,
-        "changePct": 1.68,
+        "price": 142578,
+        "change": 1776,
+        "changePct": 1.26,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-17T17:29:27.980Z",
+        "timestamp": "2026-11-17T17:59:46.247Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 8059,
-        "change": 48,
-        "changePct": 0.59,
+        "price": 8066,
+        "change": 54,
+        "changePct": 0.68,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-17T17:29:28.079Z",
+        "timestamp": "2026-11-17T17:59:46.339Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
