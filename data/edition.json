@@ -1,85 +1,255 @@
 {
-  "generatedAt": "2026-11-18T15:00:42.092Z",
+  "generatedAt": "2026-11-18T18:38:30.716Z",
   "articles": [
     {
-      "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-      "desc": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a \"Project Gryffindor\" - a school program that would \"fuel organic and unattributed acquisition\" of users. [&#8230;]",
-      "link": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
-      "pubDate": "2026-11-18T09:59:05-05:00",
+      "title": "Israeli forces launch new military operation in central Gaza",
+      "desc": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 18:12:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "desc": "Billions have been pledged for Gaza since a 2025 &#039;ceasefire&#039;, but rebuilding hasn’t begun and Israeli attacks continue.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 17:45:09 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+      "desc": "Crowds gathered in Shenzhen, China,  to welcome US President Donald Trump as he arrived for the APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:40:03 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+      "desc": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:16:48 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Pax Silica is the new face of US imperialism in the Philippines",
+      "desc": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 15:57:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Market Trading Guide: Deepak Fertilisers among 3 stock recommendations for Thursday",
+      "desc": "Indian equity benchmarks declined amid weak global cues and profit booking, with the Nifty falling 0.63% and Sensex 0.61%. Choice Broking's Sachin Gupta recommended three stocks—Vijaya, Eureka Forbes and Deepak Fertilisers—with bullish technical setups and defined targets.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepak-fertilisers-among-3-stock-recommendations-for-thursday/slideshow/135967160.cms",
+      "pubDate": "Wed, 18 Nov 2026 21:14:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Israeli forces launch new military operation in central Gaza",
+      "desc": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 18:12:42 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Google is forcing Android app developers to properly support foldables",
+      "desc": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a baseline level of support for foldables. If they don't, developers risk not being able to publish or update [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
+      "pubDate": "2026-11-18T13:00:00-05:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-      "desc": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike powered almost entirely by software. Now there is a new [&#8230;]",
-      "link": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-      "pubDate": "2026-11-18T09:56:43-05:00",
+      "title": "Disney’s new Star Wars animatronics interact with guests using AI",
+      "desc": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make their behavior appear more spontaneous. That could soon change as Walt Disney Imagineering R&#38;D has revealed three new Audio-Animatronic prototypes that rely on Amazon's [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "pubDate": "2026-11-18T12:50:57-05:00",
       "image": "",
       "source": "The Verge",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
-      "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-      "desc": "Iran and the US have continued to exchange strikes in recent days, but all-out war has so far been avoided.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 14:36:20 +0000",
+      "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+      "desc": "Billions have been pledged for Gaza since a 2025 &#039;ceasefire&#039;, but rebuilding hasn’t begun and Israeli attacks continue.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 17:45:09 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "PSBs' net profit rises 17% to Rs 1.10 lakh cr in H1 FY27; business crosses Rs 300 lakh crore",
-      "desc": "Public sector banks in India have reported a remarkable 16.9 percent rise in net profits during the first half of this fiscal year, reflecting a thriving financial environment. With total business reaching Rs 301.6 lakh crore, and a notable drop in the gross non-performing assets ratio to an unprecedented 1.69 percent, the banks are demonstrating improved stability.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/psbs-net-profit-rises-17-to-rs-1-10-lakh-cr-in-h1-fy27-business-crosses-rs-300-lakh-crore/articleshow/135965650.cms",
-      "pubDate": "Wed, 18 Nov 2026 19:52:28 +0530",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "desc": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 17:00:40 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr",
-      "desc": "Prestige Estates Projects Ltd has successfully acquired a 50% stake in Advent Convention and Hotels International for an estimated Rs 500 crore. This partnership is set to develop a commercial project in Andheri, Mumbai, spanning 21,978.22 square meters, with projected leasable space of 1.50 million square feet. The total project valuation is forecasted at approximately Rs 4,500 crore, marking a significant expansion for Prestige in the Mumbai real estate market.",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965554.cms",
-      "pubDate": "Wed, 18 Nov 2026 19:44:08 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Can the US and Iran sustain a ‘frozen war’?",
-      "desc": "Tehran may eventually decide that &#039;escalating confrontation&#039; is preferable to status quo, says analyst Hamidreza Azizi.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 14:13:51 +0000",
+      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+      "desc": "Crowds gathered in Shenzhen, China,  to welcome US President Donald Trump as he arrived for the APEC summit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:40:03 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "What’s holding South Africa’s economy back?",
-      "desc": "South Africa seeks billions in new investment to revive weak growth and tackle unemployment crisis.",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/11/18/whats-holding-south-africas-economy-back?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 14:12:57 +0000",
+      "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
+      "desc": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:16:48 +0000",
       "image": "",
       "source": "Al Jazeera",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
-      "title": "Gateway Distriparks to operate, manage common rail yard terminal at JNPA",
-      "desc": "Gateway Distriparks Limited has gained a mandate for operating the common rail yard terminal at Jawaharlal Nehru Port Authority. This terminal will enhance the handling of container trains and improve the efficiency of cargo movement. The contract spans eight years, focusing on train handling, container stacking, and inter-terminal transfers. Gateway aims to work closely with JNPA to improve rail connectivity for trade.",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gateway-distriparks-to-operate-manage-common-rail-yard-terminal-at-jnpa/articleshow/135964806.cms",
-      "pubDate": "Wed, 18 Nov 2026 19:14:28 +0530",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 16:10:44 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
+      "desc": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. The Shelly Neo Smart Water Valve is [&#8230;]",
+      "link": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
+      "pubDate": "2026-11-18T11:00:00-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Pax Silica is the new face of US imperialism in the Philippines",
+      "desc": "Behind promises of jobs and investment lie threats to ancestral lands, water security and national sovereignty.",
+      "link": "https://www.aljazeera.com/opinions/2026/11/18/pax-silica-is-the-new-face-of-us-imperialism-in-the-philippines?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 15:57:20 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Market Trading Guide: Deepak Fertilisers among 3 stock recommendations for Thursday",
+      "desc": "Indian equity benchmarks declined amid weak global cues and profit booking, with the Nifty falling 0.63% and Sensex 0.61%. Choice Broking's Sachin Gupta recommended three stocks—Vijaya, Eureka Forbes and Deepak Fertilisers—with bullish technical setups and defined targets.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepak-fertilisers-among-3-stock-recommendations-for-thursday/slideshow/135967160.cms",
+      "pubDate": "Wed, 18 Nov 2026 21:14:45 +0530",
       "image": "",
       "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Remember the frontier AI pause? Chip companies don’t either",
+      "desc": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "pubDate": "2026-11-18T10:44:02-05:00",
+      "image": "",
+      "source": "The Verge",
+      "section": "technology",
+      "sectionLabel": "Technology"
+    },
+    {
+      "title": "Dalmia Bharat to consider share buyback at Nov 23 board meeting",
+      "desc": "Dalmia Bharat, India's fourth-largest cement manufacturer, will hold a board meeting on November 23. The meeting will focus on a proposal for a buyback of fully paid-up equity shares. Specific details regarding the buyback size, price, and number of shares have not been disclosed yet. The company also plans to expand its cement capacity to 75 million tonnes per annum by FY28.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalmia-bharat-to-consider-share-buyback-at-nov-23-board-meeting/articleshow/135966836.cms",
+      "pubDate": "Wed, 18 Nov 2026 20:58:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Target reports strongest quarterly sales gain in five years heading into the holiday shopping season",
+      "desc": "Target reported a 7.1% increase in net sales for the third quarter, reaching $27.07 billion. The growth was attributed to a revitalized product lineup, expanded same-day deliveries, and price cuts. CEO Michael Fiddelke indicated that the sales momentum was observed across various income groups. The company aims to enhance clothing and home goods offerings while working on women's apparel and footwear.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/target-reports-strongest-quarterly-sales-gain-in-five-years-heading-into-the-holiday-shopping-season/articleshow/135966816.cms",
+      "pubDate": "Wed, 18 Nov 2026 20:55:58 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "India on track to hit $1 trillion exports target in FY27: Commerce Secretary",
+      "desc": "India's exports increased by 16.6% in the first half of this fiscal year. The country aims to reach $1 trillion in exports by 2026-27. Commerce Secretary Rajesh Agrawal stated that India is on track to meet this goal. Despite global trade uncertainties, India continues to be viewed positively as a trusted trading partner. India achieved record exports of $863 billion in the previous fiscal year.",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-on-track-to-hit-1-trillion-exports-target-in-fy27-commerce-secretary/articleshow/135966484.cms",
+      "pubDate": "Wed, 18 Nov 2026 20:37:27 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+      "desc": "Tensions surge between PM al-Zaidi&#039;s government and Kataib Hezbollah amid oil-smuggling scandal.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 15:00:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Nasdaq gains in choppy trade as Nvidia outlook lifts AI mood; Anthropic pricing awaited",
+      "desc": "Amidst a choppy trading session, the Nasdaq enjoyed a boost from Nvidia's positive revenue guidance, which alleviated some market apprehensions. Conversely, the Dow Jones Industrial Average and S&amp;P 500 stumbled, affected by falling stock values in finance and healthcare. Investors are now focused on Anthropic's upcoming IPO, which could signal the market’s enthusiasm for AI ventures.",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-500-nasdaq-open-higher-as-nvidia-forecast-eases-ai-jitters/articleshow/135966195.cms",
+      "pubDate": "Wed, 18 Nov 2026 20:29:39 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "ipo-centre",
+      "sectionLabel": "IPO Centre"
     },
     {
       "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
@@ -110,6 +280,26 @@
       "source": "The Verge",
       "section": "technology",
       "sectionLabel": "Technology"
+    },
+    {
+      "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+      "desc": "Hung Cao says shipping insurance costs have soared to $64m for a single transit, challenging claims the strait is open.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 14:47:34 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
+    },
+    {
+      "title": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+      "desc": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
+      "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+      "pubDate": "Wed, 18 Nov 2026 14:39:09 +0000",
+      "image": "",
+      "source": "Al Jazeera",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
@@ -172,17 +362,7 @@
       "sectionLabel": "Global News"
     },
     {
-      "title": "Will Wright’s next game uses AI to map your memories",
-      "desc": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
-      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "pubDate": "2026-11-18T09:00:00-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "title": "Seven Anthropic founders who are about to become multi-billionaires",
       "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT",
@@ -190,6 +370,16 @@
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "desc": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 13:55:14 GMT",
+      "image": "",
+      "source": "BBC World",
+      "section": "global-news",
+      "sectionLabel": "Global News"
     },
     {
       "title": "Gateway Distriparks to operate, manage common rail yard terminal at JNPA",
@@ -232,7 +422,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "S&amp;P 500, Nasdaq rise as Nvidia outlook calms AI jitters: Stock Market Live Updates",
+      "title": "S&amp;P 500 turns positive, Nasdaq gains as Nvidia lifts AI mood; Dow lags: Stock Market Live Updates",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-nasdaq-sp-500-nvidia-forecast-anthropic-ipo-coreweave-nebius-fed-rate-fed-rate-hike-treasury-yield-news-18th-november-2026/liveblog/135964782.cms",
       "pubDate": "Wed, 18 Nov 2026 18:47:07 +0530",
@@ -272,36 +462,6 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Nvidia isn’t selling any more AI chips to China",
-      "desc": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
-      "link": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "pubDate": "2026-11-18T08:01:05-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
-    },
-    {
-      "title": "How data centres are turning AI-generated heat into energy",
-      "desc": "How data centres are turning AI-generated heat into energy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 12:41:02 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "desc": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 12:39:24 GMT",
-      "image": "",
-      "source": "BBC World",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "India, US close to finalising trade deal talks, signing may take time",
       "desc": "The trade deal negotiations between India and the US are nearing completion, according to Commerce Secretary Rajesh Agrawal. He stated that the legal texts are almost finalized. However, the signing hinges on the establishment of new US tariff rules and the resolution of ongoing Section 301 investigations.",
       "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-close-to-finalising-trade-deal-talks-signing-may-take-time/articleshow/135962149.cms",
@@ -310,16 +470,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-      "desc": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-      "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 11:57:09 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "India bonds reverse intraday gains to end lower as profit booking takes center stage",
@@ -332,26 +482,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Who would gain from carving up Pakistan’s provinces?",
-      "desc": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 11:47:32 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
-      "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
-      "desc": "US President Donald Trump was greeted by Chinese President Xi Jinping as he arrived in China.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 11:37:29 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
-    },
-    {
       "title": "PI Industries among 5 stocks hitting 52-week low; slipped up to 26% in a month",
       "desc": "Five BSE 500 stocks, including PI Industries, Aditya Birla Fashion and Retail and Thermax, hit fresh 52-week lows as the market weakened, with losses reaching 26% in a month.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pi-industries-among-5-stocks-hitting-52-week-low-slipped-up-to-26-in-a-month/slideshow/135961979.cms",
@@ -360,16 +490,6 @@
       "source": "Economic Times Markets",
       "section": "indian-markets",
       "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Suno now lets you make AI videos for your AI music",
-      "desc": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Visuals [&#8230;]",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "pubDate": "2026-11-18T06:16:53-05:00",
-      "image": "",
-      "source": "The Verge",
-      "section": "technology",
-      "sectionLabel": "Technology"
     },
     {
       "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
@@ -390,16 +510,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Traumas of Sudan war lead to wave of drug addiction",
-      "desc": "Anguish caused by conflict sees a growing number of young people turn to drugs.",
-      "link": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
-      "pubDate": "Wed, 18 Nov 2026 10:35:06 +0000",
-      "image": "",
-      "source": "Al Jazeera",
-      "section": "global-news",
-      "sectionLabel": "Global News"
     },
     {
       "title": "Rupee ends flat after hitting seven-month high as firmer dollar offsets inflows",
@@ -677,9 +787,9 @@
       "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&amp;at_campaign=rss",
       "pubDate": "Wed, 18 Nov 2026 04:00:54 GMT",
       "image": "",
-      "source": "BBC News",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Business",
+      "section": "global-markets",
+      "sectionLabel": "Global Markets"
     },
     {
       "title": "Laurus Labs among 4 stocks showing White Marubozu pattern",
@@ -892,46 +1002,6 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "ONGC Share Price Highlights: ONGC Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ongc-share-price-today-live-updates-18-nov-2026/liveblog/135946681.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:26:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "JSW Steel Share Price Highlights: JSW Steel Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-18-nov-2026/liveblog/135946675.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:26:27 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Britannia Share Price Highlights: Britannia Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-today-live-updates-18-nov-2026/liveblog/135946667.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:26:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Titan Company Share Price Highlights: Titan Company Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-18-nov-2026/liveblog/135946662.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:25:45 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
       "desc": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
@@ -1030,30 +1100,10 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Beyond the AI hype: How Industrial AI is reshaping India’s factories and infrastructure",
-      "desc": "As India moves forward, artificial intelligence technologies are being woven into the fabric of its manufacturing, infrastructure, and transportation sectors. This innovative integration is set to boost productivity and create more sustainable practices, with companies likely to see a drop in engineering timelines and costs through tools like predictive maintenance and automated quality checks.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/beyond-the-ai-hype-how-industrial-ai-is-reshaping-indias-factories-and-infrastructure/articleshow/135934331.cms",
-      "pubDate": "Tue, 17 Nov 2026 22:36:14 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
-    },
-    {
-      "title": "Jensen Huang to appear before US House committees on December 1",
-      "desc": "The House committees will grill Jensen Huang and Nvidia general counsel Tim Teter who will appear before Congress on the next day. The scandal surrounding Huang's affair with Alice Huang the alleged Chinese Spy.",
-      "link": "https://economictimes.indiatimes.com/tech/technology/jensen-huang-to-appear-before-us-house-committees-on-december-1/articleshow/135932177.cms",
-      "pubDate": "Tue, 17 Nov 2026 21:24:22 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "business",
-      "sectionLabel": "Business"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-18T15:00:42.092Z",
+    "generatedAt": "2026-11-18T18:38:30.715Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1066,7 +1116,7 @@
         "changePct": -0.63,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T14:59:58.563Z",
+        "timestamp": "2026-11-18T18:38:29.561Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1078,7 +1128,7 @@
         "changePct": -0.61,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:00.694Z",
+        "timestamp": "2026-11-18T18:38:29.615Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1090,19 +1140,19 @@
         "changePct": -0.38,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:02.717Z",
+        "timestamp": "2026-11-18T18:38:29.652Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 93.43,
-        "change": -0.04,
-        "changePct": -0.04,
+        "price": 93.45,
+        "change": -0.02,
+        "changePct": -0.02,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:04.649Z",
+        "timestamp": "2026-11-18T18:38:29.688Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1114,7 +1164,7 @@
         "changePct": -1.24,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:07.262Z",
+        "timestamp": "2026-11-18T18:38:29.722Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1126,7 +1176,7 @@
         "changePct": -1.35,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:09.063Z",
+        "timestamp": "2026-11-18T18:38:29.760Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1138,7 +1188,7 @@
         "changePct": 0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:11.780Z",
+        "timestamp": "2026-11-18T18:38:29.797Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1150,7 +1200,7 @@
         "changePct": -0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:13.156Z",
+        "timestamp": "2026-11-18T18:38:29.833Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1162,7 +1212,7 @@
         "changePct": -2.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:13.961Z",
+        "timestamp": "2026-11-18T18:38:29.866Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1174,7 +1224,7 @@
         "changePct": -0.53,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:15.565Z",
+        "timestamp": "2026-11-18T18:38:29.924Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1236,7 @@
         "changePct": -0.85,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:16.844Z",
+        "timestamp": "2026-11-18T18:38:29.963Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,7 +1248,7 @@
         "changePct": 0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:18.105Z",
+        "timestamp": "2026-11-18T18:38:29.999Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1210,7 +1260,7 @@
         "changePct": -1.33,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:19.653Z",
+        "timestamp": "2026-11-18T18:38:30.033Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1272,7 @@
         "changePct": -0.44,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:21.049Z",
+        "timestamp": "2026-11-18T18:38:30.070Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,67 +1284,67 @@
         "changePct": 0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:22.139Z",
+        "timestamp": "2026-11-18T18:38:30.105Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "S&P 500",
         "label": "S&P 500",
         "region": "United States",
-        "price": 7366.01,
-        "change": 25.48,
-        "changePct": 0.35,
+        "price": 7343.96,
+        "change": 3.43,
+        "changePct": 0.05,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:24.667Z",
+        "timestamp": "2026-11-18T18:38:30.147Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NASDAQ",
         "label": "NASDAQ",
         "region": "United States",
-        "price": 24535.318,
-        "change": 206.936,
-        "changePct": 0.85,
+        "price": 24487.047,
+        "change": 158.664,
+        "changePct": 0.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:27.923Z",
+        "timestamp": "2026-11-18T18:38:30.182Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 50536.21,
-        "change": -223.211,
-        "changePct": -0.44,
+        "price": 50365.55,
+        "change": -393.871,
+        "changePct": -0.78,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:30.540Z",
+        "timestamp": "2026-11-18T18:38:30.219Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "FTSE 100",
         "label": "FTSE 100",
         "region": "United Kingdom",
-        "price": 10619.98,
-        "change": -69.89,
-        "changePct": -0.65,
+        "price": 10551.17,
+        "change": -138.7,
+        "changePct": -1.3,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:32.614Z",
+        "timestamp": "2026-11-18T18:38:30.256Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DAX",
         "label": "DAX",
         "region": "Germany",
-        "price": 25908.57,
-        "change": -136.799,
-        "changePct": -0.53,
+        "price": 25736.24,
+        "change": -309.129,
+        "changePct": -1.19,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:33.936Z",
+        "timestamp": "2026-11-18T18:38:30.294Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1306,7 +1356,7 @@
         "changePct": 0.28,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:36.056Z",
+        "timestamp": "2026-11-18T18:38:30.332Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1318,7 +1368,7 @@
         "changePct": -0.91,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:37.132Z",
+        "timestamp": "2026-11-18T18:38:30.371Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1330,7 +1380,7 @@
         "changePct": 1.99,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:38.044Z",
+        "timestamp": "2026-11-18T18:38:30.405Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,103 +1392,103 @@
         "changePct": 0.09,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T15:00:38.486Z",
+        "timestamp": "2026-11-18T18:38:30.440Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 88.96,
-        "change": -1.41,
-        "changePct": -1.56,
+        "price": 88.55,
+        "change": -1.82,
+        "changePct": -2.01,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-18T15:00:38.829Z",
+        "timestamp": "2026-11-18T18:38:30.475Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 83.07,
-        "change": -1.58,
-        "changePct": -1.87,
+        "price": 81.85,
+        "change": -2.8,
+        "changePct": -3.31,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-18T15:00:39.484Z",
+        "timestamp": "2026-11-18T18:38:30.517Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3769.3,
-        "change": -94.9,
-        "changePct": -2.46,
+        "price": 3742.6,
+        "change": -121.6,
+        "changePct": -3.15,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-18T15:00:39.891Z",
+        "timestamp": "2026-11-18T18:38:30.553Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 45.05,
-        "change": -2.307,
-        "changePct": -4.87,
+        "price": 45.085,
+        "change": -2.272,
+        "changePct": -4.8,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-18T15:00:40.365Z",
+        "timestamp": "2026-11-18T18:38:30.588Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "US 10Y YIELD",
         "label": "US 10Y YIELD",
         "region": "United States",
-        "price": 5.064,
-        "change": -0.039,
-        "changePct": -0.76,
+        "price": 5.056,
+        "change": -0.047,
+        "changePct": -0.92,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-18T15:00:41.136Z",
+        "timestamp": "2026-11-18T18:38:30.631Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 113224,
-        "change": -2851,
-        "changePct": -2.46,
+        "price": 112446,
+        "change": -3653,
+        "changePct": -3.15,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-18T15:00:41.626Z",
+        "timestamp": "2026-11-18T18:38:30.675Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 135323,
-        "change": -6930,
-        "changePct": -4.87,
+        "price": 135457,
+        "change": -6826,
+        "changePct": -4.8,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-18T15:00:41.901Z",
+        "timestamp": "2026-11-18T18:38:30.708Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 7761,
-        "change": -148,
-        "changePct": -1.87,
+        "price": 7649,
+        "change": -262,
+        "changePct": -3.31,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-18T15:00:42.091Z",
+        "timestamp": "2026-11-18T18:38:30.715Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
