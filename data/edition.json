@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-18T04:29:29.120Z",
+  "generatedAt": "2026-11-18T04:59:35.749Z",
   "articles": [
+    {
+      "title": "How India became a rice powerhouse - and why it's becoming a problem",
+      "desc": "India's rice production has significantly increased, bolstered by government subsidies and new crop varieties. This rise in output has led to a surplus that threatens fiscal stability due to high subsidy costs. Political tensions arise between the central and state governments regarding rice pricing and production. While domestic demand is not expected to grow significantly, exports continue to increase.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/how-india-became-a-rice-powerhouse-and-why-its-becoming-a-problem/articleshow/135947770.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:56:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "Tata Chemicals among 4 stocks that show RSI Trending Up",
+      "desc": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price momentum and trend strength.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:47:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
     {
       "title": "Australia issues sanctions targeting Israeli settlers",
       "desc": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
@@ -32,6 +52,16 @@
       "sectionLabel": "Top Stories"
     },
     {
+      "title": "HUL Share Price Live Updates: HUL Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-18-nov-2026/liveblog/135947703.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:16:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "top-stories",
+      "sectionLabel": "Top Stories"
+    },
+    {
       "title": "Tata Motors among 5 stocks closing above 200-DMA",
       "desc": "Five Nifty500 stocks gained over 3% and closed above their respective 200-day moving averages on November 17, according to StockEdge’s technical scan, signalling a potential shift in their broader price trends.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-among-5-stocks-closing-above-200-dma/slideshow/135947686.cms",
@@ -52,44 +82,54 @@
       "sectionLabel": "Top Stories"
     },
     {
-      "title": "Bajaj Auto Share Price Live Updates: Bajaj Auto's stock price dips below moving average threshold",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-stock-price-today-live-18-nov-2026/liveblog/135947342.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:56:48 +0530",
+      "title": "Critical flaw found in vital internet platform Java",
+      "desc": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss",
+      "pubDate": "Wed, 18 Nov 2026 04:57:10 GMT",
       "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Cipla Share Price Live Updates: Cipla's Recent Performance Signals Caution",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-18-nov-2026/liveblog/135946796.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:30:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
-    },
-    {
-      "title": "Anthropic forges ahead with its IPO even as AI fears mount and markets wobble",
-      "desc": "No ordinary sale, the Claude chatbot maker's IPO could raise more than $60 billion on Thursday, a massive haul that, depending on the ultimate pricing and other issues, could rival SpaceX's in June.",
-      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-forges-ahead-with-its-ipo-even-as-ai-fears-mount-and-markets-wobble/articleshow/135946525.cms",
-      "pubDate": "Wed, 18 Nov 2026 08:20:41 +0530",
-      "image": "",
-      "source": "Economic Times Industry",
-      "section": "top-stories",
-      "sectionLabel": "Top Stories"
+      "source": "BBC Technology",
+      "section": "technology",
+      "sectionLabel": "Technology"
     },
     {
       "title": "Rubio says US not 'under systemic attack' after series of tech outages",
       "desc": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
       "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&amp;at_campaign=rss",
-      "pubDate": "Wed, 18 Nov 2026 04:13:22 GMT",
+      "pubDate": "Wed, 18 Nov 2026 04:57:06 GMT",
       "image": "",
       "source": "BBC News",
       "section": "top-stories",
       "sectionLabel": "Top Stories"
+    },
+    {
+      "title": "US, South Korea issue urgent cybersecurity advisories over flaws in Java programming language",
+      "desc": "US and South Korean authorities have issued cybersecurity advisories, urging Java users to urgently install security updates after vulnerabilities were found in the popular programming language.",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-south-korea-issue-urgent-cybersecurity-advisories-over-flaws-in-java-programming-language/articleshow/135949613.cms",
+      "pubDate": "Wed, 18 Nov 2026 10:21:07 +0530",
+      "image": "",
+      "source": "Economic Times Industry",
+      "section": "business",
+      "sectionLabel": "Business"
+    },
+    {
+      "title": "How India became a rice powerhouse - and why it's becoming a problem",
+      "desc": "India's rice production has significantly increased, bolstered by government subsidies and new crop varieties. This rise in output has led to a surplus that threatens fiscal stability due to high subsidy costs. Political tensions arise between the central and state governments regarding rice pricing and production. While domestic demand is not expected to grow significantly, exports continue to increase.",
+      "link": "https://economictimes.indiatimes.com/news/economy/agriculture/how-india-became-a-rice-powerhouse-and-why-its-becoming-a-problem/articleshow/135947770.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:56:58 +0530",
+      "image": "",
+      "source": "Economic Times Economy",
+      "section": "indian-economy",
+      "sectionLabel": "Indian Economy"
+    },
+    {
+      "title": "Tata Chemicals among 4 stocks that show RSI Trending Up",
+      "desc": "“RSI trending up” means that the Relative Strength Index (RSI) values are increasing, indicating strengthening momentum in the stock's price. The RSI is a technical indicator commonly used by traders to assess price momentum and trend strength.",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-chemicals-among-4-stocks-that-show-rsi-trending-up/slideshow/135948695.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:47:00 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Australia issues sanctions targeting Israeli settlers",
@@ -122,6 +162,16 @@
       "sectionLabel": "Indian Markets"
     },
     {
+      "title": "HUL Share Price Live Updates: HUL Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hul-share-price-live-18-nov-2026/liveblog/135947703.cms",
+      "pubDate": "Wed, 18 Nov 2026 09:16:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Tata Motors among 5 stocks closing above 200-DMA",
       "desc": "Five Nifty500 stocks gained over 3% and closed above their respective 200-day moving averages on November 17, according to StockEdge’s technical scan, signalling a potential shift in their broader price trends.",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-among-5-stocks-closing-above-200-dma/slideshow/135947686.cms",
@@ -152,6 +202,26 @@
       "sectionLabel": "Indian Markets"
     },
     {
+      "title": "Grasim Inds Share Price Live Updates: Grasim Industries Price Movement",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/grasim-inds-stock-price-today-live-18-nov-2026/liveblog/135947014.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:40:56 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Infosys Share Price Live Updates: Infosys Stock Performance Today",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/infosys-share-price-live-18-nov-2026/liveblog/135947008.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:40:41 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Waymo suspends all driverless taxi rides on freeways after ban in California",
       "desc": "The company had allowed riders to hail its robotaxis for freeway rides in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin. The California-based company offers rides on city streets in many other areas including Las Vegas, Dallas and Denver.",
       "link": "https://economictimes.indiatimes.com/tech/technology/waymo-suspends-all-driverless-taxi-rides-on-freeways-after-ban-in-california/articleshow/135946981.cms",
@@ -162,10 +232,90 @@
       "sectionLabel": "Business"
     },
     {
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-18-nov-2026/liveblog/135947001.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:40:24 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Bajaj Finserv Share Price Live Updates: Bajaj Finserv Market Performance Snapshot",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-finserv-share-price-live-18-nov-2026/liveblog/135946814.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:31:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Cipla Share Price Live Updates: Cipla's Recent Performance Signals Caution",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-share-price-today-live-18-nov-2026/liveblog/135946796.cms",
       "pubDate": "Wed, 18 Nov 2026 08:30:30 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "ICICI Bank Share Price Live Updates: ICICI Bank's Current Price",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-share-price-today-live-18-nov-2026/liveblog/135946776.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:30:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Daily Performance Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-today-live-18-nov-2026/liveblog/135946775.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:30:06 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "JSW Steel Share Price Live Updates: JSW Steel  Financial Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jsw-steel-share-price-live-18-nov-2026/liveblog/135946675.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:26:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Britannia Share Price Live Updates: Britannia's Recent Market Activity",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/britannia-share-price-today-live-updates-18-nov-2026/liveblog/135946667.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:26:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Titan Company Share Price Live Updates: Titan Company  Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-today-live-updates-18-nov-2026/liveblog/135946662.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:25:45 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Steel Share Price Live Updates: Tata Steel Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-share-price-today-live-updates-18-nov-2026/liveblog/135946643.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:25:05 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -182,10 +332,80 @@
       "sectionLabel": "IPO Centre"
     },
     {
+      "title": "HCL Tech Share Price Live Updates: HCL Tech's Stock Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-18-nov-2026/liveblog/135946477.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:18:47 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Wipro Share Price Live Updates: Wipro Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-stock-price-livestock-price-today-live-updates-18-nov-2026/liveblog/135946421.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:16:27 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Stock Update",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-18-nov-2026/liveblog/135946399.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:16:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "SBI Life Share Price Live Updates: SBI Life Experiences a Daily Decline",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-livestock-price-today-live-updates-18-nov-2026/liveblog/135946388.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:15:23 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Apollo Hospital Share Price Live Updates: Apollo Hospital's Stock Shows Positive Breakout Trend",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/apollo-hospital-stock-price-today-live-18-nov-2026/liveblog/135946378.cms",
       "pubDate": "Wed, 18 Nov 2026 08:15:05 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Hindalco Share Price Live Updates: Hindalco Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-live-updates-18-nov-2026/liveblog/135946246.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:11:01 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Consumer Share Price Live Updates: Tata Consumer's Price and Performance Overview",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-live-updates-18-nov-2026/liveblog/135946239.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:10:42 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "UPL Share Price Live Updates: UPL Falls Below Key Moving Average",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-today-live-18-nov-2026/liveblog/135946233.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:10:23 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -202,6 +422,26 @@
       "sectionLabel": "Business"
     },
     {
+      "title": "L&amp;T Share Price Live Updates: L&amp;T Stock Performance: Current Price and SMA",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-live-18-nov-2026/liveblog/135946006.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:02:04 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "BPCL Share Price Live Updates: BPCL's Recent Market Performance",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-livestock-price-today-live-updates-18-nov-2026/liveblog/135945994.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:01:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
       "title": "Nvidia expands manufacturing capacity with suppliers to meet AI demand",
       "desc": "Nvidia said on Tuesday it was expanding manufacturing capacity with supply chain partners to support long-term growth in demand for its AI computing platforms.",
       "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-expands-manufacturing-capacity-with-suppliers-to-meet-ai-demand/articleshow/135945935.cms",
@@ -216,6 +456,66 @@
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hero-motocorp-share-price-live-18-nov-2026/liveblog/135945982.cms",
       "pubDate": "Wed, 18 Nov 2026 08:01:16 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Divis Labs Share Price Live Updates: Divis Labs Trading Insights",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/divis-labs-stock-price-livestock-price-today-live-updates-18-nov-2026/liveblog/135945976.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:59 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-18-nov-2026/liveblog/135945959.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:34 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "NTPC Share Price Live Updates: NTPC Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-18-nov-2026/liveblog/135945957.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:33 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Kotak Bank Share Price Live Updates: Kotak Bank Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/kotak-bank-share-price-today-live-18-nov-2026/liveblog/135945944.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:20 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "UltraTech Cem Share Price Live Updates: UltraTech Cem. Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-share-price-live-18-nov-2026/liveblog/135945941.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:15 +0530",
+      "image": "",
+      "source": "Economic Times Markets",
+      "section": "indian-markets",
+      "sectionLabel": "Indian Markets"
+    },
+    {
+      "title": "Power Grid Share Price Live Updates: Power Grid Stock Details",
+      "desc": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/power-grid-share-price-today-live-18-nov-2026/liveblog/135945940.cms",
+      "pubDate": "Wed, 18 Nov 2026 08:00:14 +0530",
       "image": "",
       "source": "Economic Times Markets",
       "section": "indian-markets",
@@ -262,7 +562,7 @@
       "sectionLabel": "Indian Markets"
     },
     {
-      "title": "Stock Market Live Updates: Sensex slips over 250 points, Nifty below 25,300; metal, consumer durables stocks fall",
+      "title": "Stock Market Live Updates: Sensex falls over 350 pts, Nifty below 25,300; metal, FMCG stocks struggle",
       "desc": "",
       "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-airtel-share-price-18-november-2026/liveblog/135945558.cms",
       "pubDate": "Wed, 18 Nov 2026 07:30:21 +0530",
@@ -382,7 +682,7 @@
       "sectionLabel": "Earnings Calls"
     },
     {
-      "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manana blames Iran",
+      "title": "Iran war live: Bahrain, Kuwait intercept attacks, Manama blames Iran",
       "desc": "Bahrain slams &#039;criminal&#039; Iranian attacks as Tehran claims it struck US base in Kuwait.",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
       "pubDate": "Wed, 18 Nov 2026 00:00:27 +0000",
@@ -702,16 +1002,6 @@
       "sectionLabel": "Indian Economy"
     },
     {
-      "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
-      "desc": "On Tuesday, Indian government bonds rallied significantly, buoyed by falling oil prices that shifted market sentiment. The 6.94% 2036 bond's yield dipped to 7.2528%, a drop from 7.3169% the previous day. Analysts posit that lower oil prices could relieve inflationary pressure and bolster the rupee, alongside speculation of an upcoming RBI rate hike based on fresh inflation reports.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
-      "pubDate": "Tue, 17 Nov 2026 17:32:23 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
       "desc": "Rodríguez had denounced alleged links between criminal organisations and powerful figures in Costa Rica.",
       "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&amp;at_campaign=rss",
@@ -720,26 +1010,6 @@
       "source": "BBC World",
       "section": "global-news",
       "sectionLabel": "Global News"
-    },
-    {
-      "title": "Eternal among 5 stocks hitting 52-week highs; stock rallies up to 15% in a month",
-      "desc": "Five BSE 100 stocks, including Eternal, DLF and Kotak Mahindra Bank, touched fresh 52-week highs on Tuesday. Eternal led monthly gains with a 15% rally.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-among-5-stocks-hitting-52-week-highs-stock-rallies-up-to-15-in-a-month/slideshow/135924700.cms",
-      "pubDate": "Tue, 17 Nov 2026 17:27:16 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Disney beats earnings forecasts, plans to increase content spending",
-      "desc": "In a promising financial update, Walt Disney has revealed a rise in quarterly revenue and earnings, attributed to greater theme park attendance and NFL broadcasts. Looking ahead, the company plans to elevate its content budget to $26 billion in the next fiscal year and raise its dividend by 33% to $2 per share.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/disney-beats-earnings-forecasts-plans-to-increase-content-spending/articleshow/135923706.cms",
-      "pubDate": "Tue, 17 Nov 2026 17:05:48 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
     },
     {
       "title": "India's GDP growth pegged at 7.3% in FY26-27, may touch 7.7% next quarter: EAC-PM Chairman",
@@ -760,36 +1030,6 @@
       "source": "BBC Technology",
       "section": "technology",
       "sectionLabel": "Technology"
-    },
-    {
-      "title": "Robust inflows, pullback in shorts lift rupee to seven-month peak",
-      "desc": "The Indian rupee saw a notable rise, achieving its peak value in seven months following a surge in foreign equity investments. Closing at 93.47 per dollar, this upswing was driven by an impressive influx of $10 billion this month. Additionally, traders observed substantial movements in the dollar-rupee non-deliverable forward market as bearish positions were unwound.",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/robust-inflows-pullback-in-shorts-lift-rupee-to-seven-month-peak/articleshow/135921416.cms",
-      "pubDate": "Tue, 17 Nov 2026 16:13:17 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Millions launches US stocks, ETFs investment facility for Indian investors",
-      "desc": "Investment platform Millions, operated by Raise Financial Services, has launched US stocks and ETFs on its app. This new feature allows Indian investors to make fractional investments and use systematic investment plans. The launch is supported by the International Financial Services Centres Authority under GIFT City's framework. Millions provides mutual funds, stocks, and zero brokerage, with no account fees or maintenance charges.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/millions-launches-us-stocks-etfs-investment-facility-for-indian-investors/articleshow/135920698.cms",
-      "pubDate": "Tue, 17 Nov 2026 15:44:05 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Sebi may limit leveraged stock bets to curb volatility: Report",
-      "desc": "India's markets regulator is exploring potential limits on leveraged stock purchases amid increasing retail participation. Concerns have arisen as margin-funded stock bets have reached record levels in recent months. Discussions are ongoing regarding hard limits tied to a company's free float to manage risks effectively. While the regulator aims to mitigate market instability, it seeks to avoid disrupting retail investors' positions.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms",
-      "pubDate": "Tue, 17 Nov 2026 15:37:02 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Budget 2027: FM Sitharaman chairs third pre-Budget consultation with manufacturing sector leaders",
@@ -822,16 +1062,6 @@
       "sectionLabel": "Business"
     },
     {
-      "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
-      "desc": "FIIs and mutual funds have increased their stakes in five largecap stocks for two consecutive quarters, signalling rising institutional interest. All five stocks have delivered positive returns in FY27 so far, with gains ranging from 12% to 80%.",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
-      "pubDate": "Tue, 17 Nov 2026 12:54:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
       "title": "Samsung Electronics, TSMC shares fall after US announces curbs on China's chip access",
       "desc": "Shares of Samsung Electronics and TSMC lost ground on Tuesday in Asia after the Trump administration said on Monday it would further restrict China's access to advanced AI chips.",
       "link": "https://economictimes.indiatimes.com/tech/technology/samsung-electronics-tsmc-shares-fall-after-us-announces-curbs-on-chinas-chip-access/articleshow/135915493.cms",
@@ -860,16 +1090,6 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "South Korean shares close at over 9-month low on Nvidia caution",
-      "desc": "South Korean shares experienced a significant decline of more than 2% amid concerns affecting chipmakers. The benchmark KOSPI closed at its lowest level since February due to persistent selling pressure. Foreign investors were noted as net sellers of shares worth approximately 1.4 trillion won. The Korean won weakened slightly against the dollar during this trading period. Additionally, South Korea's benchmark bond yields fell as market activities shifted.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
-      "pubDate": "Tue, 17 Nov 2026 12:26:18 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     },
     {
       "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
@@ -920,80 +1140,10 @@
       "source": "Economic Times Economy",
       "section": "indian-economy",
       "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Why are Nokia shares falling? Nvidia stake sale sparks concerns",
-      "desc": "Nokia shares have fallen for three consecutive sessions amid AI spending concerns and Nvidia's reduced stake. However, rising AI infrastructure sales, European gigafactory plans and a new patent deal offer potential positives for the Finnish telecom equipment maker.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-nokia-shares-falling-nvidia-stake-sale-sparks-concerns/slideshow/135912331.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:46:30 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "India Inc.’s sudden craving for dollars is a dangerous gamble",
-      "desc": "India's increasing reliance on US dollar borrowing poses potential risks for future financial stability and currency strength. The Reserve Bank of India has promoted overseas dollar raising, but this could lead to vulnerabilities. Strengthening dollar reserves through debt might not address underlying economic issues effectively.",
-      "link": "https://economictimes.indiatimes.com/news/economy/indicators/india-inc-s-sudden-craving-for-dollars-is-a-dangerous-gamble/articleshow/135910773.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:25:04 +0530",
-      "image": "",
-      "source": "Economic Times Economy",
-      "section": "indian-economy",
-      "sectionLabel": "Indian Economy"
-    },
-    {
-      "title": "Nvidia Earnings Preview: 6 key factors investors will watch",
-      "desc": "Nvidia’s fiscal Q3 2027 earnings report will test the sustainability of the AI boom, with revenue expected to reach $108.9 billion. Investors will scrutinise Data Center growth, hyperscaler demand, Blackwell and Rubin chip rollouts, margins and future guidance, alongside leadership uncertainty and rising costs, to assess its growth outlook.",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-preview-6-key-factors-investors-will-watch/slideshow/135911290.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:24:47 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "earnings-calls",
-      "sectionLabel": "Earnings Calls"
-    },
-    {
-      "title": "Australia sells A$6 billion of new 2057 Treasury bond",
-      "desc": "The Australian government's debt management arm made a significant move by issuing A$6 billion in a new Treasury bond set to mature in June 2057, boasting a yield to maturity of 5.62%. With bids totaling A$25.25 billion, investor interest remains strong. The settlement for this issuance is earmarked for November 24, with no additional issuances expected until March 2027. Five prominent banks took lead roles in this offering.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/australia-sells-a6-billion-of-new-2057-treasury-bond/articleshow/135910893.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:20:09 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Indian bonds gain as oil slide eases rate hike concerns",
-      "desc": "Indian government bonds saw an increase as oil prices dropped significantly in early trading. This decline in crude prices is expected to ease inflationary pressures and reduce concerns about aggressive rate hikes. The benchmark 6.94% 2036 bond yield fell to 7.2813% during early trading hours. Lower oil prices are particularly beneficial for India, supporting the local rupee and current account deficit.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-oil-slide-eases-rate-hike-concerns/articleshow/135910842.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:18:04 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "JGB yields climb as buyers hold back on long-dated debt",
-      "desc": "Japanese government bond yields generally increased on Tuesday except for the benchmark 10-year yield, which fell. The 20-year and 30-year JGB yields reached their highest levels in about a month and since October. Investors are wary of taking interest-rate risks ahead of the 20-year bond auction. Concerns about falling equities may also affect bond supply-demand conditions amidst uncertainty.",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-climb-as-buyers-hold-back-on-long-dated-debt/articleshow/135910809.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:17:20 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
-    },
-    {
-      "title": "Tata Consumer Share Price Highlights: Tata Consumer Stock Price History",
-      "desc": "",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-17-nov-2026/liveblog/135910596.cms",
-      "pubDate": "Tue, 17 Nov 2026 10:05:21 +0530",
-      "image": "",
-      "source": "Economic Times Markets",
-      "section": "indian-markets",
-      "sectionLabel": "Indian Markets"
     }
   ],
   "market": {
-    "generatedAt": "2026-11-18T04:29:29.120Z",
+    "generatedAt": "2026-11-18T04:59:35.748Z",
     "source": "Yahoo Finance unofficial endpoint — no SLA, may change",
     "note": "Indian indices freeze on exchange holidays/weekends (normal). MCX Gold/Silver/Crude are DERIVED from COMEX futures x USD/INR, approx — not an official MCX feed. For official MCX, add a licensed feed.",
     "items": [
@@ -1001,180 +1151,180 @@
         "symbol": "NIFTY 50",
         "label": "NIFTY 50",
         "region": "India",
-        "price": 25300.65,
-        "change": -86.75,
-        "changePct": -0.34,
+        "price": 25257.35,
+        "change": -130.051,
+        "changePct": -0.51,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:14.836Z",
+        "timestamp": "2026-11-18T04:59:18.886Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SENSEX",
         "label": "SENSEX",
         "region": "India",
-        "price": 82076.3,
-        "change": -455.891,
-        "changePct": -0.55,
+        "price": 82271.75,
+        "change": -260.437,
+        "changePct": -0.32,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:15.709Z",
+        "timestamp": "2026-11-18T04:59:19.594Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY BANK",
         "label": "NIFTY BANK",
         "region": "India",
-        "price": 62108.15,
-        "change": -165.102,
-        "changePct": -0.27,
+        "price": 62151.4,
+        "change": -121.852,
+        "changePct": -0.2,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:16.208Z",
+        "timestamp": "2026-11-18T04:59:19.901Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "USD/INR",
         "label": "USD/INR",
         "region": "India",
-        "price": 93.2975,
-        "change": -0.1725,
-        "changePct": -0.18,
+        "price": 93.3675,
+        "change": -0.1025,
+        "changePct": -0.11,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:16.534Z",
+        "timestamp": "2026-11-18T04:59:20.785Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY IT",
         "label": "NIFTY IT",
         "region": "Sector",
-        "price": 31528.95,
-        "change": -125.15,
-        "changePct": -0.4,
+        "price": 31407.25,
+        "change": -246.85,
+        "changePct": -0.78,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:16.861Z",
+        "timestamp": "2026-11-18T04:59:21.147Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY AUTO",
         "label": "NIFTY AUTO",
         "region": "Sector",
-        "price": 27574.45,
-        "change": -194.701,
-        "changePct": -0.7,
+        "price": 27530.95,
+        "change": -238.201,
+        "changePct": -0.86,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:17.273Z",
+        "timestamp": "2026-11-18T04:59:21.462Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PHARMA",
         "label": "NIFTY PHARMA",
         "region": "Sector",
-        "price": 28281.85,
-        "change": 124.75,
-        "changePct": 0.44,
+        "price": 28243.3,
+        "change": 86.201,
+        "changePct": 0.31,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:17.687Z",
+        "timestamp": "2026-11-18T04:59:21.759Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY FMCG",
         "label": "NIFTY FMCG",
         "region": "Sector",
-        "price": 47277.7,
-        "change": -333.902,
-        "changePct": -0.7,
+        "price": 47261,
+        "change": -350.602,
+        "changePct": -0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:18.070Z",
+        "timestamp": "2026-11-18T04:59:22.098Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY METAL",
         "label": "NIFTY METAL",
         "region": "Sector",
-        "price": 12340.85,
-        "change": -189.45,
-        "changePct": -1.51,
+        "price": 12324.05,
+        "change": -206.25,
+        "changePct": -1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:19.371Z",
+        "timestamp": "2026-11-18T04:59:22.408Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY ENERGY",
         "label": "NIFTY ENERGY",
         "region": "Sector",
-        "price": 37032.8,
-        "change": -143.898,
-        "changePct": -0.39,
+        "price": 36955.5,
+        "change": -221.199,
+        "changePct": -0.59,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:19.906Z",
+        "timestamp": "2026-11-18T04:59:22.779Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY REALTY",
         "label": "NIFTY REALTY",
         "region": "Sector",
-        "price": 925.45,
-        "change": -1.05,
-        "changePct": -0.11,
+        "price": 930.25,
+        "change": 3.75,
+        "changePct": 0.41,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:20.348Z",
+        "timestamp": "2026-11-18T04:59:23.083Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY PSU BANK",
         "label": "NIFTY PSU BANK",
         "region": "Sector",
-        "price": 9480.65,
-        "change": -5.949,
-        "changePct": -0.06,
+        "price": 9500.7,
+        "change": 14.101,
+        "changePct": 0.15,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:21.176Z",
+        "timestamp": "2026-11-18T04:59:23.383Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY MIDCAP 50",
         "label": "NIFTY MIDCAP 50",
         "region": "Sector",
-        "price": 17705.75,
-        "change": -115.551,
-        "changePct": -0.65,
+        "price": 17696.5,
+        "change": -124.801,
+        "changePct": -0.7,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:21.951Z",
+        "timestamp": "2026-11-18T04:59:23.808Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY INFRA",
         "label": "NIFTY INFRA",
         "region": "Sector",
-        "price": 9540.2,
-        "change": -24.899,
-        "changePct": -0.26,
+        "price": 9521.4,
+        "change": -43.699,
+        "changePct": -0.46,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:22.293Z",
+        "timestamp": "2026-11-18T04:59:24.190Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIFTY MEDIA",
         "label": "NIFTY MEDIA",
         "region": "Sector",
-        "price": 1778.55,
-        "change": 3.9,
-        "changePct": 0.22,
+        "price": 1785.95,
+        "change": 11.3,
+        "changePct": 0.64,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:22.603Z",
+        "timestamp": "2026-11-18T04:59:24.660Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1186,7 +1336,7 @@
         "changePct": -1.03,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:23.333Z",
+        "timestamp": "2026-11-18T04:59:25.121Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1198,19 +1348,19 @@
         "changePct": -0.74,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:23.815Z",
+        "timestamp": "2026-11-18T04:59:25.639Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "DOW JONES",
         "label": "DOW JONES",
         "region": "United States",
-        "price": 50759.4,
-        "change": -848.801,
+        "price": 50759.42,
+        "change": -848.75,
         "changePct": -1.65,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:24.371Z",
+        "timestamp": "2026-11-18T04:59:25.915Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1222,7 +1372,7 @@
         "changePct": -1.76,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:24.954Z",
+        "timestamp": "2026-11-18T04:59:26.217Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1234,19 +1384,19 @@
         "changePct": -2.08,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:25.277Z",
+        "timestamp": "2026-11-18T04:59:26.837Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "NIKKEI 225",
         "label": "NIKKEI 225",
         "region": "Japan",
-        "price": 59133.28,
-        "change": 272.852,
-        "changePct": 0.46,
+        "price": 59086.61,
+        "change": 226.18,
+        "changePct": 0.38,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:25.583Z",
+        "timestamp": "2026-11-18T04:59:27.239Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1258,19 +1408,19 @@
         "changePct": -1.13,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:25.885Z",
+        "timestamp": "2026-11-18T04:59:28.523Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "KOSPI",
         "label": "KOSPI",
         "region": "South Korea",
-        "price": 5032.8,
-        "change": 64.32,
-        "changePct": 1.29,
+        "price": 5031.07,
+        "change": 62.59,
+        "changePct": 1.26,
         "dec": 0,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:26.195Z",
+        "timestamp": "2026-11-18T04:59:31.694Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1282,55 +1432,55 @@
         "changePct": -0.4,
         "dec": 2,
         "unit": "",
-        "timestamp": "2026-11-18T04:29:26.577Z",
+        "timestamp": "2026-11-18T04:59:33.031Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "BRENT",
         "label": "BRENT CRUDE",
         "region": "Global",
-        "price": 92.71,
-        "change": -0.43,
-        "changePct": -0.46,
+        "price": 92.61,
+        "change": -0.53,
+        "changePct": -0.57,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-18T04:29:27.059Z",
+        "timestamp": "2026-11-18T04:59:33.501Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "WTI",
         "label": "WTI CRUDE",
         "region": "Global",
-        "price": 84.98,
-        "change": -1.03,
-        "changePct": -1.2,
+        "price": 84.79,
+        "change": -1.22,
+        "changePct": -1.42,
         "dec": 2,
         "unit": "$/bbl",
-        "timestamp": "2026-11-18T04:29:27.574Z",
+        "timestamp": "2026-11-18T04:59:33.828Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "GOLD SPOT",
         "label": "GOLD SPOT",
         "region": "Global",
-        "price": 3792,
-        "change": -72.2,
-        "changePct": -1.87,
+        "price": 3786.3,
+        "change": -77.9,
+        "changePct": -2.02,
         "dec": 2,
         "unit": "$/oz",
-        "timestamp": "2026-11-18T04:29:27.970Z",
+        "timestamp": "2026-11-18T04:59:34.123Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "SILVER SPOT",
         "label": "SILVER SPOT",
         "region": "Global",
-        "price": 45.935,
-        "change": -1.422,
-        "changePct": -3,
+        "price": 45.815,
+        "change": -1.542,
+        "changePct": -3.26,
         "dec": 3,
         "unit": "$/oz",
-        "timestamp": "2026-11-18T04:29:28.319Z",
+        "timestamp": "2026-11-18T04:59:34.805Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
@@ -1342,43 +1492,43 @@
         "changePct": -0.35,
         "dec": 2,
         "unit": "%",
-        "timestamp": "2026-11-18T04:29:28.637Z",
+        "timestamp": "2026-11-18T04:59:35.309Z",
         "source": "Yahoo Finance (unofficial)"
       },
       {
         "symbol": "MCX GOLD",
         "label": "MCX GOLD",
         "region": "India",
-        "price": 113732,
-        "change": -2178,
-        "changePct": -1.88,
+        "price": 113658,
+        "change": -2338,
+        "changePct": -2.02,
         "dec": 0,
         "unit": "₹/10g",
-        "timestamp": "2026-11-18T04:29:28.819Z",
+        "timestamp": "2026-11-18T04:59:35.464Z",
         "source": "Derived from COMEX GC=F x USD/INR — approx"
       },
       {
         "symbol": "MCX SILVER",
         "label": "MCX SILVER",
         "region": "India",
-        "price": 137786,
-        "change": -4265,
-        "changePct": -3,
+        "price": 137529,
+        "change": -4629,
+        "changePct": -3.26,
         "dec": 0,
         "unit": "₹/kg",
-        "timestamp": "2026-11-18T04:29:28.993Z",
+        "timestamp": "2026-11-18T04:59:35.636Z",
         "source": "Derived from COMEX SI=F x USD/INR — approx"
       },
       {
         "symbol": "MCX CRUDE",
         "label": "MCX CRUDE",
         "region": "India",
-        "price": 7928,
-        "change": -96,
-        "changePct": -1.2,
+        "price": 7917,
+        "change": -114,
+        "changePct": -1.42,
         "dec": 0,
         "unit": "₹/bbl",
-        "timestamp": "2026-11-18T04:29:29.120Z",
+        "timestamp": "2026-11-18T04:59:35.748Z",
         "source": "Derived from WTI CL=F x USD/INR — approx"
       }
     ]
