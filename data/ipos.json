@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:57:16.244Z",
+  "generatedAt": "2026-11-19T08:29:17.163Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -36,6 +36,17 @@
       "openISO": "2026-11-19",
       "closeISO": "2026-11-23",
       "listingISO": "2026-11-27"
+    },
+    {
+      "co": "Shree Siddhivinayak Greentech Industries",
+      "note": "NSE SME",
+      "size": "₹93.66 cr",
+      "band": "₹130 – ₹142",
+      "dates": "25 Nov – 27 Nov 2026",
+      "listing": "2 Dec 2026",
+      "openISO": "2026-11-25",
+      "closeISO": "2026-11-27",
+      "listingISO": "2026-12-02"
     }
   ]
 }
