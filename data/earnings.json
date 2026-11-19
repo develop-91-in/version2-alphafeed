@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:29:17.649Z",
+  "generatedAt": "2026-11-19T17:35:36.778Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
     {
@@ -28,8 +28,32 @@
     },
     {
       "dateISO": "2026-11-24",
+      "co": "Heads UP Ventures Limited",
+      "tk": "HEADSUP",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-24",
+      "co": "Lexus Granito (India) Limited",
+      "tk": "LEXUS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-24",
       "co": "Setco Automotive Limited",
       "tk": "SETCO",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-25",
+      "co": "Siemens Energy India Limited",
+      "tk": "ENRIN",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-25",
+      "co": "Simbhaoli Sugars Limited",
+      "tk": "SIMBHALS",
       "type": "Q2 FY27 results announcement"
     }
   ]
