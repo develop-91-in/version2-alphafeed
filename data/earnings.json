@@ -1,19 +1,7 @@
 {
-  "generatedAt": "2026-11-19T17:35:36.778Z",
+  "generatedAt": "2026-11-20T00:16:53.067Z",
   "source": "NSE event calendar (unofficial API) — board-meeting dates for financial results; call times are not published here",
   "entries": [
-    {
-      "dateISO": "2026-11-20",
-      "co": "GVP Infotech Limited",
-      "tk": "GVPTECH",
-      "type": "Q2 FY27 results announcement"
-    },
-    {
-      "dateISO": "2026-11-20",
-      "co": "Valecha Engineering Limited",
-      "tk": "VALECHAENG",
-      "type": "Q2 FY27 results announcement"
-    },
     {
       "dateISO": "2026-11-23",
       "co": "Bombay Coated and Special Steels Limited",
@@ -40,6 +28,12 @@
     },
     {
       "dateISO": "2026-11-24",
+      "co": "M. K. Sons Fine Jewels Limited",
+      "tk": "MKJEWELS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-24",
       "co": "Setco Automotive Limited",
       "tk": "SETCO",
       "type": "Q2 FY27 results announcement"
@@ -54,6 +48,12 @@
       "dateISO": "2026-11-25",
       "co": "Simbhaoli Sugars Limited",
       "tk": "SIMBHALS",
+      "type": "Q2 FY27 results announcement"
+    },
+    {
+      "dateISO": "2026-11-28",
+      "co": "Bharat Road Network Limited",
+      "tk": "BRNL",
       "type": "Q2 FY27 results announcement"
     }
   ]
