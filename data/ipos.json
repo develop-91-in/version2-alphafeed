@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-11-23T10:59:58.628Z",
+  "generatedAt": "2026-11-23T22:32:21.237Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
-    {
-      "co": "Mahanadi Coalfields",
-      "note": "BSE · NSE",
-      "size": "₹8,981.12 cr",
-      "band": "₹129 – ₹136",
-      "dates": "19 Nov – 23 Nov 2026",
-      "listing": "27 Nov 2026",
-      "openISO": "2026-11-19",
-      "closeISO": "2026-11-23",
-      "listingISO": "2026-11-27"
-    },
     {
       "co": "Foodlink F&B Holdings (India)",
       "note": "BSE · NSE",
@@ -58,6 +47,17 @@
       "listingISO": "2026-12-09"
     },
     {
+      "co": "Mahanadi Coalfields",
+      "note": "BSE · NSE",
+      "size": "₹8,981.12 cr",
+      "band": "₹129 – ₹136",
+      "dates": "19 Nov – 23 Nov 2026",
+      "listing": "27 Nov 2026",
+      "openISO": "2026-11-19",
+      "closeISO": "2026-11-23",
+      "listingISO": "2026-11-27"
+    },
+    {
       "co": "Crystal Crop Protection",
       "note": "BSE · NSE",
       "size": "₹455.49 cr",
@@ -70,17 +70,6 @@
     }
   ],
   "sme": [
-    {
-      "co": "Watrana Rentals",
-      "note": "NSE SME",
-      "size": "₹120.1 cr",
-      "band": "₹232 – ₹245",
-      "dates": "19 Nov – 23 Nov 2026",
-      "listing": "27 Nov 2026",
-      "openISO": "2026-11-19",
-      "closeISO": "2026-11-23",
-      "listingISO": "2026-11-27"
-    },
     {
       "co": "Shree Siddhivinayak Greentech Industries",
       "note": "NSE SME",
@@ -102,6 +91,17 @@
       "openISO": "2026-12-01",
       "closeISO": "2026-12-03",
       "listingISO": "2026-12-08"
+    },
+    {
+      "co": "Watrana Rentals",
+      "note": "NSE SME",
+      "size": "₹120.1 cr",
+      "band": "₹232 – ₹245",
+      "dates": "19 Nov – 23 Nov 2026",
+      "listing": "27 Nov 2026",
+      "openISO": "2026-11-19",
+      "closeISO": "2026-11-23",
+      "listingISO": "2026-11-27"
     }
   ]
 }
