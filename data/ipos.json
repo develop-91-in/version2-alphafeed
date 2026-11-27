@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T22:46:51.794Z",
+  "generatedAt": "2026-11-27T04:46:11.056Z",
   "source": "Chittorgarh IPO dashboard + detail pages (scraped, unofficial) — verify in the RHP before applying",
   "mainboard": [
     {
@@ -25,6 +25,17 @@
       "listingISO": "2026-12-08"
     },
     {
+      "co": "Swara Baby Products",
+      "note": "BSE · NSE",
+      "size": "₹799.88 cr",
+      "band": "₹105 – ₹111",
+      "dates": "2 Dec – 4 Dec 2026",
+      "listing": "9 Dec 2026",
+      "openISO": "2026-12-02",
+      "closeISO": "2026-12-04",
+      "listingISO": "2026-12-09"
+    },
+    {
       "co": "Monomark Engineering (India)",
       "note": "BSE · NSE",
       "size": "₹175.5 cr",
@@ -41,10 +52,10 @@
       "size": "₹8,981.12 cr",
       "band": "₹129 – ₹136",
       "dates": "19 Nov – 23 Nov 2026",
-      "listing": "27 Nov 2026",
+      "listing": "To be announced",
       "openISO": "2026-11-19",
       "closeISO": "2026-11-23",
-      "listingISO": "2026-11-27"
+      "listingISO": ""
     },
     {
       "co": "Crystal Crop Protection",
@@ -93,15 +104,26 @@
       "listingISO": "2026-12-08"
     },
     {
+      "co": "Vishwas Refoils & Consumer",
+      "note": "BSE SME",
+      "size": "₹25.78 cr",
+      "band": "₹85 – ₹90",
+      "dates": "3 Dec – 7 Dec 2026",
+      "listing": "10 Dec 2026",
+      "openISO": "2026-12-03",
+      "closeISO": "2026-12-07",
+      "listingISO": "2026-12-10"
+    },
+    {
       "co": "Watrana Rentals",
       "note": "NSE SME",
       "size": "₹120.1 cr",
       "band": "₹232 – ₹245",
       "dates": "19 Nov – 23 Nov 2026",
-      "listing": "27 Nov 2026",
+      "listing": "To be announced",
       "openISO": "2026-11-19",
       "closeISO": "2026-11-23",
-      "listingISO": "2026-11-27"
+      "listingISO": ""
     }
   ]
 }
